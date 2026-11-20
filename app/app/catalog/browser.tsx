@@ -17,7 +17,7 @@ export default function CatalogBrowser({
   themes: string[];
 }) {
   const params = useSearchParams();
-  const [q, setQ] = useState("");
+  const [q, setQ] = useState(params.get("q") || "");
   const [state, setState] = useState(params.get("state") || "");
   const [theme, setTheme] = useState(params.get("theme") || "");
   const [stop, setStop] = useState("");

@@ -65,16 +65,16 @@ a:hover { color: var(--amber-deep); }
 .site-footer strong { color: var(--cream); letter-spacing: 0.1em; text-transform: uppercase; }
 
 main { max-width: 1080px; margin: 0 auto; padding: 34px 20px 12px; }
-h1 { font-size: 2.15rem; line-height: 1.18; margin: 0.2em 0 0.4em; }
-h2 { font-size: 1.35rem; margin: 1.5em 0 0.55em; color: var(--slate); }
+h1 { font-size: 2.15rem; line-height: 1.18; margin: 0.2em 0 0.4em; color: var(--charcoal); letter-spacing: -0.01em; }
+h2 { font-size: 1.35rem; margin: 1.5em 0 0.55em; color: var(--charcoal); border-bottom: 3px solid var(--amber); padding-bottom: 5px; }
 .lede { font-size: 1.14rem; line-height: 1.65; color: var(--steel); max-width: 46em; }
 .small { font-size: 0.9rem; color: var(--muted); }
 
 .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 18px; margin: 24px 0; }
 .card {
-  display: block; background: #fffdf6; border: 1px solid var(--line);
-  border-top: 4px solid var(--steel); border-radius: 6px;
-  box-shadow: 0 1px 2px rgba(35, 33, 28, 0.05), 0 5px 16px rgba(35, 33, 28, 0.05);
+  display: block; background: #fffdf6; border: 1px solid #b3a888;
+  border-top: 5px solid var(--charcoal); border-radius: 6px;
+  box-shadow: 0 1px 2px rgba(36, 39, 44, 0.10), 0 10px 24px rgba(36, 39, 44, 0.09);
   padding: 18px 20px; text-decoration: none; color: var(--ink);
   transition: transform 120ms ease, box-shadow 120ms ease, border-top-color 120ms ease;
 }
@@ -82,18 +82,18 @@ h2 { font-size: 1.35rem; margin: 1.5em 0 0.55em; color: var(--slate); }
   border-top-color: var(--amber); transform: translateY(-1px);
   box-shadow: 0 2px 3px rgba(35, 33, 28, 0.06), 0 10px 24px rgba(35, 33, 28, 0.09);
 }
-.card h3 { margin: 0 0 6px; font-size: 1.12rem; color: var(--slate); }
+.card h3 { margin: 0 0 10px; font-size: 1.12rem; color: var(--charcoal); border-bottom: 2px solid var(--amber); padding-bottom: 6px; }
 .card p { margin: 0; font-size: 0.95rem; color: var(--muted); }
 
 .rows { display: flex; flex-direction: column; gap: 12px; margin: 18px 0; }
 .row {
-  display: block; background: #fffdf6; border: 1px solid var(--line); border-left: 5px solid var(--steel);
+  display: block; background: #fffdf6; border: 1px solid #b3a888; border-left: 5px solid var(--steel);
   border-radius: 6px; box-shadow: 0 1px 2px rgba(35, 33, 28, 0.04), 0 4px 12px rgba(35, 33, 28, 0.04);
   padding: 15px 18px; text-decoration: none; color: var(--ink);
   transition: border-left-color 120ms ease, box-shadow 120ms ease;
 }
 .row:hover { border-left-color: var(--amber); box-shadow: 0 2px 3px rgba(35, 33, 28, 0.05), 0 8px 20px rgba(35, 33, 28, 0.08); }
-.row .t { font-weight: bold; font-size: 1.05rem; }
+.row .t { font-weight: bold; font-size: 1.05rem; color: var(--charcoal); }
 .row .m { color: var(--muted); font-size: 0.92rem; margin-top: 2px; }
 
 .badge {
@@ -234,3 +234,29 @@ form input[type="email"], form input[type="text"] { min-width: min(320px, 100%);
   font-size: 0.85rem;
   opacity: 0.85;
 }
+
+/* Home: no preface — the places lead */
+.home-line { font-size: 1.08rem; line-height: 1.55; color: var(--steel); max-width: 46em; margin: 0 0 18px; }
+.home-search { display: flex; gap: 10px; margin: 18px 0 30px; max-width: 640px; }
+.home-search input {
+  flex: 1; min-width: 0; font: inherit; font-size: 1.05rem; color: var(--ink);
+  background: #fffdf6; border: 1px solid #b3a888; border-radius: 6px; padding: 13px 15px;
+}
+.home-search button {
+  font: inherit; font-weight: bold; letter-spacing: 0.03em; cursor: pointer;
+  background: var(--charcoal); color: var(--cream); border: 1px solid var(--charcoal);
+  border-bottom: 3px solid var(--amber); border-radius: 6px; padding: 13px 22px;
+}
+.home-search button:hover { color: var(--amber); }
+.photo-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px; margin: 20px 0 8px; }
+.photo-card {
+  display: block; background: var(--charcoal); border-radius: 6px; overflow: hidden;
+  text-decoration: none; box-shadow: 0 2px 4px rgba(36, 39, 44, 0.18), 0 12px 28px rgba(36, 39, 44, 0.16);
+  transition: transform 120ms ease;
+}
+.photo-card:hover { transform: translateY(-2px); }
+.photo-card img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
+.photo-card-t { display: block; color: var(--cream); font-weight: bold; font-size: 1.02rem; line-height: 1.35; padding: 12px 14px 2px; }
+.photo-card-m { display: block; color: var(--rivet); font-size: 0.88rem; padding: 0 14px 13px; }
+.linkrow { margin: 30px 0 6px; font-size: 1.02rem; }
+.linkrow a { font-weight: bold; }
