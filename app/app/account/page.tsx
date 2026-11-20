@@ -124,7 +124,8 @@ function Scrapbook() {
         ) : (
           <p className="small">
             No stamps yet. A stamp is earned the only way the game allows: go to the ground,
-            find the thing, and the photo is the tag.
+            find the thing, and be there. Being there is the tag; a photo is yours to add, never
+            the price of a stamp.
           </p>
         )}
       </section>

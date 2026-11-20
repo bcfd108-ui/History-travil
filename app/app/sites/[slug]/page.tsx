@@ -203,7 +203,7 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
           <h2>Candidate photo finds</h2>
           <p className="small">
             From the research record — <strong>not yet field-checked or activated</strong>. A
-            find is claimed by going to the ground and taking the photo; the photo is the tag.
+            find is claimed by going to the ground and being there; a photo is optional, yours to add if you want it.
           </p>
           <ul>
             {site.candidateFinds.map((c, i) => (
@@ -212,7 +212,7 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
           </ul>
           <h3>Tag a find</h3>
           <p className="small">
-            Stood on this ground and found one? Tag it with your photo. The claim is your own
+            Stood on this ground and found one? Tag it — and add a photo if you like. The claim is your own
             scrapbook record — it does not activate the find, and nothing is scored.
           </p>
           <ClaimFind slug={site.slug} finds={site.candidateFinds} />

@@ -15,7 +15,7 @@ export default function Home() {
       </p>
       <p className="lede">
         It is a research app with a game: the reference is the product, and layered on it is a
-        scavenger hunt — go to the ground, find the thing, and the photo is the tag.
+        scavenger hunt — go to the ground, find the thing, and be there. Being there is the tag.
       </p>
 
       <div className="cards">
@@ -64,10 +64,11 @@ export default function Home() {
           </p>
         </div>
         <div className="card">
-          <h3>3. The photo is the tag</h3>
+          <h3>3. Being there is the tag</h3>
           <p>
-            On hunt ground, you find the named thing and your photo claims it. No quizzes, no
-            answer keys — you learn by going.
+            On hunt ground, you find the named thing and your being there claims it. A photo is
+            yours to add if you want it — never required. No quizzes, no answer keys — you
+            learn by going.
           </p>
         </div>
       </div>

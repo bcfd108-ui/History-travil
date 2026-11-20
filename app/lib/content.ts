@@ -57,7 +57,7 @@ export const DESK_GUIDES: DeskDoc[] = [
     blurb: "The product law that governs every hunt, find, and tag in History Travel.",
     body: `History Travel is a research app with a game. The research reference is the product; the game is a layer on it, never the lead.
 
-**The game is a scavenger hunt, not trivia.** There are no question-and-answer gates and no answer keys. A find names a thing to go and find on the ground — and to get the tag, you gotta take the picture. The photo is the tag.
+**The game is a scavenger hunt, not trivia.** There are no question-and-answer gates and no answer keys. A find names a thing to go and find on the ground — and the tag is the visit itself. A photo is optional everywhere: welcome in your scrapbook, never required.
 
 **You learn and experience.** Learning happens by going and experiencing the place. The research prepares you; the ground does the teaching. Nothing in the game should feel like a test.
 

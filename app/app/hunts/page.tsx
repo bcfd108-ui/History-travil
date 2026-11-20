@@ -9,8 +9,8 @@ export default function HuntsPage() {
       <h1>Hunts</h1>
       <p className="lede">
         A scavenger hunt, not a test. Each hunt names things to go and find on real ground — and
-        to get the tag, you gotta take the picture. The photo is the tag. There are no questions
-        and no answer keys.
+        the tag is the visit itself: stand on the ground, find the thing, and it is yours. A
+        photo is welcome, never required. There are no questions and no answer keys.
       </p>
       <p className="small">
         The hunts&apos; own find lists live in the current app. In this edition, the record

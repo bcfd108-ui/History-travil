@@ -1,7 +1,7 @@
 "use client";
-// Claim a candidate find the only way the game allows: with a photo.
-// The photo is the tag — there is no question to answer and nothing to
-// unlock. The claim records the entry, the find as the research record
+// Claim a candidate find the only way the game allows: by being there.
+// The visit is the tag — there is no question to answer and nothing to
+// unlock. A photo may be attached, and is always optional. The claim records the entry, the find as the research record
 // names it, the time, the photo in the player's own scrapbook, and — only
 // when the player grants it at claim time — the device's coordinates as
 // the corroboration point. Nothing is scored; the stamp book simply
