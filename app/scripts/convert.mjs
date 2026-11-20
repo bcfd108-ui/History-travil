@@ -27,6 +27,7 @@ const STATE_NAMES = {
   UT: "Utah", NV: "Nevada", CA: "California", CO: "Colorado",
   AZ: "Arizona", NM: "New Mexico", ND: "North Dakota", SD: "South Dakota",
   NE: "Nebraska", KS: "Kansas", OK: "Oklahoma", TX: "Texas", MN: "Minnesota",
+  IA: "Iowa",
 };
 // Uncoded (home-bench) slugs: slug -> [town, stateCode]
 const LOCAL = {
@@ -87,6 +88,12 @@ function splitSections(md) {
     const b2 = md.match(/^\*\*1\s*[.·]\s*Trip gate\*\*\s*[—–-]\s*(.+)$/m);
     if (b2) { sections[1] = { title: "Trip gate", body: b2[1].trim() }; boldSec1 = true; }
   }
+  if (!sections[1]) {
+    // MN/IA Nov 20 batches: `**1. Trip gate · checked …:** <gate text>` or
+    // `**Trip gate · checked …:** <gate text>` — bold header, text follows.
+    const b3 = md.match(/^\*\*(?:1\.\s+)?Trip gate[^*]*\*\*\s*(.+)$/m);
+    if (b3) { sections[1] = { title: "Trip gate", body: b3[1].trim() }; boldSec1 = true; }
+  }
   return { sections, boldSec1 };
 }
 
@@ -126,7 +133,7 @@ function mapSections(sections, titled) {
   // mechanically converted. Variant candidate sections (Lewiston LD-01,
   // St. Joe §6, Celilo §5) are individually gated in the record and are
   // withheld here rather than converted blind.
-  const candSec = vals.find((s) => /candidate finds|photo-tag observations|field-only proposed observations/i.test(s.title)) || null;
+  const candSec = vals.find((s) => /candidate finds|photo-tag observations|field-only proposed observations|optional photo tags/i.test(s.title)) || null;
   const anyCandSec = byTitle(/candidate|scavenger/i);
   const locatorSec = vals.filter((s) => /locator/i.test(s.title)).sort((a, b) => b.n - a.n)[0] || num(10);
 
@@ -337,7 +344,7 @@ function convert(filePath, origin) {
     if (am) town = am[1].trim();
   }
   if (!town && S.gate) {
-    const gm = S.gate.body.match(/([A-Z][A-Za-z .'-]+),\s*(?:ID|WA|OR|MT|WY|UT|NV|CA|CO|AZ|NM|ND|SD|NE|KS|OK|TX|MN)\s*\d{5}/);
+    const gm = S.gate.body.match(/([A-Z][A-Za-z .'-]+),\s*(?:ID|WA|OR|MT|WY|UT|NV|CA|CO|AZ|NM|ND|SD|NE|KS|OK|TX|MN|IA)\s*\d{5}/);
     if (gm) town = gm[1].trim();
   }
 
