@@ -1,0 +1,25 @@
+{
+  "name": "history-travel-hosted",
+  "version": "0.2.0",
+  "private": true,
+  "description": "History Travel — hosted edition (Stage 2: accounts + saving behind the Stage 1 catalog; dormant until keys are wired at deployment).",
+  "scripts": {
+    "convert": "node scripts/convert.mjs",
+    "dev": "next dev",
+    "build": "node scripts/convert.mjs && next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.12.7",
+    "@supabase/supabase-js": "^2.119.2",
+    "next": "15.5.6",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.6.0"
+  }
+}

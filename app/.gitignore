@@ -1,0 +1,7 @@
+node_modules/
+.next/
+.tmp/
+data/*.json
+next-env.d.ts
+.env*.local
+.env
