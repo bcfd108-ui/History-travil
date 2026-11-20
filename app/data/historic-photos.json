@@ -1,41 +1,51 @@
 {
-  "ID-three-island-crossing": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/A-29._Three_Island_Crossing_Overlook_and_Trail_Ruts_%28Glenns_Ferry%29_on_the_Oregon_National_Historic_Trail_%282007%29_%28b0d2c709-93e5-41c0-8570-0016f8b4dc45%29.jpg/1280px-A-29._Three_Island_Crossing_Overlook_and_Trail_Ruts_%28Glenns_Ferry%29_on_the_Oregon_National_Historic_Trail_%282007%29_%28b0d2c709-93e5-41c0-8570-0016f8b4dc45%29.jpg",
-    "alt": "The Snake River braiding around the islands at Three Island Crossing, seen from the overlook above the ford",
-    "caption": "The ford from the overlook \u2014 the Snake River running around the islands the crossing is named for.",
-    "credit": "Photograph: National Park Service staff, October 4, 2007 \u00b7 Public domain (NPS image A-29)",
-    "sourceName": "Wikimedia Commons",
-    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A-29._Three_Island_Crossing_Overlook_and_Trail_Ruts_(Glenns_Ferry)_on_the_Oregon_National_Historic_Trail_(2007)_(b0d2c709-93e5-41c0-8570-0016f8b4dc45).jpg",
-    "dateNote": "A modern photograph of the historic ground. No emigrant-period photograph of this crossing is in the verified record; the oldest documented view lead is a BLM photograph from September 1987.",
-    "representative": false
-  },
-  "ID-city-of-rocks-california-trail": {
-    "src": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/11900/11932v.jpg",
-    "alt": "Timothy O'Sullivan's 1868 albumen photograph of the granite rocks at City of Rocks, on its King Survey mount",
-    "caption": "City of Rocks as the California Trail generation saw it \u2014 granite domes and boulders above the Raft River valley, 1868.",
-    "credit": "Photograph: Timothy H. O'Sullivan, 1868, Geological Exploration of the Fortieth Parallel (Clarence King Survey) \u00b7 Library of Congress \u2014 no known restrictions on publication",
-    "sourceName": "Library of Congress",
-    "sourceUrl": "https://www.loc.gov/item/2006685033/",
-    "dateNote": "An emigrant-era photograph of the real ground \u2014 among the earliest photographs ever made of this site.",
-    "representative": false
-  },
-  "ID-idaho-city": {
-    "src": "https://objects.lib.uidaho.edu/archivalidaho/small/archivalidaho357_sm.jpg",
-    "alt": "Aerial view of Idaho City in 1925 \u2014 the town grid beside the dredge-worked creek flats",
-    "caption": "Idaho City from the air, 1925 \u2014 the whole town in one frame, and beside it the dredged creek flats that paid for it.",
-    "credit": "Photograph: Capt. A. W. Stevens, U.S. Army Air Corps, 1925 \u00b7 University of Idaho, Archival Idaho Photograph Collection (archivalidaho357) \u2014 public domain",
-    "sourceName": "University of Idaho Library",
-    "sourceUrl": "https://www.lib.uidaho.edu/digital/archivalidaho/items/archivalidaho357.html",
-    "representative": false
-  },
-  "ID-craters-of-the-moon": {
-    "src": "https://npgallery.nps.gov/GetAsset/ac5d1d86-71ee-449b-91d2-9e640883c519",
-    "alt": "Big Cinder Butte rising beyond the lava fields at Craters of the Moon",
-    "caption": "Big Cinder Butte across the lava fields \u2014 the cinder country the monument was drawn around.",
-    "credit": "Photograph: National Park Service (NPGallery asset ac5d1d86) \u2014 public domain",
-    "sourceName": "NPGallery \u2014 National Park Service",
-    "sourceUrl": "https://npgallery.nps.gov/AssetDetail/ac5d1d86-71ee-449b-91d2-9e640883c519",
-    "dateNote": "Undated in the NPS catalog record.",
-    "representative": false
-  }
+ "ID-three-island-crossing": {
+  "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/A-29._Three_Island_Crossing_Overlook_and_Trail_Ruts_%28Glenns_Ferry%29_on_the_Oregon_National_Historic_Trail_%282007%29_%28b0d2c709-93e5-41c0-8570-0016f8b4dc45%29.jpg/1280px-A-29._Three_Island_Crossing_Overlook_and_Trail_Ruts_%28Glenns_Ferry%29_on_the_Oregon_National_Historic_Trail_%282007%29_%28b0d2c709-93e5-41c0-8570-0016f8b4dc45%29.jpg",
+  "alt": "The Snake River braiding around the islands at Three Island Crossing, seen from the overlook above the ford",
+  "caption": "The ford from the overlook — the Snake River running around the islands the crossing is named for.",
+  "credit": "Photograph: National Park Service staff, October 4, 2007 · Public domain (NPS image A-29)",
+  "sourceName": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:A-29._Three_Island_Crossing_Overlook_and_Trail_Ruts_(Glenns_Ferry)_on_the_Oregon_National_Historic_Trail_(2007)_(b0d2c709-93e5-41c0-8570-0016f8b4dc45).jpg",
+  "dateNote": "A modern photograph of the historic ground. No emigrant-period photograph of this crossing is in the verified record; the oldest documented view lead is a BLM photograph from September 1987.",
+  "representative": false
+ },
+ "ID-city-of-rocks-california-trail": {
+  "src": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/11900/11932v.jpg",
+  "alt": "Timothy O'Sullivan's 1868 albumen photograph of the granite rocks at City of Rocks, on its King Survey mount",
+  "caption": "City of Rocks as the California Trail generation saw it — granite domes and boulders above the Raft River valley, 1868.",
+  "credit": "Photograph: Timothy H. O'Sullivan, 1868, Geological Exploration of the Fortieth Parallel (Clarence King Survey) · Library of Congress — no known restrictions on publication",
+  "sourceName": "Library of Congress",
+  "sourceUrl": "https://www.loc.gov/item/2006685033/",
+  "dateNote": "An emigrant-era photograph of the real ground — among the earliest photographs ever made of this site.",
+  "representative": false
+ },
+ "ID-idaho-city": {
+  "src": "https://objects.lib.uidaho.edu/archivalidaho/small/archivalidaho357_sm.jpg",
+  "alt": "Aerial view of Idaho City in 1925 — the town grid beside the dredge-worked creek flats",
+  "caption": "Idaho City from the air, 1925 — the whole town in one frame, and beside it the dredged creek flats that paid for it.",
+  "credit": "Photograph: Capt. A. W. Stevens, U.S. Army Air Corps, 1925 · University of Idaho, Archival Idaho Photograph Collection (archivalidaho357) — public domain",
+  "sourceName": "University of Idaho Library",
+  "sourceUrl": "https://www.lib.uidaho.edu/digital/archivalidaho/items/archivalidaho357.html",
+  "representative": false
+ },
+ "ID-craters-of-the-moon": {
+  "src": "https://npgallery.nps.gov/GetAsset/ac5d1d86-71ee-449b-91d2-9e640883c519",
+  "alt": "Big Cinder Butte rising beyond the lava fields at Craters of the Moon",
+  "caption": "Big Cinder Butte across the lava fields — the cinder country the monument was drawn around.",
+  "credit": "Photograph: National Park Service (NPGallery asset ac5d1d86) — public domain",
+  "sourceName": "NPGallery — National Park Service",
+  "sourceUrl": "https://npgallery.nps.gov/AssetDetail/ac5d1d86-71ee-449b-91d2-9e640883c519",
+  "dateNote": "Undated in the NPS catalog record.",
+  "representative": false
+ },
+ "st-joe-st-maries": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/St_Maries_1910_Fire_Memorial_1_-_St_Maries_Idaho.jpg/1280px-St_Maries_1910_Fire_Memorial_1_-_St_Maries_Idaho.jpg",
+  "alt": "The 1910 firefighters' memorial plot at Woodlawn Cemetery in St. Maries — small grave markers ring a stone path around the central granite marker, under tall firs",
+  "caption": "The firefighters' circle at Woodlawn Cemetery — the 1910 graves ring the path around the granite marker.",
+  "credit": "Photograph: Ian Poellet, May 27, 2015 · CC BY-SA 4.0",
+  "sourceName": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Maries_1910_Fire_Memorial_1_-_St_Maries_Idaho.jpg",
+  "dateNote": "A modern photograph of the historic ground — the memorial plot as a visitor finds it today.",
+  "representative": false
+ }
 }
