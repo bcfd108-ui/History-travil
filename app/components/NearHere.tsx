@@ -84,7 +84,7 @@ export default function NearHere({ rows }: { rows: NearRow[] }) {
         <>
           <p className="small">
             Sorted by distance from where you are standing now. Distances are straight-line;
-            the entry&apos;s trip gate governs where you may actually stand.
+            the entry&apos;s Before you go section says where you may actually stand.
           </p>
           <div className="rows">
             {sorted.map(({ r, km }) => (

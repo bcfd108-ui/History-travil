@@ -98,7 +98,7 @@ function LocatorCard({ site }: { site: Site }) {
             See the recorded point on OpenStreetMap
           </a>{" "}
           — the point as printed in the dossier&apos;s locator record. A pin is not a public
-          entrance; the trip gate above governs where you may stand.
+          entrance; the Before you go section above says where you may stand.
         </p>
       )}
       <p className="small">
@@ -142,7 +142,7 @@ function AnchorPanel({ site }: { site: Site }) {
       )}
       <p className="small">
         The visitable anchor as named in the dossier&apos;s locator record ({anchor.basis}).
-        The trip gate below governs where you may stand — a historic pin is not a public
+        The Before you go section below says where you may stand — a historic pin is not a public
         entrance.
       </p>
     </section>
@@ -200,7 +200,6 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
           <span key={t} className="badge">{t}</span>
         ))}
       </p>
-      <p className="small">{site.publishedAs}</p>
       {site.standfirst && <Md text={site.standfirst} />}
       {site.lead && <Md text={site.lead} />}
 
@@ -208,8 +207,8 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
 
       <AnchorPanel site={site} />
 
-      <section className="access-card" aria-label="Trip gate — access first">
-        <h2>Before you go — the trip gate</h2>
+      <section className="access-card" aria-label="Before you go">
+        <h2>Before you go</h2>
         {site.access ? (
           <Md text={site.access} />
         ) : (
@@ -304,6 +303,7 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
           <Md text={site.sources} />
         </details>
       )}
+      {site.publishedAs && <p className="small">{site.publishedAs}</p>}
     </article>
   );
 }

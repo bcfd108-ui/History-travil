@@ -19,7 +19,7 @@ export const DESK_GUIDES: DeskDoc[] = [
     blurb: "The locator record, why blank fields stay blank, and why a pin is not an entrance.",
     body: `Every entry in this catalog was converted from a research dossier — a document built from primary and near-primary sources, with its disagreements printed rather than smoothed over.
 
-**Access comes first.** Each entry opens with its trip gate: where a visitor may actually stand, what is closed, what is seasonal, what is archive-only. A historic road or district pin is not a public entrance. Where the record separates where the history happened from where a visitor may stand, the entry keeps that separation.
+**Access comes first.** Each entry opens with where a visitor may actually stand, what is closed, what is seasonal, and what is archive-only. A historic road or district pin is not a public entrance. Where the record separates where the history happened from where a visitor may stand, the entry keeps that separation.
 
 **The locator record is fixed-field.** Register numbers (NRHP, HMdb, ARK, archive IDs) and coordinates appear only where the dossier's cited source prints them. A blank field is blank in the record — nothing is invented to fill it. Most dossiers deliberately leave coordinates blank; a missing coordinate is the standard working, not a defect.
 
@@ -79,7 +79,7 @@ export interface Hunt {
 // The three hunts as built in the current app (13 finds total). Their find
 // lists live in the app record; this edition presents the hunts with the
 // research record behind them, and candidate finds on individual entries
-// can be photo-tagged into a visitor's scrapbook (Stage 2).
+// can be tagged into a visitor's scrapbook, with a photo if they choose (Stage 2).
 export const HUNTS: Hunt[] = [
   {
     slug: "pulaski-hunt",

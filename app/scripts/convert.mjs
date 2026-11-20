@@ -203,6 +203,40 @@ function extractCandidates(candSec, isReflection) {
   return out;
 }
 
+// Strip pipeline scaffolding from a dossier preamble before it becomes the
+// public standfirst. QC header lines, the internal "Trip gate" label,
+// citation brackets, and sentences written to the research pipeline (not to
+// a visitor) never reach the page. Visitor facts survive; instructions to
+// us do not. (Gene, Nov 19, 2026: readers never see the machinery.)
+function cleanPreamble(raw) {
+  if (!raw) return "";
+  const headerRe = /dash qc|desk review|local only|no upload|no publication|research draft|draft feedstock/i;
+  const instructionRe = /do not publish|not verified|in this pass|reopening date: blank|do not schedule|recheck before promising/i;
+  const kept = [];
+  for (const para of raw.split(/\n\s*\n/)) {
+    let p = para.trim();
+    if (!p) continue;
+    if (headerRe.test(p) && !/trip gate/i.test(p)) continue; // pure QC header paragraph
+    p = p
+      .replace(/\*\*trip gate:\*\*/i, "")
+      .replace(/^trip gate:\s*/i, "")
+      .replace(/,?\s*and no entry should promise otherwise/i, "")
+      .replace(/,?\s*and check [\s\S]{0,180}?before promising it/i, "")
+      .trim();
+    if (headerRe.test(p)) {
+      // Header sentence glued to real content: drop just the header sentence.
+      const end = p.indexOf(". ");
+      if (end > 0 && headerRe.test(p.slice(0, end))) p = p.slice(end + 2).trim();
+      if (headerRe.test(p)) continue;
+    }
+    if (!p) continue;
+    const sentences = p.split(/(?<=\.)\s+/).filter((s) => !instructionRe.test(s));
+    p = sentences.join(" ").replace(/\s*\[[A-Z]\d+(?:\s*,\s*[A-Z]\d+)*\]/g, "").replace(/\s{2,}/g, " ").trim();
+    if (p) kept.push(p);
+  }
+  return kept.join("\n\n");
+}
+
 function convert(filePath, origin) {
   const md = readFileSync(filePath, "utf8");
   const base = filePath.split("/").pop().replace(/\.md$/, "").replace(/^HT-RES-/, "");
@@ -300,7 +334,7 @@ function convert(filePath, origin) {
       division: stateCode ? STATE_NAMES[stateCode] : "",
       themes,
       stopType,
-      standfirst: preamble,
+      standfirst: cleanPreamble(preamble),
       lead: S.lead || "",
       access: S.gate?.body || "",
       story: S.story?.body || "",
