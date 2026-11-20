@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import {
+  getHistoricPhoto,
   getSite,
   getSites,
   getVisitableAnchor,
@@ -23,6 +24,32 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const site = getSite(slug);
   return { title: site ? `${site.title} — History Travel` : "History Travel" };
+}
+
+// The entry's historical photograph, where one has been honestly sourced
+// (owner's ruling, Nov 19, 2026). Renders nothing when the record has none —
+// the gap stays in the entry's photo record rather than being filled.
+function HistoricPhotoFigure({ slug }: { slug: string }) {
+  const photo = getHistoricPhoto(slug);
+  if (!photo) return null;
+  return (
+    <figure className="historic-photo">
+      <img src={photo.src} alt={photo.alt} loading="lazy" />
+      <figcaption>
+        <span className="hp-caption">{photo.caption}</span>
+        {photo.representative && (
+          <span className="badge amber">Representative view — not the site itself</span>
+        )}
+        <span className="hp-credit">
+          {photo.credit} ·{" "}
+          <a href={photo.sourceUrl} target="_blank" rel="noreferrer">
+            {photo.sourceName}
+          </a>
+        </span>
+        {photo.dateNote && <span className="hp-note">{photo.dateNote}</span>}
+      </figcaption>
+    </figure>
+  );
 }
 
 function LocatorCard({ site }: { site: Site }) {
@@ -176,6 +203,8 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
       <p className="small">{site.publishedAs}</p>
       {site.standfirst && <Md text={site.standfirst} />}
       {site.lead && <Md text={site.lead} />}
+
+      <HistoricPhotoFigure slug={site.slug} />
 
       <AnchorPanel site={site} />
 

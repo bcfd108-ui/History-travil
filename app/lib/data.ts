@@ -269,6 +269,40 @@ export function getSite(slug: string): Site | undefined {
 }
 
 // ---------------------------------------------------------------------------
+// HISTORIC PHOTOGRAPHS (owner's ruling, Nov 19, 2026): every entry carries a
+// sourced historical photograph — of the real site or the object, or one like
+// it, labelled representative when it is not the site itself. Public domain or
+// openly licensed only; repository, date and credit print with the image; the
+// pixels are inspected before an image is adopted (a catalog title is not
+// proof of what a photograph shows). Records live in data/historic-photos.json,
+// a hand-maintained sidecar the converter does not generate. An entry with no
+// honestly sourced image simply has no figure — the gap prints in its record.
+// ---------------------------------------------------------------------------
+export interface HistoricPhoto {
+  src: string;
+  alt: string;
+  caption: string;
+  credit: string;
+  sourceName: string;
+  sourceUrl: string;
+  dateNote?: string;
+  representative?: boolean;
+}
+
+let photosCache: Record<string, HistoricPhoto> | null = null;
+
+export function getHistoricPhoto(slug: string): HistoricPhoto | undefined {
+  if (!photosCache) {
+    try {
+      photosCache = load<Record<string, HistoricPhoto>>("historic-photos.json");
+    } catch {
+      photosCache = {};
+    }
+  }
+  return photosCache[slug];
+}
+
+// ---------------------------------------------------------------------------
 // HISTORIC LOCATION AS INFORMATION (owner's refinement, Nov 19, 2026).
 //
 // An entry tells the reader where the place WAS, when the record knows it —
