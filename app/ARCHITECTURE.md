@@ -12,8 +12,11 @@ build. No deployment, no accounts yet — those are Stage 2.
   amber `#D99A26` / deep `#A8741A`, cream `#ECE5D3`, rivet silver `#9AA2A9`,
   slate `#103840`, pale steel `#D8E1E3` (values from
   `~/workspace/rimrock/branding/BRANDING.md`). No visible Rimrock branding;
-  the product name is **History Travel** (the owner's naming question stays
-  open — the name is a config-level string, not baked into the data).
+  the product name is **On Old Ground** (settled by the owner Nov 20, 2026;
+  formerly History Travel — the name is a config-level string in
+  `lib/seo.ts`, not baked into the data). Canonical domain:
+  https://onoldground.com (the history-travil.vercel.app address remains
+  live on the same project).
 
 ## Data pipeline
 

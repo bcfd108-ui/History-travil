@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { HUNTS } from "@/lib/content";
 
-export const metadata = { title: "Hunts — History Travel" };
+export const metadata = { title: "Hunts — On Old Ground" };
 
 export default function HuntsPage() {
   return (

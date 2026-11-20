@@ -11,7 +11,7 @@ import {
   type Site,
 } from "@/lib/data";
 import { Md } from "@/lib/md";
-import { entryDescription, entryJsonLd, entryUrl } from "@/lib/seo";
+import { entryDescription, entryJsonLd, entryUrl, SITE_NAME } from "@/lib/seo";
 import SiteActions from "@/components/SiteActions";
 import ClaimFind from "@/components/ClaimFind";
 import CompleteThePair from "@/components/CompleteThePair";
@@ -25,8 +25,8 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const site = getSite(slug);
-  if (!site) return { title: "History Travel" };
-  const title = `${site.title} — History Travel`;
+  if (!site) return { title: SITE_NAME };
+  const title = `${site.title} — ${SITE_NAME}`;
   const description = entryDescription(site);
   return {
     title,
@@ -34,7 +34,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     alternates: { canonical: `/sites/${site.slug}` },
     openGraph: {
       type: "article",
-      siteName: "History Travel",
+      siteName: SITE_NAME,
       title,
       description,
       url: entryUrl(site),

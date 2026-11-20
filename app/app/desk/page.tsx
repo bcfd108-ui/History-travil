@@ -2,7 +2,7 @@ import Link from "next/link";
 import { DESK_GUIDES } from "@/lib/content";
 import { getStates, getStats } from "@/lib/data";
 
-export const metadata = { title: "Research Desk — History Travel" };
+export const metadata = { title: "Research Desk — On Old Ground" };
 
 export default function DeskPage() {
   const states = getStates();

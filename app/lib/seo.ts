@@ -9,8 +9,8 @@ import { getPlainTop, getVisitableAnchor, type Site } from "@/lib/data";
 // no claims the dossier does not print.
 // ---------------------------------------------------------------------------
 
-export const SITE_URL = "https://history-travil.vercel.app";
-export const SITE_NAME = "History Travel";
+export const SITE_URL = "https://onoldground.com";
+export const SITE_NAME = "On Old Ground";
 export const SITE_DESCRIPTION =
   "A historical road trip reference built from primary sources — researched deep, honest about its gaps, with a scavenger hunt layered on the record.";
 

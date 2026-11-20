@@ -9,7 +9,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
   const tour = getTour(id);
-  return { title: tour ? `${tour.name} — History Travel` : "Tour — History Travel" };
+  return { title: tour ? `${tour.name} — On Old Ground` : "Tour — On Old Ground" };
 }
 
 export default async function TourPage({ params }: { params: Promise<{ id: string }> }) {

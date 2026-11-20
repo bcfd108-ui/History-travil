@@ -54,8 +54,8 @@ export const DESK_GUIDES: DeskDoc[] = [
   {
     slug: "the-game-law",
     title: "The game: a scavenger hunt, not a test",
-    blurb: "The product law that governs every hunt, find, and tag in History Travel.",
-    body: `History Travel is a research app with a game. The research reference is the product; the game is a layer on it, never the lead.
+    blurb: "The product law that governs every hunt, find, and tag in On Old Ground.",
+    body: `On Old Ground is a research app with a game. The research reference is the product; the game is a layer on it, never the lead.
 
 **The game is a scavenger hunt, not trivia.** There are no question-and-answer gates and no answer keys. A find names a thing to go and find on the ground — and the tag is the visit itself. A photo is optional everywhere: welcome in your scrapbook, never required.
 

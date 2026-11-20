@@ -1,7 +1,7 @@
 import { getSites, getVisitableAnchor } from "@/lib/data";
 import NearHere, { type NearRow } from "@/components/NearHere";
 
-export const metadata = { title: "Near Here — History Travel" };
+export const metadata = { title: "Near Here — On Old Ground" };
 
 export default function NearPage() {
   // Only entries with recorded coordinates AND a derivable visitable anchor

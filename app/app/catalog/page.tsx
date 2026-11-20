@@ -2,7 +2,7 @@ import { Suspense } from "react";
 import { getIndex, getStates, getThemes } from "@/lib/data";
 import CatalogBrowser from "./browser";
 
-export const metadata = { title: "Catalog — History Travel" };
+export const metadata = { title: "Catalog — On Old Ground" };
 
 export default function CatalogPage() {
   const rows = getIndex();

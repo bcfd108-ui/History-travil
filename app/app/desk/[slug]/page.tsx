@@ -17,7 +17,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const guide = DESK_GUIDES.find((d) => d.slug === slug);
-  return { title: `${guide ? guide.title : "Research Desk"} — History Travel` };
+  return { title: `${guide ? guide.title : "Research Desk"} — On Old Ground` };
 }
 
 export default async function DeskDocPage({ params }: { params: Promise<{ slug: string }> }) {

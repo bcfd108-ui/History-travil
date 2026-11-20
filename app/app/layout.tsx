@@ -35,7 +35,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <AccountProvider>
           <header className="site-header">
             <div className="wrap">
-              <Link className="wordmark" href="/">History Travel</Link>
+              <Link className="wordmark" href="/">On Old Ground</Link>
               <nav className="site-nav">
                 <Link href="/catalog">Catalog</Link>
                 <Link href="/desk">Research Desk</Link>
@@ -49,7 +49,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <main>{children}</main>
           <footer className="site-footer">
             <div className="wrap">
-              <strong>History Travel</strong>
+              <strong>On Old Ground</strong>
               <p>
                 A research app with a game. Every entry is published research — the record, with its
                 gaps printed. Blank locator fields are blank in the source record; nothing here is

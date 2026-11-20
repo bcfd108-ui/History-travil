@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { getTours } from "@/lib/data";
 
-export const metadata = { title: "Tours — History Travel" };
+export const metadata = { title: "Tours — On Old Ground" };
 
 export default function ToursPage() {
   const tours = getTours();
