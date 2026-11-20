@@ -154,7 +154,7 @@ function parseLocator(sec) {
     if (!line) continue;
     const cell = line.match(/^\|?\s*([^:|]{2,60}?)\s*\|\s*(.*)$/);
     const m = cell || line.match(/^\*{0,2}([^:*]{2,60}?)\*{0,2}:\s*(.*)$/);
-    if (m) pairs.push({ key: m[1].trim().replace(/_/g, " "), value: m[2].trim() });
+    if (m) pairs.push({ key: m[1].trim().replace(/_/g, " ").replace(/^trip gate$/i, "Before you go"), value: m[2].trim() });
     else if (pairs.length && !/^#/.test(line)) pairs[pairs.length - 1].value += " " + line;
   }
   return pairs;
@@ -235,6 +235,28 @@ function cleanPreamble(raw) {
     if (p) kept.push(p);
   }
   return kept.join("\n\n");
+}
+
+// The dossier label "trip gate" is pipeline language; on the public page the
+// same facts live under "Before you go." Strip the label where it leads a
+// field, and rename it where body prose refers to it. (Gene, Nov 19, 2026.)
+function scrubText(t) {
+  if (!t) return "";
+  return t
+    .replace(/^\s*(?:\*\*)?\s*\d+\.\s*trip gate\s*[‐-―-]\s*/i, "")
+    .replace(/^\s*(?:\*\*)?\s*trip gate:?\s*(?:\*\*)?\s*[‐-―-]?\s*/i, "")
+    .replace(/\btrip gate\b/gi, "Before you go");
+}
+
+// The photograph record can carry locator YAML whose values are real
+// reference data — but lines narrating the QC process itself ("Dash QC
+// directly read…", *_qc_source, *_verification_limit) are pipeline notes,
+// not reader content. Drop those lines; keep every identifier.
+function cleanPhotoRecord(t) {
+  return scrubText(t)
+    .split("\n")
+    .filter((l) => !/dash qc|_qc_|verification_limit/i.test(l))
+    .join("\n");
 }
 
 function convert(filePath, origin) {
@@ -335,16 +357,20 @@ function convert(filePath, origin) {
       themes,
       stopType,
       standfirst: cleanPreamble(preamble),
-      lead: S.lead || "",
-      access: S.gate?.body || "",
-      story: S.story?.body || "",
-      thenNow: S.thenNow?.body || "",
-      stillThere: S.stillThere?.body || "",
-      progression: S.progression?.body || "",
-      gaps: S.gaps?.body || "",
-      photoRecord: S.photoRecord?.body || "",
-      moreSections: S.moreSections || [],
-      sources: S.sources?.body || "",
+      lead: scrubText(S.lead || ""),
+      access: scrubText(S.gate?.body || ""),
+      story: scrubText(S.story?.body || ""),
+      thenNow: scrubText(S.thenNow?.body || ""),
+      stillThere: scrubText(S.stillThere?.body || ""),
+      progression: scrubText(S.progression?.body || ""),
+      gaps: scrubText(S.gaps?.body || ""),
+      photoRecord: cleanPhotoRecord(S.photoRecord?.body || ""),
+      moreSections: (S.moreSections || []).map((s) => ({
+        ...s,
+        title: scrubText(s.title || ""),
+        body: scrubText(s.body || ""),
+      })),
+      sources: scrubText(S.sources?.body || ""),
       locator,
       coordinates,
       coordinateKind,

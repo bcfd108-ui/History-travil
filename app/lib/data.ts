@@ -455,3 +455,34 @@ export function getTours(): Tour[] {
 export function getTour(id: string): Tour | undefined {
   return getTours().find((t) => t.id === id);
 }
+
+// ---------------------------------------------------------------------------
+// PLAIN TOPS (owner's ruling, Nov 19, 2026): every entry gets a short,
+// plain-language top — what it is, what happened there, what you can see
+// now, before-you-go facts — readable by a 12-year-old standing in a
+// parking lot. The full dossier stays below under "The full record."
+// Hand-written sidecar, same pattern as historic-photos.json; the
+// converter does not generate it. Sample entry: st-joe-st-maries.
+
+export interface PlainTopSection {
+  heading: string;
+  paragraphs?: string[];
+  bullets?: string[];
+}
+
+export interface PlainTop {
+  sections: PlainTopSection[];
+}
+
+let plainTopsCache: Record<string, PlainTop> | null = null;
+
+export function getPlainTop(slug: string): PlainTop | undefined {
+  if (!plainTopsCache) {
+    try {
+      plainTopsCache = load<Record<string, PlainTop>>("plain-tops.json");
+    } catch {
+      plainTopsCache = {};
+    }
+  }
+  return plainTopsCache[slug];
+}

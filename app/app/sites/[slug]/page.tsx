@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import {
   getHistoricPhoto,
+  getPlainTop,
   getSite,
   getSites,
   getVisitableAnchor,
@@ -161,8 +162,8 @@ function HistoricLocation({ site }: { site: Site }) {
       <h2>Where it was</h2>
       <p className="small">
         The historic location as the record gives it — information, not an entrance and not
-        directions. A historic pin is not a public entrance; the visitable anchor and the trip
-        gate govern where you may stand.
+        directions. A historic pin is not a public entrance; the visitable anchor and the Before
+        you go section govern where you may stand.
       </p>
       <dl className="locator-grid">
         {fields.map((f) => (
@@ -182,6 +183,7 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
   if (!site) notFound();
   const isReflection = site.stopType === "reflection";
   const anchor = getVisitableAnchor(site);
+  const plainTop = getPlainTop(site.slug);
   const showFinds = !isReflection && !!anchor && site.candidateFinds.length > 0;
 
   return (
@@ -200,6 +202,33 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
           <span key={t} className="badge">{t}</span>
         ))}
       </p>
+      {plainTop && (
+        <>
+          {plainTop.sections.map((sec) => (
+            <section key={sec.heading}>
+              <h2>{sec.heading}</h2>
+              {sec.paragraphs?.map((p, i) => (
+                <p key={i}>{p}</p>
+              ))}
+              {sec.bullets && (
+                <ul>
+                  {sec.bullets.map((b, i) => (
+                    <li key={i}>{b}</li>
+                  ))}
+                </ul>
+              )}
+            </section>
+          ))}
+          <section>
+            <h2>The full record</h2>
+            <p>
+              Everything below is the complete research record for this place — the story in
+              full, what stands there now, the gaps we print on purpose, and the sources. Read
+              as much or as little as you want; the plain version above is enough to go.
+            </p>
+          </section>
+        </>
+      )}
       {site.standfirst && <Md text={site.standfirst} />}
       {site.lead && <Md text={site.lead} />}
 
@@ -213,7 +242,7 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
           <Md text={site.access} />
         ) : (
           <p>
-            This dossier carries no separate trip-gate section. Its access guidance is in the
+            This dossier carries no separate Before you go section. Its access guidance is in the
             story and the honest-gaps section below — read both before going, and confirm
             current access with the operator.
           </p>
