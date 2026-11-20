@@ -11,6 +11,7 @@ import {
   type Site,
 } from "@/lib/data";
 import { Md } from "@/lib/md";
+import { entryDescription, entryJsonLd, entryUrl } from "@/lib/seo";
 import SiteActions from "@/components/SiteActions";
 import ClaimFind from "@/components/ClaimFind";
 import CompleteThePair from "@/components/CompleteThePair";
@@ -24,7 +25,22 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
   const site = getSite(slug);
-  return { title: site ? `${site.title} — History Travel` : "History Travel" };
+  if (!site) return { title: "History Travel" };
+  const title = `${site.title} — History Travel`;
+  const description = entryDescription(site);
+  return {
+    title,
+    description,
+    alternates: { canonical: `/sites/${site.slug}` },
+    openGraph: {
+      type: "article",
+      siteName: "History Travel",
+      title,
+      description,
+      url: entryUrl(site),
+    },
+    twitter: { card: "summary", title, description },
+  };
 }
 
 // The entry's historical photograph, where one has been honestly sourced
@@ -188,6 +204,10 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
 
   return (
     <article>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(entryJsonLd(site)) }}
+      />
       <p className="small"><Link href="/catalog">← Catalog</Link></p>
       <h1>{site.title}</h1>
       <p>
