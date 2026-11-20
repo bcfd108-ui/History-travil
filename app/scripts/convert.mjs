@@ -13,7 +13,7 @@
 // with §1 as a bold header line; and a home-bench 8-part scheme. Sections are
 // therefore mapped by title keywords first, section numbers second.
 // Run: node scripts/convert.mjs   (also runs as part of `npm run build`)
-import { readdirSync, readFileSync, writeFileSync, existsSync } from "node:fs";
+import { readdirSync, readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -389,7 +389,7 @@ const stats = {
   collisions,
 };
 
-if (!existsSync(outDir)) throw new Error("data/ dir missing");
+if (!existsSync(outDir)) mkdirSync(outDir, { recursive: true });
 writeFileSync(join(outDir, "sites.json"), JSON.stringify(sites, null, 1));
 writeFileSync(join(outDir, "index.json"), JSON.stringify(index));
 writeFileSync(join(outDir, "stats.json"), JSON.stringify(stats, null, 2));
