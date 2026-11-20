@@ -401,3 +401,57 @@ export function getThemes(): string[] {
   for (const r of getIndex()) r.themes.forEach((t) => set.add(t));
   return [...set].sort();
 }
+
+// ---------------------------------------------------------------------------
+// TOURS (recovered from the owner's app records, Nov 19, 2026): chained
+// routes — stops in the order the story happened. Records live in
+// data/tours.json, a hand-maintained sidecar the converter does not
+// generate. A stop links to its catalog entry where one is published;
+// where none is yet, the stop stands on its own text. Every tour is free
+// and self-guided; where a town runs its own free walking tour, the tour
+// page links it (localLinks).
+// ---------------------------------------------------------------------------
+export interface TourStop {
+  name: string;
+  place: string;
+  hook: string;
+  siteSlug?: string;
+  gateShort?: string;
+}
+
+export interface LocalTour {
+  name: string;
+  org: string;
+  kind: "Free" | "Paid";
+  note: string;
+  url: string;
+}
+
+export interface Tour {
+  id: string;
+  name: string;
+  meta: string;
+  description: string;
+  drive?: string;
+  season?: string;
+  landing?: string;
+  stops: TourStop[];
+  localTours?: LocalTour[];
+}
+
+let toursCache: Tour[] | null = null;
+
+export function getTours(): Tour[] {
+  if (!toursCache) {
+    try {
+      toursCache = load<Tour[]>("tours.json");
+    } catch {
+      toursCache = [];
+    }
+  }
+  return toursCache;
+}
+
+export function getTour(id: string): Tour | undefined {
+  return getTours().find((t) => t.id === id);
+}

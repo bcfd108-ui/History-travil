@@ -1,0 +1,266 @@
+[
+ {
+  "id": "lewiston-city-walk",
+  "name": "The Lewiston City Walk",
+  "meta": "WALK · ONE AFTERNOON · 5 STOPS",
+  "description": "A chained afternoon through Lewiston's own entries — Locomotive Park, the depot, Main Street, Normal Hill, and the confluence, where the walk goes quiet at the Nez Perce beat. Every stop is in the catalog; tap a stop to read its full entry before you go.",
+  "stops": [
+   {
+    "name": "Locomotive Park / Engine 92",
+    "place": "Lewiston, Idaho",
+    "siteSlug": "lewiston-locomotive-park",
+    "hook": "The last logging locomotive Potlatch ran is parked on Main Street. The visitor bureau says the city bought it for one dollar. A rail historian says it was donated in 1963. Nobody has produced the paperwork yet — so the walk starts with a machine and a small honest mystery."
+   },
+   {
+    "name": "Lewiston Depot",
+    "place": "Lewiston, Idaho",
+    "siteSlug": "lewiston-depot",
+    "hook": "Before arrival meant a parking lot, a town introduced itself through a waiting room. Lewiston built itself a front door with a tall central block and long low wings — and then organized the whole business of coming and going inside it."
+   },
+   {
+    "name": "Historic Main Street",
+    "place": "Lewiston, Idaho",
+    "siteSlug": "lewiston-main-street",
+    "hook": "A hardware store that learned to talk. The Liberty started out selling tools and implements in 1902, became a theater in 1920–21, and got its theatrical face remodeled later still. Main Street kept nearly everything — by changing what everything was for."
+   },
+   {
+    "name": "Normal Hill",
+    "place": "Lewiston, Idaho",
+    "siteSlug": "lewiston-normal-hill",
+    "hook": "Start with the distinction visitors can actually see: the tower's masonry survived the fire that gutted Lewiston State Normal School, but the silhouette did not. The spire they see now is a reconstruction."
+   },
+   {
+    "name": "Snake–Clearwater Confluence",
+    "place": "Lewiston, Idaho",
+    "siteSlug": "lewiston-confluence",
+    "hook": "The Nez Perce Tribe describes the Nimiipuu as a self-governing people whose movements across the region connected fishing, hunting and trade. Its own history explains that the 1855 negotiations retained approximately 7.5 million acres as a reservation."
+   }
+  ],
+  "localTours": [
+   {
+    "name": "Idaho History Tours",
+    "org": "Listed by Visit Lewis Clark Valley",
+    "kind": "Paid",
+    "note": "Guided walking tours of historic downtown Lewiston — blocks that have not changed for 100 years — including the ghost tour that goes beneath the sidewalks.",
+    "url": "https://visitlcvalley.com/thing_to_do/museums-arts-tours/"
+   }
+  ]
+ },
+ {
+  "id": "pulaski-day",
+  "name": "The Pulaski Day — Wallace, Idaho",
+  "meta": "WALK + SHORT DRIVE · ONE DAY · 4 STOPS",
+  "description": "The full arc in the order it happened: start where the story is told, walk the ground where it happened, hold the tool it produced, and finish with the names. Morning on the trail, afternoon in town.",
+  "stops": [
+   {
+    "name": "Pulaski Tunnel Trailhead — Start of the Pilgrimage",
+    "place": "Wallace, Idaho",
+    "hook": "Where the two-mile walk begins: the interpretive ground for the tunnel, the War Eagle country, and the escape route — read it tonight, walk it tomorrow."
+   },
+   {
+    "name": "Pulaski Tunnel & Placer Creek Escape Route",
+    "place": "Wallace, Idaho",
+    "hook": "An abandoned prospect hole — no ore ever found in it — where a blacksmith-ranger got his crew of 45 inside on the worst night in American wildland fire history, and forty people walked out."
+   },
+   {
+    "name": "Pulaski's Own Tool — Wallace District Mining Museum",
+    "place": "Wallace, Idaho",
+    "hook": "His own Pulaski, initialed “E.P.”, held in the Smithsonian Institution's collection at the Wallace District Mining Museum — the tool every wildland firefighter still carries, in the town he saved his crew for."
+   },
+   {
+    "name": "Nine Mile Cemetery — the 1910 Firefighters' Monument",
+    "place": "Outside Wallace, Idaho",
+    "hook": "Two cobblestone monuments that exist because Pulaski pressed the Forest Service for twelve years to properly mark his dead men's graves."
+   }
+  ],
+  "localTours": [
+   {
+    "name": "A Walker's Guide to Historic Wallace",
+    "org": "Historic Wallace Chamber of Commerce",
+    "kind": "Free",
+    "note": "The town's own walking-tour guide to its National Register districts — historic homes, churches, and the downtown commercial blocks. Free PDF.",
+    "url": "https://www.wallaceid.fun/wp-content/uploads/2023/01/Wallace-history-tour-copy-1.pdf"
+   },
+   {
+    "name": "Sierra Silver Mine Tour",
+    "org": "Sierra Silver Mine Tour, Inc.",
+    "kind": "Paid",
+    "note": "Wallace's signature paid tour: a trolley from 509 Cedar Street with a narrated history of the town on the way, then underground with a retired miner. 1 hour 15 minutes, leaving every 30 minutes in season (May 1–Oct 15; closed in winter). Advertised prices: adults $25, seniors $22, children 4–16 $12.50, under 4 free.",
+    "url": "https://silverminetour.org/take-the-mine-tour/"
+   }
+  ]
+ },
+ {
+  "id": "toolmakers",
+  "name": "The Toolmaker's Route — the Firehouse Way",
+  "meta": "STORY ROUTE · 4 STOPS · READ IT AS ONE TRIP OF THE MIND, OR FOUR TRIPS OF THE BOOTS",
+  "description": "A century and a half of firefighters building the better tool, strung in chronological order: Chicago's pole, the Sierra's rakehoe, New York's bar and distributor, and Baltimore's invisible standard. Each stop is a working thing, not a plaque.",
+  "stops": [
+   {
+    "name": "Engine Company 21 — Birthplace of the Slide Pole",
+    "place": "Chicago, Illinois",
+    "hook": "In 1878 a firefighter grabbed a hay pole instead of the stairs — and turnout time changed forever. The pole was shaped by the company's own hands, from a raw pine beam."
+   },
+   {
+    "name": "Sierra National Forest — Home Ground of the McLeod",
+    "place": "Sierra National Forest, California",
+    "hook": "Five years before the Big Burn, Ranger Malcolm McLeod put a rake and a hoe on one handle. Line crews still carry his answer on every fire."
+   },
+   {
+    "name": "FDNY Ground — the Bresnan, the Halligan, the Pro-Bar",
+    "place": "New York, New York",
+    "hook": "One department, a habit of invention with names attached: an 1886 cellar nozzle, the 1948 bar its own department wouldn't buy, and the locksmith-lieutenant who refined both the lock pull and the bar itself."
+   },
+   {
+    "name": "Great Baltimore Fire Ground — Where the Threads Wouldn't Couple",
+    "place": "Baltimore, Maryland",
+    "hook": "Some 1,500 buildings burned while mutual-aid hoses wouldn't connect. The fix was adopted in 1905 — and took a century. The monument to this story is threaded onto hydrants to this day."
+   }
+  ]
+ },
+ {
+  "id": "valley-timber",
+  "name": "Timber & Rail — the Lewis-Clark Valley Day",
+  "meta": "DRIVE · ONE LONG DAY · 4 STOPS",
+  "description": "The valley's working landscape in the order the logs moved: the mill that ate the white pine, the bridge that carried it out by rail, and the drive up into the woods to Bovill, the junction town that shipped the crews. Start at the river, end in the trees.",
+  "stops": [
+   {
+    "name": "The Lewiston Mill — Twice the Largest White Pine Mill in the World",
+    "place": "Lewiston, Idaho",
+    "hook": "An 880-acre working mill on the Clearwater that stole the 'world's largest white pine mill' title from its own sister mill — and then learned to make paper out of the waste. You smell it before you see it; locals just call it the mill."
+   },
+   {
+    "name": "Clearwater River Railroad Bridge — the Lift Span at Lewiston",
+    "place": "Lewiston, Idaho",
+    "hook": "A 1908 railroad bridge locals cross without a thought — whose lift span still rises for river traffic under a federal rule that gives the railroad three hours' notice, at the meeting of the Clearwater and the Snake."
+   },
+   {
+    "name": "The Old Lewiston Spiral Highway — 64 Turns Up Lewiston Hill",
+    "place": "Lewiston, Idaho",
+    "hook": "The Palouse plateau sits 2,000 feet above Lewiston, and in 1916 there was no gentle way down. Nez Perce County engineer E.M. Booth's answer: ten miles of road folded into 64 switchbacks at a grade that never exceeds five percent — so well built it won an engineering award, served as the main highway north for sixty years, and is still there, still driveable, every turn of it."
+   },
+   {
+    "name": "Bovill — the Town That Moved the Logs",
+    "place": "Bovill, Idaho",
+    "hook": "Not a mill town — a junction town. Bovill existed to move logs out of the finest white pine stands in North Idaho, and more logging crews shipped out of it than any town around. The prime cut was done by about 1930. The town is still there."
+   }
+  ]
+ },
+ {
+  "id": "mining-country",
+  "name": "Mining Country — Wallace to Kellogg, the Silver Valley Run",
+  "meta": "DRIVE · ONE DAY · 4 STOPS",
+  "description": "Wave 1's ground, in the order the valley lived it: the brick town the Big Burn couldn't finish, the canyon town the railroad ran through, the tunnel country above Wallace, and the memorial at Big Creek where the valley still gathers every May 2. Canyon driving, short walks, heavy ground.",
+  "stops": [
+   {
+    "name": "Wallace 1910 — the Night the Big Burn Took a Third of the Town",
+    "place": "Wallace, Idaho",
+    "hook": "Pulaski's tunnel was the fire in the woods. This is the same night in town: a warm fog at 3 p.m. so thick the streetlights came on, possessions buried in yards, women and children put on trains, and a firestorm that took a third of Wallace anyway — through a downtown that had already burned once, in 1890, and rebuilt in brick for exactly this."
+   },
+   {
+    "name": "Burke — the Town in a 300-Foot Canyon, and the Hotel the Railroad Ran Through",
+    "place": "Burke, Idaho",
+    "hook": "Seven miles up a canyon from Wallace so narrow — 300 feet at its tightest — that the town, the creek, the road, and the railroad all had to share the same ground. The 150-room Tiger Hotel solved it the only way there was: the Northern Pacific ran straight through its lobby, five trains a day."
+   },
+   {
+    "name": "Pulaski Tunnel & Placer Creek Escape Route",
+    "place": "Wallace, Idaho",
+    "hook": "An abandoned prospect hole — no ore ever found in it — where a blacksmith-ranger got his crew of 45 inside on the worst night in American wildland fire history, and forty people walked out."
+   },
+   {
+    "name": "Sunshine Mine Disaster — May 2, 1972, and the Memorial at Big Creek",
+    "place": "Kellogg, Idaho",
+    "hook": "Idaho's worst mining disaster, told in the numbers nobody in the Silver Valley has to look up: 173 men underground on a Tuesday morning, a fire in the air intake, 91 dead of smoke and carbon monoxide — and two men found alive after 175 hours in the dark. The memorial stands by the interstate: a 13-foot miner, drill raised, 91 names on the rock beneath him."
+   }
+  ],
+  "localTours": [
+   {
+    "name": "A Walker's Guide to Historic Wallace",
+    "org": "Historic Wallace Chamber of Commerce",
+    "kind": "Free",
+    "note": "The town's own walking-tour guide to its National Register districts — historic homes, churches, and the downtown commercial blocks. Free PDF.",
+    "url": "https://www.wallaceid.fun/wp-content/uploads/2023/01/Wallace-history-tour-copy-1.pdf"
+   },
+   {
+    "name": "Sierra Silver Mine Tour",
+    "org": "Sierra Silver Mine Tour, Inc.",
+    "kind": "Paid",
+    "note": "Wallace's signature paid tour: a trolley from 509 Cedar Street with a narrated history of the town on the way, then underground with a retired miner. 1 hour 15 minutes, leaving every 30 minutes in season (May 1–Oct 15; closed in winter). Advertised prices: adults $25, seniors $22, children 4–16 $12.50, under 4 free.",
+    "url": "https://silverminetour.org/take-the-mine-tour/"
+   }
+  ]
+ },
+ {
+  "id": "silver-valley",
+  "name": "Silver Valley — Cataldo, Kellogg & the River Road to Murray",
+  "meta": "DRIVE · TWO RELAXED DAYS · 3 STOPS",
+  "description": "Three trips, not one forced loop — this is the first. Day one runs the I-90 backbone: the mission first, then Kellogg as context. Day two is a separate river-road day up Prichard Creek to Murray. Do not cram all three into a short winter day: Cataldo's winter window is five hours, Murray's round trip is about two hours of driving, and the Kellogg museum is shut this season.",
+  "drive": "Drive times are ESTIMATES, not live navigation: Cataldo → Kellogg ≈ 25–35 min (provisional budget). Murray day: Kingston I-90 exit 43 → Murray ≈ 29.5 mi by the county route sheet, ≈ 50–65 min each way at a cautious river-road pace. Cataldo exit 39 → Kingston exit 43 adds ≈ 4 interstate miles. Check Idaho 511 before departure; never default to Dobson or Thompson Pass shortcuts in November.",
+  "season": "Seasonal fallback (current mode): Cataldo runs winter hours 10:00–15:00. The Staff House Museum is CLOSED until Memorial Day 2027 — Kellogg is a public-street interpretation pause only, and Wardner has no stop on this tour. Murray's museum interior waits until its hours are confirmed. Finish outdoor activity by ≈ 15:00–15:30 Pacific as a conservative winter cutoff. In open season the same shape stretches: museum first in Kellogg, a full 90–120 minutes in Murray.",
+  "landing": "Where the story lands: at Cataldo, AFTER Sacred Encounters — the church seen once you know whose land and whose hands built it. In Kellogg, the landing is a document, not a building: the union paper's “BUNKER HILL DESTROYED” beside Merriam's work-permit conditions. In Murray, it lands in the Sprag Pole's ordinary tools and domestic rooms — a mining place was a lived community.",
+  "stops": [
+   {
+    "name": "Cataldo Mission — Coeur d'Alene's Old Mission, Inside a Homeland",
+    "place": "Cataldo, Idaho",
+    "siteSlug": "cataldo-mission",
+    "hook": "Idaho's oldest standing building sits inside a much older story. The Coeur d'Alene Tribe — Schitsu'umsh, “Those who were found here” — was here for generations before an invitation brought Father DeSmet in 1842. The church that followed was built with Native workmen, hand tools, rope and pulleys. Start with the people; the building comes second, and means more for it."
+   },
+   {
+    "name": "Bunker Hill & Kellogg — Two Labor Conflicts, Not One Explosion",
+    "place": "Kellogg, Idaho",
+    "siteSlug": "bunker-hill-kellogg",
+    "gateShort": "Staff House Museum CLOSED until Memorial Day 2027",
+    "hook": "The useful question is not merely who blew up a mill. It is who could work, who could organize, who could summon the state — and who could be imprisoned without allegation being confused with conviction. Kellogg holds both conflicts: 1892 and 1899, told separately, as they happened."
+   },
+   {
+    "name": "Murray — the Gold Camp Behind the Silver Valley",
+    "place": "Murray, Idaho",
+    "siteSlug": "murray",
+    "gateShort": "Museum hours change — check before you drive",
+    "hook": "Before the Silver Valley was silver, it was this: a creek full of coarse gold, a camp made permanent on January 22, 1884, a county seat for thirteen years — and a courthouse the town tried to save and lost to a snow load in a single night in 1997, while the effort was still underway."
+   }
+  ]
+ },
+ {
+  "id": "central-idaho",
+  "name": "Central Idaho — Challis, Bayhorse, the Dredge & Custer",
+  "meta": "DRIVE · TWO DAYS · OPEN SEASON ONLY · 2 STOPS — BAYHORSE CLOSED FOR THE SEASON",
+  "description": "An open-season trip, not a November ghost-town drive. Day one: the Land of the Yankee Fork interpretive center in Challis (24424 Highway 75; Wed–Sun 08:30–16:30), then Bayhorse. Day two: the dredge, then Custer — or, if chronology matters more than the tour cutoff, Custer first (people and settlement) and the dredge last (industrial scale). Base in Challis; Stanley after day two if you're moving on. Bayhorse is a stop below, but it is closed for the season — do not drive out for it until its reopening is announced.",
+  "drive": "Drive times are ESTIMATES from published distances, not measured ETAs: Challis → Bayhorse, reserve a 30–45 min one-way provisional buffer (use the signed townsite entrance, NOT Bayhorse Lake). SH-75/US-93 junction → dredge ≈ 52 mi (42 mi to Sunbeam + ≈10 mi up Yankee Fork Road), ≈ 90–110 min. Dredge ↔ Custer ≈ 10–20 min provisional. Stanley → Sunbeam ≈ 11–13 mi + 9–10 side-road miles, ≈ 45–60 min. Do NOT loop via the Custer Motorway (46 backcountry miles, 8,800-ft pass) as if it were equivalent.",
+  "season": "Seasonal fallback (current mode): Bayhorse CLOSED for the season (Oct 26, 2026; reopening not yet announced) and Custer/dredge are summer-season only — so right now this trip is the Challis interpretive center alone: 60–90 minutes indoors, then back to town. Do not substitute “walk around the gate.” November outdoor finish ≈ 15:30–16:00 Mountain, with a same-day weather and road check. In season: dredge tours 10:00–16:30 (stairs inside; not step-free), Custer has vault toilets and no potable water — carry water and lunch from town.",
+  "landing": "Where the story lands: standing between Custer's human-scale street and the dredge's five miles of tailings, asking what the process extracted and what it left. The machine explained by its landscape — not merely photographed, and never a “find gold here” stop.",
+  "stops": [
+   {
+    "name": "Bayhorse Ghost Town",
+    "place": "Bayhorse, Idaho",
+    "siteSlug": "bayhorse",
+    "gateShort": "Closed for the season — reopening not yet announced",
+    "hook": "Bayhorse Ghost Town is CLOSED for the season. The current Idaho Parks bulletin gives October 26, 2026 as the closure date."
+   },
+   {
+    "name": "Custer & the Yankee Fork Dredge — Two Mining Landscapes",
+    "place": "Custer, Idaho",
+    "siteSlug": "custer-yankee-fork",
+    "gateShort": "Summer season only — winter access not promised",
+    "hook": "One valley, two industrial centuries, never to be confused: an 1879 main street that supported hard-rock mines — Chinese laundries, a joss house, a union hall among the saloons — and, sixty years later, a floating factory that chewed five miles of the river itself into tailings. The machine is not just an exhibit. The rearranged ground is part of its work."
+   }
+  ]
+ },
+ {
+  "id": "celilo",
+  "name": "Celilo — Listen First, Then Stand Beside the River",
+  "meta": "HALF DAY FROM THE DALLES · REFLECTION STOP — NOT SCORED · 1 STOP",
+  "description": "A separate half-day, based in The Dalles — it needs no invented extra attraction to be worthwhile. The order is the interpretation: read or listen to the tribal accounts FIRST (linked in the entry and the Research Desk), then go to Celilo Park, then return to town for reflection. Total module ≈ 2–3 hours including the reading and the return.",
+  "drive": "Drive times are ESTIMATES: The Dalles → Celilo Park ≈ 12 mi east, ≈ 20–30 min each way allowing local streets, highway access and parking. Entrance: I-84 Exit 97, north toward the river on the signed park access; designated parking only; cross the railroad only at the designated road crossing. Dwell at the park ≈ 45–75 min. Check Oregon TripCheck and the day's forecast before departure.",
+  "season": "Seasonal fallback: DAY USE ONLY in every season — do not promise camping (USACE restricts it to Mar 16–Oct 31, tent camping Fri–Sat only; the NPS camping description is older and the entry prints both). In November prefer 10:00–14:00 Pacific, avoiding dusk, wind and icy banks. Open season changes only the daylight, never the permission: Celilo Village, the longhouse and treaty fishing platforms are not stops in any season.",
+  "landing": "Where the story lands — and it is the whole trip: at the public river view, after the tribal accounts, understanding that the falls are submerged and not waiting around the next bend. Geraldine Jim: “That was our life.” Chief Johnny Jackson: “The power of Celilo Falls helped me learn to respect the river.” Read them before you go; then the quiet river is the stop. Not a hunt for the submerged falls.",
+  "stops": [
+   {
+    "name": "Celilo Falls / Wy-am — the Falls Submerged, the People Remain",
+    "place": "Celilo Park, Oregon",
+    "siteSlug": "celilo-falls",
+    "hook": "“The water changed in a day. The relationship to this place did not end.” On March 10, 1957, the gates of The Dalles Dam closed and within hours the reservoir silenced a salmon fishery fished for at least 10,000 years. The falls are underwater. The people of Celilo Village remain. Stand beside the quiet river knowing both."
+   }
+  ]
+ }
+]
