@@ -155,7 +155,7 @@ function Scrapbook() {
       </section>
 
       <section className="panel">
-        <h2>Photo tags</h2>
+        <h2>Your tags</h2>
         {checkins && checkins.length > 0 ? (
           <ul className="plain-list">
             {checkins.map((c) => (

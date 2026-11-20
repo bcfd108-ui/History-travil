@@ -28,7 +28,7 @@ export default function ClaimFind({
   finds: string[];
 }) {
   return (
-    <SavingGate feature="Photo tags">
+    <SavingGate feature="Tags">
       <ClaimForm slug={slug} finds={finds} />
     </SavingGate>
   );
@@ -65,9 +65,12 @@ function ClaimForm({ slug, finds }: { slug: string; finds: string[] }) {
           setErr(errMsg);
         } else {
           setMsg(
-            point
-              ? "Tagged — photo saved to your scrapbook, with your position as the witness."
-              : "Tagged — photo saved to your scrapbook. No position was recorded.",
+            (photo
+              ? "Tagged — your visit is recorded, and the photo is in your scrapbook."
+              : "Tagged — your visit is recorded. The tag stands on your being there; no photo needed.") +
+              (point
+                ? " Your position stands as the witness."
+                : " No position was recorded."),
           );
           setPhoto(null);
         }
@@ -82,7 +85,7 @@ function ClaimForm({ slug, finds }: { slug: string; finds: string[] }) {
         </select>
       </label>
       <label>
-        Your photo of it{" "}
+        Your photo of it — optional{" "}
         <input
           type="file"
           accept="image/*"
@@ -99,8 +102,8 @@ function ClaimForm({ slug, finds }: { slug: string; finds: string[] }) {
         tag — never a trail, never used for anything else)
       </label>
       <p>
-        <button type="submit" className="btn" disabled={busy || !photo}>
-          {busy ? "Saving the tag…" : "Tag it with this photo"}
+        <button type="submit" className="btn" disabled={busy}>
+          {busy ? "Saving the tag…" : "Tag it — I was there"}
         </button>
       </p>
       {msg && <p className="form-ok">{msg}</p>}

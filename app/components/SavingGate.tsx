@@ -45,7 +45,7 @@ export function SavingGate({
       <div className="dormant" role="note">
         <strong>{feature} — sign in to save.</strong>
         <p>
-          The account is free and exists only for saving — plans, photo tags, your stamp book,
+          The account is free and exists only for saving — plans, tags, your stamp book,
           your notebook. We email you a sign-in link; there is no password. Or open{" "}
           <Link href="/account">your scrapbook</Link> to sign in there.
         </p>
