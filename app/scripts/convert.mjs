@@ -25,6 +25,8 @@ const outDir = join(appRoot, "data");
 const STATE_NAMES = {
   ID: "Idaho", WA: "Washington", OR: "Oregon", MT: "Montana", WY: "Wyoming",
   UT: "Utah", NV: "Nevada", CA: "California", CO: "Colorado",
+  AZ: "Arizona", NM: "New Mexico", ND: "North Dakota", SD: "South Dakota",
+  NE: "Nebraska", KS: "Kansas", OK: "Oklahoma", TX: "Texas", MN: "Minnesota",
 };
 // Uncoded (home-bench) slugs: slug -> [town, stateCode]
 const LOCAL = {
@@ -67,7 +69,7 @@ const THEME_KEYWORDS = {
 // line (variant format) when no `## 1.` exists.
 function splitSections(md) {
   const sections = {};
-  const re = /^## (\d+)\.\s*(.*)$/gm;
+  const re = /^## (\d+)\s*[.·]\s*(.*)$/gm;
   const heads = [];
   let m;
   while ((m = re.exec(md)) !== null) heads.push({ n: +m[1], title: m[2].trim(), at: m.index, bodyAt: re.lastIndex });
@@ -79,6 +81,11 @@ function splitSections(md) {
   if (!sections[1]) {
     const b = md.match(/^\*\*1\.\s+(.+?)\*\*\s*$/m);
     if (b) { sections[1] = { title: "Trip gate", body: b[1].trim() }; boldSec1 = true; }
+  }
+  if (!sections[1]) {
+    // Newer batches: `**1 · Trip gate** — <gate text on the same line>`.
+    const b2 = md.match(/^\*\*1\s*[.·]\s*Trip gate\*\*\s*[—–-]\s*(.+)$/m);
+    if (b2) { sections[1] = { title: "Trip gate", body: b2[1].trim() }; boldSec1 = true; }
   }
   return { sections, boldSec1 };
 }
@@ -92,7 +99,7 @@ function splitTitled(md) {
   const heads = [];
   let m;
   while ((m = re.exec(md)) !== null) {
-    if (/^\d+\./.test(m[1].trim())) continue; // numbered — handled elsewhere
+    if (/^\d+\s*[.·]/.test(m[1].trim())) continue; // numbered — handled elsewhere
     heads.push({ title: m[1].trim(), at: m.index, bodyAt: re.lastIndex });
   }
   heads.forEach((h, i) => {
@@ -110,20 +117,23 @@ function mapSections(sections, titled) {
   const used = new Set();
   const take = (s) => { if (s) used.add(s); return s || null; };
   const byTitle = (re) => vals.find((s) => !used.has(s) && re.test(s.title));
-  const num = (n) => sections[n] && !used.has(sections[n]) ? sections[n] : null;
+  // num() must return the vals copy, not the raw sections object: `used`
+  // tracks vals copies, so returning the original left the copy unmarked
+  // and the section was duplicated into moreSections.
+  const num = (n) => { const v = vals.find((s) => s.n === n); return v && !used.has(v) ? v : null; };
 
   // Candidate-finds sections: only the standard scheme's exact §8 title is
   // mechanically converted. Variant candidate sections (Lewiston LD-01,
   // St. Joe §6, Celilo §5) are individually gated in the record and are
   // withheld here rather than converted blind.
-  const candSec = vals.find((s) => /^candidate finds/i.test(s.title)) || null;
+  const candSec = vals.find((s) => /candidate finds|photo-tag observations|field-only proposed observations/i.test(s.title)) || null;
   const anyCandSec = byTitle(/candidate|scavenger/i);
-  const locatorSec = vals.filter((s) => /locator/i.test(s.title)).sort((a, b) => b.n - a.n)[0] || sections[10] || null;
+  const locatorSec = vals.filter((s) => /locator/i.test(s.title)).sort((a, b) => b.n - a.n)[0] || num(10);
 
   let lead = "";
   let gate = byTitle(/trip gate/i) || byTitle(/field-photo gate|trip-shaping/i);
   if (!gate) {
-    const s1 = sections[1], s2 = sections[2];
+    const s1 = num(1), s2 = num(2);
     if (s1 && /interpretive proposition/i.test(s1.title)) { lead = s1.body; used.add(s1); }
     else if (s1 && s2 && /story|narrative/i.test(s2.title) && !/story|narrative/i.test(s1.title)) gate = take(s1);
   }
@@ -132,10 +142,14 @@ function mapSections(sections, titled) {
 
   const story = take(byTitle(/the story|narrative|original story/i)) || take(num(2));
   const thenNow = take(byTitle(/then\s*\/\s*now/i)) || take(num(3));
-  const progression = take(byTitle(/progression|stop order|runnable/i)) || take(num(5) && !/candidate|scavenger/i.test(sections[5].title) ? sections[5] : null);
-  const stillThere = take(byTitle(/still there|surviving features/i)) || take(num(4) && !/stop order|runnable|candidate|progression/i.test(sections[4].title) ? sections[4] : null);
-  const gaps = take(byTitle(/gap/i)) || take(num(6));
-  const photoRecord = take(byTitle(/photo record/i)) || take(num(7) && !/source/i.test(sections[7].title) ? sections[7] : null);
+  const n5 = num(5), n4 = num(4), n7 = num(7), n6 = num(6);
+  const progression = take(byTitle(/progression|stop order|runnable/i)) || take(n5 && !/candidate|scavenger/i.test(n5.title) ? n5 : null);
+  const stillThere = take(byTitle(/still there|surviving features/i)) || take(n4 && !/stop order|runnable|candidate|progression|gap/i.test(n4.title) ? n4 : null);
+  // The §6 fallback is only valid when §6 is actually the gaps section:
+  // alt schemes put the source list at §6, and the register must not be
+  // filed under gaps (it is claimed by sources below).
+  const gaps = take(byTitle(/gap/i)) || take(n6 && /gap/i.test(n6.title) ? n6 : null);
+  const photoRecord = take(byTitle(/photo record/i)) || take(n7 && !/source/i.test(n7.title) ? n7 : null);
   const sources = take(byTitle(/source/i)) || take(num(9));
   if (locatorSec) used.add(locatorSec);
   if (candSec) used.add(candSec);
@@ -152,6 +166,8 @@ function parseLocator(sec) {
   for (const rawLine of body.split("\n")) {
     let line = rawLine.trim().replace(/^[-*]\s+/, "").replace(/^\|\s*/, "").replace(/\s*\|$/, "");
     if (!line) continue;
+    if (/^[-|:\s]+$/.test(line)) continue; // pipe-table separator row — machinery, not data
+    if (/^field\s*\|\s*value$/i.test(line)) continue; // pipe-table header row
     const cell = line.match(/^\|?\s*([^:|]{2,60}?)\s*\|\s*(.*)$/);
     const m = cell || line.match(/^\*{0,2}([^:*]{2,60}?)\*{0,2}:\s*(.*)$/);
     if (m) pairs.push({ key: m[1].trim().replace(/_/g, " ").replace(/^trip gate$/i, "Before you go"), value: m[2].trim() });
@@ -273,7 +289,7 @@ function convert(filePath, origin) {
   let preamble = "";
   if (titleLine) {
     const after = md.slice(md.indexOf(titleLine) + titleLine.length);
-    const cut = after.search(/^## \d+\.|^\*\*1\.\s/m);
+    const cut = after.search(/^## \d+[.·]|^\*\*1\s*[.·]\s/m);
     preamble = (cut >= 0 ? after.slice(0, cut) : "").replace(/^\*\*1\..*$/m, "").trim();
   }
 
@@ -321,16 +337,16 @@ function convert(filePath, origin) {
     if (am) town = am[1].trim();
   }
   if (!town && S.gate) {
-    const gm = S.gate.body.match(/([A-Z][A-Za-z .'-]+),\s*(?:ID|WA|OR|MT|WY|UT|NV|CA|CO)\s*\d{5}/);
+    const gm = S.gate.body.match(/([A-Z][A-Za-z .'-]+),\s*(?:ID|WA|OR|MT|WY|UT|NV|CA|CO|AZ|NM|ND|SD|NE|KS|OK|TX|MN)\s*\d{5}/);
     if (gm) town = gm[1].trim();
   }
 
   const candHead = S.candSec ? S.candSec.body.split("\n").filter(Boolean).slice(0, 3).join(" ") : "";
   const signals = {
-    slug: slug.includes("reflection"),
-    candSec: /reflection (prompts )?only|witness only|witness-only|none:?\s*reflection|no hunt, scoring/i.test(S.candSec?.body || "") || /reflection only|witness only/i.test(candHead),
-    preamble: /reflection|sacred/i.test(preamble),
-    gate: /reflection (stop|ground|only)/i.test(S.gate?.body || "") || /sacred (site|ground)|not a (game|hunt)/i.test((S.gate?.body || "") + " " + S.lead),
+    slug: slug.includes("reflection") || slug.includes("witness"),
+    candSec: /reflection (prompts )?only|witness only|witness-only|none:?\s*reflection|no hunt, scoring/i.test(S.candSec?.body || "") || /reflection only|witness only/i.test(candHead) || /quiet witness|quiet reflection/i.test((S.candSec?.body || "").slice(0, 160)),
+    preamble: /reflection|sacred|quiet witness/i.test(preamble),
+    gate: /reflection (stop|ground|only)|quiet witness|quiet reflection|witness only/i.test(S.gate?.body || "") || /sacred (site|ground)|not a (game|hunt)/i.test((S.gate?.body || "") + " " + S.lead),
   };
   const isReflection = signals.slug || signals.candSec || signals.preamble || signals.gate;
   const stopType = isReflection ? "reflection" : "view";
