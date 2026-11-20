@@ -45,13 +45,6 @@ A 2007 Congressional Record commemoration describes the inundation in six hours,
 ### Current visitor-rule conflict: don't sell stale camping advice
 NPS broadly advertises RV/tent camping, but the managing USACE district's current recreation listing restricts camping to March 16–October 31, with Celilo tent camping Friday and Saturday only; it also limits stays. November 19 is outside that season. Plan this as a day-use visit, not overnight lodging. A Corps system row labels Celilo Park “WA,” conflicting with NPS/manager Oregon location; do not use that metadata to route travelers. Manager rules and signs control. Full-page USACE retrieval later returned 403; earlier indexed manager text supplied the restrictions, so recheck current closures before departure. [C1, C9–C10]
 
-## 5. Two safe scavenger candidates: field verification required before activation
-**CF-01 — Public memorial placement.** At the Celilo Falls Fishing Grounds tablet, from the established path only: Is the river in front of, behind, left or right of you when facing the inscription? Pair the answer with one sentence explaining why this small memorial cannot convey the falls' former sound. Answer/orientation: [blank]. Verify present placement and an accessible legal standing point; no compass/geofence guess from historic coordinates. If missing or blocked, skip. [C8]
-
-**CF-02 — Public interpretation panel observation.** If a current park panel contains a historical falls image, identify one visible feature in that image that cannot be seen in the present reservoir view from the public path. Record the panel title and the feature in words, not a photograph of people. Exact panel/title/answer: [blank]. NPS verifies interpretive facilities, not this particular panel; keep candidate DISABLED until a field checker confirms image, location, and route. [C1]
-
-Neither activity asks for objects, entry, rocks, fishing gear, sacred knowledge or resident interaction. Competition scoring must reward observation, not access beyond barriers. No “find a Native fisher” or “locate the village” task.
-
 ## 6. Honest gaps and release gates
 - Primary operating logs to resolve inundation timing; broader published tribal oral histories with narrator consent/reuse status.
 - Exact pre-dam village and falls map layers, visibly distinguished from public routing; no invented footprints.
