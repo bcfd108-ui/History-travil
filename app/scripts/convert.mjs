@@ -226,7 +226,7 @@ function extractCandidates(candSec, isReflection) {
 // us do not. (Gene, Nov 19, 2026: readers never see the machinery.)
 function cleanPreamble(raw) {
   if (!raw) return "";
-  const headerRe = /dash qc|desk review|local only|no upload|no publication|research draft|draft feedstock/i;
+  const headerRe = /dash qc|desk review|local only|no upload|no publication|research draft|draft feedstock|draft research|for dash|drafted for independent qc|fred\s*→\s*dash|\bOP\d{2}\b/i;
   const instructionRe = /do not publish|not verified|in this pass|reopening date: blank|do not schedule|recheck before promising/i;
   const kept = [];
   for (const para of raw.split(/\n\s*\n/)) {
@@ -246,7 +246,7 @@ function cleanPreamble(raw) {
       if (headerRe.test(p)) continue;
     }
     if (!p) continue;
-    const sentences = p.split(/(?<=\.)\s+/).filter((s) => !instructionRe.test(s));
+    const sentences = p.split(/(?<=\.)\s+/).filter((s) => !instructionRe.test(s) && !headerRe.test(s));
     p = sentences.join(" ").replace(/\s*\[[A-Z]\d+(?:\s*,\s*[A-Z]\d+)*\]/g, "").replace(/\s{2,}/g, " ").trim();
     if (p) kept.push(p);
   }
