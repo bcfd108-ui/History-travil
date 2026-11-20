@@ -10,4 +10,5 @@ on the ground.
   build time by `app/scripts/convert.mjs`
 - The four `HT-RES-*.md` files at the root are the home-bench dossiers.
 
-Live: https://history-travil.vercel.app
+Live: https://history-travil.vercel.app (production; the history-travel project is a mirror of the same build)
+Saving: visitor accounts (Supabase) wired November 19, 2026.
