@@ -3,6 +3,8 @@
 // bullet and numbered lists, blockquotes, and occasional pipe tables.
 // Content comes from our own research files; HTML is escaped before any
 // inline formatting is applied.
+import { readingBlocks, readingText } from "./record-reading";
+
 function esc(s: string): string {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
@@ -17,9 +19,14 @@ function inline(s: string): string {
   return out;
 }
 
-export function renderMarkdown(md: string): string {
+export function renderMarkdown(md: string, voices?: string[]): string {
   if (!md) return "";
-  const lines = md.split("\n");
+  const lines = (voices ? readingText(md) : md).split("\n");
+  const paragraphs = (value: string) => readingBlocks(value, voices || []).map(block => {
+    const tag = block.quote ? "blockquote" : "p";
+    return `<${tag}>${inline(block.text)}</${tag}>`;
+  }).join("");
+  const listItem = (value: string) => voices ? paragraphs(value) : inline(value);
   const blocks: string[] = [];
   let i = 0;
   const isBlockStart = (l: string) =>
@@ -47,13 +54,14 @@ export function renderMarkdown(md: string): string {
       while (i < lines.length) {
         const lt = lines[i].trim();
         const bm = lt.match(/^(?:[-*]|\d+[.)])\s+(.*)$/);
-        if (bm) { items.push(`<li>${inline(bm[1])}</li>`); i++; }
+        if (bm) { items.push(bm[1]); i++; }
         else if (lt && !isBlockStart(lines[i]) && items.length) {
-          items[items.length - 1] = items[items.length - 1].replace(/<\/li>$/, ` ${inline(lt)}</li>`);
+          items[items.length - 1] = items[items.length - 1] + " " + lt;
           i++;
         } else break;
       }
-      blocks.push(ordered ? `<ol>${items.join("")}</ol>` : `<ul>${items.join("")}</ul>`);
+      const tag = ordered ? "ol" : "ul";
+      blocks.push(`<${tag}>${items.map(item => `<li>${listItem(item)}</li>`).join("")}</${tag}>`);
       continue;
     }
     if (/^>\s?/.test(t)) {
@@ -65,12 +73,12 @@ export function renderMarkdown(md: string): string {
     const parts = [t];
     i++;
     while (i < lines.length && lines[i].trim() && !isBlockStart(lines[i])) { parts.push(lines[i].trim()); i++; }
-    blocks.push(`<p>${inline(parts.join(" "))}</p>`);
+    blocks.push(voices ? paragraphs(parts.join(" ")) : `<p>${inline(parts.join(" "))}</p>`);
   }
   return blocks.join("\n");
 }
 
-export function Md({ text, className }: { text: string; className?: string }) {
+export function Md({ text, className, voices }: { text: string; className?: string; voices?: string[] }) {
   if (!text) return null;
-  return <div className={className || "md"} dangerouslySetInnerHTML={{ __html: renderMarkdown(text) }} />;
+  return <div className={className || "md"} dangerouslySetInnerHTML={{ __html: renderMarkdown(text, voices) }} />;
 }
