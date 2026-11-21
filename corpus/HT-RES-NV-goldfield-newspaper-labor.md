@@ -86,6 +86,7 @@ Potential future learning activity: distinguish an occupational listing from a p
 
 ## 10. Locator record
 - Stable entry name: Goldfield newspaper labor: printer, pressman and stenographer
+- Town: Goldfield
 - Division/dossier: NV / HT-RES-NV-goldfield-newspaper-labor
 - Public anchor: Remote UNLV digital directory and institutional collection catalogs; physical stop NOT RELEASED
 - Printed street address: **blank**; historical workplace/residential addresses excluded

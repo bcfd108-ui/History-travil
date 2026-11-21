@@ -93,6 +93,7 @@ If the materials are unavailable, preserve that gap. Do not approach current emp
 7. https://special.library.unlv.edu/node/50673
 
 ## 10. Locator record
+- Town: Las Vegas
 
 - **Stable name:** UNLV Special Collections and Archives, Lied Library
 - **Latitude:**

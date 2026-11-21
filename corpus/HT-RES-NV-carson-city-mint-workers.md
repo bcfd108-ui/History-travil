@@ -88,6 +88,7 @@ Future interpretation may compare how a payroll and a public-history panel ident
 
 ## 10. Locator record
 - Stable entry name: Carson City mint workers: names behind the mint mark
+- Town: Carson City
 - Division/dossier: NV / HT-RES-NV-carson-city-mint-workers
 - Public anchor: Nevada State Museum, Carson City
 - Printed street address: 600 North Carson Street, Carson City, Nevada 89701 [1]

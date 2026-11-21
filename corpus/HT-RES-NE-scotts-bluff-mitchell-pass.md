@@ -72,6 +72,7 @@ Field-only candidate: photograph the pass opening from an NPS-designated public 
 | Field | Value |
 |---|---|
 | Stable site name | Scotts Bluff National Monument — Mitchell Pass visitor area |
+| Public anchor | Scotts Bluff National Monument — Mitchell Pass visitor area |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

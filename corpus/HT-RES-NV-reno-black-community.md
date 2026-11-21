@@ -95,6 +95,7 @@ Relevant pages opened and read November 19, 2026. Primary evidence here means at
 
 ## 10. Locator record
 - Stable name: Reno Black community — housing and belonging reflection
+- Town: Reno
 - Public visitor address: none cleared; archive-only
 - Latitude:
 - Longitude:

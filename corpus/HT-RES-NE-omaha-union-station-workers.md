@@ -72,6 +72,8 @@ Field-only candidate: photograph a surviving Great Hall detail from a permitted 
 | Field | Value |
 |---|---|
 | Stable site name | Omaha Union Station — The Durham Museum |
+| Town | Omaha |
+| Public anchor | The Durham Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

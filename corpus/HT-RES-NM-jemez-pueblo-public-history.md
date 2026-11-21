@@ -92,6 +92,7 @@ No trivia, scored search, collection, community encounter or culturally sensitiv
 All five sources read for this local draft. The named source is Pueblo-published; operational pages are separately attributed to the enterprise.
 
 ## 10. Locator record
+- Town: Jemez Pueblo
 Stable public anchor name: Walatowa Visitor Center / Walatowa History Museum
 Public visitor address: 7413 Hwy 4, Jemez Pueblo, New Mexico 87024 [1]
 Latitude:

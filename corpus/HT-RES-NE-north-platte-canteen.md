@@ -67,6 +67,7 @@ Field-only candidate: photograph a museum-labeled canteen object if staff confir
 | Field | Value |
 |---|---|
 | Stable site name | North Platte Canteen — Lincoln County Historical Museum interpretation |
+| Town | North Platte |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

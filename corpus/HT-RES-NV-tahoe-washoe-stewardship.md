@@ -97,6 +97,7 @@ Reflection only. No scored hunt, collectible, ceremony or cultural-location clue
 
 ## 10. Locator record
 - Stable name: Nevada State Museum, Carson City, Under One Sky Basket Gallery
+- Town: Carson City
 - Public visitor address: 600 North Carson Street, Carson City, Nevada 89701 [2]
 - Public entrance: Dema Guinn Concourse [2]
 - Latitude:

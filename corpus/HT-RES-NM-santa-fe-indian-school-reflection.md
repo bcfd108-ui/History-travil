@@ -91,6 +91,7 @@ Smithsonian makes oral histories available for noncommercial educational/persona
 ## 10. Locator record
 
 - Stable name: Santa Fe Indian School historical reflection — independent museum/digital interpretation.
+- Town: Santa Fe
 - Public anchor: Museum of Indian Arts & Culture, not Santa Fe Indian School.
 - Printed visitor address: 710 Camino Lejo, Santa Fe, New Mexico. [1]
 - Latitude: blank.

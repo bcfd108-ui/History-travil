@@ -49,6 +49,8 @@ Potential unscored architectural texture observation after staff approval and fi
 | Field | Value |
 |---|---|
 | Stable site name | Sod House Museum — McCully Sod House |
+| Town | Aline |
+| Public anchor | Sod House Museum ordinary signed entrance, drive-up and short walk |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

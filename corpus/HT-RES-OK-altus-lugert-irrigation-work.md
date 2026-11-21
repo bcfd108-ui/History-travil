@@ -48,6 +48,7 @@ No contribution path at the water works or the historic displacement reading.
 | Field | Value |
 |---|---|
 | Stable site name | Altus–Lugert W. C. Austin Irrigation Project Witness |
+| Town | Altus |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

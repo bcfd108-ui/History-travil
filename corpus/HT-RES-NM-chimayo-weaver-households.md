@@ -116,6 +116,7 @@ https://www.moifa.dca.nm.gov/visit/visitor-tips-and-guidelines/
 ## 10. Locator record
 
 - Stable name: Museum of International Folk Art
+- Town: Chimayó
 - Latitude:
 - Longitude:
 - Coordinate source:

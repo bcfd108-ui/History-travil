@@ -71,6 +71,8 @@ Candidate photo find, subject to field check — a visible joint between the por
 | Field | Value |
 |---|---|
 | Stable site name | Nebraska State Capitol |
+| Town | Lincoln |
+| Public anchor | Nebraska State Capitol |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

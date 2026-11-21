@@ -73,6 +73,8 @@ Candidate photo find, pending field check — a surviving freight-width opening 
 | Field | Value |
 |---|---|
 | Stable site name | Ogallala cattle market and Union Pacific loading work |
+| Town | Ogallala |
+| Public anchor | Petrified Wood Gallery, 418 East 1st Street, Ogallala |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

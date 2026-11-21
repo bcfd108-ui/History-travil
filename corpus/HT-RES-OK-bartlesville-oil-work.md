@@ -56,6 +56,8 @@ No photo tag offered. Any future voluntary contribution requires lawful field-ch
 | Field | Value |
 |---|---|
 | Stable site name | Bartlesville Area History Museum — oil work interpretation |
+| Town | Bartlesville |
+| Public anchor | Bartlesville Area History Museum |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

@@ -103,6 +103,7 @@ Opened/read November 19, 2026. The transcript's web-reader fetch failed; its ins
 
 ## 10. Locator record
 - Stable name: Reno divorce economy — Barbara Davis boardinghouse labor reflection
+- Town: Reno
 - Public visitor address: none cleared
 - Closed candidate address, not a stop: Nevada Historical Society, 1650 North Virginia Street, Reno, NV 89503 [4]
 - Latitude:

@@ -89,6 +89,7 @@ No cultural object, ceremonial knowledge, private family information, or sensiti
 
 ## 10. Locator record
 Stable name: Duck Valley / Owyhee Shoshone-Paiute public-history reading dossier (archive-only; no physical stop)
+- Town: Owyhee
 Public visitor address:
 Latitude:
 Longitude:

@@ -92,6 +92,7 @@ Photo-tag permission:
 
 ## 10. Locator record
 - Stable name: Bosque Redondo Memorial / home, confinement and continuing sovereignty.
+- Town: Fort Sumner
 - Public anchor: Bosque Redondo Memorial visitor museum at Fort Sumner Historic Site.
 - Printed visitor address: 3647 Billy the Kid Road, Fort Sumner, NM. [2,4]
 - Latitude:
