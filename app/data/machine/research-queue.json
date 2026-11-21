@@ -5,1179 +5,6 @@
  "orderRule": "Seeding (zero live entries) by tier then march order; then depth in march order. States outside the march follow Alaska, by postal code. Unknown tier sorts last. See app/lib/machine-queue.mjs.",
  "items": [
   {
-   "id": "lq_02744a672d09fd84",
-   "projectedSlug": "nc-broughton-hospital-western-nc-insane-asylum",
-   "targetSlug": null,
-   "name": "Broughton Hospital (Western NC Insane Asylum)",
-   "town": "Morganton",
-   "county": "Burke",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "Active state psychiatric hospital; National Register main building visible from public road only, no public museum/tour anchor confirmed [THEME: asylum]",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 219,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_04ea4fa9d8e87648",
-   "projectedSlug": "nc-alamance-battleground",
-   "targetSlug": null,
-   "name": "Alamance Battleground",
-   "town": "Burlington",
-   "county": "Alamance",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NC State Historic Site — 1771 Regulator battle ground, visitor center",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 250,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0f86786f6f8f0a48",
-   "projectedSlug": "nc-thalian-hall",
-   "targetSlug": null,
-   "name": "Thalian Hall",
-   "town": "Wilmington",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "theater — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 248,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_15284d2dfc2ba0b5",
-   "projectedSlug": "nc-fort-bragg-fort-liberty-and-the-airborne-ground",
-   "targetSlug": null,
-   "name": "Fort Bragg / Fort Liberty & the Airborne ground",
-   "town": "Fayetteville",
-   "county": "Cumberland",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "U.S. Army Airborne & Special Operations Museum in downtown Fayetteville is the public, off-post anchor; the installation itself is access-restricted [THEME: military]",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 261,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1bdb39df3c1b09e3",
-   "projectedSlug": "nc-reed-gold-mine",
-   "targetSlug": null,
-   "name": "Reed Gold Mine",
-   "town": "Midland",
-   "county": "Cabarrus",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NC State Historic Site — first documented U.S. gold find, mine tunnels and museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 227,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1e48137b8f895f21",
-   "projectedSlug": "nc-latta-place",
-   "targetSlug": null,
-   "name": "Latta Place",
-   "town": "Huntersville",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "plantation — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 261,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1f21c149e4257b50",
-   "projectedSlug": "nc-devils-tramping-ground",
-   "targetSlug": null,
-   "name": "Devil's Tramping Ground",
-   "town": "Bear Creek",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 252,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_24fe6282d7aa90db",
-   "projectedSlug": "nc-fort-fisher-state-historic-site",
-   "targetSlug": null,
-   "name": "Fort Fisher State Historic Site",
-   "town": "Kure Beach",
-   "county": "New Hanover",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NC State Historic Site — Confederate fort and 1865 battle ground, visitor center [THEME: military]",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 270,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3b61fbeba82de7d6",
-   "projectedSlug": "nc-biltmore",
-   "targetSlug": null,
-   "name": "Biltmore",
-   "town": "Asheville",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 247,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3cba2f4bd3d3aea4",
-   "projectedSlug": "nc-black-wall-street-parrish-street",
-   "targetSlug": null,
-   "name": "Black Wall Street — Parrish Street",
-   "town": "Durham",
-   "county": "Durham",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "Public historic street with markers, anchored by the Hayti Heritage Center nearby — Black business district ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 239,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_516f8b201d6e4462",
-   "projectedSlug": "nc-central-prison-raleigh",
-   "targetSlug": null,
-   "name": "Central Prison, Raleigh",
-   "town": "Raleigh",
-   "county": "Wake",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "Active maximum-security prison on the historic state prison ground; no public museum or lawful visitor anchor, exterior from public road only [THEME: prison]",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 241,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_52c30d84056bcfef",
-   "projectedSlug": "nc-highland-hospital",
-   "targetSlug": null,
-   "name": "Highland Hospital",
-   "town": "Asheville",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "hospital — no lawful public anchor found; research reading only, not visitable. Source: exploreasheville.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 260,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_53a34d5560f29132",
-   "projectedSlug": "nc-cape-hatteras-lighthouse-and-graveyard-of-the-atlantic-museum",
-   "targetSlug": null,
-   "name": "Cape Hatteras Lighthouse & Graveyard of the Atlantic Museum",
-   "town": "Hatteras",
-   "county": "Dare",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NPS Cape Hatteras National Seashore lighthouse ground and the Graveyard of the Atlantic Museum in Hatteras village — maritime / shipwreck anchor",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 271,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5ec2b3d0ebd8ca3d",
-   "projectedSlug": "nc-old-salem-and-bethabara",
-   "targetSlug": null,
-   "name": "Old Salem & Bethabara",
-   "town": "Winston-Salem",
-   "county": "Forsyth",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "Old Salem Museums & Gardens and Historic Bethabara Park — Moravian settlement ground, museums and public park",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 249,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5f2115ba7c59bd88",
-   "projectedSlug": "nc-helens-bridge-zealandia-bridge",
-   "targetSlug": null,
-   "name": "Helen's Bridge (Zealandia Bridge)",
-   "town": "Asheville",
-   "county": "Buncombe",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "Stone bridge on a public road only; no interpretive site or museum, adjoining Zealandia property is private, and the named legend is undocumented in the historical record [THEME: weird]",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 221,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5ffe532379666fd9",
-   "projectedSlug": "nc-historic-stagville",
-   "targetSlug": null,
-   "name": "Historic Stagville",
-   "town": "Durham",
-   "county": "Durham",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NC State Historic Site — plantation ground interpreted through the enslaved community, preserved buildings",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 238,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_613c1364780a1f92",
-   "projectedSlug": "nc-carolina-inn",
-   "targetSlug": null,
-   "name": "Carolina Inn",
-   "town": "Chapel Hill",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 250,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_661835d51e010488",
-   "projectedSlug": "nc-bellamy-mansion",
-   "targetSlug": null,
-   "name": "Bellamy Mansion",
-   "town": "Wilmington",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 243,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6c0e4e1a3b070cb7",
-   "projectedSlug": "nc-battery-park-hotel",
-   "targetSlug": null,
-   "name": "Battery Park Hotel",
-   "town": "Asheville",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "hotel — no lawful public anchor found; research reading only, not visitable. Source: exploreasheville.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 259,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_70632f1153959ce3",
-   "projectedSlug": "nc-dorothea-dix-hospital-dix-hill",
-   "targetSlug": null,
-   "name": "Dorothea Dix Hospital / Dix Hill",
-   "town": "Raleigh",
-   "county": "Wake",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "Grounds are now Dorothea Dix Park, a public city park; historic hospital buildings stand on public park land — exterior / park anchor, interiors not a museum [THEME: asylum] [THEME: hospital]",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 240,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_70fa9b270e3509a3",
-   "projectedSlug": "nc-poplar-grove",
-   "targetSlug": null,
-   "name": "Poplar Grove",
-   "town": "Wilmington",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "plantation — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 245,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_71d8ac87161f7bb1",
-   "projectedSlug": "nc-president-james-k-polk-state-historic-site",
-   "targetSlug": null,
-   "name": "President James K. Polk State Historic Site",
-   "town": "Pineville",
-   "county": "Mecklenburg",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NC State Historic Site — log cabins / museum on the Polk family farm ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 228,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_73f876f58e39ba9d",
-   "projectedSlug": "nc-fort-raleigh-national-historic-site-roanoke-island",
-   "targetSlug": null,
-   "name": "Fort Raleigh National Historic Site — Roanoke Island",
-   "town": "Manteo",
-   "county": "Dare",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NPS national historic site, plus Roanoke Island Festival Park — 1580s English colony / Lost Colony ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 267,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_762abb370245d560",
-   "projectedSlug": "nc-roanoke-island-inn",
-   "targetSlug": null,
-   "name": "Roanoke Island Inn",
-   "town": "Manteo",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 244,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_789cdff58b67a504",
-   "projectedSlug": "nc-oconaluftee-indian-village-and-museum-of-the-cherokee-people",
-   "targetSlug": null,
-   "name": "Oconaluftee Indian Village & Museum of the Cherokee People",
-   "town": "Cherokee",
-   "county": "Swain",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "Living-history village and tribal museum — Cherokee ground, 18th-c. village anchor",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 216,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7f831751f2dad6b4",
-   "projectedSlug": "nc-bennett-place",
-   "targetSlug": null,
-   "name": "Bennett Place",
-   "town": "Durham",
-   "county": "Durham",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NC State Historic Site — largest Confederate surrender ground, farmhouse museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 236,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_84eef0d1a48d35c4",
-   "projectedSlug": "nc-brown-mountain-lights",
-   "targetSlug": null,
-   "name": "Brown Mountain Lights",
-   "town": "Morganton / Linville Gorge",
-   "county": "Burke",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "Public overlooks on NC-181 and Wiseman's View, Pisgah National Forest — viewing-point anchor only, phenomenon itself is sighting-based [THEME: weird]",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 220,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8e0b60549627c3bc",
-   "projectedSlug": "nc-cape-hatteras-lighthouse",
-   "targetSlug": null,
-   "name": "Cape Hatteras Lighthouse",
-   "town": "Buxton",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 251,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a1fd3faba3650c31",
-   "projectedSlug": "nc-greensboro-sit-ins-international-civil-rights-center-and-museum",
-   "targetSlug": null,
-   "name": "Greensboro Sit-Ins — International Civil Rights Center & Museum",
-   "town": "Greensboro",
-   "county": "Guilford",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "Museum in the original F.W. Woolworth building, original lunch counter preserved — civil rights anchor",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 248,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a9ef3a10fef34d7b",
-   "projectedSlug": "nc-averasboro-battlefield",
-   "targetSlug": null,
-   "name": "Averasboro Battlefield",
-   "town": "Dunn",
-   "county": "Harnett",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "Battlefield museum and preserved ground — 1865 Civil War battle on the Bentonville campaign",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 260,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_aaa1d1be12400d4e",
-   "projectedSlug": "nc-carolina-theatre",
-   "targetSlug": null,
-   "name": "Carolina Theatre",
-   "town": "Charlotte",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 256,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ab9c647584c1d7ac",
-   "projectedSlug": "nc-helens-bridge",
-   "targetSlug": null,
-   "name": "Helen's Bridge",
-   "town": "Asheville",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "other — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 257,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_afafdff999094a7a",
-   "projectedSlug": "nc-lydias-bridge",
-   "targetSlug": null,
-   "name": "Lydia's Bridge",
-   "town": "Jamestown",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "other — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 254,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b3341d56d96a4ef1",
-   "projectedSlug": "nc-north-carolina-transportation-museum-spencer-shops",
-   "targetSlug": null,
-   "name": "North Carolina Transportation Museum — Spencer Shops",
-   "town": "Spencer",
-   "county": "Rowan",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "State historic site / museum in the former Southern Railway shops — railroad industry anchor",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 230,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b351a9e30b110fd7",
-   "projectedSlug": "nc-moores-creek-national-battlefield",
-   "targetSlug": null,
-   "name": "Moores Creek National Battlefield",
-   "town": "Currie",
-   "county": "Pender",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NPS national battlefield — 1776 Patriot victory, visitor center and trail",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 269,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b9332810682cc516",
-   "projectedSlug": "nc-princeville-freedom-hill",
-   "targetSlug": null,
-   "name": "Princeville (Freedom Hill)",
-   "town": "Princeville",
-   "county": "Edgecombe",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "Princeville Museum and Welcome Center / town museum in the former Rosenwald school — oldest town incorporated by African Americans, founded by freedpeople",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 272,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c07db2548ec096be",
-   "projectedSlug": "nc-riverside-cemetery",
-   "targetSlug": null,
-   "name": "Riverside Cemetery",
-   "town": "Asheville",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "cemetery — anchor: public grounds or building open to visitors. Source: exploreasheville.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 258,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c235de935160d453",
-   "projectedSlug": "nc-bentonville-battlefield",
-   "targetSlug": null,
-   "name": "Bentonville Battlefield",
-   "town": "Four Oaks",
-   "county": "Johnston",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NC State Historic Site / National Historic Landmark — largest Civil War battle in North Carolina, Harper House and visitor center",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 259,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cc998fd1ea460856",
-   "projectedSlug": "nc-trivette-clinic",
-   "targetSlug": null,
-   "name": "Trivette Clinic",
-   "town": "Hamptonville",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "hospital — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 249,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d2dd6f2d05934909",
-   "projectedSlug": "nc-house-in-the-horseshoe",
-   "targetSlug": null,
-   "name": "House in the Horseshoe",
-   "town": "Sanford",
-   "county": "Moore",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NC State Historic Site — Revolutionary-era house museum, 1781 skirmish ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 258,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d2fcbf51f6960efb",
-   "projectedSlug": "nc-grove-park-inn",
-   "targetSlug": null,
-   "name": "Grove Park Inn",
-   "town": "Asheville",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 246,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_df69a5df60a9c63f",
-   "projectedSlug": "nc-wright-brothers-national-memorial",
-   "targetSlug": null,
-   "name": "Wright Brothers National Memorial",
-   "town": "Kill Devil Hills",
-   "county": "Dare",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NPS national memorial — first powered flight ground, visitor center and monument",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 268,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e499a071e0865dce",
-   "projectedSlug": "nc-town-creek-indian-mound",
-   "targetSlug": null,
-   "name": "Town Creek Indian Mound",
-   "town": "Mount Gilead",
-   "county": "Montgomery",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NC State Historic Site — Mississippian / Pee Dee culture ceremonial mound, reconstructed village and museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 257,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_eb913983787d5015",
-   "projectedSlug": "nc-guilford-courthouse-national-military-park",
-   "targetSlug": null,
-   "name": "Guilford Courthouse National Military Park",
-   "town": "Greensboro",
-   "county": "Guilford",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NPS national military park — 1781 Revolutionary battle ground, visitor center",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 247,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ef701a705f051f21",
-   "projectedSlug": "nc-loray-mill",
-   "targetSlug": null,
-   "name": "Loray Mill",
-   "town": "Gastonia",
-   "county": "Gaston",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "Historic mill district, public streets and mill building — textile labor ground, 1929 strike association",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 229,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f4c16436fcf3756c",
-   "projectedSlug": "nc-duke-homestead-and-tobacco-factory",
-   "targetSlug": null,
-   "name": "Duke Homestead and Tobacco Factory",
-   "town": "Durham",
-   "county": "Durham",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "NC State Historic Site / National Historic Landmark — homestead, tobacco barns and Tobacco Museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 237,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f8eb8f9c40a1404d",
-   "projectedSlug": "nc-battleship-north-carolina",
-   "targetSlug": null,
-   "name": "Battleship North Carolina",
-   "town": "Wilmington",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "military — anchor: museum open to the public. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 242,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f9feff0c3a19b47d",
-   "projectedSlug": "nc-teachs-hole",
-   "targetSlug": null,
-   "name": "Teach's Hole",
-   "town": "Ocracoke",
-   "county": "North Carolina",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 255,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fb409466cdc0f058",
-   "projectedSlug": "nc-biltmore-estate",
-   "targetSlug": null,
-   "name": "Biltmore Estate",
-   "town": "Asheville",
-   "county": "Buncombe",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "House museum — Gilded Age estate; also first forestry school ground on the estate",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 218,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fba5ff2b25051193",
-   "projectedSlug": "nc-judaculla-rock",
-   "targetSlug": null,
-   "name": "Judaculla Rock",
-   "town": "Cullowhee",
-   "county": "Jackson",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "County-owned public park with viewing platform — Cherokee petroglyph boulder, National Register listed",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 217,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fd76b0a23d2a21a5",
-   "projectedSlug": "nc-revolution-mill-cone-mills-textile-ground",
-   "targetSlug": null,
-   "name": "Revolution Mill / Cone Mills textile ground",
-   "town": "Greensboro",
-   "county": "Guilford",
-   "state": "NC",
-   "tier": null,
-   "anchorPosture": "Historic Cone textile mill complex, now a public mixed-use site — denim / textile industry anchor",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "GA-FL-SC-NC-first-sweep.md",
-     "row": 251,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
    "id": "lq_0259b91b52b94cf7",
    "projectedSlug": "in-studebaker-national-museum",
    "targetSlug": null,
@@ -167070,6 +165897,1179 @@
    "attempts": []
   },
   {
+   "id": "lq_02744a672d09fd84",
+   "projectedSlug": "nc-broughton-hospital-western-nc-insane-asylum",
+   "targetSlug": null,
+   "name": "Broughton Hospital (Western NC Insane Asylum)",
+   "town": "Morganton",
+   "county": "Burke",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "Active state psychiatric hospital; National Register main building visible from public road only, no public museum/tour anchor confirmed [THEME: asylum]",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 219,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_04ea4fa9d8e87648",
+   "projectedSlug": "nc-alamance-battleground",
+   "targetSlug": null,
+   "name": "Alamance Battleground",
+   "town": "Burlington",
+   "county": "Alamance",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NC State Historic Site — 1771 Regulator battle ground, visitor center",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 250,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0f86786f6f8f0a48",
+   "projectedSlug": "nc-thalian-hall",
+   "targetSlug": null,
+   "name": "Thalian Hall",
+   "town": "Wilmington",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "theater — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 248,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_15284d2dfc2ba0b5",
+   "projectedSlug": "nc-fort-bragg-fort-liberty-and-the-airborne-ground",
+   "targetSlug": null,
+   "name": "Fort Bragg / Fort Liberty & the Airborne ground",
+   "town": "Fayetteville",
+   "county": "Cumberland",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "U.S. Army Airborne & Special Operations Museum in downtown Fayetteville is the public, off-post anchor; the installation itself is access-restricted [THEME: military]",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 261,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1bdb39df3c1b09e3",
+   "projectedSlug": "nc-reed-gold-mine",
+   "targetSlug": null,
+   "name": "Reed Gold Mine",
+   "town": "Midland",
+   "county": "Cabarrus",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NC State Historic Site — first documented U.S. gold find, mine tunnels and museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 227,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1e48137b8f895f21",
+   "projectedSlug": "nc-latta-place",
+   "targetSlug": null,
+   "name": "Latta Place",
+   "town": "Huntersville",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "plantation — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 261,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1f21c149e4257b50",
+   "projectedSlug": "nc-devils-tramping-ground",
+   "targetSlug": null,
+   "name": "Devil's Tramping Ground",
+   "town": "Bear Creek",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 252,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_24fe6282d7aa90db",
+   "projectedSlug": "nc-fort-fisher-state-historic-site",
+   "targetSlug": null,
+   "name": "Fort Fisher State Historic Site",
+   "town": "Kure Beach",
+   "county": "New Hanover",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NC State Historic Site — Confederate fort and 1865 battle ground, visitor center [THEME: military]",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 270,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3b61fbeba82de7d6",
+   "projectedSlug": "nc-biltmore",
+   "targetSlug": null,
+   "name": "Biltmore",
+   "town": "Asheville",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 247,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3cba2f4bd3d3aea4",
+   "projectedSlug": "nc-black-wall-street-parrish-street",
+   "targetSlug": null,
+   "name": "Black Wall Street — Parrish Street",
+   "town": "Durham",
+   "county": "Durham",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "Public historic street with markers, anchored by the Hayti Heritage Center nearby — Black business district ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 239,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_516f8b201d6e4462",
+   "projectedSlug": "nc-central-prison-raleigh",
+   "targetSlug": null,
+   "name": "Central Prison, Raleigh",
+   "town": "Raleigh",
+   "county": "Wake",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "Active maximum-security prison on the historic state prison ground; no public museum or lawful visitor anchor, exterior from public road only [THEME: prison]",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 241,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_52c30d84056bcfef",
+   "projectedSlug": "nc-highland-hospital",
+   "targetSlug": null,
+   "name": "Highland Hospital",
+   "town": "Asheville",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "hospital — no lawful public anchor found; research reading only, not visitable. Source: exploreasheville.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 260,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_53a34d5560f29132",
+   "projectedSlug": "nc-cape-hatteras-lighthouse-and-graveyard-of-the-atlantic-museum",
+   "targetSlug": "NC-cape-hatteras-lighthouse-graveyard-of-the-atlantic-museum",
+   "name": "Cape Hatteras Lighthouse & Graveyard of the Atlantic Museum",
+   "town": "Hatteras",
+   "county": "Dare",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NPS Cape Hatteras National Seashore lighthouse ground and the Graveyard of the Atlantic Museum in Hatteras village — maritime / shipwreck anchor",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 271,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_5ec2b3d0ebd8ca3d",
+   "projectedSlug": "nc-old-salem-and-bethabara",
+   "targetSlug": null,
+   "name": "Old Salem & Bethabara",
+   "town": "Winston-Salem",
+   "county": "Forsyth",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "Old Salem Museums & Gardens and Historic Bethabara Park — Moravian settlement ground, museums and public park",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 249,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5f2115ba7c59bd88",
+   "projectedSlug": "nc-helens-bridge-zealandia-bridge",
+   "targetSlug": null,
+   "name": "Helen's Bridge (Zealandia Bridge)",
+   "town": "Asheville",
+   "county": "Buncombe",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "Stone bridge on a public road only; no interpretive site or museum, adjoining Zealandia property is private, and the named legend is undocumented in the historical record [THEME: weird]",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 221,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5ffe532379666fd9",
+   "projectedSlug": "nc-historic-stagville",
+   "targetSlug": null,
+   "name": "Historic Stagville",
+   "town": "Durham",
+   "county": "Durham",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NC State Historic Site — plantation ground interpreted through the enslaved community, preserved buildings",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 238,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_613c1364780a1f92",
+   "projectedSlug": "nc-carolina-inn",
+   "targetSlug": null,
+   "name": "Carolina Inn",
+   "town": "Chapel Hill",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 250,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_661835d51e010488",
+   "projectedSlug": "nc-bellamy-mansion",
+   "targetSlug": null,
+   "name": "Bellamy Mansion",
+   "town": "Wilmington",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 243,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6c0e4e1a3b070cb7",
+   "projectedSlug": "nc-battery-park-hotel",
+   "targetSlug": null,
+   "name": "Battery Park Hotel",
+   "town": "Asheville",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "hotel — no lawful public anchor found; research reading only, not visitable. Source: exploreasheville.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 259,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_70632f1153959ce3",
+   "projectedSlug": "nc-dorothea-dix-hospital-dix-hill",
+   "targetSlug": null,
+   "name": "Dorothea Dix Hospital / Dix Hill",
+   "town": "Raleigh",
+   "county": "Wake",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "Grounds are now Dorothea Dix Park, a public city park; historic hospital buildings stand on public park land — exterior / park anchor, interiors not a museum [THEME: asylum] [THEME: hospital]",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 240,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_70fa9b270e3509a3",
+   "projectedSlug": "nc-poplar-grove",
+   "targetSlug": null,
+   "name": "Poplar Grove",
+   "town": "Wilmington",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "plantation — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 245,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_71d8ac87161f7bb1",
+   "projectedSlug": "nc-president-james-k-polk-state-historic-site",
+   "targetSlug": null,
+   "name": "President James K. Polk State Historic Site",
+   "town": "Pineville",
+   "county": "Mecklenburg",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NC State Historic Site — log cabins / museum on the Polk family farm ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 228,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_73f876f58e39ba9d",
+   "projectedSlug": "nc-fort-raleigh-national-historic-site-roanoke-island",
+   "targetSlug": null,
+   "name": "Fort Raleigh National Historic Site — Roanoke Island",
+   "town": "Manteo",
+   "county": "Dare",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NPS national historic site, plus Roanoke Island Festival Park — 1580s English colony / Lost Colony ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 267,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_762abb370245d560",
+   "projectedSlug": "nc-roanoke-island-inn",
+   "targetSlug": null,
+   "name": "Roanoke Island Inn",
+   "town": "Manteo",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 244,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_789cdff58b67a504",
+   "projectedSlug": "nc-oconaluftee-indian-village-and-museum-of-the-cherokee-people",
+   "targetSlug": null,
+   "name": "Oconaluftee Indian Village & Museum of the Cherokee People",
+   "town": "Cherokee",
+   "county": "Swain",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "Living-history village and tribal museum — Cherokee ground, 18th-c. village anchor",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 216,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7f831751f2dad6b4",
+   "projectedSlug": "nc-bennett-place",
+   "targetSlug": null,
+   "name": "Bennett Place",
+   "town": "Durham",
+   "county": "Durham",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NC State Historic Site — largest Confederate surrender ground, farmhouse museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 236,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_84eef0d1a48d35c4",
+   "projectedSlug": "nc-brown-mountain-lights",
+   "targetSlug": null,
+   "name": "Brown Mountain Lights",
+   "town": "Morganton / Linville Gorge",
+   "county": "Burke",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "Public overlooks on NC-181 and Wiseman's View, Pisgah National Forest — viewing-point anchor only, phenomenon itself is sighting-based [THEME: weird]",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 220,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8e0b60549627c3bc",
+   "projectedSlug": "nc-cape-hatteras-lighthouse",
+   "targetSlug": null,
+   "name": "Cape Hatteras Lighthouse",
+   "town": "Buxton",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 251,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a1fd3faba3650c31",
+   "projectedSlug": "nc-greensboro-sit-ins-international-civil-rights-center-and-museum",
+   "targetSlug": null,
+   "name": "Greensboro Sit-Ins — International Civil Rights Center & Museum",
+   "town": "Greensboro",
+   "county": "Guilford",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "Museum in the original F.W. Woolworth building, original lunch counter preserved — civil rights anchor",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 248,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a9ef3a10fef34d7b",
+   "projectedSlug": "nc-averasboro-battlefield",
+   "targetSlug": null,
+   "name": "Averasboro Battlefield",
+   "town": "Dunn",
+   "county": "Harnett",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "Battlefield museum and preserved ground — 1865 Civil War battle on the Bentonville campaign",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 260,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_aaa1d1be12400d4e",
+   "projectedSlug": "nc-carolina-theatre",
+   "targetSlug": null,
+   "name": "Carolina Theatre",
+   "town": "Charlotte",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 256,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ab9c647584c1d7ac",
+   "projectedSlug": "nc-helens-bridge",
+   "targetSlug": null,
+   "name": "Helen's Bridge",
+   "town": "Asheville",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "other — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 257,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_afafdff999094a7a",
+   "projectedSlug": "nc-lydias-bridge",
+   "targetSlug": null,
+   "name": "Lydia's Bridge",
+   "town": "Jamestown",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "other — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 254,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b3341d56d96a4ef1",
+   "projectedSlug": "nc-north-carolina-transportation-museum-spencer-shops",
+   "targetSlug": null,
+   "name": "North Carolina Transportation Museum — Spencer Shops",
+   "town": "Spencer",
+   "county": "Rowan",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "State historic site / museum in the former Southern Railway shops — railroad industry anchor",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 230,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b351a9e30b110fd7",
+   "projectedSlug": "nc-moores-creek-national-battlefield",
+   "targetSlug": null,
+   "name": "Moores Creek National Battlefield",
+   "town": "Currie",
+   "county": "Pender",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NPS national battlefield — 1776 Patriot victory, visitor center and trail",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 269,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b9332810682cc516",
+   "projectedSlug": "nc-princeville-freedom-hill",
+   "targetSlug": null,
+   "name": "Princeville (Freedom Hill)",
+   "town": "Princeville",
+   "county": "Edgecombe",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "Princeville Museum and Welcome Center / town museum in the former Rosenwald school — oldest town incorporated by African Americans, founded by freedpeople",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 272,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c07db2548ec096be",
+   "projectedSlug": "nc-riverside-cemetery",
+   "targetSlug": null,
+   "name": "Riverside Cemetery",
+   "town": "Asheville",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "cemetery — anchor: public grounds or building open to visitors. Source: exploreasheville.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 258,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c235de935160d453",
+   "projectedSlug": "nc-bentonville-battlefield",
+   "targetSlug": null,
+   "name": "Bentonville Battlefield",
+   "town": "Four Oaks",
+   "county": "Johnston",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NC State Historic Site / National Historic Landmark — largest Civil War battle in North Carolina, Harper House and visitor center",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 259,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cc998fd1ea460856",
+   "projectedSlug": "nc-trivette-clinic",
+   "targetSlug": null,
+   "name": "Trivette Clinic",
+   "town": "Hamptonville",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "hospital — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 249,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d2dd6f2d05934909",
+   "projectedSlug": "nc-house-in-the-horseshoe",
+   "targetSlug": null,
+   "name": "House in the Horseshoe",
+   "town": "Sanford",
+   "county": "Moore",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NC State Historic Site — Revolutionary-era house museum, 1781 skirmish ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 258,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d2fcbf51f6960efb",
+   "projectedSlug": "nc-grove-park-inn",
+   "targetSlug": null,
+   "name": "Grove Park Inn",
+   "town": "Asheville",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 246,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_df69a5df60a9c63f",
+   "projectedSlug": "nc-wright-brothers-national-memorial",
+   "targetSlug": "NC-wright-brothers-national-memorial",
+   "name": "Wright Brothers National Memorial",
+   "town": "Kill Devil Hills",
+   "county": "Dare",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NPS national memorial — first powered flight ground, visitor center and monument",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 268,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_e499a071e0865dce",
+   "projectedSlug": "nc-town-creek-indian-mound",
+   "targetSlug": null,
+   "name": "Town Creek Indian Mound",
+   "town": "Mount Gilead",
+   "county": "Montgomery",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NC State Historic Site — Mississippian / Pee Dee culture ceremonial mound, reconstructed village and museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 257,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_eb913983787d5015",
+   "projectedSlug": "nc-guilford-courthouse-national-military-park",
+   "targetSlug": null,
+   "name": "Guilford Courthouse National Military Park",
+   "town": "Greensboro",
+   "county": "Guilford",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NPS national military park — 1781 Revolutionary battle ground, visitor center",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 247,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ef701a705f051f21",
+   "projectedSlug": "nc-loray-mill",
+   "targetSlug": null,
+   "name": "Loray Mill",
+   "town": "Gastonia",
+   "county": "Gaston",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "Historic mill district, public streets and mill building — textile labor ground, 1929 strike association",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 229,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f4c16436fcf3756c",
+   "projectedSlug": "nc-duke-homestead-and-tobacco-factory",
+   "targetSlug": null,
+   "name": "Duke Homestead and Tobacco Factory",
+   "town": "Durham",
+   "county": "Durham",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "NC State Historic Site / National Historic Landmark — homestead, tobacco barns and Tobacco Museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 237,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f8eb8f9c40a1404d",
+   "projectedSlug": "nc-battleship-north-carolina",
+   "targetSlug": null,
+   "name": "Battleship North Carolina",
+   "town": "Wilmington",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "military — anchor: museum open to the public. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 242,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f9feff0c3a19b47d",
+   "projectedSlug": "nc-teachs-hole",
+   "targetSlug": null,
+   "name": "Teach's Hole",
+   "town": "Ocracoke",
+   "county": "North Carolina",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 255,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fb409466cdc0f058",
+   "projectedSlug": "nc-biltmore-estate",
+   "targetSlug": "NC-biltmore-estate",
+   "name": "Biltmore Estate",
+   "town": "Asheville",
+   "county": "Buncombe",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "House museum — Gilded Age estate; also first forestry school ground on the estate",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 218,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_fba5ff2b25051193",
+   "projectedSlug": "nc-judaculla-rock",
+   "targetSlug": null,
+   "name": "Judaculla Rock",
+   "town": "Cullowhee",
+   "county": "Jackson",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "County-owned public park with viewing platform — Cherokee petroglyph boulder, National Register listed",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 217,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fd76b0a23d2a21a5",
+   "projectedSlug": "nc-revolution-mill-cone-mills-textile-ground",
+   "targetSlug": null,
+   "name": "Revolution Mill / Cone Mills textile ground",
+   "town": "Greensboro",
+   "county": "Guilford",
+   "state": "NC",
+   "tier": null,
+   "anchorPosture": "Historic Cone textile mill complex, now a public mixed-use site — denim / textile industry anchor",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "GA-FL-SC-NC-first-sweep.md",
+     "row": 251,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
    "id": "lq_01ffeaf4dcbcac4d",
    "projectedSlug": "il-dana-thomas-house-state-historic-site",
    "targetSlug": null,
@@ -167624,7 +167624,7 @@
   {
    "id": "lq_3d0c860a9db36203",
    "projectedSlug": "il-first-division-museum-at-cantigny",
-   "targetSlug": null,
+   "targetSlug": "IL-first-division-museum-cantigny",
    "name": "First Division Museum at Cantigny",
    "town": "Wheaton",
    "county": "DuPage",
@@ -167640,8 +167640,8 @@
      "role": "lead"
     }
    ],
-   "queueState": "queued",
-   "reconcile": null,
+   "queueState": "published",
+   "reconcile": "published",
    "attempts": []
   },
   {
@@ -168452,7 +168452,7 @@
   {
    "id": "lq_be5d554532d05bc2",
    "projectedSlug": "il-haymarket-martyrs-monument-forest-home-cemetery",
-   "targetSlug": null,
+   "targetSlug": "IL-haymarket-martyrs-monument",
    "name": "Haymarket Martyrs' Monument, Forest Home Cemetery",
    "town": "Forest Park",
    "county": "Cook",
@@ -168468,8 +168468,8 @@
      "role": "lead"
     }
    ],
-   "queueState": "queued",
-   "reconcile": null,
+   "queueState": "published",
+   "reconcile": "published",
    "attempts": []
   },
   {
@@ -168889,7 +168889,7 @@
   {
    "id": "lq_ff90e89933abdf01",
    "projectedSlug": "il-dusable-black-history-museum-and-education-center",
-   "targetSlug": null,
+   "targetSlug": "IL-dusable-black-history-museum",
    "name": "DuSable Black History Museum and Education Center",
    "town": "Chicago",
    "county": "",
@@ -168905,8 +168905,8 @@
      "role": "lead"
     }
    ],
-   "queueState": "queued",
-   "reconcile": null,
+   "queueState": "published",
+   "reconcile": "published",
    "attempts": []
   },
   {
@@ -179646,8 +179646,8 @@
   "byQueueState": {
    "checked-dead": 23,
    "held": 27,
-   "published": 33,
-   "queued": 6947
+   "published": 39,
+   "queued": 6941
   },
   "byState": {
    "AK": 121,
