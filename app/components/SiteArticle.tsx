@@ -213,7 +213,7 @@ export default function SiteArticle({ site, context }: { site: Site; context?: Q
   // an inferred anchor alone never issues an invitation.
   const publicStop = anchor?.basis === "Public anchor";
   const accessPrompt = publicStop ? site.locator.extra.find((field) => field.key === "Visitor access check")?.value : undefined;
-  const photoSubject = publicStop ? site.locator.extra.find((field) => field.key === "Visitor photo subject")?.value : undefined;
+  const photoSubject = publicStop && site.photoEligibility === "PUBLIC GROUND" ? site.locator.extra.find((field) => field.key === "Visitor photo subject")?.value : undefined;
   const plainTop = getPlainTop(site.slug);
   // Hunt finds tied to this entry join its own candidate finds in the tag
   // panel — same ClaimFind mechanic, the claim recording the find's label

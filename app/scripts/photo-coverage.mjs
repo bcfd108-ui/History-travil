@@ -1,3 +1,4 @@
+import { archiveGap, coverageFor, photoEligibility } from "./photo-eligibility.mjs";
 import { validateAssignments } from "./photo-assignments.mjs";
 import { createHash } from "node:crypto";
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
@@ -19,6 +20,7 @@ export function publishPhotos(sites, appRoot) {
   }
   const gaps = [];
   const counts = {};
+  const fieldTargets = [];
   for (const site of sites) {
     const photos = records[site.slug] ?? [];
     if (!Array.isArray(photos)) throw new Error("Expected photo list: " + site.slug);
@@ -40,21 +42,34 @@ export function publishPhotos(sites, appRoot) {
       if (bytes.toString("ascii", 8, 12) !== "WEBP" || createHash("sha256").update(bytes).digest("hex") !== photo.sha256) fail("display pixels differ from inspection");
     }
     site.photos = photos;
-    const status = photos.length ? "has verified photo" : "gap-listed";
-    const state = counts[site.stateCode] ??= { withPhoto: 0, withoutPhoto: 0 };
-    if (photos.length) state.withPhoto++;
-    else {
-      state.withoutPhoto++;
-      gaps.push({ site, finding: findings[site.slug] ?? { searched: "Awaiting first desk search", reason: "New entry. Photo research pending.", lane: "Desk" } });
-    }
-    console.log("PHOTO | " + site.stateCode + " | " + site.slug + " | " + status);
+    const finding = findings[site.slug] ?? {};
+    const eligibility = photoEligibility(site, finding);
+    site.photoEligibility = eligibility;
+    const coverage = coverageFor(photos);
+    const state = counts[site.stateCode] ??= { none: 0, "then-only": 0, "now-only": 0, "complete pair": 0 };
+    state[coverage]++;
+    if (coverage === "complete pair") continue;
+
+    const archive = eligibility === "ARCHIVAL-ONLY";
+    const missing = coverage === "then-only" ? "NOW NEEDED" : coverage === "now-only" ? "THEN NEEDED" : "FIRST PHOTO NEEDED";
+    const field = eligibility === "PUBLIC GROUND" && coverage !== "now-only";
+    const viewpoint = field ? finding.groundReview.viewpoint : "";
+    const action = archive ? "Desk — archival period photograph only" : field ? "Field option — " + viewpoint : "Desk — verify missing era and rights";
+    const identity = [site.id, site.slug, site.title, site.town, site.state, "https://onoldground.com/sites/" + site.slug];
+    gaps.push([...identity, finding.searched || "Awaiting first desk search", finding.reason || "Photo research pending.",
+      action, coverage, eligibility, archive ? archiveGap : missing, archive ? finding.groundReview?.basis || "Access held in the entry record." : ""]);
+    if (field) fieldTargets.push([...identity, missing, viewpoint]);
   }
   const csv = cell => '"' + String(cell ?? "").replaceAll('"', '""') + '"';
-  const header = ["Entry ID", "Slug", "Entry", "Town", "State", "Entry URL", "What was searched", "Why photo is needed", "Next desk or field action"];
-  const lines = [header, ...gaps.map(({site, finding}) => [site.id, site.slug, site.title, site.town, site.state, "https://onoldground.com/sites/" + site.slug, finding.searched, finding.reason, finding.lane])];
+  const identityHeader = ["Entry ID", "Slug", "Entry", "Town", "State", "Entry URL"];
   const output = join(appRoot, "public", "desk");
   mkdirSync(output, { recursive: true });
-  writeFileSync(join(output, "photo-gaps.csv"), lines.map(r => r.map(csv).join(",")).join("\r\n") + "\r\n");
+  function writeCsv(name, rows) {
+    writeFileSync(join(output, name), rows.map(row => row.map(csv).join(",")).join("\r\n") + "\r\n");
+  }
+  writeCsv("photo-gaps.csv", [[...identityHeader, "What was searched", "Why photo is needed", "Next desk or field action",
+    "Coverage", "Eligibility", "Gap", "Access decision"], ...gaps]);
+  writeCsv("field-photo-targets.csv", [[...identityHeader, "Gap", "Public viewpoint or permitted subject"], ...fieldTargets]);
   console.log("Photo coverage by state", JSON.stringify(counts));
 }
 

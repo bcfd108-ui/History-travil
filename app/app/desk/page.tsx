@@ -26,8 +26,9 @@ export default function DeskPage() {
         ))}
       </div>
 
-      <h2>Photographs needed</h2>
-      <p><a href="/desk/photo-gaps.csv" download>Download the photo work list (CSV)</a> for the entry, source searches and next action.</p>
+      <h2>Photo research</h2>
+      <p><a href="/desk/photo-gaps.csv" download>Desk gap report (CSV)</a> includes missing eras, archive searches and access holds.</p>
+      <p><a href="/desk/field-photo-targets.csv" download>Field photo targets (CSV)</a> lists the public viewpoint or permitted subject for each optional current photograph.</p>
 
       <h2>State files</h2>
       <div className="rows">

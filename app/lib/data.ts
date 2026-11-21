@@ -41,6 +41,7 @@ export interface Site {
   gaps: string;
   photoRecord: string;
   photos: HistoricPhoto[];
+  photoEligibility?: "PUBLIC GROUND" | "ARCHIVAL-ONLY" | "DESK REVIEW";
   moreSections: { title: string; body: string }[];
   sources: string;
   locator: Locator;
@@ -350,6 +351,7 @@ const NOW_PHOTO =
   /(repeat|modern|current|now) (photo|photograph|image)[^.]{0,90}(obtained|taken|made|supplied|published|appears|was made|was taken)/i;
 
 export function thenNowInvitation(site: Site): boolean {
+  if (site.photoEligibility !== "PUBLIC GROUND") return false;
   if (site.stopType === "reflection") return false;
   // The invitation's logic is the access doctrine: the ground is visitable,
   // so a reader can go and take the "now" photo. No derivable visitable
