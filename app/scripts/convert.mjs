@@ -28,7 +28,7 @@ const STATE_NAMES = {
   AZ: "Arizona", NM: "New Mexico", ND: "North Dakota", SD: "South Dakota",
   NE: "Nebraska", KS: "Kansas", OK: "Oklahoma", TX: "Texas", MN: "Minnesota",
   IA: "Iowa", MO: "Missouri", AR: "Arkansas", LA: "Louisiana", MS: "Mississippi",
-  AL: "Alabama", TN: "Tennessee", KY: "Kentucky", GA: "Georgia",
+  AL: "Alabama", TN: "Tennessee", KY: "Kentucky", GA: "Georgia", FL: "Florida",
 };
 // Uncoded (home-bench) slugs: slug -> [town, stateCode]
 const LOCAL = {
@@ -92,8 +92,13 @@ function splitSections(md) {
   if (!sections[1]) {
     // MN/IA Nov 20 batches: `**1. Trip gate · checked …:** <gate text>` or
     // `**Trip gate · checked …:** <gate text>` — bold header, text follows.
-    const b3 = md.match(/^\*\*(?:1\.\s+)?Trip gate[^*]*\*\*\s*(.+)$/m);
+    const b3 = md.match(/^\*\*(?:1\.\s+)?Trip gate[^\n*]*\*\*[ \t]*(.+)$/m);
     if (b3) { sections[1] = { title: "Trip gate", body: b3[1].trim() }; boldSec1 = true; }
+  }
+  if (!sections[1]) {
+    // FL Nov 21 batch: the whole gate sits inside the bold — `**Trip gate — <gate text>**`.
+    const b4 = md.match(/^\*\*Trip gate\s*[—–-]\s*(.+?)\*\*\s*$/m);
+    if (b4) { sections[1] = { title: "Trip gate", body: b4[1].trim() }; boldSec1 = true; }
   }
   return { sections, boldSec1 };
 }
@@ -356,9 +361,9 @@ function convert(filePath, origin) {
   const candHead = S.candSec ? S.candSec.body.split("\n").filter(Boolean).slice(0, 3).join(" ") : "";
   const signals = {
     slug: slug.includes("reflection") || slug.includes("witness"),
-    candSec: /reflection (prompts )?only|witness only|witness-only|none:?\s*reflection|no hunt, scoring/i.test(S.candSec?.body || "") || /reflection only|witness only/i.test(candHead) || /quiet witness|quiet reflection/i.test((S.candSec?.body || "").slice(0, 160)),
+    candSec: /reflection (prompts )?only|witness only|witness-only|none:?\s*reflection|no hunt, scoring|reflection entry/i.test(S.candSec?.body || "") || /reflection only|witness only/i.test(candHead) || /quiet witness|quiet reflection/i.test((S.candSec?.body || "").slice(0, 160)),
     preamble: /reflection|sacred|quiet witness/i.test(preamble),
-    gate: /reflection (stop|ground|only)|quiet witness|quiet reflection|witness only/i.test(S.gate?.body || "") || /sacred (site|ground)|not a (game|hunt)/i.test((S.gate?.body || "") + " " + S.lead),
+    gate: /reflection (stop|ground|only|visit)|quiet witness|quiet reflection|witness only/i.test(S.gate?.body || "") || /sacred (site|ground)|not a (game|hunt)/i.test((S.gate?.body || "") + " " + S.lead),
   };
   const isReflection = signals.slug || signals.candSec || signals.preamble || signals.gate;
   const stopType = isReflection ? "reflection" : "view";
