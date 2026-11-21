@@ -2,7 +2,7 @@
 
 Research draft for Dash QC • 2026-11-19 UTC • local only, no upload or outreach.
 
-**Trip gate:** Bayhorse Ghost Town is CLOSED for the season. The current Idaho Parks bulletin gives October 26, 2026 as the closure date. Do not schedule an immediate town walk or substitute a static summer listing. Reopening date: blank. Local time: Mountain Time. [B1]
+**Trip gate:** Bayhorse Ghost Town is CLOSED for the season. The current Idaho Parks bulletin gives October 26, 2026 as the closure date, and the townsite is gated: while it is closed there is no lawful public access to the town, and no off-season public viewpoint is documented in the sources checked. Until Idaho Parks publishes a reopening, this entry stands as a reflection stop — the record, read from wherever you are; no visit is routed and no finds are active. In season the unit is a day-use state park: secondary sources describe a standing pattern of an early-May opening and a late-fall, weather-driven closing, with the park advising a call before a shoulder-season trip, but no operator-published reopening date for the coming season was found in the sources checked on November 21, 2026. Do not schedule an immediate town walk or substitute a static summer listing. Reopening date: blank. Local time: Mountain Time. [B1, B13, B14]
 
 ## 1. The story
 
@@ -26,19 +26,20 @@ The preservation challenge includes more than keeping roofs upright. The enginee
 
 ## 3. Surviving features and access classification
 
-- **Town street and historic structures:** state-park interpretation destination, but presently seasonally closed. Exterior-only planning pending the operator's current reopening rules; do not promise building interiors. [B1; B4 index-sourced, full nomination unread]
+- **Town street and historic structures:** state-park interpretation destination, but presently seasonally closed and gated — no lawful public access while closed, and this entry is a reflection stop until the operator confirms reopening. Exterior-only planning pending the operator's current reopening rules; do not promise building interiors. [B1; B4 index-sourced, full nomination unread]
 - **Stone charcoal kilns:** surviving industrial features documented by the preservation grantee; exact current intact count and walk-up access: unverified. Observe from the authorized route, no climbing or entry. [B3]
 - **Historic mill/equipment:** illustrated by the Geological Survey as part of the mining park. Current interior access, structural condition and the permitted viewing position require field/operator confirmation. [B6]
 - **Regional trails:** use the Idaho Parks 2025 Bayhorse recreation map as a locator, not blanket motorized permission. Its legend distinguishes automobile, high-clearance, width-limited, non-motorized, seasonal and closed routes. A visible road is not proof it is open to the visitor's vehicle. [B9]
 
 ## 4. Trip-shaped stop progression
 
-**Only after reopening is confirmed:** begin with the official entrance information and permitted-route map; take the town-street walk as the social setting; then use the mill view to introduce ore processing; finish at the approved kiln viewpoint to connect the furnace to fuel and forest labor. This is a proposed interpretive order, not a verified navigable loop. Actual path order, grades, walking time and accessible route remain blank until the operator map/site visit confirms them. Inter-town driving belongs in the regional trip plan, not an invented travel estimate here.
+**No visitor progression is offered while the townsite is closed — this stop carries no routing. If and only after reopening is confirmed:** begin with the official entrance information and permitted-route map; take the town-street walk as the social setting; then use the mill view to introduce ore processing; finish at the approved kiln viewpoint to connect the furnace to fuel and forest labor. This is a proposed interpretive order, not a verified navigable loop. Actual path order, grades, walking time and accessible route remain blank until the operator map/site visit confirms them. Inter-town driving belongs in the regional trip plan, not an invented travel estimate here.
 
 **Strongest story moment:** from the legal kiln viewing point, turn the question around: not “How much silver was here?” but “What else had to be consumed to get silver out?” The kiln/smelter connection is supported by B3; the question is original interpretation. It gives the stop an industrial and human story without inventing firelight, sounds or a worker's testimony.
 
 ## 5. Honest gaps and conflicting dates
 
+- **Reopening date unresolved (desk QC check, November 21, 2026):** Idaho Parks lists the townsite closed for the season from October 26, 2026; its current park page publishes interpretive-center hours but no Bayhorse reopening date. Secondary sources describe the standing seasonal pattern — the townsite opens May 1 and closes in late fall as weather dictates, day-use only — and a current Idaho travel guide repeats the October 26, 2026 closure date. The pattern is not an operator-published date for the coming season, so this entry's reflection posture follows the closure until the operator publishes otherwise. [B1, B13, B14]
 - An official tourism article says Bayhorse was established as a gold camp around 1864 and abandoned in 1915. The USGS report dates active mining to 1877; a 1976 BLM environmental statement says the Bayhorse mines ceased operation in 1925. These describe different scopes/events and are not reconciled by choosing whichever date sounds best. Keep “early prospecting,” “active mining,” “town abandonment” and “later mining” separate. [B10,B2,B11]
 - The nomination's kiln count is historical and approximate. No fresh condition survey or count was performed. [B4; index-sourced, full nomination unread]
 - The agency-produced oral-history video *Bayhorse, the early years* has been located, but not transcribed/listened to in this pass. No quotation has been invented from it. The lone prospector/bay-horse name story needs that direct review before being told as fact. [B12]
@@ -47,7 +48,7 @@ The preservation challenge includes more than keeping roofs upright. The enginee
 
 ## 6. Candidate physical finds and onsite questions
 
-These are proposed tasks for an open, operator-approved route, not currently active challenges. No hidden objects, collecting, climbing, mine entry or removal of stones.
+Reflection only — no finds are active while the townsite is closed. These are proposed tasks for an open, operator-approved route, not currently active challenges. No hidden objects, collecting, climbing, mine entry or removal of stones.
 
 1. **A charcoal kiln exterior:** from the designated viewing place, describe the shape of the visible opening and photograph its current masonry edge. What evidence of repair can you actually distinguish without touching it? Do not demand an answer if no repair is discernible. Field answer/key: blank. [B3]
 2. **A false-front building on the town street:** locate an example from the public path. From an allowed oblique viewpoint, does the street-facing facade rise above the roof behind it? Record the specific building/sign and photo, rather than assuming every facade is original. Field answer/key: blank. [B4; index-sourced, full nomination unread]
@@ -91,6 +92,12 @@ https://digital.library.unt.edu/ark:/67531/metadc1536971/m1/873/
 
 B12
 https://www.youtube.com/watch?v=fZy_pK8VSA8
+
+B13
+https://ghosttownarchive.com/bayhorse-idaho/
+
+B14
+https://www.readysetgoadventure.com/day-trippin/idaho
 
 ## 8. Locator records
 

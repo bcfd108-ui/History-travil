@@ -1,101 +1,92 @@
+**1. Trip gate.** Make this a short exterior walking stop in downtown Lewiston, with the Liberty Theater at 611 Main Street, Lewiston, Idaho as the strongest readily identifiable single-building anchor, and Morgan's Alley — identified by the City as 301/311 Main Street, listed as 305 — for the wider commercial-district story. Allow roughly 30–45 minutes as a planning allowance, not a measured walking itinerary. Check conditions and legal parking on arrival. Do not promise entry into either building: no current interior admission or opening hours were verified for the Liberty, whose preservation organization still describes work to renovate and reopen. Public sidewalks and marked crossings only; no permission to enter closed premises or service spaces is implied. Checked against the cited city and register records, November 19, 2026. [4, 5, 6]
+
 # Lewiston Main Street: a working downtown, not a frozen set
+HT-RES-lewiston-main-street · Research draft for Dash QC · 19 November 2026 · Restructured into the standard 10-part form at desk QC, November 21, 2026 — the filed research content is unchanged; only its arrangement is new.
 
-Research dossier for Dash QC. Prepared 19 November 2026. Research-only; no visit, outreach, upload, booking or current photograph made. Public downtown location only; no private starting position recorded.
+Lewiston's Main Street is a working downtown, not a frozen set: a hardware building became a theater, and commercial premises along the blocks accommodated merchants, a newspaper and utility offices. This record walks the public sidewalks between two anchors — the Liberty Theater at 611 Main Street and Morgan's Alley at 301/311 Main Street — inside the Lewiston Historic District.
 
-## Trip-shaping recommendation
+## 2. Story
 
-Make this a short exterior walking stop, with the Liberty Theater at **611 Main Street, Lewiston, Idaho** as the strongest readily identifiable single-building anchor. Add Morgan’s Alley, identified by the City as **301/311 Main Street, listed as 305**, for the wider commercial-district story. Allow roughly 30–45 minutes as a planning allowance, not a measured walking itinerary. Check conditions and legal parking on arrival. Do not promise entry into either building.
+The National Park Service identifies the **Lewiston Historic District**, NRIS **75000637**, as a district significant for commerce, community planning and architecture. Its current metadata includes expanded boundaries and periods extending to 1966, so do not describe the entire district as exclusively Victorian or exclusively 1890–1930. The Idaho SHPO hosts the 1984 boundary-increase nomination under **84003852** and the later increase under **100002681**. These are district/expansion identifiers, not individual building numbers. [1, 2, 3]
 
-Suggested progression: first stand back from the Liberty and read the facade as a building repeatedly repurposed; then walk the commercial blocks toward Morgan’s Alley using public sidewalks and marked crossings. Finish by comparing the archival street frame below with the actual rooflines and upper-story window rhythms. Exact camera position and accessibility remain field checks.
+On that commercial ground, buildings accumulated working uses. The building at 611 Main Street was built in 1902 for the Western Hardware and Implement Company and converted to the Liberty Theater in 1920–21; a later remodeling changed its theatrical frontage. Along the blocks, the Vollmer and Scott building of 1905 — today's Morgan's Alley — joined two initially separate buildings internally; it originally faced D Street, and its initial occupants included Cash Hardware, Vollmer & Co and the Lewiston Tribune upstairs. [4, 5, 6]
 
-**Strongest story moment:** these streets are an accumulation of working uses. A hardware building became a theater; commercial premises accommodated merchants, a newspaper and utility offices. The useful comparison is not simply old versus new, but which physical pieces outlasted their original business. This is an interpretation of the cited histories, not a claim that today’s interiors preserve all those uses.
+The strongest story on this street is that accumulation itself: which physical pieces outlasted their original business. A hardware building became a theater; commercial premises accommodated merchants, a newspaper and utility offices. That reading is an interpretation of the cited histories, not a claim that today's interiors preserve all those uses. [4, 6]
 
-## Register-backed setting
+## 3. Then and now
 
-The National Park Service identifies the **Lewiston Historic District**, NRIS **75000637**, as a district significant for commerce, community planning and architecture. Its current metadata includes expanded boundaries and periods extending to 1966, so do not describe the entire district as exclusively Victorian or exclusively 1890–1930. The Idaho SHPO hosts the 1984 boundary-increase nomination under **84003852** and the later increase under **100002681**. These are district/expansion identifiers, not individual building numbers.
+**Liberty Theater.** Then: a 1902 hardware and implement building, converted to a theater in 1920–21, its frontage later remodeled for its theatrical life. Now: the street address gives a firm place to compare, but the current preservation organization still describes work to renovate and reopen. Its vision statement is not an operating schedule. No current interior admission or opening hours were verified. Read the building from the street. [4, 5]
 
-Sources:
-https://npgallery.nps.gov/AssetDetail/NRIS/75000637
-https://history.idaho.gov/wp-content/uploads/2018/09/Lewiston_Historic_District_Boundary-Increase_84003852.pdf
-https://history.idaho.gov/wp-content/uploads/Lewiston_Historic_District_Boundary_Increase_100002681.pdf
+**Morgan's Alley.** Then: the Vollmer and Scott building, built 1905, faced D Street, with Cash Hardware, Vollmer & Co and the Lewiston Tribune upstairs. Now: two initially separate buildings joined internally, addressed from Main Street at 301/311, listed by the City as 305. Which frontage was once primary is a useful question the building itself still poses onsite. Do not conflate this building with every separately named Vollmer property or attach an unverified individual NRHP number to it; its register standing in this record is through the district above. [1, 6]
 
-The 2018 PDF was too large for the web reader. Its indexed Liberty entry identifies resource 40, 611 Main Street, contributing, and IHSI 69-18016. Treat those component details as indexed evidence pending full-PDF QC, not a claim of complete nomination review.
+## 4. Surviving features and access
 
-## Then and now: two anchors
+| Feature | Access class | Evidence |
+|---|---|---|
+| Liberty Theater exterior, 611 Main Street | Public sidewalk viewing; no entry promised | The City dates the building to 1902, originally Western Hardware and Implement Company, and its theater conversion to 1920–21, with a later remodeling of the theatrical frontage; the preservation organization describes work to renovate and reopen, not an operating schedule. [4, 5] |
+| Morgan's Alley (Vollmer and Scott building), 301/311 Main Street, listed as 305 | Public sidewalk viewing of the Main Street and D Street faces | The City identifies the 1905 building, its two initially separate buildings later joined internally, its original D Street frontage, and occupants including Cash Hardware, Vollmer & Co and the Lewiston Tribune upstairs. [6] |
+| Main Street commercial block pattern | Public sidewalks and marked crossings; exteriors only | Closely spaced commercial fronts remain readable even where occupants changed. Observe public exteriors only; no permission to enter closed premises or service spaces is implied. [1, 6] |
 
-**Liberty Theater:** the City dates the building to 1902, originally Western Hardware and Implement Company, and its theater conversion to 1920–21. A later remodeling changed its theatrical frontage. Its street address gives a firm place to compare, but the current preservation organization still describes work to renovate and reopen. Its vision statement is not an operating schedule. No current interior admission or opening hours were verified.
+## 5. Public progression
 
-https://www.cityoflewiston.org/734/Liberty-Theater
-https://www.thelibertytheaterlewiston.org/
+First stand back from the Liberty and read the facade as a building repeatedly repurposed; then walk the commercial blocks toward Morgan's Alley using public sidewalks and marked crossings. Finish by comparing the archival street frame in the photo record with the actual rooflines and upper-story window rhythms. **Strongest story moment:** these streets are an accumulation of working uses — the useful comparison is not simply old versus new, but which physical pieces outlasted their original business. Exact camera position and accessibility remain field checks. The historic viewpoint appears to include roadway space; do not stand in a traffic lane to recreate it.
 
-**Morgan’s Alley:** the City identifies the Vollmer and Scott building, built 1905, as today’s Morgan’s Alley. Two initially separate buildings were later joined internally. It originally faced D Street; initial occupants included Cash Hardware, Vollmer & Co and the Lewiston Tribune upstairs. This creates a useful onsite question about which frontage was once primary. Do not conflate this building with every separately named Vollmer property or attach an unverified individual NRHP number.
+## 6. Gaps and conflicts
 
-https://www.cityoflewiston.org/724/Morgans-Alley
+- The 2018 boundary-increase nomination PDF was too large for the web reader in this research pass. Its indexed Liberty entry identifies resource 40, 611 Main Street, contributing, and IHSI 69-18016. Treat those component details as indexed evidence pending full-PDF QC, not a claim of complete nomination review. [2]
+- Interior access and opening hours for both anchors are unverified. The Liberty preservation organization's vision statement is not an operating schedule. [5]
+- The City's Liberty page links a photograph (documentId=4830) under a circa-1921 caption. Pixel inspection shows prominent "ALL-TALKING" and *Hot for Paris* signage and a Burns Photo Co., Lewiston, Idaho imprint — a substantive caption/content dating concern. The image is not published in this record as verified 1921, and no corrected year is asserted; it stays a secondary research lead until the archive resolves the discrepancy. [7]
+- The selected street frame's exact camera position, heading and lens match are unverified, and its reproduction rights are unresolved (see the photo record). No verified repeat-photo pair is claimed.
+- Coordinates are intentionally blank rather than borrowed from a broad archival catalog geotag. Current exterior survival is supported by municipal identification and the Liberty preservation organization; it is not a same-day field inspection.
 
-## Best archival street frame: selected, not a verified repeat-photo pair
+## 7. Historical photo records
 
-**Selection:** the City’s Morgan’s Alley page links a photograph captioned “Vollmer-Scott Building circa 1934.” It is a wider streetscape rather than just a facade and offers several alignment cues: tall upper-floor window rows, projecting cornices, a gabled frontage farther along, historic street lamps, parked cars and track-like grooves in the street. Those features are visually observable in the downloaded image. The City’s association supplies the named landmark; this research has not independently identified every building in the frame or established which exact pictured bays survive.
+**Selected frame.** The City's Morgan's Alley page links a photograph captioned "Vollmer-Scott Building circa 1934." It is a wider streetscape rather than just a facade and offers several alignment cues: tall upper-floor window rows, projecting cornices, a gabled frontage farther along, historic street lamps, parked cars and track-like grooves in the street. Those features are visually observable in the downloaded image. The City's association supplies the named landmark; this research has not independently identified every building in the frame or established which exact pictured bays survive.
 
 - Municipal image identifier: **documentId=4882**. This is a web repository ID, not a museum accession number.
-- Exact image: https://www.cityoflewiston.org/ImageRepository/Document?documentId=4882
-- Source page: https://www.cityoflewiston.org/724/Morgans-Alley
-- Local inspected evidence: `lewiston-evidence/vollmer-4882.jpg`.
 - Date: circa 1934 **as captioned**, not independently dated.
 - Archive credit: the municipal project acknowledges Dr. Steven Branting and the Nez Perce County Historical Society and Museum. Exact photographer, negative number and rights holder are not established here.
-- Reproduction license: **unverified**. Public display on a city website does not establish unrestricted reuse. Link to the source in the app; hold image republication for rights QC.
+- Reproduction license: **unverified**. Public display on a city website does not establish unrestricted reuse. Link to the source in the app; hold image republication for rights QC. [6, 8]
 
-**Candidate modern vantage:** a public-sidewalk position around the Main Street/Morgan’s Alley frontage, with a separate look toward its D Street side. Begin by matching upper-story architecture, not storefront signage. Determine the correct side and viewing direction on arrival. The historic viewpoint appears to include roadway space; do not stand in a traffic lane to recreate it. No exact coordinates, heading, lens match or safe unobstructed camera station has been verified. This is a suggested comparison hunt, not a verified then/now photo pair.
+**Rejected as dated.** The City's Liberty page links documentId=4830 under a circa-1921 caption; the image's own signage contradicts that date (see Gaps and conflicts). Held as a research lead only, not as a verified 1921 frame. [7]
 
-### Important rejected-image date problem
+**Rights-clear context frame.** A rights-clear alternative for general historical context is the University of Idaho's *Main Street in Lewiston, Idaho, 1881*, source ID **90-10-018a**, Clifford M. Ott Collection **PG 90**. The catalog marks it public domain. It was not visually matched to surviving landmarks in this research, so it is not a replacement verified pair. [9, 10]
 
-The City’s Liberty page links **documentId=4830** under a circa-1921 caption. Actual pixel inspection shows prominent “ALL-TALKING” and *Hot for Paris* signage and a Burns Photo Co., Lewiston, Idaho imprint. This creates a substantive caption/content dating concern. Do not publish that image as verified 1921. No corrected year is asserted here. Keep it as a secondary research lead until the archive resolves the discrepancy.
+## 8. Optional photo-tag observations
 
-https://www.cityoflewiston.org/ImageRepository/Document?documentId=4830
+Unactivated candidates from the research record, made from public sidewalks only; nothing on this stop is scored.
 
-A rights-clear alternative for general historical context is the University of Idaho’s *Main Street in Lewiston, Idaho, 1881*, source ID **90-10-018a**, Clifford M. Ott Collection **PG 90**. The catalog marks it public domain. It was not visually matched to surviving landmarks in this task, so it is not a replacement verified pair.
-https://www.lib.uidaho.edu/digital/ott/items/ott1686.html
-https://creativecommons.org/publicdomain/mark/1.0/
+- The Liberty Theater's upper facade, read against its later theater entrance treatment from the opposite public sidewalk.
+- Morgan's Alley's cornice line and upper-window rhythm, matched against the circa-1934 street frame without relying on storefront signage.
+- The Main Street block pattern of closely spaced commercial fronts surviving through changes of occupant.
 
-## Three physical finds and onsite questions
+## 9. Sources
 
-1. **Liberty upper facade versus entrance treatment:** Which features belong to the commercial building and which advertise its later theater life? Compare from the opposite public sidewalk only where a lawful, clear view exists.
-2. **Morgan’s Alley frontage and upper windows:** Can the historic street frame’s cornice and window rhythm be matched without relying on business signs? If not, mark the match unresolved rather than forcing it.
-3. **Main Street block pattern:** What remains of the closely spaced commercial fronts even where occupants changed? Observe public exteriors only; no permission to enter closed premises or service spaces is implied.
+1. https://npgallery.nps.gov/AssetDetail/NRIS/75000637
+2. https://history.idaho.gov/wp-content/uploads/2018/09/Lewiston_Historic_District_Boundary-Increase_84003852.pdf
+3. https://history.idaho.gov/wp-content/uploads/Lewiston_Historic_District_Boundary_Increase_100002681.pdf
+4. https://www.cityoflewiston.org/734/Liberty-Theater
+5. https://www.thelibertytheaterlewiston.org/
+6. https://www.cityoflewiston.org/724/Morgans-Alley
+7. https://www.cityoflewiston.org/ImageRepository/Document?documentId=4830
+8. https://www.cityoflewiston.org/ImageRepository/Document?documentId=4882
+9. https://www.lib.uidaho.edu/digital/ott/items/ott1686.html
+10. https://creativecommons.org/publicdomain/mark/1.0/
 
-## Locator record
+## 10. Locator
 
-```yaml
-stable_site_name: Lewiston Main Street / Lewiston Historic District
-latitude:
-longitude:
-coordinate_source:
-coordinate_scope: No approved public camera/navigation coordinates verified.
-national_register_reference: 75000637
-hmdb_marker_id:
-archives_west_ark:
-archive_collection_identifier:
-official_register_listing: https://history.idaho.gov/wp-content/uploads/Lewiston_Historic_District_Boundary_Increase_100002681.pdf
-governing_cfr:
-agency_specification:
-selected_municipal_image_id: 4882
-photo_point_status: HOLD
-```
-
-### Locator and publication gate
-
-- Preferred display name: Lewiston Main Street / Lewiston Historic District
-- Anchor address: Liberty Theater, 611 Main Street, Lewiston, ID
-- Secondary address: Morgan’s Alley, 301/311 Main Street; City lists 305
-- Latitude:
-- Longitude:
-- NRHP district: 75000637
-- Expansion document IDs: 84003852; 100002681
-- HMdb ID:
-- Selected archive accession:
-- Selected municipal image ID: 4882
-- Current exterior survival: supported by municipal identification and the Liberty preservation organization; not a same-day field inspection
-- Interior access / hours: unverified
-- Repeat-photo alignment: unverified
-- Image reuse rights: unresolved for selected municipal image
-
-Ready for narrative/catalog QC, not ready to claim a verified visual pair or unrestricted image reuse. Coordinates are intentionally blank rather than borrowed from a broad archival catalog geotag.
+| Field | Value |
+|---|---|
+| Stable site name | Lewiston Main Street / Lewiston Historic District |
+| Anchor address | Liberty Theater, 611 Main Street, Lewiston, ID |
+| Secondary address | Morgan's Alley, 301/311 Main Street (City lists 305), Lewiston, ID |
+| Latitude |  |
+| Longitude |  |
+| Coordinate source and scope | No approved public camera/navigation coordinates verified. |
+| National Register reference | 75000637 (Lewiston Historic District); boundary increases 84003852 and 100002681 |
+| HMdb marker ID |  |
+| Archives West ARK |  |
+| Archive collection identifier | University of Idaho, Clifford M. Ott Collection PG 90, item 90-10-018a (context frame only) |
+| Official register listing URL | https://history.idaho.gov/wp-content/uploads/Lewiston_Historic_District_Boundary_Increase_100002681.pdf |
+| Selected municipal image ID | 4882 |
+| Photo point status | HOLD — repeat-photo alignment unverified; municipal image reproduction rights unresolved |
