@@ -36,14 +36,12 @@ The Delano nexus is explicit. Do not substitute a Salinas photograph merely beca
 **Excluded:** active fields, workplaces, housing, retirement or care spaces, former camps, private community interiors and routes reconstructed from interview clues. Publicly readable testimony does not make those places public.
 
 ## 5. Trip-shaped stop progression
-**Runnable now as a remote story sequence, not a drive through agricultural ground.**
 
-1. Start with the archive item, narrator, recorded year and transcription limitations.
-2. Read the account of receiving information. Notice where the questioner suggests a sequence and the narrator corrects it.
-3. Compare the broad institutional timeline with the personal recollection without forcing them to say exactly the same thing.
-4. End with the strongest reflection: durable collective action depends on workers understanding what is being asked and what protections they seek, not only on a famous leader's announcement.
+This is an archive-only entry: no public visitor address is established, and no physical stop is activated. Forty Acres remains an identified landmark under separate management, but no operational or visitor access to it is cleared here. Active fields, workplaces, housing and former camps are excluded. [1]
 
-Keep this a reading encounter. Do not stage a strike, assign a historical ethnicity, reenact a confrontation or ask visitors to locate a worker's house. A physical interpretation proposal requires a newly verified operator gate, not completion of this research.
+What the record holds is Philip Vera Cruz's 1971 oral history, published by the Welga Archive of the Bulosan Center for Filipino Studies. Vera Cruz describes learning about organizing while working near Delano: signing union-related papers without being certain what action they committed him to, hearing news unevenly, and seeking a meeting. The transcript's questioner is identified as Valledor; no fuller interviewer name is established. His phrase for the process — “I'm just trying to start from the beginning” — runs through the interview, in which he corrects the questioner's proposed sequence and remembers a meeting discussion that emphasized a contract rather than only a wage increase. The transcript was read directly; no original recording was played. [4]
+
+The Linda Mabalot collection and the Agbayani exhibit identify further research material; a catalog description is evidence that a record is described, not proof that its full content has been read or licensed. [5,6]
 
 ## 6. Honest gaps and conflicting dates
 - The explicit NPS public-access field conflicts with more general visitor language in another NPS essay. Current operator confirmation was not obtained. [1–3]
