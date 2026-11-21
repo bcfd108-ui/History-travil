@@ -44,14 +44,11 @@ No current demonstration timetable, original-issue display, take-home print or a
 
 ## 5. Trip-shaped stop progression
 
-**One museum visit, 45–60 minutes as an editorial estimate**, not an official tour length. Research first, no trivia layer.
+The public anchor is Tubac Presidio State Historic Park and Museum, 1 Burruel Street, Tubac, which offers a verified printing-history display. The park is operated by the Friends of the Tubac Presidio and Museum, Inc., on behalf of Arizona State Parks and Trails; the designation does not make every building or neighboring property public visitor space. [1][5]
 
-1. **Before arrival: the dated issue.** Present the March 3, 1859 catalog record and the three distinct roles of owner, publisher and editor. Keep the uninspected page-image gap visible.
-2. **At the public exhibit: object and labor.** View the press only from the space opened to visitors. The story is about the people and decisions behind printed communication, not equipment operation.
-3. **Separate original from interpretation.** Label the historic artifact, any modern explanatory material and any contemporary demonstration as different evidence layers. Do not describe a reproduction as an original.
-4. **Strongest landing: a printed voice is selective.** End with the surviving paper as a record made by particular people, rather than neutral proof of everything a community thought. The record is valuable precisely because its authorship and limits remain visible.
+The paper at the center is the Tubac *Weekly Arizonian*, first issued March 3, 1859. The State of Arizona Research Library identifies Edward E. Cross as its first editor, William Wrightson as publisher, and the Santa Rita Silver Mining Company as owner — three different roles in one small paper. The Library of Congress catalogs that exact four-page first issue as volume 1, number 1 (LCCN sn82014067); its page images and editorial text were not inspected for this dossier, and no statement is quoted as Cross's firsthand voice. [2][3]
 
-If the museum is closed or the exhibit unavailable, use the institutional catalog online. No road route, private shop visit or reenacted duel is included. A future photograph-tag find requires a confirmed public sightline and photography permission; none is activated here.
+An older park-history article documents Cross's earlier work as a printer before the editorship. No payroll, compositor's diary or shop roster was retrieved, and no woman print worker is named in the record — those hands stay unnamed rather than invented. No demonstration timetable or original-issue display is promised; the visit works through the public interpretation. [4]
 
 ## 6. Honest gaps and conflicting dates
 
