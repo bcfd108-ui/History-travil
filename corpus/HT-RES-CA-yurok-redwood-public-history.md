@@ -35,15 +35,12 @@ The public visitor center advertises exhibits and work by local artisans. No cur
 The Tribe’s public web record is independently usable for this entry. The Stone Lagoon source inspected redirects to an “old” page containing template text, so it is not used to establish a second current winter stop. [6] ‘O Rew is discussed as a historical and sovereignty source only; its field areas, trails and cultural features are not routed or pinned here.
 
 ## 5. Trip-shaped stop progression
-One institution, conditional on its actual opening; no outdoor extension or inter-stop directions.
 
-1. **Establish the gate:** confirm the center is open and obey its current visitor and photography rules. If closed, shift to archive-only reading.
-2. **Begin with who speaks:** identify the institution and the author or community credit on a public exhibit, if supplied. Do not invent an attribution for an unsigned label.
-3. **Read the stewardship statement:** use James’s brief Tribe-published statement as a lens for the public interpretation, not as proof of an exhibit’s content.
-4. **Separate knowledge from permission:** observe how the institution chooses to explain a publicly displayed object or image. Do not infer that a depicted location is somewhere visitors may go.
-5. **End at the strongest story moment:** redwood history is not just about surviving trees. It is also about a living people’s authority to care for land and tell the story. That conclusion needs no excursion beyond the authorized institution.
+The public anchor is the Yurok Country Visitor Center, 101 Klamath Blvd., Klamath, which advertises exhibits and work by local artisans. No current object-level inventory, artist appearance, specific recording or named restoration exhibit inside the center was verified; the restoration testimony below is companion reading, not a claim about what the center currently displays. [1,2]
 
-Optional unsent question: **Which publicly available Yurok-authored materials best explain stewardship and the distinction between Tribal authority and park management?** Do not request sensitive site locations, ceremonies, or private family knowledge.
+On the Yurok Tribe's own 'O Rew page, Joseph L. James, identified there as Chairman, states: “We created a new model of conservation that centers Indigenous land stewardship.” The page describes ecological harm alongside violence and displacement, and says the Tribe shaped restoration and visitor interpretation around Yurok knowledge and cultural priorities — a public leadership statement reproduced by the Tribe, not an independently measured restoration outcome. The Tribe's April 14, 2022 video description also identifies Dr. Kishan Lara-Cooper discussing the significance of the work. [3]
+
+'O Rew itself is treated here as a historical and sovereignty source only: its field areas, trails and cultural features are not routed or pinned. The Tribe's public web record stands on its own for this entry. [3]
 
 ## 6. Honest gaps and conflicting dates
 - Seasonal hours are partly ambiguous in extracted layout; the homepage supports Tuesday–Sunday, not a seven-day winter guarantee. No holiday or same-day access verification occurred.
