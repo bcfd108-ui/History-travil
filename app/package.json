@@ -6,7 +6,7 @@
   "scripts": {
     "convert": "node scripts/convert.mjs",
     "dev": "next dev",
-    "build": "node scripts/convert.mjs && node scripts/check-maps.mjs && node scripts/check-hunts.mjs && next build",
+    "build": "node scripts/convert.mjs && node scripts/build-navigation.mjs && node scripts/check-maps.mjs && node scripts/check-hunts.mjs && next build",
     "start": "next start",
     "check:maps": "node scripts/check-maps.mjs",
     "test:maps": "node --test scripts/maps-core.test.mjs",
