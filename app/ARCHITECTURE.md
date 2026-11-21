@@ -78,6 +78,9 @@ interface with database queries — no page rewrites.
   serves the guide documents, one file per state, and the national file.
 - `/hunts` — the three hunts (Pulaski, Valley, Mining Country) presented as
   photo-tag scavenger hunts, read-only in Stage 1.
+- `/maps` — the historic map library (see `MAPS.md`): sheets grouped by
+  state → place, filter by type and era; `/maps/[id]` sheet pages with zoom
+  in place; entries and routes show their tied sheets oldest first.
 - `/tours` — states plainly that the seven tour records live in the app
   record, not in the research files, and are not reconstructed here.
 

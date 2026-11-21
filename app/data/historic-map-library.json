@@ -1,0 +1,1009 @@
+{
+  "version": 2,
+  "generated": "2026-11-21 (America/Los_Angeles) — DRAFT for Dash review; not deployed",
+  "schemaNotes": {
+    "position": "x/y are percentages of the FULL image width/height (origin top-left), independent of display size. null = no point.",
+    "status": "checked = position fixed from listed reference points AND confirmed by at least two held-out features; no-point-by-rule = the tie stands but no position meets the standard. 'placed' (fixed but not yet checked) is reserved; no tie uses it and the site must not render a point unless status is 'checked'.",
+    "coverage.basis": "'as printed' = bounds read from the street names/neatline printed on the sheet; 'derived from corners' = computed from corner coordinates.",
+    "image.src": "display JPEG at a stable holding-institution URL (tile.loc.gov IIIF or Wikimedia Commons). iiifService supports in-place zoom. src null + displayDerivativeNeeded = must be converted and hosted before display.",
+    "counts": "tieCount is a convenience copy; the library page must compute counts from ties[]."
+  },
+  "sheets": [
+    {
+      "id": "ia-boone-1916-s09",
+      "title": "Sanborn Fire Insurance Map from Boone, Boone County, Iowa — sheet 9",
+      "maker": "Sanborn Map Company",
+      "publisher": "Sanborn Map Company, New York",
+      "date": "April 1916",
+      "dateSort": "1916-04",
+      "type": "Sanborn fire insurance",
+      "source": {
+        "collection": "Library of Congress, Geography and Map Division, Sanborn Maps Collection",
+        "itemId": "sanborn02583_006",
+        "sheetFile": "02583_1916-0009.jp2",
+        "pageUrl": "https://www.loc.gov/item/sanborn02583_006/",
+        "itemJsonUrl": "https://www.loc.gov/item/sanborn02583_006/?fo=json"
+      },
+      "image": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Sanborn_Fire_Insurance_Map_from_Boone%2C_Boone_County%2C_Iowa._LOC_sanborn02583_006-9.jpg",
+        "large": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd415m:g4154m:g4154bm:g025831916:02583_1916-0009/full/pct:50/0/default.jpg",
+        "iiifService": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd415m:g4154m:g4154bm:g025831916:02583_1916-0009",
+        "iiifInfo": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd415m:g4154m:g4154bm:g025831916:02583_1916-0009/info.json",
+        "master": "https://tile.loc.gov/storage-services/service/gmd/gmd415m/g4154m/g4154bm/g025831916/02583_1916-0009.jp2",
+        "width": 6450,
+        "height": 7650,
+        "host": "Wikimedia Commons (full-res copy of LOC sanborn02583_006 sheet 9, as used by the live site); LOC IIIF service kept alongside",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:Sanborn_Fire_Insurance_Map_from_Boone,_Boone_County,_Iowa._LOC_sanborn02583_006-9.jpg"
+      },
+      "credit": "Sanborn Map Company, April 1916, sheet 9. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+      "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
+      "place": {
+        "town": "Boone",
+        "county": "Boone County",
+        "state": "IA"
+      },
+      "coverage": {
+        "bounds": "Marion St. and Jackson St. (west/north-west), E. 6th St. and E. 7th St. (north), Delaware Ave. (east and south-west edges); Chicago & North Western yard across the middle",
+        "basis": "as printed",
+        "description": "Chicago & North Western roundhouse, turntable, machine shop, transfer table and yard; residential blocks of the Eighth Addition along E. 6th and E. 7th."
+      },
+      "sheetNumber": "9",
+      "setSize": 16,
+      "setNote": null,
+      "printedScale": "Graphic 'Scale of Feet' bar, lower right (set title-page scale not re-read this pass).",
+      "printedNorth": "Compass rose with north arrow printed right of centre; north is toward the top of the sheet.",
+      "limitsNote": "April 1916. This sheet documents the railroad shops at the Boone stop. It does not establish the Lincoln Highway alignment or public access to the historic rail yard.",
+      "caption": "Boone's Chicago & North Western roundhouse, turntable, machine shop and adjoining yard, mapped in April 1916.",
+      "alt": "1916 fire insurance map showing the curved Chicago and North Western roundhouse around a turntable, the machine shop, and parallel railroad tracks in Boone, Iowa.",
+      "sourceName": "Library of Congress — Sanborn Maps Collection, item sanborn02583_006",
+      "tieCount": 2
+    },
+    {
+      "id": "id-lewiston-1918-s01",
+      "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho — sheet 1 (key map and index)",
+      "maker": "Sanborn Map Company",
+      "publisher": "Sanborn Map Company, New York",
+      "date": "May 1918",
+      "dateSort": "1918-05",
+      "type": "Sanborn fire insurance",
+      "source": {
+        "collection": "Library of Congress, Geography and Map Division, Sanborn Maps Collection",
+        "itemId": "sanborn01630_007",
+        "sheetFile": "01630_1918-0001.jp2",
+        "pageUrl": "https://www.loc.gov/item/sanborn01630_007/",
+        "itemJsonUrl": "https://www.loc.gov/item/sanborn01630_007/?fo=json"
+      },
+      "image": {
+        "src": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0001/full/pct:25/0/default.jpg",
+        "large": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0001/full/pct:50/0/default.jpg",
+        "iiifService": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0001",
+        "iiifInfo": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0001/info.json",
+        "master": "https://tile.loc.gov/storage-services/service/gmd/gmd427m/g4274m/g4274lm/g016301918/01630_1918-0001.jp2",
+        "width": 6450,
+        "height": 7650,
+        "host": "tile.loc.gov (holding institution's IIIF image service)"
+      },
+      "credit": "Sanborn Map Company, May 1918, sheet 1. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+      "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
+      "place": {
+        "town": "Lewiston",
+        "county": "Nez Perce County",
+        "state": "ID"
+      },
+      "coverage": {
+        "bounds": "Whole mapped city: Clearwater River (north), Snake River and the Clarkston, Washington shore (west), the Normal Hill and southern residential grid (south and east)",
+        "basis": "as printed",
+        "description": "Key map showing which of the set's 30 sheets covers each block, with the street and 'specials' index and the water-works and fire-department notes."
+      },
+      "sheetNumber": "1",
+      "setSize": 30,
+      "setNote": null,
+      "printedScale": "Key map; no graphic scale read this pass.",
+      "printedNorth": "North arrow printed right of centre on the key map; north is toward the top.",
+      "limitsNote": "May 1918. This key sheet documents how the 1918 set divides Lewiston and indexes streets and named buildings to sheets. It is an index, not a lot-level map, and it does not establish the modern levee line, the post-1975 Lower Granite reservoir shoreline, or any present-day access.",
+      "caption": null,
+      "alt": null,
+      "tieCount": 5
+    },
+    {
+      "id": "id-lewiston-1918-s04",
+      "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho — sheet 4",
+      "maker": "Sanborn Map Company",
+      "publisher": "Sanborn Map Company, New York",
+      "date": "May 1918",
+      "dateSort": "1918-05",
+      "type": "Sanborn fire insurance",
+      "source": {
+        "collection": "Library of Congress, Geography and Map Division, Sanborn Maps Collection",
+        "itemId": "sanborn01630_007",
+        "sheetFile": "01630_1918-0004.jp2",
+        "pageUrl": "https://www.loc.gov/item/sanborn01630_007/",
+        "itemJsonUrl": "https://www.loc.gov/item/sanborn01630_007/?fo=json"
+      },
+      "image": {
+        "src": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0004/full/pct:25/0/default.jpg",
+        "large": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0004/full/pct:50/0/default.jpg",
+        "iiifService": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0004",
+        "iiifInfo": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0004/info.json",
+        "master": "https://tile.loc.gov/storage-services/service/gmd/gmd427m/g4274m/g4274lm/g016301918/01630_1918-0004.jp2",
+        "width": 6450,
+        "height": 7650,
+        "host": "tile.loc.gov (holding institution's IIIF image service)"
+      },
+      "credit": "Sanborn Map Company, May 1918, sheet 4. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+      "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
+      "place": {
+        "town": "Lewiston",
+        "county": "Nez Perce County",
+        "state": "ID"
+      },
+      "coverage": {
+        "bounds": "Camas Prairie Railroad yard and Bartlett Lumber Co. (north) to Main St. (south); N. 4th St. (west) to N. 7th St. (east); B, C and D Streets between",
+        "basis": "as printed",
+        "description": "Downtown north of Main between 4th and 7th, with the Camas Prairie R.R. freight depot, Hotel Raymond, Hotel Idaho, I.O.O.F. Hall, Klaus & Thomas Garage and the White Front building."
+      },
+      "sheetNumber": "4",
+      "setSize": 30,
+      "setNote": null,
+      "printedScale": "Graphic 'Scale of Feet' bar, lower right.",
+      "printedNorth": "Compass rose with north arrow printed lower left; north is toward the top of the sheet.",
+      "limitsNote": "May 1918. This sheet documents building footprints, materials, uses and house numbers on the 400–600 blocks of Main as surveyed for fire insurance. It predates the 1920–21 conversion of 611 Main into the Liberty Theater, and it does not establish what survives today, any building's present use, or public access to any interior.",
+      "caption": null,
+      "alt": null,
+      "tieCount": 1
+    },
+    {
+      "id": "id-lewiston-1918-s11",
+      "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho — sheet 11",
+      "maker": "Sanborn Map Company",
+      "publisher": "Sanborn Map Company, New York",
+      "date": "May 1918",
+      "dateSort": "1918-05",
+      "type": "Sanborn fire insurance",
+      "source": {
+        "collection": "Library of Congress, Geography and Map Division, Sanborn Maps Collection",
+        "itemId": "sanborn01630_007",
+        "sheetFile": "01630_1918-0011.jp2",
+        "pageUrl": "https://www.loc.gov/item/sanborn01630_007/",
+        "itemJsonUrl": "https://www.loc.gov/item/sanborn01630_007/?fo=json"
+      },
+      "image": {
+        "src": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0011/full/pct:25/0/default.jpg",
+        "large": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0011/full/pct:50/0/default.jpg",
+        "iiifService": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0011",
+        "iiifInfo": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0011/info.json",
+        "master": "https://tile.loc.gov/storage-services/service/gmd/gmd427m/g4274m/g4274lm/g016301918/01630_1918-0011.jp2",
+        "width": 6450,
+        "height": 7650,
+        "host": "tile.loc.gov (holding institution's IIIF image service)"
+      },
+      "credit": "Sanborn Map Company, May 1918, sheet 11. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+      "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
+      "place": {
+        "town": "Lewiston",
+        "county": "Nez Perce County",
+        "state": "ID"
+      },
+      "coverage": {
+        "bounds": "12th St. (north) to Lincoln St. (south); Idaho St. (west) to the Camas Prairie R.R. main track (east); Main St., F St. and Jefferson St. between",
+        "basis": "as printed",
+        "description": "Main St. between 12th and Lincoln, with the Nez Perce County Court House, the Union Depot at 1233 Main and the Lewiston Milling Co."
+      },
+      "sheetNumber": "11",
+      "setSize": 30,
+      "setNote": null,
+      "printedScale": "Graphic 'Scale of Feet' bar (0–150 ft), bottom centre.",
+      "printedNorth": "Compass rose printed lower left; its north arrow points toward the right edge — this sheet is NOT north-up.",
+      "limitsNote": "May 1918. This sheet documents the 1909 Union Depot's footprint, brick construction and room layout (waiting room, ticket office, baggage room) beside the Camas Prairie main track. It does not establish the depot's present use, its interior condition, or any approach to the tracks, which are not public ground.",
+      "caption": null,
+      "alt": null,
+      "tieCount": 1
+    },
+    {
+      "id": "id-lewiston-1918-s26",
+      "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho — sheet 26",
+      "maker": "Sanborn Map Company",
+      "publisher": "Sanborn Map Company, New York",
+      "date": "May 1918",
+      "dateSort": "1918-05",
+      "type": "Sanborn fire insurance",
+      "source": {
+        "collection": "Library of Congress, Geography and Map Division, Sanborn Maps Collection",
+        "itemId": "sanborn01630_007",
+        "sheetFile": "01630_1918-0026.jp2",
+        "pageUrl": "https://www.loc.gov/item/sanborn01630_007/",
+        "itemJsonUrl": "https://www.loc.gov/item/sanborn01630_007/?fo=json"
+      },
+      "image": {
+        "src": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0026/full/pct:25/0/default.jpg",
+        "large": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0026/full/pct:50/0/default.jpg",
+        "iiifService": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0026",
+        "iiifInfo": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274lm:g016301918:01630_1918-0026/info.json",
+        "master": "https://tile.loc.gov/storage-services/service/gmd/gmd427m/g4274m/g4274lm/g016301918/01630_1918-0026.jp2",
+        "width": 6450,
+        "height": 7650,
+        "host": "tile.loc.gov (holding institution's IIIF image service)"
+      },
+      "credit": "Sanborn Map Company, May 1918, sheet 26. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+      "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
+      "place": {
+        "town": "Lewiston",
+        "county": "Nez Perce County",
+        "state": "ID"
+      },
+      "coverage": {
+        "bounds": "7th Ave. (north) to 10th Ave. (south); City Park and 5th St. (west) to 7th St. (east); 6th St., 8th Ave. and 9th Ave. between",
+        "basis": "as printed",
+        "description": "The Lewiston State Normal School campus — Administration Building, Lewis Hall girls' dormitory, Domestic Science Building, gymnasium — and residential blocks east of 6th St."
+      },
+      "sheetNumber": "26",
+      "setSize": 30,
+      "setNote": null,
+      "printedScale": "Graphic 'Scale of Feet' bar, lower right.",
+      "printedNorth": "Compass rose with north arrow printed at left; north is toward the top of the sheet.",
+      "limitsNote": "May 1918. This sheet documents the Normal School Administration Building as 'being remodeled from fire ruins — from plans' after the 1917 fire. It does not show or establish the clock tower's pre-fire or rebuilt silhouette (towers are not drawn in elevation), the finished 1918–20 reconstruction, or current campus access.",
+      "caption": null,
+      "alt": null,
+      "tieCount": 1
+    },
+    {
+      "id": "id-wallace-1908-s01",
+      "title": "Sanborn Fire Insurance Map from Wallace, Shoshone County, Idaho — sheet 1 (key map, index, and Nine Mile Creek strip)",
+      "maker": "Sanborn Map Company",
+      "publisher": "Sanborn Map Company, New York",
+      "date": "December 1908",
+      "dateSort": "1908-12",
+      "type": "Sanborn fire insurance",
+      "source": {
+        "collection": "Library of Congress, Geography and Map Division, Sanborn Maps Collection",
+        "itemId": "sanborn01687_006",
+        "sheetFile": "01687_1908-0001.jp2",
+        "pageUrl": "https://www.loc.gov/item/sanborn01687_006/",
+        "itemJsonUrl": "https://www.loc.gov/item/sanborn01687_006/?fo=json"
+      },
+      "image": {
+        "src": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274wm:g016871908:01687_1908-0001/full/pct:25/0/default.jpg",
+        "large": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274wm:g016871908:01687_1908-0001/full/pct:50/0/default.jpg",
+        "iiifService": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274wm:g016871908:01687_1908-0001",
+        "iiifInfo": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274wm:g016871908:01687_1908-0001/info.json",
+        "master": "https://tile.loc.gov/storage-services/service/gmd/gmd427m/g4274m/g4274wm/g016871908/01687_1908-0001.jp2",
+        "width": 6450,
+        "height": 7650,
+        "host": "tile.loc.gov (holding institution's IIIF image service)"
+      },
+      "credit": "Sanborn Map Company, December 1908, sheet 1. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+      "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
+      "place": {
+        "town": "Wallace",
+        "county": "Shoshone County",
+        "state": "ID"
+      },
+      "coverage": {
+        "bounds": "Key map of the whole mapped town between the mountain slopes; lower panel: the Northern Pacific depot and the County Road/Nine Mile Creek strip east of it",
+        "basis": "as printed",
+        "description": "Key map dividing Wallace into sheets 2–7, specials index, water and fire notes; lower panel maps the N.P.R.R. depot, freight house, and warehouses along Nine Mile Creek."
+      },
+      "sheetNumber": "1",
+      "setSize": 7,
+      "setNote": null,
+      "printedScale": "Graphic 'Scale of Feet' bar, lower left.",
+      "printedNorth": "North arrow top left on the key map (north up); the lower panel carries its own arrow, rotated.",
+      "limitsNote": "December 1908 — about twenty months before the August 1910 fire. This sheet documents the town plan and the Northern Pacific depot at its 1908 site. It does not establish what burned in 1910, the depot's later move (the depot museum stands on a different spot today), or the Interstate 90 alignment.",
+      "caption": null,
+      "alt": null,
+      "tieCount": 2
+    },
+    {
+      "id": "id-wallace-1908-s05",
+      "title": "Sanborn Fire Insurance Map from Wallace, Shoshone County, Idaho — sheet 5",
+      "maker": "Sanborn Map Company",
+      "publisher": "Sanborn Map Company, New York",
+      "date": "December 1908",
+      "dateSort": "1908-12",
+      "type": "Sanborn fire insurance",
+      "source": {
+        "collection": "Library of Congress, Geography and Map Division, Sanborn Maps Collection",
+        "itemId": "sanborn01687_006",
+        "sheetFile": "01687_1908-0005.jp2",
+        "pageUrl": "https://www.loc.gov/item/sanborn01687_006/",
+        "itemJsonUrl": "https://www.loc.gov/item/sanborn01687_006/?fo=json"
+      },
+      "image": {
+        "src": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274wm:g016871908:01687_1908-0005/full/pct:25/0/default.jpg",
+        "large": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274wm:g016871908:01687_1908-0005/full/pct:50/0/default.jpg",
+        "iiifService": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274wm:g016871908:01687_1908-0005",
+        "iiifInfo": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd427m:g4274m:g4274wm:g016871908:01687_1908-0005/info.json",
+        "master": "https://tile.loc.gov/storage-services/service/gmd/gmd427m/g4274m/g4274wm/g016871908/01687_1908-0005.jp2",
+        "width": 6450,
+        "height": 7650,
+        "host": "tile.loc.gov (holding institution's IIIF image service)"
+      },
+      "credit": "Sanborn Map Company, December 1908, sheet 5. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+      "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
+      "place": {
+        "town": "Wallace",
+        "county": "Shoshone County",
+        "state": "ID"
+      },
+      "coverage": {
+        "bounds": "6th St. (top) to 3rd St. (bottom); Pine St. to Pearl St. across, with Cedar, Bank and High Streets between",
+        "basis": "as printed",
+        "description": "Central brick business blocks on Bank and Cedar between 5th and 6th (Sweets Hotel, Wallace Hotel, White & Bender Co.), residential blocks south to 3rd, 1st Baptist and 1st Congregational churches."
+      },
+      "sheetNumber": "5",
+      "setSize": 7,
+      "setNote": null,
+      "printedScale": "Graphic 'Scale of Feet' bar, bottom centre-right.",
+      "printedNorth": "Compass rose printed left of centre; north points to the LEFT edge — this sheet is not north-up.",
+      "limitsNote": "December 1908. This sheet documents downtown Wallace's brick and frame buildings, uses and street widths before the 1910 fire. It does not establish which of these buildings survive, the post-2002 cleanup or the 2004 manhole monument, or anything about access.",
+      "caption": null,
+      "alt": null,
+      "tieCount": 2
+    },
+    {
+      "id": "ms-natchez-1910-s10",
+      "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi — sheet 10",
+      "maker": "Sanborn Map Company",
+      "publisher": "Sanborn Map Company, New York",
+      "date": "January 1910",
+      "dateSort": "1910-01",
+      "type": "Sanborn fire insurance",
+      "source": {
+        "collection": "Library of Congress, Geography and Map Division, Sanborn Maps Collection",
+        "itemId": "sanborn04497_006",
+        "sheetFile": "04497_1910-0010.jp2",
+        "pageUrl": "https://www.loc.gov/item/sanborn04497_006/",
+        "itemJsonUrl": "https://www.loc.gov/item/sanborn04497_006/?fo=json"
+      },
+      "image": {
+        "src": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0010/full/pct:25/0/default.jpg",
+        "large": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0010/full/pct:50/0/default.jpg",
+        "iiifService": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0010",
+        "iiifInfo": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0010/info.json",
+        "master": "https://tile.loc.gov/storage-services/service/gmd/gmd398m/g3984m/g3984nm/g3984nm_g044971910/04497_1910-0010.jp2",
+        "width": 6450,
+        "height": 7650,
+        "host": "tile.loc.gov (holding institution's IIIF image service)"
+      },
+      "credit": "Sanborn Map Company, January 1910, sheet 10. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+      "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
+      "place": {
+        "town": "Natchez",
+        "county": "Adams County",
+        "state": "MS"
+      },
+      "coverage": {
+        "bounds": "Madison St. (north) to Jefferson St. (south); N. Union St. (west) to N. Pine St. and Byrne/Abbott Streets (east); Monroe and High Streets between",
+        "basis": "as printed",
+        "description": "Residential and light-industrial blocks north of downtown, the Y. & M.V. R.R. line along Monroe, Union School, St. John's M.E. Church and Zion Hall, and the 600–700 blocks of Jefferson."
+      },
+      "sheetNumber": "10",
+      "setSize": 26,
+      "setNote": null,
+      "printedScale": "Graphic 'Scale of Feet' bar, bottom centre (title page of the set prints 'Scale 50 ft to an inch').",
+      "printedNorth": "Compass rose top right; north points up and slightly left.",
+      "limitsNote": "January 1910. This sheet documents building footprints, materials, heights, uses and house numbers as surveyed for fire insurance. It does not establish who owned or worked in these buildings, the enslaved and free people tied to them, which buildings survive, or public access to any property. On King's Tavern specifically, it records a 2½-story building with brick basement at 613 Jefferson; it does not date the building or support any of the tavern's folklore.",
+      "caption": null,
+      "alt": null,
+      "tieCount": 1
+    },
+    {
+      "id": "ms-natchez-1910-s11",
+      "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi — sheet 11",
+      "maker": "Sanborn Map Company",
+      "publisher": "Sanborn Map Company, New York",
+      "date": "January 1910",
+      "dateSort": "1910-01",
+      "type": "Sanborn fire insurance",
+      "source": {
+        "collection": "Library of Congress, Geography and Map Division, Sanborn Maps Collection",
+        "itemId": "sanborn04497_006",
+        "sheetFile": "04497_1910-0011.jp2",
+        "pageUrl": "https://www.loc.gov/item/sanborn04497_006/",
+        "itemJsonUrl": "https://www.loc.gov/item/sanborn04497_006/?fo=json"
+      },
+      "image": {
+        "src": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0011/full/pct:25/0/default.jpg",
+        "large": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0011/full/pct:50/0/default.jpg",
+        "iiifService": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0011",
+        "iiifInfo": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0011/info.json",
+        "master": "https://tile.loc.gov/storage-services/service/gmd/gmd398m/g3984m/g3984nm/g3984nm_g044971910/04497_1910-0011.jp2",
+        "width": 6450,
+        "height": 7650,
+        "host": "tile.loc.gov (holding institution's IIIF image service)"
+      },
+      "credit": "Sanborn Map Company, January 1910, sheet 11. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+      "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
+      "place": {
+        "town": "Natchez",
+        "county": "Adams County",
+        "state": "MS"
+      },
+      "coverage": {
+        "bounds": "Madison St. (north) to Jefferson St. (south); N. Pearl St. (west) to N. Union St. (east); Monroe and High Streets and N. Commerce St. between",
+        "basis": "as printed",
+        "description": "Includes block 74 (High, Pearl, Monroe, Commerce), occupied by a single large brick dwelling with a rear wing and rooftop cupola, and 1st Methodist Church."
+      },
+      "sheetNumber": "11",
+      "setSize": 26,
+      "setNote": null,
+      "printedScale": "Graphic 'Scale of Feet' bar, bottom right.",
+      "printedNorth": "Compass rose top left; north points up and slightly left.",
+      "limitsNote": "January 1910. This sheet documents building footprints, materials, heights, uses and house numbers as surveyed for fire insurance. It does not establish who owned or worked in these buildings, the enslaved and free people tied to them, which buildings survive, or public access to any property. The sheet does not name Stanton Hall or print its house number; it shows the building and its block.",
+      "caption": null,
+      "alt": null,
+      "tieCount": 1
+    },
+    {
+      "id": "ms-natchez-1910-s14",
+      "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi — sheet 14",
+      "maker": "Sanborn Map Company",
+      "publisher": "Sanborn Map Company, New York",
+      "date": "January 1910",
+      "dateSort": "1910-01",
+      "type": "Sanborn fire insurance",
+      "source": {
+        "collection": "Library of Congress, Geography and Map Division, Sanborn Maps Collection",
+        "itemId": "sanborn04497_006",
+        "sheetFile": "04497_1910-0014.jp2",
+        "pageUrl": "https://www.loc.gov/item/sanborn04497_006/",
+        "itemJsonUrl": "https://www.loc.gov/item/sanborn04497_006/?fo=json"
+      },
+      "image": {
+        "src": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0014/full/pct:25/0/default.jpg",
+        "large": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0014/full/pct:50/0/default.jpg",
+        "iiifService": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0014",
+        "iiifInfo": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0014/info.json",
+        "master": "https://tile.loc.gov/storage-services/service/gmd/gmd398m/g3984m/g3984nm/g3984nm_g044971910/04497_1910-0014.jp2",
+        "width": 6450,
+        "height": 7650,
+        "host": "tile.loc.gov (holding institution's IIIF image service)"
+      },
+      "credit": "Sanborn Map Company, January 1910, sheet 14. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+      "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
+      "place": {
+        "town": "Natchez",
+        "county": "Adams County",
+        "state": "MS"
+      },
+      "coverage": {
+        "bounds": "Jefferson St. (north) to State St. (south); the Mississippi River bluff and Broadway (west) to N./S. Wall St. (east); Franklin, Main and Canal Streets between",
+        "basis": "as printed",
+        "description": "Natchez Cotton Mills, Mississippi Cotton Oil Co., Rumble & Wensel, Baker & McDowell hardware, the city water works on the bluff, and N. Canal St. houses at Jefferson."
+      },
+      "sheetNumber": "14",
+      "setSize": 26,
+      "setNote": null,
+      "printedScale": "Graphic 'Scale of Feet' bar, bottom left.",
+      "printedNorth": "Compass rose top left; north points up and slightly left.",
+      "limitsNote": "January 1910. This sheet documents building footprints, materials, heights, uses and house numbers as surveyed for fire insurance. It does not establish who owned or worked in these buildings, the enslaved and free people tied to them, which buildings survive, or public access to any property. On the bluff it shows the water works and 'no exposure' ground west of Broadway; it does not establish Bluff Park's boundaries, the Under-the-Hill landing (sheet 25), or any route down the bluff.",
+      "caption": null,
+      "alt": null,
+      "tieCount": 2
+    },
+    {
+      "id": "ms-natchez-1910-s16",
+      "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi — sheet 16",
+      "maker": "Sanborn Map Company",
+      "publisher": "Sanborn Map Company, New York",
+      "date": "January 1910",
+      "dateSort": "1910-01",
+      "type": "Sanborn fire insurance",
+      "source": {
+        "collection": "Library of Congress, Geography and Map Division, Sanborn Maps Collection",
+        "itemId": "sanborn04497_006",
+        "sheetFile": "04497_1910-0016.jp2",
+        "pageUrl": "https://www.loc.gov/item/sanborn04497_006/",
+        "itemJsonUrl": "https://www.loc.gov/item/sanborn04497_006/?fo=json"
+      },
+      "image": {
+        "src": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0016/full/pct:25/0/default.jpg",
+        "large": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0016/full/pct:50/0/default.jpg",
+        "iiifService": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0016",
+        "iiifInfo": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984nm:g3984nm_g044971910:04497_1910-0016/info.json",
+        "master": "https://tile.loc.gov/storage-services/service/gmd/gmd398m/g3984m/g3984nm/g3984nm_g044971910/04497_1910-0016.jp2",
+        "width": 6450,
+        "height": 7650,
+        "host": "tile.loc.gov (holding institution's IIIF image service)"
+      },
+      "credit": "Sanborn Map Company, January 1910, sheet 16. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+      "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
+      "place": {
+        "town": "Natchez",
+        "county": "Adams County",
+        "state": "MS"
+      },
+      "coverage": {
+        "bounds": "Jefferson St. (north) to State St. (south); N./S. Commerce St. (west) to N./S. Rankin St. (east); Franklin, Main and Sycamore Streets and Locust and Union Streets between",
+        "basis": "as printed",
+        "description": "Downtown commercial blocks on Franklin and Main, St. Mary's R.C. Cathedral, the Cathedral School, Priest's House and Cathedral Park, and the Natchez Sanitarium."
+      },
+      "sheetNumber": "16",
+      "setSize": 26,
+      "setNote": null,
+      "printedScale": "Graphic 'Scale of Feet' bar, lower right of centre.",
+      "printedNorth": "Compass rose right of centre; north points up and slightly left.",
+      "limitsNote": "January 1910. This sheet documents building footprints, materials, heights, uses and house numbers as surveyed for fire insurance. It does not establish who owned or worked in these buildings, the enslaved and free people tied to them, which buildings survive, or public access to any property. For St. Mary it records the church's footprint, spire and '15 ft to eaves' note; it does not resolve the entry's 101 vs. 107 South Union address question or document the congregation's financing.",
+      "caption": null,
+      "alt": null,
+      "tieCount": 1
+    },
+    {
+      "id": "ms-vicksburg-1913-s10",
+      "title": "Sanborn Fire Insurance Map from Vicksburg, Warren County, Mississippi — sheet 10",
+      "maker": "Sanborn Map Company",
+      "publisher": "Sanborn Map Company, New York",
+      "date": "December 1913",
+      "dateSort": "1913-12",
+      "type": "Sanborn fire insurance",
+      "source": {
+        "collection": "Library of Congress, Geography and Map Division, Sanborn Maps Collection",
+        "itemId": "sanborn04536_006",
+        "sheetFile": "04536_1913-0010.jp2",
+        "pageUrl": "https://www.loc.gov/item/sanborn04536_006/",
+        "itemJsonUrl": "https://www.loc.gov/item/sanborn04536_006/?fo=json"
+      },
+      "image": {
+        "src": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984vm:g3984vm_g045361913:04536_1913-0010/full/pct:25/0/default.jpg",
+        "large": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984vm:g3984vm_g045361913:04536_1913-0010/full/pct:50/0/default.jpg",
+        "iiifService": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984vm:g3984vm_g045361913:04536_1913-0010",
+        "iiifInfo": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd398m:g3984m:g3984vm:g3984vm_g045361913:04536_1913-0010/info.json",
+        "master": "https://tile.loc.gov/storage-services/service/gmd/gmd398m/g3984m/g3984vm/g3984vm_g045361913/04536_1913-0010.jp2",
+        "width": 6450,
+        "height": 7650,
+        "host": "tile.loc.gov (holding institution's IIIF image service)"
+      },
+      "credit": "Sanborn Map Company, December 1913, sheet 10. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+      "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
+      "place": {
+        "town": "Vicksburg",
+        "county": "Warren County",
+        "state": "MS"
+      },
+      "coverage": {
+        "bounds": "W./E. Jackson St. (north) to W./E. Clay St. (south); N. Monroe St. (west) to N. Adams St. (east); W./E. Grove and W./E. China Streets and N. Cherry St. between",
+        "basis": "as printed",
+        "description": "Court Square (block 14) with the County Court House, the County Jail, St. Mary's Church, Temple Anshe Chesed and Calvary Baptist Church."
+      },
+      "sheetNumber": "10",
+      "setSize": 40,
+      "setNote": null,
+      "printedScale": "Graphic 'Scale of Feet' bar, bottom right (set title page prints 'Scale 50 ft to an inch').",
+      "printedNorth": "Compass rose top left; north points up and slightly left.",
+      "limitsNote": "December 1913. This sheet documents the 1858 courthouse in Court Square — footprint, four porticoes, steam heat from the jail, and a clock-tower elevation note — while it was still the working Warren County Court House. It does not establish the 1863 siege ground, the 1939 move of county offices across Cherry St., or the museum's current hours or access.",
+      "caption": null,
+      "alt": null,
+      "tieCount": 1
+    },
+    {
+      "id": "la-new-orleans-1908-v2-s121",
+      "title": "Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana — Vol. 2, sheet 121",
+      "maker": "Sanborn Map Company",
+      "publisher": "Sanborn Map Company, New York",
+      "date": "1908 (Vol. 2)",
+      "dateSort": "1908",
+      "type": "Sanborn fire insurance",
+      "source": {
+        "collection": "Library of Congress, Geography and Map Division, Sanborn Maps Collection",
+        "itemId": "sanborn03376_010",
+        "sheetFile": "03376_02_1908-0121.jp2",
+        "pageUrl": "https://www.loc.gov/item/sanborn03376_010/",
+        "itemJsonUrl": "https://www.loc.gov/item/sanborn03376_010/?fo=json"
+      },
+      "image": {
+        "src": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd401m:g4014m:g4014nm:g03376190802:03376_02_1908-0121/full/pct:25/0/default.jpg",
+        "large": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd401m:g4014m:g4014nm:g03376190802:03376_02_1908-0121/full/pct:50/0/default.jpg",
+        "iiifService": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd401m:g4014m:g4014nm:g03376190802:03376_02_1908-0121",
+        "iiifInfo": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd401m:g4014m:g4014nm:g03376190802:03376_02_1908-0121/info.json",
+        "master": "https://tile.loc.gov/storage-services/service/gmd/gmd401m/g4014m/g4014nm/g03376190802/03376_02_1908-0121.jp2",
+        "width": 5539,
+        "height": 8149,
+        "host": "tile.loc.gov (holding institution's IIIF image service)"
+      },
+      "credit": "Sanborn Map Company, 1908 (Vol. 2), sheet 121. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+      "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
+      "place": {
+        "town": "New Orleans (Vieux Carré)",
+        "county": "Orleans Parish",
+        "state": "LA"
+      },
+      "coverage": {
+        "bounds": "Bourbon St. (top) to Decatur St. (bottom); St. Peter St. (left) to Dumaine St. (right); Royal and Chartres Streets, Orleans and St. Ann Streets, and Madison St. between",
+        "basis": "as printed",
+        "description": "Jackson Square (block 24) with the Jackson Monument; St. Louis R.C. Cathedral (block 45); the Cabildo front marked 'Court' and 'District Police Station' with the State Arsenal behind (block 43); the Presbytère front marked 'Court' (block 46); the Convent of the Sisters of the Holy Family (block 59); the 600 block of Dumaine."
+      },
+      "sheetNumber": "121",
+      "setSize": null,
+      "setNote": "LOC item sanborn03376_010 is a bound volume (LOC notes: '1908; Vol. 2.', '101 sheet(s).'). Sheet numbers run in the city-wide series (111–206), so set size is not a simple n-of-N. The LOC file list also carries a separate image '0121S' for this sheet that was not inspected; the record uses image 03376_02_1908-0121.",
+      "printedScale": "Graphic 'Scale of Feet' bar, bottom right.",
+      "printedNorth": "Compass rose bottom left; north points up and to the right — the sheet is drawn on the Quarter's river-oriented grid, not north-up.",
+      "limitsNote": "1908 (volume 2 of the 1908–1909 New Orleans set). This sheet documents footprints, materials, heights and uses around Jackson Square and up to Dumaine St. It does not establish the eighteenth-century fabric or construction dates of any building, the Louisiana State Museum's later use of the Cabildo and Presbytère, or current access, hours or closures (Madame John's Legacy is closed for restoration).",
+      "caption": null,
+      "alt": null,
+      "tieCount": 5
+    },
+    {
+      "id": "mo-hannibal-1913-s02",
+      "title": "Sanborn Fire Insurance Map from Hannibal, Marion County, Missouri — sheet 2",
+      "maker": "Sanborn Map Company",
+      "publisher": "Sanborn Map Company, New York",
+      "date": "November 1913",
+      "dateSort": "1913-11",
+      "type": "Sanborn fire insurance",
+      "source": {
+        "collection": "Library of Congress, Geography and Map Division, Sanborn Maps Collection",
+        "itemId": "sanborn04688_005",
+        "sheetFile": "04688_1913-0002.jp2",
+        "pageUrl": "https://www.loc.gov/item/sanborn04688_005/",
+        "itemJsonUrl": "https://www.loc.gov/item/sanborn04688_005/?fo=json"
+      },
+      "image": {
+        "src": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd416m:g4164m:g4164hm:g4164hm_g046881913:04688_1913-0002/full/pct:25/0/default.jpg",
+        "large": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd416m:g4164m:g4164hm:g4164hm_g046881913:04688_1913-0002/full/pct:50/0/default.jpg",
+        "iiifService": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd416m:g4164m:g4164hm:g4164hm_g046881913:04688_1913-0002",
+        "iiifInfo": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd416m:g4164m:g4164hm:g4164hm_g046881913:04688_1913-0002/info.json",
+        "master": "https://tile.loc.gov/storage-services/service/gmd/gmd416m/g4164m/g4164hm/g4164hm_g046881913/04688_1913-0002.jp2",
+        "width": 6450,
+        "height": 7650,
+        "host": "tile.loc.gov (holding institution's IIIF image service)"
+      },
+      "credit": "Sanborn Map Company, November 1913, sheet 2. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+      "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
+      "place": {
+        "town": "Hannibal",
+        "county": "Marion County",
+        "state": "MO"
+      },
+      "coverage": {
+        "bounds": "Mississippi River and N. River Road (top) to N. 3rd St. (bottom); Rock St. (left) to Bird St. (right); N. 1st St., N. Main St., North St. and Hill St. between; inset at top shows the riverfront",
+        "basis": "as printed",
+        "description": "North Main St. blocks between Rock and Bird, the R. J. Stillwell Meat Co., J. H. McCoy elevator, Streckfus Line steamboat dock, Planters Hotel, a lumber yard on the 400 block of N. Main, and the 'Old Mark Twain Homestead' on Hill St."
+      },
+      "sheetNumber": "2",
+      "setSize": 40,
+      "setNote": "LOC item sanborn04688_005; the LOC file list starts with an unnumbered title/index image (04688_1913-0000), so printed sheet 2 is LOC file 03 (04688_1913-0002).",
+      "printedScale": "Graphic 'Scale of Feet' bar, bottom right (title page prints the set scale).",
+      "printedNorth": "Compass rose top right; north points up and to the left — not north-up.",
+      "limitsNote": "November 1913. This sheet documents the riverfront rail and dock layout and the commercial blocks of North Main, including the 'Old Mark Twain Homestead' label on Hill St. It does not establish the 1840s town Sam Clemens knew, the location of any print shop he worked in, Nipper Park, or current museum access; 415 N. Main itself is not numbered on the sheet (the 400 block's south frontage is a lumber yard in 1913).",
+      "caption": null,
+      "alt": null,
+      "tieCount": 1
+    },
+    {
+      "id": "mo-weingarten-usgs-1909",
+      "title": "Missouri–Illinois, Weingarten Quadrangle (Topography), 15-minute series",
+      "maker": "U.S. Geological Survey, in cooperation with the State of Missouri Bureau of Geology and Mines",
+      "publisher": "U.S. Geological Survey",
+      "date": "Edition of Apr. 1909",
+      "dateSort": "1909-04",
+      "type": "USGS topographic",
+      "source": {
+        "collection": "U.S. Geological Survey, Historical Topographic Map Collection (scan ID 325335)",
+        "itemId": "USGS HTMC 325335 (ScienceBase 5a8a47fae4b00f54eb3fa8b6)",
+        "pageUrl": "https://www.sciencebase.gov/catalog/item/5a8a47fae4b00f54eb3fa8b6",
+        "metadataUrl": "https://thor-f5.er.usgs.gov/ngtoc/metadata/waf/maps/historicaltopo/pdf/MO/62500/MO_Weingarten_325335_1909_62500_geo.xml"
+      },
+      "image": {
+        "src": null,
+        "displayDerivativeNeeded": true,
+        "master": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/GeoTIFF/MO/MO_Weingarten_325335_1909_62500_geo.tif",
+        "geopdf": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/62500/MO_Weingarten_325335_1909_62500_geo.pdf",
+        "thumbnail": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/MO/62500/MO_Weingarten_325335_1909_62500_tn.jpg",
+        "host": "USGS (prd-tnm StagedProducts). USGS provides GeoTIFF/GeoPDF, not a web display JPEG; a straight format conversion (no retouching) must be made and hosted (e.g., uploaded to Wikimedia Commons) before the site can show it."
+      },
+      "credit": "U.S. Geological Survey, Weingarten quadrangle, Missouri–Illinois, 1:62,500, edition of April 1909 (surveyed 1907). Public domain (U.S. Government work).",
+      "rights": "Work of the U.S. Government; no copyright. USGS metadata: 'Acknowledgment of the U.S. Geological Survey is expected for products derived from these data.'",
+      "place": {
+        "town": "Ste. Genevieve",
+        "county": "Ste. Genevieve County",
+        "state": "MO"
+      },
+      "coverage": {
+        "bounds": {
+          "north": "38°00′",
+          "south": "37°45′",
+          "west": "90°15′",
+          "east": "90°00′"
+        },
+        "basis": "as printed",
+        "description": "15 × 15 minute quadrangle; corner values printed in the collar (37°45′ / 90°00′ read at the south-east corner this pass) and matching USGS metadata. Ste. Genevieve town is in the north-east corner, with the Mississippi River, Moro Island and Brewerville (Illinois)."
+      },
+      "sheetNumber": null,
+      "setSize": null,
+      "printedScale": "1:62,500 ('Scale 1/62500'), contour interval 20 feet",
+      "printedNorth": "North-up quadrangle (neatline on meridians and parallels).",
+      "limitsNote": "Edition of April 1909, from a 1907 survey. This quadrangle documents the town grid, roads, rail line, river channel and terrain around Ste. Genevieve at 1:62,500. At this scale buildings are generalized dots and blocks, so it does not locate any single house — including the Bauvais-Amoureux House on St. Mary's Road — and it says nothing about ownership, households or access.",
+      "caption": null,
+      "alt": null,
+      "tieCount": 1
+    }
+  ],
+  "ties": [
+    {
+      "sheetId": "ia-boone-1916-s09",
+      "entrySlug": "IA-boone-railroad-shop-workers",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/IA-boone-railroad-shop-workers",
+      "position": null,
+      "status": "no-point-by-rule",
+      "caption": "Boone's Chicago & North Western roundhouse, turntable, machine shop and adjoining yard, mapped in April 1916.",
+      "dateNote": "April 1916. This sheet documents the railroad shops at the Boone stop. It does not establish the Lincoln Highway alignment or public access to the historic rail yard.",
+      "basisNote": "Migrated unchanged from v1 historic-maps.json. No point existed in v1 and none is added: the entry's own record says the Sanborn item and roundhouse inventory do not yet establish which surviving feature a visitor can see, so there is no single determinable position for this entry on the sheet."
+    },
+    {
+      "sheetId": "ia-boone-1916-s09",
+      "entrySlug": "lincoln-highway-iowa",
+      "entryKind": "tour",
+      "entryUrl": "https://onoldground.com/tours/lincoln-highway-iowa",
+      "position": null,
+      "status": "no-point-by-rule",
+      "caption": "Boone stop inset — Boone's Chicago & North Western roundhouse, turntable, machine shop and adjoining yard, mapped in April 1916.",
+      "dateNote": "April 1916. This sheet documents the railroad shops at the Boone stop. It does not establish the Lincoln Highway alignment or public access to the historic rail yard.",
+      "basisNote": "Migrated unchanged from v1 (key 'lincoln-highway-iowa' is a tour id, not a site slug). A tour route is not a point; the sheet predates and does not show the highway alignment."
+    },
+    {
+      "sheetId": "id-lewiston-1918-s01",
+      "entrySlug": "lewiston-confluence",
+      "position": null,
+      "status": "no-point-by-rule",
+      "basisNote": "Key map shows the 1918 Snake–Clearwater confluence, but the entry's ground is the modern Levee Parkway confluence area; the levees and reservoir shoreline post-date the sheet (Lower Granite, 1975), so the entry's position on 1918 ground cannot be fixed to within a street width.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/lewiston-confluence"
+    },
+    {
+      "sheetId": "id-lewiston-1918-s01",
+      "entrySlug": "lewiston-locomotive-park",
+      "position": null,
+      "status": "no-point-by-rule",
+      "basisNote": "2102 Main falls in the index range 'Main 2021–2254, sheet 15'; sheet 15 was not sourced this pass and the key map gives no lot-level position. The park itself post-dates 1918.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/lewiston-locomotive-park"
+    },
+    {
+      "sheetId": "id-lewiston-1918-s01",
+      "entrySlug": "lewiston-main-street",
+      "position": null,
+      "status": "no-point-by-rule",
+      "basisNote": "Key/index sheet only; detailed sheet is id-lewiston-1918-s04.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/lewiston-main-street"
+    },
+    {
+      "sheetId": "id-lewiston-1918-s01",
+      "entrySlug": "lewiston-depot",
+      "position": null,
+      "status": "no-point-by-rule",
+      "basisNote": "Key/index sheet only; the point is on id-lewiston-1918-s11.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/lewiston-depot"
+    },
+    {
+      "sheetId": "id-lewiston-1918-s01",
+      "entrySlug": "lewiston-normal-hill",
+      "position": null,
+      "status": "no-point-by-rule",
+      "basisNote": "Key/index sheet only; the point is on id-lewiston-1918-s26.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/lewiston-normal-hill"
+    },
+    {
+      "sheetId": "id-lewiston-1918-s04",
+      "entrySlug": "lewiston-main-street",
+      "position": null,
+      "status": "no-point-by-rule",
+      "basisNote": "611 Main is printed on the north frontage between 609 and 615–617, inside the 600 block bracketed by N. 6th and 7th Streets, and in 1918 it carries the Klaus & Thomas Garage (16 cars). A position at x≈68.0%, y≈80.8% was fixed but NOT kept: the only checks available (adjacent house numbers, the 6th/7th block bracket, index range 'Main 401–649, sheet 4') all depend on the same numbering system, so there is no independent held-out feature proving 1918 '611' is the modern Liberty Theater lot. The entry's '1902 hardware building' history is not visible on the sheet either. Upgrade only with an independent check (e.g., a dated building permit or NR nomination naming the 1918 occupant). Morgan's Alley (301–311 Main) is on sheet 3, not sourced.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/lewiston-main-street"
+    },
+    {
+      "sheetId": "id-lewiston-1918-s11",
+      "entrySlug": "lewiston-depot",
+      "position": {
+        "x": 84.0,
+        "y": 33.0
+      },
+      "status": "checked",
+      "basisNote": "Placed on the building the sheet itself labels 'UNION DEPOT' at 1233 Main (waiting room centre). Reference points used to fix it: (1) Main St. label and street line; (2) 12th St. at the top of the sheet; (3) the 'Driveway' south of the depot; (4) Camas Prairie R.R. main track; (5) Nez Perce County Court House, labelled across Main; (6) printed house number 1233; (7) block number 224; (8) facing house numbers 1234 and 1302. Held-out checks, not used to fix: (a) the sheet-1 'Specials' index lists 'Union Depot — sheet 11'; (b) the footprint — brick, central waiting room with ticket-office bay toward the track and a baggage room wing — matches the entry's National Register description of the 1909 brick building with waiting spaces and baggage/storage wings. Disagreement: none beyond a street width.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/lewiston-depot"
+    },
+    {
+      "sheetId": "id-lewiston-1918-s26",
+      "entrySlug": "lewiston-normal-hill",
+      "position": {
+        "x": 38.5,
+        "y": 56.0
+      },
+      "status": "checked",
+      "basisNote": "Placed at the centre of the footprint the sheet labels 'ADMINISTRATION BUILDING … being remodeled from fire ruins — from plans' (block 121, 'Lewiston State Normal School'). Reference points: (1) 7th Ave.; (2) 8th Ave.; (3) 9th Ave.; (4) 10th Ave. (not opened); (5) 6th St.; (6) 7th St.; (7) City Park edge; (8) Lewis Hall girls' dormitory and Domestic Science Bldg. labels; (9) Gymnasium label. Held-out: (a) sheet-1 index lists 'Lewiston State Normal School — sheet 26'; (b) the 'fire ruins' note matches the entry's account of the fire that gutted the Normal School. The point marks the Administration Building, not the tower; the sheet does not draw the tower.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/lewiston-normal-hill"
+    },
+    {
+      "sheetId": "id-wallace-1908-s01",
+      "entrySlug": "ID-wallace-brick-core",
+      "position": null,
+      "status": "no-point-by-rule",
+      "basisNote": "The entry's ground is the whole National Register downtown, an area rather than a point. The key map also shows the N.P.R.R. depot at its 1908 site; the entry starts at the depot museum, which was moved from that site, so the 1908 depot position is not the visitor's standing point.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/ID-wallace-brick-core"
+    },
+    {
+      "sheetId": "id-wallace-1908-s01",
+      "entrySlug": "ID-wallace-center-of-the-universe-manhole",
+      "position": null,
+      "status": "no-point-by-rule",
+      "basisNote": "Key map only; the point is on id-wallace-1908-s05.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/ID-wallace-center-of-the-universe-manhole"
+    },
+    {
+      "sheetId": "id-wallace-1908-s05",
+      "entrySlug": "ID-wallace-brick-core",
+      "position": null,
+      "status": "no-point-by-rule",
+      "basisNote": "Area entry (the whole downtown); no single position.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/ID-wallace-brick-core"
+    },
+    {
+      "sheetId": "id-wallace-1908-s05",
+      "entrySlug": "ID-wallace-center-of-the-universe-manhole",
+      "position": {
+        "x": 57.5,
+        "y": 8.3
+      },
+      "status": "checked",
+      "basisNote": "Placed at the centre of the Bank St. × 6th St. intersection as drawn. Reference points: (1) '6TH' street label and the 6th St. right-of-way; (2) Bank St. label (mid-sheet) and its 75-ft right-of-way; (3) 5th St.; (4) 4th St.; (5) corner house numbers 524 (east) and 525 (west) at the 6th St. corner; (6) 520/521 and 518/519 down the block; (7) White & Bender Co. at the north-east corner; (8) printed street width '75''. Held-out: (a) the sheet-1 key map places the 6th St. crossing of Bank at the corner of blocks 19/20/21, where sheet 5 meets sheet 6 — consistent; (b) the sheet-6 reference '6' printed just north of the intersection. The entry says the cover sits slightly off-centre in the roadway; that offset is far less than a street width.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/ID-wallace-center-of-the-universe-manhole"
+    },
+    {
+      "sheetId": "ms-natchez-1910-s10",
+      "entrySlug": "MS-kings-tavern-natchez",
+      "position": {
+        "x": 25.6,
+        "y": 88.6
+      },
+      "status": "checked",
+      "basisNote": "Placed at the centre of the main block of the building printed at 613 Jefferson. Reference points: (1) N. Union St. (west edge of the block); (2) N. Rankin St. (east edge); (3) Jefferson St. label; (4) High St. (north); (5) block number 16; (6) frontage numbers 601, 603, 605, 607, 609, 611, 615, 617, 619 along Jefferson. Held-out, not used to fix: (a) the sheet marks this building '2½' stories with 'B.B.' (brick basement), matching the entry's NRHP 71000444 description of a two-and-a-half-story heavy-timber frame building over a brick basement; (b) the set index assigns Jefferson 601–809 to sheet 10. No disagreement beyond a street width.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/MS-kings-tavern-natchez"
+    },
+    {
+      "sheetId": "ms-natchez-1910-s11",
+      "entrySlug": "MS-stanton-hall",
+      "position": {
+        "x": 32.5,
+        "y": 51.3
+      },
+      "status": "checked",
+      "basisNote": "Placed at the centre of the main house in block 74. Reference points: (1) Monroe St. (north side of the block); (2) High St. (south side); (3) N. Commerce St. (east); (4) N. Pearl St. (west); (5) block number 74; (6) house numbers 400 and 402 across High St.; (7) the 1st Methodist Church label on block 15; (8) Madison St. at the top of the sheet. Held-out: (a) the set index assigns High 400–517 to sheet 11, and the north frontage of the 400 block of High is block 74, consistent with 401 High St.; (b) the building is drawn as a large two-story brick dwelling standing alone in the block with a central rooftop element marked '3' (read here as the cupola) and an attached rear wing, matching the entry's description of the house with an attached service wing. The sheet prints no name and no house number on the building itself.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/MS-stanton-hall"
+    },
+    {
+      "sheetId": "ms-natchez-1910-s14",
+      "entrySlug": "MS-house-on-ellicott-hill",
+      "position": null,
+      "status": "no-point-by-rule",
+      "basisNote": "The sheet prints 209–215 N. Canal at the Jefferson corner of block 12, with two separate frame dwellings. The entry itself records that the Garden Club and the architectural history give different Canal St. numbers (211 vs. 215), so which drawn building is the house cannot be fixed by address, and the sheet carries no name. Blank by rule.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/MS-house-on-ellicott-hill"
+    },
+    {
+      "sheetId": "ms-natchez-1910-s14",
+      "entrySlug": "MS-bluff-park-natchez-under-the-hill",
+      "position": null,
+      "status": "no-point-by-rule",
+      "basisNote": "The sheet shows Broadway, the bluff and the water works but no park boundary; the entry's overlook point at 101 S. Broadway cannot be placed on 1910 ground to street-width accuracy. Under-the-Hill itself is on sheet 25 (not sourced).",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/MS-bluff-park-natchez-under-the-hill"
+    },
+    {
+      "sheetId": "ms-natchez-1910-s16",
+      "entrySlug": "MS-st-mary-basilica-natchez",
+      "position": {
+        "x": 60.5,
+        "y": 66.0
+      },
+      "status": "checked",
+      "basisNote": "Placed at the centre of the footprint the sheet labels 'ST. MARY'S R.C. CATHEDRAL'. Reference points: (1) Main St. (north side of block 31); (2) S. Union St. (west); (3) S. Rankin St. (east); (4) State St. (south); (5) frontage numbers 600, 602, 604, 606 on Main; (6) 101 and 103 on S. Union; (7) the Priest's House and 'Cathedral Park' labels; (8) the Cathedral School across Main. Held-out: (a) the set's Specials index lists 'St. Mary's Cath. and School — sheet 16'; (b) the spire is drawn at the Union St. end and the apse at the east end, consistent with a church fronting Union. The name on the sheet settles the building; the 101/107 address question does not affect the point.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/MS-st-mary-basilica-natchez"
+    },
+    {
+      "sheetId": "ms-vicksburg-1913-s10",
+      "entrySlug": "MS-old-court-house-museum",
+      "position": {
+        "x": 35.9,
+        "y": 21.4
+      },
+      "status": "checked",
+      "basisNote": "Placed at the centre of the building the sheet labels 'COUNTY COURT HOUSE' in block 14. Reference points: (1) W. Jackson St. (north); (2) W. Grove St. (south); (3) N. Monroe St. (west); (4) N. Cherry St. (east); (5) block number 14; (6) the four W.C. octagons at the square's corners; (7) the County Jail across Grove; (8) St. Mary's Church across Cherry. Held-out: (a) the set's Specials index lists 'County Court House and Jail — sheet 10'; (b) the drawn building has a projecting portico on each of its four sides and a 'clock tower' note, matching the 1858 courthouse. The entry's note that county offices moved across Cherry St. in 1939 is consistent with the jail block shown across the street.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/MS-old-court-house-museum"
+    },
+    {
+      "sheetId": "la-new-orleans-1908-v2-s121",
+      "entrySlug": "LA-cabildo",
+      "position": {
+        "x": 19.7,
+        "y": 57.1
+      },
+      "status": "checked",
+      "basisNote": "Placed in the Chartres St. front building of block 43, marked 'Court' and 'District Police Station', at the corner of St. Peter. Reference points: (1) Chartres St.; (2) St. Peter St.; (3) Orleans/Exchange Passage line; (4) Jackson Square (block 24) across Chartres; (5) St. Louis Cathedral (block 45) next door; (6) house numbers 701 and 713 on Chartres; (7) the 'State Arsenal' label in the rear of the block; (8) block number 43. Held-out: (a) the entry's own record places the courts in the Cabildo (the Sala Capitular as the state court's courtroom) and an early police station/guardhouse on this site — matching the sheet's 'Court' and 'Police Station' labels; (b) the Cathedral's index listing ('St. Louis Catholic Cathedral — sheet 121') confirms the sheet.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/LA-cabildo"
+    },
+    {
+      "sheetId": "la-new-orleans-1908-v2-s121",
+      "entrySlug": "LA-presbytere",
+      "position": {
+        "x": 46.3,
+        "y": 56.9
+      },
+      "status": "checked",
+      "basisNote": "Placed in the Chartres St. front building of block 46, marked 'Court', at the corner of St. Ann. Reference points: (1) Chartres St.; (2) St. Ann St.; (3) St. Anthony's Alley (St. Anthony St.) separating it from the Cathedral; (4) Royal St.; (5) block number 46; (6) Jackson Square across Chartres; (7) 'Priests House' label inside block 46; (8) Cathedral (block 45). Held-out: (a) the entry records the Presbytère's courthouse life (courts from 1813 and later) — matching the 'Court' label; (b) symmetry with the Cabildo on the other side of the Cathedral, as on the ground.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/LA-presbytere"
+    },
+    {
+      "sheetId": "la-new-orleans-1908-v2-s121",
+      "entrySlug": "LA-jackson-square-st-louis-cathedral",
+      "position": {
+        "x": 33.3,
+        "y": 76.8
+      },
+      "status": "checked",
+      "basisNote": "Placed on the 'Jackson Monument' at the centre of the square (block 24); the Cathedral is drawn and labelled directly inland across Chartres in block 45 (centre ≈ x 32.5%, y 52.7%). Reference points: (1) Chartres St.; (2) Decatur St.; (3) St. Peter St.; (4) St. Ann St.; (5) the square's corner fire hydrants; (6) the 'Granite Block' paving notes on both sides; (7) block number 24; (8) the Cathedral label. Held-out: (a) Specials index 'St. Louis Catholic Cathedral — sheet 121'; (b) the square's printed bounds — Chartres, St. Ann, Decatur and St. Peter — match the entry's own description of the park's bounding streets.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/LA-jackson-square-st-louis-cathedral"
+    },
+    {
+      "sheetId": "la-new-orleans-1908-v2-s121",
+      "entrySlug": "LA-madame-johns-legacy",
+      "position": {
+        "x": 89.5,
+        "y": 41.6
+      },
+      "status": "checked",
+      "basisNote": "Placed on the frame dwelling at 628–632 Dumaine (block 47, between Royal and Chartres). Reference points: (1) Dumaine St. label; (2) Royal St.; (3) Chartres St.; (4) St. Ann St.; (5) block number 47; (6) printed Dumaine numbers 600, 610, 612, 618, 622, 624, 628, 630, 632; (7) the 'Macaroni Factory' and 'Wood Yard' labels in the block; (8) 'Cobble Stone' paving note on Dumaine. Held-out: (a) the building is drawn as frame (yellow) marked '1½ B.B.' — one and a half stories over a brick basement — matching the entry's description of a raised cottage with a solid brick basement and brick-between-posts upper story; (b) the sheet's '122' reference across Dumaine confirms the next sheet takes the downriver side, consistent with 632 being on this (block 47) side. Point sits at the 632/630 frontage of the building.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/LA-madame-johns-legacy"
+    },
+    {
+      "sheetId": "la-new-orleans-1908-v2-s121",
+      "entrySlug": "LA-french-quarter-vieux-carre",
+      "position": null,
+      "status": "no-point-by-rule",
+      "basisNote": "District entry (the whole Vieux Carré). This sheet maps one part of it around Jackson Square; an area is not a point.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/LA-french-quarter-vieux-carre"
+    },
+    {
+      "sheetId": "mo-hannibal-1913-s02",
+      "entrySlug": "MO-hannibal-river-and-print-workers",
+      "position": null,
+      "status": "no-point-by-rule",
+      "basisNote": "The entry's anchor is the Interpretive Center at 415 N. Main. The sheet prints 419 at the North St. corner and 405/403/401 toward Hill St., but no 415; the frontage between is one lumber yard. Interpolating a lot would be a guess, so no point. Useful visible features for a caption: the 'Old Mark Twain Homestead' label on Hill St. in the same block, and the Streckfus Line steamboat dock on the river.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/MO-hannibal-river-and-print-workers"
+    },
+    {
+      "sheetId": "mo-weingarten-usgs-1909",
+      "entrySlug": "MO-ste-genevieve-french-creole-households",
+      "position": null,
+      "status": "no-point-by-rule",
+      "basisNote": "The entry's anchor is the Bauvais-Amoureux House, 327 St. Marys Road, south of the old town. The 1929 Sanborn set (LOC sanborn04855_004) was checked and does not reach St. Mary's Road, so the USGS quadrangle is the sheet that maps this ground. At 1:62,500 the road south of town shows building dots that cannot be identified with the house to street-width accuracy. Blank by rule.",
+      "entryKind": "site",
+      "entryUrl": "https://onoldground.com/sites/MO-ste-genevieve-french-creole-households"
+    }
+  ],
+  "backCompat": {
+    "v1Shape": "Record<slugOrTourId, {src, alt, caption, credit, sourceName, sourceUrl, dateNote?}>",
+    "mapping": "For each tie: v1[t.entrySlug] = { src: sheet.image.src, alt: sheet.alt, caption: t.caption ?? sheet.caption, credit: sheet.credit, sourceName: sheet.sourceName ?? ('Library of Congress — Sanborn Maps Collection, item ' + sheet.source.itemId), sourceUrl: sheet.source.pageUrl, dateNote: t.dateNote ?? sheet.limitsNote }. Ties whose sheet has image.src null are skipped (no figure).",
+    "booneCheck": "Applying the mapping to the two Boone ties reproduces the v1 records for IA-boone-railroad-shop-workers and lincoln-highway-iowa field-for-field (src, alt, caption, credit, sourceName, sourceUrl, dateNote).",
+    "multiSheet": "getHistoricMap(key) returns one record; v2 adds getHistoricMapsFor(slug) returning all ties for the slug sorted by sheet.dateSort ascending."
+  }
+}
