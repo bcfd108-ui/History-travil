@@ -2917,6 +2917,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-IL-galena-lead-mining-district-dowling-house",
+   "Slug": "IL-galena-lead-mining-district-dowling-house",
+   "Entry": "Galena lead-mining district and the Dowling House — the 1826 stone trading post in the town lead built",
+   "Town": "Galena",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-galena-lead-mining-district-dowling-house",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "none",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-IL-graue-mill-and-museum",
    "Slug": "IL-graue-mill-and-museum",
    "Entry": "Graue Mill and Museum — a working Salt Creek gristmill and an Underground Railroad station",
@@ -3013,6 +3028,21 @@
    "Town": "Chicago",
    "State": "Illinois",
    "Entry URL": "https://onoldground.com/sites/IL-pullman-national-historical-park",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "none",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-IL-us-grant-home",
+   "Slug": "IL-us-grant-home",
+   "Entry": "U.S. Grant Home State Historic Site — the furnished house Galena gave its general in 1865",
+   "Town": "Galena",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-us-grant-home",
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "Photo research pending.",
    "Next desk or field action": "Desk — verify missing era and rights",
@@ -11483,6 +11513,6 @@
   }
  ],
  "counts": {
-  "items": 765
+  "items": 767
  }
 }
