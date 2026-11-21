@@ -341,6 +341,9 @@ form input[type="email"], form input[type="text"] { min-width: min(320px, 100%);
 .tie-rows .row > span { display: block; margin-top: 3px; }
 .tie-rows .row .basis { font-size: 0.82rem; line-height: 1.45; }
 
+.entry-link .entry-lead { display:block; width:min(100%,240px); height:auto; max-height:160px; object-fit:contain; object-position:left; margin:2px 0 9px; }
+.historic-photo figcaption { color:#24272C; overflow-wrap:anywhere; }
+.historic-photo figcaption a { color:#103840; text-decoration:underline; }
 /* ---- Hunts tab (data-driven rebuild) ---------------------------------- */
 /* .count-strip differs from the map library only in margin (18px vs 14px).
    Scoped so /maps keeps the unscoped rule above byte-for-byte. */
