@@ -41,6 +41,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <Link href="/desk">Research Desk</Link>
                 <Link href="/hunts">Hunts</Link>
                 <Link href="/tours">Routes</Link>
+                <Link href="/maps">Maps</Link>
                 <Link href="/near">Near Here</Link>
               </nav>
               <AccountBar />

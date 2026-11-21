@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { getHunts, getSites, getStates, getTours } from "@/lib/data";
+import { getHunts, getMapLibrary, getSites, getStates, getTours } from "@/lib/data";
 import { DESK_GUIDES } from "@/lib/content";
 import {stateUrl,themeList,themeUrl} from "@/lib/browse";
 import { SITE_URL } from "@/lib/seo";
@@ -23,12 +23,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     page("/desk", 0.8),
     page("/hunts", 0.8),
     page("/tours", 0.8),
+    page("/maps", 0.8),
     page("/near", 0.7),
     ...DESK_GUIDES.map((d) => page(`/desk/${d.slug}`, 0.6)),
     ...getStates().map((s) => page(`/desk/state-${s.code.toLowerCase()}`, 0.6)),
     page("/desk/national", 0.6),
     ...getTours().map((t) => page(`/tours/${t.id}`, 0.7)),
     ...getHunts().map((h) => page(`/hunts/${h.slug}`, 0.7)),
+    ...getMapLibrary().sheets.map((m) => page(`/maps/${m.id}`, 0.6)),
     ...getSites().map((s) => page(`/sites/${s.slug}`, 0.6)),
   ];
 }

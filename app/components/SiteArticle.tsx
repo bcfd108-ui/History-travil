@@ -3,7 +3,6 @@ import { catalog, pathName, themeUrl, type Query } from "@/lib/browse";
 import Link from "next/link";
 import {
   getConnectedSites,
-  getHistoricMap,
   getHistoricPhoto,
   getHuntFindsForSite,
   getPlainTop,
@@ -19,6 +18,7 @@ import VisitorUpdate from "@/components/VisitorUpdate";
 import SiteActions from "@/components/SiteActions";
 import ClaimFind from "@/components/ClaimFind";
 import CompleteThePair from "@/components/CompleteThePair";
+import MapSheetFigures from "@/components/MapSheetFigure";
 
 // The entry's historical photograph, where one has been honestly sourced
 // (owner's ruling, Nov 19, 2026). Renders nothing when the record has none —
@@ -99,29 +99,6 @@ function LocatorCard({ site }: { site: Site }) {
         Blank fields are blank in the source dossier. Nothing is invented to fill them.
       </p>
     </section>
-  );
-}
-
-// The entry's historic map, where one has been honestly sourced from the
-// dossier record (owner's direction, Nov 20, 2026). Same discipline as the
-// historic photograph: renders nothing when the record has none.
-function HistoricMapFigure({ slug }: { slug: string }) {
-  const map = getHistoricMap(slug);
-  if (!map) return null;
-  return (
-    <figure className="historic-photo">
-      <img src={map.src} alt={map.alt} loading="lazy" />
-      <figcaption>
-        <span className="hp-caption">{map.caption}</span>
-        <span className="hp-credit">
-          {map.credit} ·{" "}
-          <a href={map.sourceUrl} target="_blank" rel="noreferrer">
-            {map.sourceName}
-          </a>
-        </span>
-        {map.dateNote && <span className="hp-note">{map.dateNote}</span>}
-      </figcaption>
-    </figure>
   );
 }
 
@@ -311,7 +288,7 @@ export default function SiteArticle({ site, context }: { site: Site; context?: Q
       {site.lead && <Md text={site.lead} />}
 
       <HistoricPhotoFigure slug={site.slug} />
-      <HistoricMapFigure slug={site.slug} />
+      <MapSheetFigures entryKey={site.slug} />
 
       <AnchorPanel site={site} />
 
