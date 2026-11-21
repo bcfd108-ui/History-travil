@@ -2,6 +2,7 @@
 // Stage 1: reads the JSON dataset produced by scripts/convert.mjs from the
 // research dossiers. Stage 2 swaps these loaders for a database + accounts
 // behind this same interface, so pages never change. See ARCHITECTURE.md.
+import { checkEntry } from "./visit-facts.mjs";
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import { tiesFor, toV1, hasPoint, isPending, eraOf, libraryCounts } from "./maps-core.mjs";
@@ -280,7 +281,12 @@ export function getSite(slug: string): Site | undefined {
 // a hand-maintained sidecar the converter does not generate. An entry with no
 // honestly sourced image simply has no figure — the gap prints in its record.
 // ---------------------------------------------------------------------------
-export interface HistoricPhoto {
+export interface HistoricPhoto extends PhotoFrame {
+  /** Both frames have been approved for this exact entry and viewpoint. */
+  pair?: { then: PhotoFrame; now: PhotoFrame };
+}
+
+export interface PhotoFrame {
   src: string;
   alt: string;
   caption: string;
@@ -851,4 +857,21 @@ export function getPlainTop(slug: string): PlainTop | undefined {
     }
   }
   return plainTopsCache[slug];
+}
+
+type VisitFact = { value: string; from: string[] };
+export interface VisitFacts {
+  reviewDigest: string;
+  rows: Record<string, VisitFact>;
+  evidence: Record<string, string>;
+  warning?: VisitFact;
+  reading?: boolean;
+  voices?: string[];
+}
+
+let visitFactsCache: Record<string, VisitFacts> | undefined;
+export function getVisitFacts(site: Site): VisitFacts | undefined {
+  visitFactsCache ??= load<Record<string, VisitFacts>>("visit-facts.json");
+  const facts = visitFactsCache[site.slug];
+  if (facts && !checkEntry(site, facts, getPlainTop(site.slug)).length) return facts;
 }

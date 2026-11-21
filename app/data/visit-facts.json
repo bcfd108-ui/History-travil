@@ -1,0 +1,2059 @@
+{
+  "AZ-apache-public-history": {
+    "rows": {
+      "go": {
+        "value": "Nohwike’ Bágowa Museum",
+        "from": [
+          "locator.stableName"
+        ]
+      },
+      "address": {
+        "value": "104 General Crook Street, Fort Apache, AZ 85926 (Foundation address)",
+        "from": [
+          "locator.address"
+        ]
+      },
+      "hours": {
+        "value": "Monday–Friday, 8 a.m.–5 p.m.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "closed": {
+        "value": "Winter weekends",
+        "from": [
+          "access[1]",
+          "access[2]"
+        ]
+      },
+      "website": {
+        "value": "https://www.fortapachearizona.org/visit/",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Public museum only. School, offices, homes, cemetery and archaeological ground are outside the visit.",
+        "from": [
+          "access[3]",
+          "access[4]"
+        ]
+      },
+      "check": {
+        "value": "The Visit page lists weekdays only. The About page also lists summer weekend exceptions.",
+        "from": [
+          "access[1]",
+          "access[2]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.stableName": "c35c7a99159be5bfc862fe522e4483e3a5f5e89c73f0caa99f67b903f9872d1e",
+      "locator.address": "26baf354d8aefc2070f197f701c3fd5615f5dfc2896388ece6d387d53c812b24",
+      "access[1]": "8103973d0e34886bcb81d560a0b00cf696f87b0f1b33fa2caa4e80501fb88411",
+      "access[2]": "ea6db167a9ffa1feeeb2e913d9d7e2eb2cabdaf837381c54b560a4021ca50c82",
+      "sources[1]": "44bffc2bd1e62994dbf5eaca7c094abc0c85cfcfd32d97e999752d9b3fbdd860",
+      "access[3]": "b184588c4b93903e81773243fabea9154103cd9b7077e4bcde03b7a5f6397eb0",
+      "access[4]": "4a3f41734209b908c907d1a9e73c246b9eb839543fde68f92a34b9effb1eceb1",
+      "story": "66b00aba056e61e19a18ca118e544755c56783a42665037d4481c6608bab2b1f",
+      "stillThere": "e21c0ed9d2b24f2637396bb7e1c42f2c9d160d62b0ca94d7133f3247ee6dd2aa",
+      "thenNow": "b3d34f889d8d7dd3cba340b4bd4e8870763b8462913dab5cbd893167c9c66b25",
+      "progression": "f07cdbc9369dfa31e79430dbc800863fd18d656726c1e6b9dcbd51ac003d4def",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "270de550dfdfb3873b67b1f6deff2bde461ddd30b987077ba434e7d503268b6c"
+    },
+    "voices": [
+      "“Our community needs and deserves a safe and beautiful place to commemorate our history”"
+    ],
+    "reviewDigest": "56aeb371d3d0d3179501eaf60eec9cb4ef760dc2b5d39c528cb7f4e577ea582b"
+  },
+  "AZ-bisbee-deportation-reflection": {
+    "rows": {
+      "go": {
+        "value": "Bisbee Mining & Historical Museum",
+        "from": [
+          "locator.stableName"
+        ]
+      },
+      "address": {
+        "value": "5 Copper Queen Plaza, Bisbee, AZ 85603",
+        "from": [
+          "locator.extra.Printed public institutional locator"
+        ]
+      },
+      "hours": {
+        "value": "Daily, 10 a.m.–4 p.m.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "admission": {
+        "value": "$12 general · $11 veterans, active military and seniors 60+ · accompanied children under ten free",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "phone": {
+        "value": "520-432-7071 ext. 1",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://bisbeemuseum.org/",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "closed": {
+        "value": "Thanksgiving, Christmas and New Year’s Day",
+        "from": [
+          "access[2]"
+        ]
+      },
+      "boundary": {
+        "value": "Museum galleries only. No former worksite or expulsion route.",
+        "from": [
+          "locator.extra.Permanent rule",
+          "access[4]"
+        ]
+      },
+      "research": {
+        "value": "Shattuck Memorial Research Library. Confirm staffing and item availability separately.",
+        "from": [
+          "access[3]"
+        ]
+      },
+      "check": {
+        "value": "The contact page lists all three holidays. The homepage lists only Thanksgiving and Christmas.",
+        "from": [
+          "access[2]"
+        ]
+      }
+    },
+    "evidence": {
+      "access[4]": "926a5153100c1b198fa927aefa16a7d6ab9222756bbc735ffbf3ee52af6a99e1",
+      "locator.stableName": "6bc4782f2b5a2d5e754e5749991c522ceaa59e2136996005fd167966857e4b4c",
+      "locator.extra.Printed public institutional locator": "5b2a5c6171319854844f3f952b593fc12eced16607e58168d16f480f08233cbe",
+      "access[1]": "33ae7eef565aa37be7b69d6a66f22a42ea5bdaf3da9183df33d3e30d2863e574",
+      "sources[1]": "addcf4d1d07d83a7300cf490281cb20fdacf9fa300bf0f2535baa935ccc17eea",
+      "access[2]": "b50634ab9d19ce6bee774aeb8fd4bf4d6ce400198414c025e89177a4a57990d0",
+      "locator.extra.Permanent rule": "8f512edf2a22cdd4f6a3e35407a93be3908eab6abdc1e6e3f35d79d7335e6878",
+      "access[3]": "d5d2de41e445d357a4883ab6a95d8c34b01e60d51087b5c9ac84fd2e9e69e11f",
+      "story": "c111ef979e4f47108b97e17eb93e262976a197e9a1b5a3343ebcc8d0825ab481",
+      "stillThere": "88a49335d82d092d0801cd3e127e36f8078add748da64b5bbcac93e8fbe44e8d",
+      "thenNow": "b2de4e28cf78f1561b1509872fc3762b5a70813c1da61261df6959948fdb8240",
+      "progression": "026d6636f838e7c498afe4f021293016af4ff2f04cca091872aa120f50a2695e",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "3ca596768164a747de90401a24720d2294f6fce466952cf9ad8255db6c67c051"
+    },
+    "warning": {
+      "value": "The museum is the only public stop.",
+      "from": [
+        "access[4]"
+      ]
+    },
+    "voices": [
+      "“I'll forget it when I die!”"
+    ],
+    "reviewDigest": "b0563f2107af7ed4e0e9d035e9e6124affbe7842512b781141b51b95012f1858"
+  },
+  "AZ-clifton-morenci-worker-households": {
+    "rows": {
+      "go": {
+        "value": "Greenlee County Historical Society Museum",
+        "from": [
+          "locator.stableName"
+        ]
+      },
+      "address": {
+        "value": "299 Chase Creek, Clifton, AZ 85533",
+        "from": [
+          "locator.address"
+        ]
+      },
+      "hours": {
+        "value": "Saturday, noon–4 p.m. Other visits by appointment.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "admission": {
+        "value": "Free",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "phone": {
+        "value": "928-865-3115",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://www.greenleehistory.org/museum",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "boundary": {
+        "value": "The museum in Clifton. No mine, adjoining property or industrial ground.",
+        "from": [
+          "locator.address",
+          "access[1]"
+        ]
+      },
+      "research": {
+        "value": "Morenci Mine Historical Preservation Project computer at the museum. Confirm availability.",
+        "from": [
+          "access[3]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.stableName": "95970ec4d6f9d6fd677d153ce2d6c9f5c91e00a757a1a2b484465c349c5fad9f",
+      "locator.address": "f0f76fb7ac4eff209ccce71a43cb405ac41c82adec26b3a713c57feaf68b8b4a",
+      "access[1]": "f051ebc358d9549865109bb58f6ac0e0efed15c07ed2246446713a1f2a01a36d",
+      "sources[1]": "f574b720aadf828b3fd62f52938bcb8197f93e2a4412f651b4f940ebe1fcfa15",
+      "access[3]": "009f4b230b1f4fa6c2a582b11b6d440f2441ba43c36a040e79aefa3d3c5caa03",
+      "story": "8ba1a9424e45c9ba9f552c8a6da6e484b070e90fbbabd240c69387e515fe160a",
+      "stillThere": "8a62f0764df70c5f5f5172dfdce30ba8daf7d9b70e2f1f69e495dce830b347bb",
+      "thenNow": "71664e092e0ee8396e6f33e82229a28216a0589b5acce6ae49838f299e6d7309",
+      "progression": "bf3f8fc7f46f199038fa194f9a4872b6bbc603c48d6a66c648a36c82225d40dd",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "d9ffe46bf6fff4537abd0b08eaee23f1d6e6020fa7f721beb225fddc4edfaf7c"
+    },
+    "voices": [
+      "“We're writing statements. We're writing letters. We're doing the outreach.”"
+    ],
+    "reviewDigest": "8d3b03b2e2adc5f7f151634e68ae826c1c8f44d60ea840dab1f299a382bc3432"
+  },
+  "AZ-dine-weavers-public-history": {
+    "rows": {
+      "go": {
+        "value": "Heard Museum",
+        "from": [
+          "locator.stableName"
+        ]
+      },
+      "address": {
+        "value": "2301 N. Central Avenue, Phoenix, AZ 85004",
+        "from": [
+          "locator.address"
+        ]
+      },
+      "hours": {
+        "value": "September–May, daily 10 a.m.–4 p.m.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "admission": {
+        "value": "$26 standard adult. Twilight included. Special events may require separate tickets.",
+        "from": [
+          "access[1]",
+          "access[2]"
+        ]
+      },
+      "website": {
+        "value": "https://heard.org/plan/",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "closed": {
+        "value": "Summer Mondays, Easter Sunday, Independence Day, Thanksgiving and Christmas Day",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Admitted museum gallery only. Studios, homes and trading posts are outside the visit.",
+        "from": [
+          "access[4]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.stableName": "a5163bff89dfc9ea29c0e6e920fc61188324fdd0e20437a5e489cadd810233d2",
+      "locator.address": "c479192a088e060b4d6d7db77aff0e58a76e51962a6b473ff07d078a68768ad3",
+      "access[1]": "b2806facb66edd934f92c2513db170b4e12134526a0e81eb72a10f8bea59f535",
+      "access[2]": "64b18f24a1311ab65ac553de3d72b5b3efca13dd9f344ea7f0c05345bb3e1870",
+      "sources[1]": "ac982a43d020e7810359416d263479ca3cff57d6260081557db3a0b1f59d8575",
+      "access[4]": "0a858c5aed327f1595dd78d4b5a28e4638051105f20060b132a7587174affc68",
+      "story": "661cbec843902773fb3bde90b2204a7927eaa59d4951e9682565441004dd6147",
+      "stillThere": "5570245a8e1b3287aa08af26569884c50923b9aa7def5b9a1b48d3c1fa077204",
+      "thenNow": "5e8503688d158307abd30d772fab109766561e1ac5d21cab484b887190bc2fa9",
+      "progression": "aba12ba082548ce49be28f9723613f474e5064e77fa03908eb3ccf338e2933bf",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "86b91941b21e2a7c903ec3ddaa18fd8bf3f6daea69bc6a61e278afa5c7e745fa"
+    },
+    "voices": [
+      "“I weave because of my love of weaving and the challenge of creating unique weavings.”"
+    ],
+    "reviewDigest": "02fd7111308bbb372dd4147626a9ce9e6f5143142f7d0bf8fc2a66a7da533d58"
+  },
+  "AZ-douglas-border-households": {
+    "rows": {
+      "go": {
+        "value": "Douglas-Williams House Museum",
+        "from": [
+          "locator.stableName"
+        ]
+      },
+      "address": {
+        "value": "1001 D. Avenue, Douglas, AZ 85607",
+        "from": [
+          "locator.address"
+        ]
+      },
+      "hours": {
+        "value": "Wednesday and Saturday, noon–4 p.m., appear on both schedules. Confirm before travel.",
+        "from": [
+          "access[1]",
+          "access[2]"
+        ]
+      },
+      "website": {
+        "value": "https://www.douglasazhistory.com/",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "boundary": {
+        "value": "The museum only. No private home, school or industrial site.",
+        "from": [
+          "access[1]",
+          "access[3]"
+        ]
+      },
+      "check": {
+        "value": "The homepage lists Wednesday through Saturday. The exhibits page lists Wednesday and Saturday only.",
+        "from": [
+          "access[1]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.stableName": "eeab3f34b13436c79810e6532e256404d73cbbc62bcc23af0117fffc747d8fe4",
+      "locator.address": "25f7e46562ec194239dbba083f925e6c7d8ba9ab317506f40738edf8304b464d",
+      "access[1]": "42cad69de8096a17d6020a743c5b594204826c5fe5d1dc8eaf48d8aa72bae526",
+      "access[2]": "bfd309016d26ef2f10f0a2d30c8d1833f1c675863f1398f9419130fa6311e3b8",
+      "sources[1]": "bb502cda5b8a15b14634d0a659ec7569e1e5396f51d1e7bcc163c1b35d71b218",
+      "access[3]": "0d83da48c18edca7e04e5a68ff995d9b0150c5b872ca20865265b30a7b81a405",
+      "story": "9b904628a3423b903ea8eae49670e45d6d51820153b5ac9889a51337cdefb936",
+      "stillThere": "c75847741097e5d2195bf82ad9396ace39191e4cfc97007f0597414c492a1140",
+      "thenNow": "8e4bac4305f017504ac48671334a69a654d40bf1647a00c83b29cf6e03989198",
+      "progression": "3505a262d64d1f20f47d8dce0ba25e67e3cd2873794e314f5115454acb70a617",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "ef5e8d04db63a322a4ed75ee9ae062d081a3b38740cadabec39efcf5249e2be6"
+    },
+    "voices": [
+      "“why do they ride, and we walk?”"
+    ],
+    "reviewDigest": "398a2449dcc3405f8363ec0ad1fbefba8d04b4e0853359ae192f7d4f3c3ff08e"
+  },
+  "AZ-flagstaff-observatory-workers": {
+    "rows": {
+      "go": {
+        "value": "Lowell Observatory public visitor program",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      },
+      "address": {
+        "value": "1400 W Mars Hill Rd, Flagstaff, AZ 86001",
+        "from": [
+          "locator.address"
+        ]
+      },
+      "hours": {
+        "value": "Monday and Wednesday–Sunday, noon–10 p.m.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "admission": {
+        "value": "General admission without reservation. Premium Access requires a reservation.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://lowell.edu/visit/",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "closed": {
+        "value": "Tuesdays, Thanksgiving, Christmas Eve, Christmas Day and New Year’s Day",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Admitted visitor areas only. Research instruments, staff rooms, archive storage and employee housing are outside the visit.",
+        "from": [
+          "locator.extra.Visitor boundary",
+          "access[3]"
+        ]
+      },
+      "check": {
+        "value": "The visitor page lists theater experiences as included and also describes paid show add-ons.",
+        "from": [
+          "access[4]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.extra.Public anchor": "3b6e9b86585c5b07b776ba11c03aadbeeba0d7cae5ecf908f3e14e8321788630",
+      "locator.address": "cf83e129687ffc8c1151667f7926fcd1a729182717599a7ea79ffcf20028f522",
+      "access[1]": "0376ef9dfa2bee096e9e8179e46ac9a2ed971c4481c12b1c4bbd85b0afe9afe3",
+      "sources[1]": "d40a9047d6d4c3530273043668dce187d123870d129f0aa2c6a19c164895299b",
+      "locator.extra.Visitor boundary": "2be0fe531204c3b067455cb5b4667d5dbd49a0a58d60f7f73b29421d33094048",
+      "access[3]": "d02f72db7dea3183bbac3504039d568e1c47e475babc4a37ab6e3f6e7821b51f",
+      "access[4]": "81250b6cf2579be9fc71b1a53ce3016b5f576bd5af3774018527483c6e7a2cb9",
+      "story": "7c310e1d52fde8359927a1209ccc355f5a7c944005df1950e55f56d073d192b7",
+      "stillThere": "d75fb91bc81ff08efe6d3af35254aa390713f8a0ccad598b0ab17d1bbee21a60",
+      "thenNow": "241774d0e607968f14c0420a83753cbac1b65fa11fdd864161f3077c9f30a4e2",
+      "progression": "e9e928af352146d3de10e9a3b90cf3ade783560785ea8750aa5ccbc0d91a4bb1",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "d67ccb77d602c104dbbc2a4b85754a3ac51a1fdc047abbf0299306249afcde92"
+    },
+    "reviewDigest": "58061ab6654ed38fd88aa70c2c0700ab72dd8b0d632479b092d2ebf681578715"
+  },
+  "AZ-grand-canyon-havasupai-public-history": {
+    "rows": {
+      "go": {
+        "value": "Grand Canyon Visitor Center, South Rim",
+        "from": [
+          "locator.stableName"
+        ]
+      },
+      "address": {
+        "value": "8 South Entrance Road, Grand Canyon Village, AZ 86023",
+        "from": [
+          "locator.address"
+        ]
+      },
+      "hours": {
+        "value": "Fall schedule only, daily 9 a.m.–4 p.m.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://www.nps.gov/grca/planyourvisit/grand-canyon-visitor-center.htm",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "boundary": {
+        "value": "National Park Service visitor center only. No access to Tribal land from this entry.",
+        "from": [
+          "access[4]"
+        ]
+      },
+      "accessibility": {
+        "value": "Wheelchair access and captioned media listed for the visitor center.",
+        "from": [
+          "access[2]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.stableName": "71d1dcabea47fc8ef1e38c8532c0b0a2b5a92dcadcdb1815aa09a93f864c0589",
+      "locator.address": "d78ef8b95d609b3305470f2b88f64b10026de5134c329bb89671d3d0ea64135a",
+      "access[1]": "25790e9bc8fb62927a191ce1a7e1529deced5d1a5c7b80afcfcaffcf8aac0a37",
+      "sources[1]": "2074d4671691d233d3271d6ac32397537b450affd4955a2d1ab63fcbf77aeb07",
+      "access[4]": "634f2c643fa9817cbb584c6f01ff12dd1646e926affa52f6c77d1c045c91926f",
+      "access[2]": "a03a82b42814be58cf03766f25512288bf3aea04502e770c9fc33434f640f056",
+      "story": "2d7a2fae71d27fac2d56dae65803ed6611ee294e897cdda139d605671d268bcb",
+      "stillThere": "b46a18b170461c7372d0aaf193b83ff8f24c2b04237a09dd7daa61d4b1fc9a58",
+      "thenNow": "7059e635ae4d900a0befb423a1b6d49c73f48ec660af717230a8594b4be98ae2",
+      "progression": "2fa8c633215b903e36c3ff5222b83b17860ac8f281f86318443e266956df0ec7",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "8ee9bfca4e0d359f6918abfeb7de1ca9ad748979ea334b9e1d67f5409e14b58c"
+    },
+    "voices": [
+      "“In our Canyon home, water is life.”"
+    ],
+    "reviewDigest": "7fff39d3e23859117be8a6cd41e18f1e7feaa444858c99b6454b056af3080da1"
+  },
+  "AZ-holbrook-roadside-workers": {
+    "rows": {
+      "go": {
+        "value": "Navajo County Historical Society Museum",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      },
+      "address": {
+        "value": "100 East Arizona Street, Holbrook, AZ 86025",
+        "from": [
+          "locator.address"
+        ]
+      },
+      "hours": {
+        "value": "Monday–Saturday, 9 a.m.–5 p.m. (winter schedule)",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "admission": {
+        "value": "Free. Donations optional.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://holbrookazmuseum.org/",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Public courthouse museum only. Motel grounds and guest rooms are outside this stop.",
+        "from": [
+          "access[2]",
+          "access[3]",
+          "locator.extra.Visitor boundary"
+        ]
+      },
+      "research": {
+        "value": "Museum research library. Confirm staffing and retrieval separately.",
+        "from": [
+          "access[4]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.extra.Public anchor": "af3fea3c110790aacd56bf93e9d3df5269babe41bd2e455185a5e960418e6bd1",
+      "locator.address": "de1628f66fd1f4f2c25a063cdc16ca35da7a599c8272cbf6e8341cc8115b0b4b",
+      "access[1]": "a50e6d77d915f21eba1d669b1e494bcba0bf688f209fe9edef9939492adeded7",
+      "sources[1]": "45c8f0903a51bf82786a8c62b876497a76f24deb0e60d05bb59a1dc737f3da45",
+      "access[2]": "62b8374c83f14f96a6b96e97f0cc8896177c6a9d495d726f3f182a329ccd2380",
+      "access[3]": "e2ef37a09d2c5fcc06f03b9eb40e9b1c4a792c35af9859c9906bc67cb5e9747b",
+      "locator.extra.Visitor boundary": "4d4b2eb942f31086eb137184be030437776a13a0d916b0d70271462fd350a85d",
+      "access[4]": "7fcd70b673698797f8e52eafdc0327623b65efcfd793b80daae1c60a86bb54dd",
+      "story": "a6b02a118258985171a6506c9a98f001321f3bd2b27a763f936a3f6ddad07b31",
+      "stillThere": "64b3a33f8c3245d7e321a140996dd8dd3d660071b2c9398c28faf1ba7bb883ae",
+      "thenNow": "00810f6f2628a6390caff9ae504e6f071c3871e6587cfe3a5b8041b0fe763d34",
+      "progression": "df16ecd2c156212beba3ae5a23713577d831300259189b544ce83e3f2aa9e062",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "b12161241a8da134bfda477a2618dcb8ebee757d99d41808cd4ac351e55942f7"
+    },
+    "warning": {
+      "value": "The motel grounds are outside this stop.",
+      "from": [
+        "access[3]"
+      ]
+    },
+    "voices": [
+      "“Many people are grateful that we have preserved it, and that was our main reason in opening it.”"
+    ],
+    "reviewDigest": "a5f9817cc4f9530c26fd1bf01af244a1fbb9d812b029ec51e5d85d2993499ce6"
+  },
+  "AZ-hopi-public-history": {
+    "rows": {
+      "go": {
+        "value": "No visitable ground — reading entry",
+        "from": [
+          "access[1]"
+        ]
+      }
+    },
+    "evidence": {
+      "access[1]": "8ac4787aaaea46268b45407da5afeeef59abc9754a5e6514572faa9233bbb120",
+      "story": "2c018e9c5123cbf1fce346b5dd62a9b5a1db8d5fec04def79c17c8c129d771f3",
+      "stillThere": "c6835525af24d1d432e6274fa17ac0265c88f18dd73e140bf546ea62d5e8b341",
+      "thenNow": "ded0b5fa8956859a78771d44ae9ed0e79373ae1b9ea755717582a615253a3837",
+      "progression": "500687b7c5d2447b2fef30f0b849335a2e7e737ff8a44ef910d0e2e45b7e60e5",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "9a1a3b222617938df6a371e0b5bb33632612f7b68a0015be401b76260fd0ebff",
+      "access": "8ac4787aaaea46268b45407da5afeeef59abc9754a5e6514572faa9233bbb120"
+    },
+    "warning": {
+      "value": "No public history stop is verified.",
+      "from": [
+        "access[1]"
+      ]
+    },
+    "reading": true,
+    "voices": [
+      "“my way of giving back to those who came before me.”",
+      "“Our oral histories go even further back.”"
+    ],
+    "reviewDigest": "0975df1cb6453cb22f388d31b8851145b025e23fef62e1ba440dbea89f029b7e"
+  },
+  "AZ-jerome-worker-households": {
+    "rows": {
+      "go": {
+        "value": "Jerome Historical Society Mine Museum",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      },
+      "address": {
+        "value": "200 Main Street, Jerome",
+        "from": [
+          "locator.address"
+        ]
+      },
+      "hours": {
+        "value": "Daily, 10 a.m.–5 p.m., subject to change",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "admission": {
+        "value": "Adults $2 · children under 12 free",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://www.jeromehistoricalsociety.com/museums-buildings/mine-museum/",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Admitted museum galleries only. Mine, shaft and former school are outside the visit.",
+        "from": [
+          "locator.extra.Visitor boundary"
+        ]
+      },
+      "research": {
+        "value": "Historical Society archives by appointment.",
+        "from": [
+          "access[4]"
+        ]
+      },
+      "check": {
+        "value": "The research page lists visitor computers during business hours and requires an appointment for the facility.",
+        "from": [
+          "access[4]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.extra.Public anchor": "6983960143f5dd1db78a6973b1382b8fe925412e603ab213e4541bc4660f372e",
+      "locator.address": "d8e4df90e859c13df915eb1ea77353455194942264a01c6b3526b8e4fcf4c46a",
+      "access[1]": "88285261253a5edbe00fc1e1120eb891567a1e659f27aaf9026760f0b8b8e4be",
+      "sources[1]": "79347e601718c0f01ba1690d4c3bb52fdda622645a9676c6408265681114e5f5",
+      "locator.extra.Visitor boundary": "9ded76dc68d04b87b4578645bf1eb8abb345a8f65e01eb21f43e9324ab64bc3d",
+      "access[4]": "3bfab671d756d3aad30e8b833c52f2bc50d18a945af822a1c20b0d1d338e4279",
+      "story": "0150a8213e5cd4f8621cb45d8dbcc40cb1889944f610b655d10e6b4d26ad9ffb",
+      "stillThere": "9f72027ce663cb39e0873e1bf3fa02ad8f67a4d1dc43b0d7333ff77a15afab91",
+      "thenNow": "152cea6bfbe1c6458c66b43d593f0ae563e78365be502bd7b1b6df5794a40f79",
+      "progression": "9b06f33be6c648479c9316b725044b11114370ea93e2bee09cdc80503b037a63",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "a4b51f87a787d5234f24e0f80ccd7beeb40b36fc315e8cba202fd1015e2f26c7"
+    },
+    "reviewDigest": "350aef6410e124d0f21d3dcf7a2c05152dcbd7a6a51fcce3b27f12338f63224c"
+  },
+  "AZ-mesa-migrant-farm-households": {
+    "rows": {
+      "go": {
+        "value": "Mesa Historical Museum, Old Lehi School main building",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      },
+      "address": {
+        "value": "2345 N. Horne, Mesa, Arizona",
+        "from": [
+          "locator.address"
+        ]
+      },
+      "hours": {
+        "value": "Tuesday–Saturday, 10 a.m.–4 p.m. Last admission 3:30 p.m.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://www.mesahistoricalmuseum.com/visit",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "closed": {
+        "value": "Thanksgiving, Christmas Eve and Day, New Year’s Eve and Day",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Main (north) museum building. No former camps, farms or residences.",
+        "from": [
+          "access[2]",
+          "access[4]"
+        ]
+      },
+      "accessibility": {
+        "value": "Side ramp and accessible restrooms. No loan wheelchairs or walkers.",
+        "from": [
+          "access[2]"
+        ]
+      },
+      "research": {
+        "value": "Written request and approval required for supervised research.",
+        "from": [
+          "access[3]"
+        ]
+      },
+      "check": {
+        "value": "The visitor page gives ZIP 85205. Its footer and the FAQ give 85203.",
+        "from": [
+          "access[2]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.extra.Public anchor": "15e744278b10ff66ac14edecc1a11b6ba9ecaa24e6ec629fe389dee1ca8a84bd",
+      "locator.address": "db6184c7281526c3166c6f4c60a38b9d7c19edfcbb179488e319dbadc367fac7",
+      "access[1]": "85926eb84933472537d7e7ed7e78b844a65e4d17aec1c2b95f066ea6aeaf2fa9",
+      "sources[1]": "c8df91d5e1a43c842b0ac83ebb9d213b34d26a21991e0cfec04827002b6beff1",
+      "access[2]": "072e307f92bbac1b6d661aa4f0a853f9e816eab743612c76f822cedca66b1936",
+      "access[4]": "456dac4dfacddb6e863bec445cd4aa05bd2253e2dfa4d28b1555377e5e0deb3d",
+      "access[3]": "b6a1c02dcb4ab8f007bff1ba982f2fb7cc97d81dfb525d1c5a7bc043204cd6e9",
+      "story": "5d34befdfd36eb895dc7dd3485be2bddb1f2384a115caf3abaff75373484ade1",
+      "stillThere": "d132380d71e099aabf59e6bee8738d26c57b80b3b3cc223d47f8a250cec711bb",
+      "thenNow": "0a0b3ee197ef151c4c759f8118e50c23670492370d4d0dbb0a212f151baed996",
+      "progression": "59ba859ba70f227721b924fbcc53da24277349124d549704287cd7eb9d5ce97b",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "d9538e42c75fc02c963d09c5d69f72987b4a9498ce6dfe93950aeb5a33df7f85"
+    },
+    "voices": [
+      "“They picked cotton.”"
+    ],
+    "reviewDigest": "81d627cfde6552542ab4787ab5f8847ed195213ef514e9dcb93de7b0023fc1cf"
+  },
+  "AZ-phoenix-black-community": {
+    "rows": {
+      "go": {
+        "value": "George Washington Carver Museum and Cultural Center, by confirmed tour",
+        "from": [
+          "locator.extra.Official manager/operator",
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://www.thecarveraz.org/visit-us-1",
+        "from": [
+          "sources[9]"
+        ]
+      },
+      "boundary": {
+        "value": "Confirmed Carver museum tour only.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "research": {
+        "value": "Burton Barr’s Arizona Room has a separate, unconfirmed schedule.",
+        "from": [
+          "access[1]"
+        ]
+      }
+    },
+    "evidence": {
+      "access[1]": "aebf3482a4ac76ca867fcce7b0e4aba0e369d41d034a7216126dd56b9d6cfc92",
+      "locator.extra.Official manager/operator": "353a104acfadf1954c1377686cf84dd8261d8286696ffb4f6aef43af4f1199b4",
+      "sources[9]": "52b28d30e0901c770633719fe873f4d910468a5d0e2e0f929141f6ad7fba4e16",
+      "story": "c3069aaa72bcfbda93e104b70780a8a704db035d9de688c6c86770eaac8e288c",
+      "stillThere": "59d07a48fcf9d30520d21d998178166e228263d76049b2f1f4863466e49fb837",
+      "thenNow": "7ab948eae1f58323f3cd5feded19a760cedeeea54857d0d9cef2626e59cca994",
+      "progression": "54cc25ec2272059fb35245581da5db3becbc4bd395ff43252e5c82ea90e5c043",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "d1ed5993242a07f4bfcae70f40705e659539f0441f44292f94945fc4b45b9a3d",
+      "access": "aebf3482a4ac76ca867fcce7b0e4aba0e369d41d034a7216126dd56b9d6cfc92"
+    },
+    "warning": {
+      "value": "Carver tours require confirmation.",
+      "from": [
+        "access[1]"
+      ]
+    },
+    "voices": [
+      "“the funeral home business was not my passion.”",
+      "“formed a class of one.”"
+    ],
+    "reviewDigest": "0308ff601c56257ddfba13cc9c2758cf31bc44885c346fe9b27a739016a98b6f"
+  },
+  "AZ-phoenix-mexican-american-community": {
+    "rows": {
+      "go": {
+        "value": "No visitable ground — reading entry",
+        "from": [
+          "access[1]",
+          "access[3]"
+        ]
+      },
+      "website": {
+        "value": "https://lib.asu.edu/collections/special-collections/reading-rooms",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "research": {
+        "value": "ASU Wurzburger Reading Room, Tempe. Appointment required. Request materials at least five days ahead.",
+        "from": [
+          "access[1]"
+        ]
+      }
+    },
+    "evidence": {
+      "access[1]": "8a57d5b13f1d78475a195d8feb06b5cba8a966fc57d3fa4cc3f37bcf2419c539",
+      "access[3]": "2dc4b09a35b24408101cc544b9e220685bca6c2c1db512ff9c047f228e5c2168",
+      "sources[1]": "541bd6313a356dc0f968bcb12457e7d3e8741bc951e7527de71dfefc2b7db60f",
+      "story": "3c43a2bbdf469f7f5228bf56b0e80e2d6a3deb317488f145fe5cd2e8c2256dd4",
+      "stillThere": "5e659a88f4cc672ba111494a397504d46f967d39cdcba03f3d2089fb1a26c284",
+      "thenNow": "1d65fd5211d7b0f90af458935e8062a1b39e3f74651b785af14f63f75c80e61b",
+      "progression": "20928ff9bcd54747ff42a294eb8e436f1a1626e62c1be524fd0d3126b09a415b",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "d80688873e6d2399992c4a37616595e62f66823cc81fbe484a33025f0edf6993"
+    },
+    "warning": {
+      "value": "No public neighborhood stop is verified.",
+      "from": [
+        "access[1]",
+        "access[3]"
+      ]
+    },
+    "reading": true,
+    "voices": [
+      "“His life was straddling both borders”"
+    ],
+    "reviewDigest": "66789a38757f3299a9cffc6f41a0788a8c2d49a0a83595191685287e370141ed"
+  },
+  "AZ-phoenix-womens-suffrage": {
+    "rows": {
+      "go": {
+        "value": "No visitable ground — reading entry",
+        "from": [
+          "access[1]",
+          "access[4]"
+        ]
+      },
+      "website": {
+        "value": "https://azlibrary.gov/starl/research-center",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "phone": {
+        "value": "Archives 602-926-3720 · library 602-926-3870",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "closed": {
+        "value": "State holidays (archive)",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "research": {
+        "value": "Polly Rosenbaum Archives, by appointment. Monday–Friday, 8:30 a.m.–noon and 1–4:30 p.m.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "check": {
+        "value": "The archive’s office footer says 8–5. Research appointments use the narrower reading-room hours.",
+        "from": [
+          "access[1]",
+          "access[3]"
+        ]
+      }
+    },
+    "evidence": {
+      "access[1]": "f51e0e0509963e23f19b32c583d94aa44d49c3feee655400adf3a4623f18b93f",
+      "access[4]": "7e889b1ef2f6879ed13a056b7b9d777cee9a34a65c4426b0c75a22442d515306",
+      "sources[1]": "9f68e1bcdab0aa0dcd81587ccb350abc431ebd0ea6d6254a14900d3f69f860e5",
+      "access[3]": "c29c9ea18e5565041d64fd6e03ed747efff780615ffa2f723e4c05055014fa45",
+      "story": "264b139833e046eb860a67b03d82ee040a18a8d46da13f950bd582238057cd58",
+      "stillThere": "dd3ca6116bc088c2082309eeae7c0b67e95ed3415dffdeab59bd190d3ac6a253",
+      "thenNow": "b065aee80e3a5dd2400c334a521055c34ea4e55a4347562b8c5154fbe2bb44e4",
+      "progression": "adab4364c291bab84de09f6caca0ba04dae76661057c51c14d6b4a34d1c58bfd",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "c8fb0ebe8b7de308e3758d71d607c69caebb131f6d580b5824d12dc109216ccf"
+    },
+    "warning": {
+      "value": "No public campaign site is verified.",
+      "from": [
+        "access[1]",
+        "access[4]"
+      ]
+    },
+    "reading": true,
+    "voices": [
+      "“make a study of the laws that govern women and children”",
+      "“until women vote in every state”"
+    ],
+    "reviewDigest": "e634d616c30f2b9cc8729034592d409f73417b6cf540e041e9fcc1a30d881ea4"
+  },
+  "AZ-poston-reflection": {
+    "rows": {
+      "go": {
+        "value": "No visitable ground — reading entry",
+        "from": [
+          "access[1]",
+          "access[2]"
+        ]
+      },
+      "boundary": {
+        "value": "No visit to the former camp, memorial, former school or community ground.",
+        "from": [
+          "access[4]"
+        ]
+      },
+      "check": {
+        "value": "The Tribal museum page and a separate directory give different addresses.",
+        "from": [
+          "access[2]"
+        ]
+      }
+    },
+    "evidence": {
+      "access[1]": "ab8f3c79ab04763686a1ac69ba116020d13f740ebfd13424541fb6f007e0ed45",
+      "access[2]": "40dffaaad3d7fd2a989d19a5639e49615dc789a51f78b7d9aca0a59cda76ebd3",
+      "access[4]": "4e89c8b10b6b6823bf35229c677218123973f43337bb12ca433dcc1d39258ba4",
+      "story": "9eab8f1af7c95be70fadf1bc32af8800841dadbd9f1e3a19783b87eaae307ff2",
+      "stillThere": "6f3e539833f91c28b7223eb08606dd23d3843c1d5c9b931735f30490b910b2b4",
+      "thenNow": "d4f80977f503cea67b714061e1cecbc92d1d531806f1521ef649db3492b2d29d",
+      "progression": "358bb9e14335d8dfb48d041fa3feb9ad634b66b97d1066518e441e3363871805",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "e8486d1a134389f5a5113587c1d588a166651d6986072a404c28d5268dbe085f"
+    },
+    "warning": {
+      "value": "No camp visit is authorized.",
+      "from": [
+        "access[1]",
+        "access[2]"
+      ]
+    },
+    "reading": true,
+    "voices": [
+      "“Money was hard to come by.”"
+    ],
+    "reviewDigest": "f589dcfb9eedaae78cb62303cac85da57786deb2648d41b03a136e63ab57f373"
+  },
+  "AZ-prescott-women-preservation": {
+    "rows": {
+      "go": {
+        "value": "Sharlot Hall Museum",
+        "from": [
+          "locator.stableName"
+        ]
+      },
+      "address": {
+        "value": "415 West Gurley Street, Prescott, AZ 86301",
+        "from": [
+          "locator.extra.Printed public museum locator"
+        ]
+      },
+      "hours": {
+        "value": "October–April, Tuesday–Saturday 10 a.m.–4 p.m., Sunday noon–4 p.m. Christmas Eve and New Year’s Eve close at 1 p.m.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "admission": {
+        "value": "$17 adult · $15 ages 65+, military, veterans and first responders · $9 college students with ID and ages 10–17 · ages 9 and under free. Valid two consecutive days.",
+        "from": [
+          "access[2]"
+        ]
+      },
+      "phone": {
+        "value": "928-445-3122 ext. 0",
+        "from": [
+          "access[2]"
+        ]
+      },
+      "website": {
+        "value": "https://sharlothallmuseum.org/hours-and-admission/",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "closed": {
+        "value": "Mondays (October–April), Thanksgiving, Christmas and New Year’s Day",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "research": {
+        "value": "Research Center, 115 McCormick Street, Prescott. Call 928-277-2003 to confirm archival appointments.",
+        "from": [
+          "access[3]"
+        ]
+      },
+      "check": {
+        "value": "The hours page requires appointments. The FAQ prefers them for research and allows walk-in book browsing.",
+        "from": [
+          "access[3]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.stableName": "6e389db00048e57f7b5ea37ba4cb9ba12dcd651b914f17dfa051047330eacdc7",
+      "locator.extra.Printed public museum locator": "8d3ef9d0bc907388a6ce04d39421d9eaf8346daebd3a5bda7ad29954f8fb355f",
+      "access[1]": "e7e8d5c876e7de487dd1dadd0b34f5004ae7f0249fa042b5dcc926a7acbc52b2",
+      "access[2]": "cba5d2524b55b1f923f935e1f3d41fc22e96cc017b1e98eba7c0b6c0ce3c3c91",
+      "sources[1]": "932f4620ab1f5f5da98fe97a1a39f24541ac63334c2395aac4fba508787b3cfd",
+      "access[3]": "d5d9e9348f7e52d4db691d7f2a0d810d9728cfaea636cb2d51fe7b1febe734ce",
+      "story": "a17d03db79520f639feedc52cc4c8378ff21dfe266b7e5ab17a098d2b4ee87d6",
+      "stillThere": "ea7a645fc11a861ac1b00b2cde06789c71198c2b80ad76ae4cd7dd4feedcdebc",
+      "thenNow": "014bfb9766022d553eb119137c401f7e0783b6c2158222f470aac8fb830ad47f",
+      "progression": "0498fbd17d9da16b785bd5d6727f4341d1acd93ca6a1643d7ca4df464037fbbe",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "c51a4d4f7e4e8b34bcfe8c159370b66e31ad61d57e7bd31f6e4b4aababbf29e0"
+    },
+    "voices": [
+      "“And I'm happy to share whatever I know.”"
+    ],
+    "reviewDigest": "dff80ed62ee0113226167327fd9228cccf53fd8abaa0bbb3178a9f49df542429"
+  },
+  "AZ-salt-river-pima-maricopa-public-history": {
+    "rows": {
+      "go": {
+        "value": "Huhugam Ki: Museum",
+        "from": [
+          "locator.stableName"
+        ]
+      },
+      "address": {
+        "value": "10005 E. Osborn Road, Scottsdale, AZ 85256",
+        "from": [
+          "locator.address"
+        ]
+      },
+      "hours": {
+        "value": "Monday–Friday, 9:30 a.m.–4:30 p.m. Confirm reopening after the October 2026 inventory closure.",
+        "from": [
+          "access[1]",
+          "access[2]"
+        ]
+      },
+      "admission": {
+        "value": "Free",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://srpmic-nsn.gov/government/culturalresources/hhkm/",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "closed": {
+        "value": "Federal and Tribal holidays",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Public indoor gallery only. Guided tours require a request two weeks ahead.",
+        "from": [
+          "access[3]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.stableName": "51eaa6b3e43fb717a45e219d217f816622609e55d732c97c592fc43afa946594",
+      "locator.address": "8ab568c560d046402374648763776767cb9b247770d06a58abb0b54b368f3ca5",
+      "access[1]": "988df3f97b9b2739802c447f1b60d87b653b02d99c0a85792f29f229ac409d44",
+      "access[2]": "54273b65bcc677fe0a5aeaf226c3e35a73a10e004e3635b86bdb2a1d5fcaeb69",
+      "sources[1]": "2f9e450b1a0eaab8e72e450e0343ea87765b87766be03949b4da788e75538f63",
+      "access[3]": "e44436f701ca49be9ff1219d6f47af236ddb6d07045206f7aa894530d5770a3c",
+      "story": "88389e9267e11503d6dbda00c3a62ecbe45bb58ce7d9180b5fd472ed1bfc2e9c",
+      "stillThere": "80359d4fcdc29be259c539a4b0bf07f4c70003cac2ffdb6b812762ccb153fac4",
+      "thenNow": "79c8be4cc50e94b59b1dc233fba9bccea071e8955871e2b30e3874ad745b7a39",
+      "progression": "e15deb7d7e2c5d54e21c827541b8aab3d4f22be529cc97bdc7344cd239ecd4d2",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "31553f0b51720b953f93cd0adeb508ad424b27b0a916646cbfb319122e5e6687"
+    },
+    "voices": [
+      "“We’re the indigenous people of this area”",
+      "“The people who built this knew what they were doing”"
+    ],
+    "reviewDigest": "6fa4215c24a5560c82aab9e2da1da57b8d0677f5d11af77071796817875d96ba"
+  },
+  "AZ-tohono-oodham-public-history": {
+    "rows": {
+      "go": {
+        "value": "No visitable ground — reading entry",
+        "from": [
+          "access[1]",
+          "access[4]"
+        ]
+      },
+      "website": {
+        "value": "https://www.tonation-nsn.gov/departments/natural-resources/cultural-center-museum/",
+        "from": [
+          "sources[1]"
+        ]
+      }
+    },
+    "evidence": {
+      "access[1]": "4b4d122982f0772c4e5d4ebc532f13bc5e0e005f697d6d0d115b6b63042b95af",
+      "access[2]": "f1b9f4f70ce692d942c529e80c44bab6d2c10405f166b21d77398a82947419a7",
+      "access[4]": "61675eb9768c138f9ef1b6476f4a6cc88c490b90329bdcc4183ed7907e560607",
+      "sources[1]": "b2ce1637c607ff94d99121b53f6c21dd2db9b8300cbc13a69c9257fbfb1fe276",
+      "story": "deb3b15b4acb5d5e19773872ab219f09ce90b58f17eeca9f694ee9a88c5aa86c",
+      "stillThere": "e06be72b3e08c1da681f993680ce5309da4c19ae8ba4bebe0ec7f9c765d936fe",
+      "thenNow": "76250c8b027be5a59e49f6b673d3ddfc5f0a04ac08f93ad97cb3c6f654f9d04a",
+      "progression": "14cd7fe9565d7034b1da064a627f0eb2b20c8020350ab7f0dfb49ec92e57aab4",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "02e8da1dead929a4a16fba3fb6d80d5e5b17eff441edbfe5a6061271fa725a89"
+    },
+    "warning": {
+      "value": "Public museum access is unverified.",
+      "from": [
+        "access[1]",
+        "access[2]"
+      ]
+    },
+    "reading": true,
+    "voices": [
+      "“we are taught not to bother them, to leave them alone.”"
+    ],
+    "reviewDigest": "0f2d2e4c63737d189a02c541095cc35cae3c85819b794374e4f986024148fece"
+  },
+  "AZ-tubac-print-workers": {
+    "rows": {
+      "go": {
+        "value": "Tubac Presidio State Historic Park and Museum",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      },
+      "address": {
+        "value": "1 Burruel Street, Tubac, AZ 85646",
+        "from": [
+          "locator.address"
+        ]
+      },
+      "hours": {
+        "value": "Tuesday–Sunday, 9 a.m.–3 p.m. Last entry 2 p.m.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "admission": {
+        "value": "$10 age 14+ · $3 ages 7–13 · ages 0–6 free",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://www.tubacpresidio.org/visit",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "closed": {
+        "value": "Mondays, Thanksgiving, Christmas and New Year’s Day",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Official visitor entrance only. No entry through The Barrio neighborhood.",
+        "from": [
+          "access[2]"
+        ]
+      },
+      "accessibility": {
+        "value": "Buildings, sidewalks and restrooms wheelchair accessible. Underground exhibit by stairs only. Staff offer photos and artifacts as an alternative.",
+        "from": [
+          "access[2]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.extra.Public anchor": "9ec25541e7d0b1b6db8a7d85ba2868b23b097e9268bb8156d9dd2c731703cbd1",
+      "locator.address": "4b1b1562e1aa6c8416354f6d635401dadfb92f65868c4b258ed24791a170582a",
+      "access[1]": "adcc2e5542a5a4cb7c3a551196598d3b5d872abfb093d86ca80ffe5e15be5723",
+      "sources[1]": "1fae6edf69630f4097d50a724c564b93e446eec5ba6d8bab8d5d8d9cd5b36283",
+      "access[2]": "25586c0c69c40c7d365c6da77a29779207e74cd304784db72f5c7af5d626570e",
+      "story": "296a2bd135f9dfd141310f1590816baf0af6de75e274e862900de4c0ebbbc70e",
+      "stillThere": "d061a297d42b2f8ce0e7ccf85a9e9d8d17bc4c43a2797b7e4ee729eea23b3c4b",
+      "thenNow": "99f26bba22d747c24cc78263c9da0c7f4deeb0bc8e41bed64cd3331e29b5b822",
+      "progression": "8a402724fd4ba60d5bb626ad7e17d7941dda2fe3e38798d9e5767e430a725e4e",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "98cf813faba2e8d469a3bd87c535a56c17e392fedafc3afac4a42a25c5668fb8"
+    },
+    "reviewDigest": "e10a10e883711da04e774a298ffeba60d61c91a82653d190e6e0c0adae8738d1"
+  },
+  "AZ-tucson-barrio-preservation": {
+    "rows": {
+      "go": {
+        "value": "La Casa Cordova, Tucson Museum of Art",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      },
+      "hours": {
+        "value": "Exhibition Thursday–Sunday, 10 a.m.–5 p.m. Confirm holiday opening.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://www.tucsonmuseumofart.org/exhibition/tucsons-changing-landscape/",
+        "from": [
+          "sources[9]"
+        ]
+      },
+      "boundary": {
+        "value": "La Casa Cordova exhibition only.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "research": {
+        "value": "Arizona Historical Society archives by appointment, separate from La Casa Cordova.",
+        "from": [
+          "access[1]"
+        ]
+      }
+    },
+    "evidence": {
+      "access[1]": "6f8987a3dfe28fe8cc53ebdac7040bf5e3f76ee7af84424b12ea75456a9f8636",
+      "locator.extra.Public anchor": "15e0ca265e92733ae29b116bfa37cc3bf61d31697962de31b1913e62969fbf01",
+      "sources[9]": "7bc9886955eeb0d66b367205fee742364b61bdd622e7e19c5c04d8956af5121a",
+      "story": "8c94a9debcb17461dfbc84e1fed11797b01789ec59f5ed06bd1169480dd836f1",
+      "stillThere": "978ec1307fcb1ebcabc17717173a1ad13e2ab4d319e3c90947ade324a9a22705",
+      "thenNow": "2c1a258c8cbc60ffaec07b0253277553f57772093b8db9905ebfea292e3c16cd",
+      "progression": "67b856e7c1516772b48a84c21e4a6e3fa87d33e688fe46c55af571bcd5b82a46",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "7134a35bad6764e67aae4375fdee333fe11962031b2bc00a1ff6ad8879e53e73",
+      "access": "6f8987a3dfe28fe8cc53ebdac7040bf5e3f76ee7af84424b12ea75456a9f8636"
+    },
+    "warning": {
+      "value": "Only La Casa Cordova is a public stop here.",
+      "from": [
+        "access[1]",
+        "locator.extra.Public anchor"
+      ]
+    },
+    "voices": [
+      "“The freeway became an obstacle as well as a barrier.”",
+      "“My parents were both born in this Barrio here, sometimes referred to as Barrio Viejo.”"
+    ],
+    "reviewDigest": "918a214f56d2e276c0525d65bb8f273738a549b07200dae68d648c1ad1c9782e"
+  },
+  "AZ-tucson-chinese-grocers": {
+    "rows": {
+      "go": {
+        "value": "Tucson Chinese Cultural Center",
+        "from": [
+          "locator.stableName"
+        ]
+      },
+      "address": {
+        "value": "1288 West River Road, Tucson, AZ 85704",
+        "from": [
+          "locator.extra.Printed public institutional locator"
+        ]
+      },
+      "hours": {
+        "value": "Thursday 9 a.m.–2 p.m. and Sunday 9 a.m.–6 p.m., subject to change",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "admission": {
+        "value": "Grocery-store exhibit free whenever the center is open.",
+        "from": [
+          "access[2]"
+        ]
+      },
+      "phone": {
+        "value": "520-292-6900",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://www.tucsonchinese.org/",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Public exhibit only. Other rooms and community programs are outside the visit.",
+        "from": [
+          "access[2]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.stableName": "ad397b2b4afd606048be6bf3f21fdd47c29dc69fca366a20985628bd38b77bb8",
+      "locator.extra.Printed public institutional locator": "3588daeb10b4367bef09815641b6099b1f8c9db87e4cd3e6f94bc98045b52b7b",
+      "access[1]": "1ba28873071f3518b5d99a89e4cde034b5cf4c64bc475e043dceb76f27b809ba",
+      "access[2]": "1f6e901fbdae9eb51cdc817786d9d801c2d4e4c3e3e1f03a3a2c13b5b8101feb",
+      "sources[1]": "4702ba3dc9ac8b4635b3dbd2ba0de0430ed3c211f5c4cea502e1d8b09af9288b",
+      "story": "b3f14d7936295d2356ac45004242205069c9fc61dee702df24f00ffff250b366",
+      "stillThere": "1532aa7bc3e432d845b4639f896acbb5c8e094c9e45c3b9f16ab4893cdcd8b20",
+      "thenNow": "6c9d88e256830ce3f567677d07f9ddfe414061f9bcf34b0753236a326a3975db",
+      "progression": "fe7eff4a75f4e19f583da34f53c014faaab2b5c683097969dbd6136219fc98fa",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "7efa6d543d3a4b110284a229d5117e5b33589e6b49a231aabc939e0a80eddd51"
+    },
+    "voices": [
+      "“the imperfect black lettering is my doing.”"
+    ],
+    "reviewDigest": "ed8be3db76fbe4a83473f32b4711472f9a6b63822463f32c84aed1cca84c86d8"
+  },
+  "AZ-tucson-civilian-aviation-workers": {
+    "rows": {
+      "go": {
+        "value": "Pima Air & Space Museum",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      },
+      "address": {
+        "value": "6000 E Valencia Rd, Tucson, AZ 85756",
+        "from": [
+          "locator.address"
+        ]
+      },
+      "hours": {
+        "value": "October–May, daily 9 a.m.–5 p.m., last admission 3 p.m. Christmas Eve 9 a.m.–3 p.m., last admission 1:30 p.m.",
+        "from": [
+          "access[1]",
+          "access[2]"
+        ]
+      },
+      "website": {
+        "value": "https://pimaair.org/plan-your-visit/direction-and-hours-of-operation/",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "closed": {
+        "value": "Thanksgiving and Christmas Day",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Public museum areas only. No airfield, apron or working airport.",
+        "from": [
+          "access[1]",
+          "access[4]"
+        ]
+      },
+      "accessibility": {
+        "value": "Accessible buildings. Some outdoor ground is loose sand. No loan or rental wheelchairs or scooters.",
+        "from": [
+          "access[2]",
+          "access[3]"
+        ]
+      },
+      "check": {
+        "value": "The winter schedule gives a 5 p.m. closing. The visitor page footer gives a 3 p.m. closing.",
+        "from": [
+          "access[1]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.extra.Public anchor": "823a12fff01c4ca9c965638231106541efcb4cccb31eebde8dbb4f7f7b332528",
+      "locator.address": "23853be3cabef45c2139cc33c9479c749d333d9c33a8d9fd226836d5c24d0257",
+      "access[1]": "0ab50836b2f2815b2100488721e50bd57f6bedce6a0ed16e5e83d045abb7b59d",
+      "access[2]": "4ea4c19054fd21328d8c6942277efaabda318c461e648a7c3f6eb4ba4720d315",
+      "sources[1]": "24fb9be3cf6ed016b38e6e670a6074b682b15c5b00834e262150beb8cdc8d8f7",
+      "access[4]": "ab4f2cfb03e1a47ec0d6ee078ac0c6c32fa77d66f21435bfb19846b417ee8a8f",
+      "access[3]": "1163de06b3b210dfa9a75b0880ac6133037b752977137dc56bd030ded4fe78db",
+      "story": "52a3fdcf3fb280cf40520937502fc09f2735b5b15522f65ad269d817aaef3cde",
+      "stillThere": "accc05b1311c5c6b30515c3689e74a16cdeda38817d1ff471574e7923bc36128",
+      "thenNow": "a2f0ff7178b5dd7084d2aa9ebf7dffc9747f07c281faf26eb61eac789ae5ca2b",
+      "progression": "245f0b11d1c6ba48d24b315d75c64924cbc6bb4aeeefbdb98125f2dd96b8bb06",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "48383a9b3ef2c475ec0aafcbf517cbd544ac1050e71ceff460b28b9b3d865697"
+    },
+    "voices": [
+      "“It's not just being a pilot.”"
+    ],
+    "reviewDigest": "54cac8c68b739f50ff294fbdf8ff07c1b96da659039b25522d607118fe59170f"
+  },
+  "AZ-winslow-rail-hospitality": {
+    "rows": {
+      "go": {
+        "value": "Old Trails Museum",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      },
+      "hours": {
+        "value": "Tuesday–Saturday, 11 a.m.–3 p.m.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://oldtrailsmuseum.org/visit/",
+        "from": [
+          "sources[2]"
+        ]
+      },
+      "closed": {
+        "value": "November 21, November 26–28 and December 25–January 1 (2026–27 schedule)",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Museum interior only. No hotel, depot or railway access.",
+        "from": [
+          "access[1]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.extra.Public anchor": "5aba60660c4ec6edaa8991191f5705e94a326e64b235226cb406dfa931f11e5c",
+      "access[1]": "ed7843aa306181b1b0a9d1f58a5f7d52fb6fec3bd2efc54eaccc76df74a4a831",
+      "sources[2]": "b45ea31995f591c461c633b10c37b7c709bbea5456cc830c259c819938f235b4",
+      "story": "efffa234956a0b3b80983230e7aae6654d7908d07a005f745a1940e63815656c",
+      "stillThere": "1f86770837653f67afba8c0158e02f32297347487d4812be4a75fe82fd1b885a",
+      "thenNow": "c5735f78277695a172243e05ffa0df82fcb7cd581cbf8eec617d8bf08d9cabf3",
+      "progression": "e33ddfabd0bb3cc95abbe2293b635373dff9b05a6b16bd8c4b52edceaa3f6026",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "4281f42cce6f8d262f71d3111ed9070b2f77ebb1d4dd40ca418b7533106479b7",
+      "access": "ed7843aa306181b1b0a9d1f58a5f7d52fb6fec3bd2efc54eaccc76df74a4a831"
+    },
+    "warning": {
+      "value": "Holiday closures include November 21, 2026.",
+      "from": [
+        "access[1]"
+      ]
+    },
+    "voices": [
+      "“I preferred the two to ten.”"
+    ],
+    "reviewDigest": "b0c99ff3d38853cf596faa172e37336d743dd941a4d58a155bf70f219e650e26"
+  },
+  "AZ-yuma-river-crossing-workers": {
+    "rows": {
+      "go": {
+        "value": "Colorado River State Historic Park public museum",
+        "from": [
+          "locator.stableName"
+        ]
+      },
+      "address": {
+        "value": "201 N. 4th Avenue, Yuma, AZ 85364",
+        "from": [
+          "locator.address"
+        ]
+      },
+      "hours": {
+        "value": "October 1–May 31, Tuesday–Sunday 9 a.m.–4:30 p.m.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://www.coloradoriverpark.com/general-information.html",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "closed": {
+        "value": "Mondays (October 1–May 31)",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Public museum only. No riverbank, former ferry landing or water infrastructure.",
+        "from": [
+          "access[1]",
+          "access[3]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.stableName": "6a8b964ac51557667655b0606441a9f194a2ae37e5a9a40d53ca9419bccb9986",
+      "locator.address": "7f8a0e682e4f3b44d21be98057971db9a69cb730f4d565370bccd88dc0692ebf",
+      "access[1]": "dd992beabef1df430a1523eeabc1f62528d47043392394edd660c325bb025245",
+      "sources[1]": "dd0e2fd5fe2edde40ecc4724babcc4af27b3c942c9625794cad3bbb334f1a677",
+      "access[3]": "1f8aed1fb8430165d95ed4062aa39e762b06250f74b1d290a9816500d5763203",
+      "story": "d6d93ea9aeb294780dfbfb540397e82e8236b3f15101a9a61403b0c4bcab4c33",
+      "stillThere": "001e8fd22d07cd4babd174f7cb7ccf085aca1acfdb46a3cdd581b1b23f124c3f",
+      "thenNow": "eedf87161e964f8d8b0236671855956e9a107ba2377ed86d4d04a25bc13f5422",
+      "progression": "57918f6cc6f1b03239bdefcb4ef148b83b04056fc547b47b454e5c26b0aa124e",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "5b76fed5069ad35705b49cd39df75c9ec0ebd752c7f5dd13cc1e772051a63a32"
+    },
+    "voices": [
+      "“the labor ... is by no means small”"
+    ],
+    "reviewDigest": "557eb8f2c6552c5aeb46b496e23ae12948652f958d83390195d4262ace81a7bf"
+  },
+  "ID-bovill": {
+    "rows": {
+      "go": {
+        "value": "Bovill main street, Idaho",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.extra.Public anchor": "f8782eaeed6741fba44f973f32495fb419666a7efe5838bd3dd84c0a58d8cc8c",
+      "story": "5ecfab32fd0352fa53b3c1df2435243b5583f27c173370756ea57f19694b17d9",
+      "stillThere": "d6a59f1ad931704becb6d35c158d1e15ee2f6dbd4edf35d1549c95ca30bb0627",
+      "thenNow": "7e2bcd635c7906957ca28f1467ef0b30fa69258abe9d5f94ca87cce5553d7d61",
+      "progression": "f5761d231e1ac9e69cd9354066e6fa3129727d3fe1095981de0e86233c6fd92c",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "f401bd229a07abe13cc4a63e0cf43d16874a38a4b4af0fbd8f5b3edb0e2b7e81",
+      "access": "a3a140f26d25dc8a9930b40c654ba58f296d9257bdcec7f4fb0af7ab8f9bf2bf"
+    },
+    "voices": [
+      "“Bovill was primarily a town that was set up to move logs.”",
+      "“there was none of it that equalled that stands that were around Bovill.”",
+      "“when the very hard logging of the prime timber in the near vicinity of Bovill was finished.”"
+    ],
+    "reviewDigest": "251bd42b7a463f2fa0be6cd2f6332a6a9d85cf1ae69e4fe8bc91f675d5b6ada8"
+  },
+  "ID-burke": {
+    "rows": {
+      "go": {
+        "value": "Burke’s public street, State Highway 4, Idaho",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      },
+      "boundary": {
+        "value": "Public street only. Respect postings and stay outside the structures.",
+        "from": [
+          "locator.extra.Visitor boundary"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.extra.Public anchor": "69d43a3483104c8d61b46c3a1db8e02142895f91b1b7482bdd6febde26e00366",
+      "access[1]": "d2a21371124aa674eb0c45b12eb5f11af744ec9de8f6f359c6d3f6e1d4b288ea",
+      "locator.extra.Visitor boundary": "c86a00698752843dd9c0acc3c76b09ffaae761f4a24b878ad5d8159f90d5fb52",
+      "story": "f25d056589f36c46f500487815835185da30a99d334f3b6d9b36cd17ecd7d299",
+      "stillThere": "e457ac10179034f5790fdb4a7fd1439cc165ae883b5eb67e540cd3eff2a64495",
+      "thenNow": "a53909d76cb8cd25768ca016488da8f02ff9182a712ac5b0d23928af35659216",
+      "progression": "668a53212ce65a55316a4e8034211acfe621d1c1d20fb1d55f76ef442bf7db24",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "c8091b945598b7d82a51b4e518ee6be2d9b5b29f7c82a5f343b04b4e931cbec9",
+      "access": "d2a21371124aa674eb0c45b12eb5f11af744ec9de8f6f359c6d3f6e1d4b288ea"
+    },
+    "warning": {
+      "value": "Stay on the public street at Burke.",
+      "from": [
+        "access[1]"
+      ]
+    },
+    "voices": [
+      "“only heavy sleepers were put in the rooms above the railroad tracks.”"
+    ],
+    "reviewDigest": "460df679e462e6707448d1baa7f98d59cefe9780e3ec0b5fa0db7d9848944834"
+  },
+  "ID-city-of-rocks-california-trail": {
+    "rows": {
+      "go": {
+        "value": "City of Rocks National Reserve, Register Rock and Camp Rock",
+        "from": [
+          "locator.stableName"
+        ]
+      },
+      "hours": {
+        "value": "Reserve year-round. Visitor center Tuesday–Saturday, 8 a.m.–4:30 p.m., November 2026 to mid-April 2027.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "phone": {
+        "value": "208-824-5901 before proceeding beyond Almo",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://www.nps.gov/ciro/planyourvisit/conditions.htm",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "closed": {
+        "value": "Visitor center holidays during the published winter schedule",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Approach via Almo. Winter snow can make interior roads impassable.",
+        "from": [
+          "access[1]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.stableName": "681d61f8ad456443fedcc4ff4f5077b4ad608ea6fd11fe4f74c0e949699924e6",
+      "access[1]": "7b85417e32ba8f3744b8ce38533350b16d903218246fdf9a608d541926084c15",
+      "sources[1]": "74f1115b8cc59662213f5afeddab286f51eba7d3a5ce93f513589690673cb276",
+      "story": "c51bcbe5121c67361c2b14b871482a27ca0c9ab659f8aed013a6045eb0d67afb",
+      "stillThere": "177cc928dd52c92204438946c7e667507787ecf99005b4e99eaa5b6fc4192ee2",
+      "thenNow": "694aa5a41c348cc6a02044851fa36e8badb08b4cafd608360738e7baf91c8c69",
+      "progression": "17d966a8fefa86efc55b925fe91afbcd25cc574c95f405f5cd6c76b45cdc663d",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "7b85417e32ba8f3744b8ce38533350b16d903218246fdf9a608d541926084c15"
+    },
+    "voices": [
+      "“high cliffs of rocks resembling old ruins or dilapidated buildings.”"
+    ],
+    "reviewDigest": "f254f9779647f3bb13b2952647d5d449a0a931f2eba532a1844120abaf2168f0"
+  },
+  "ID-craters-of-the-moon": {
+    "rows": {
+      "go": {
+        "value": "Robert Limbert Visitor Center",
+        "from": [
+          "access[3]"
+        ]
+      },
+      "website": {
+        "value": "https://www.nps.gov/crmo/planyourvisit/conditions.htm",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "closed": {
+        "value": "All caves and vehicle access to Lava Flow Campground in the November 18, 2026 bulletin",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Signed park entrance off US 20/26/93 to the visitor center. Check the Loop Road gates and signs.",
+        "from": [
+          "access[2]",
+          "access[3]"
+        ]
+      }
+    },
+    "evidence": {
+      "access[1]": "4c4f62e551de2c6e8700bcb2b90f60dc8cd4ed8761208d4faf98f06039ac9359",
+      "access[3]": "fb4128c78f684c0aa5f2df80f47a16eaf315c5e2cd9d8f800017b66c5f609bcf",
+      "sources[1]": "0b32452f272b44cfcd23b8498e303c9692d2759beea44107fe1c209e991c79c5",
+      "access[2]": "2a5a74c80a248ab69e652ef13a89c6c2024bfcbcd2cb5e9a3149017c30dfa546",
+      "story": "e90f497d86a6e6fea874a836ed4fa8b2ef2401271f93e6e9cf8e2ec537fa0cdf",
+      "stillThere": "8f74b00e22db211ca98260bb7d0397f19183a663a76a91b0e7c68ba842055bf4",
+      "thenNow": "fe55cca14090c9de6b9c2c30a245c111a6f48632bc4c13a19c6cb5dc2c6ab88d",
+      "progression": "7d40620b746aa424f96d038a44810ea5bb67e824c7446f3fe90ef7752eb16bbd",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "36fb9d93fad10d398394417934e1ee138a495d814221fcd8dd174e747eae4e66"
+    },
+    "warning": {
+      "value": "The Nov. 18 bulletin closes all caves.",
+      "from": [
+        "access[1]"
+      ]
+    },
+    "voices": [
+      "“who we are and where they are.”",
+      "“from all America.”"
+    ],
+    "reviewDigest": "f23ba2666a19c4404f26f1b7251a466ae44ab2c42617ca0a3e42e221620d1a88"
+  },
+  "ID-idaho-city": {
+    "rows": {
+      "go": {
+        "value": "Idaho City historic district, public streets",
+        "from": [
+          "locator.stableName",
+          "access[2]"
+        ]
+      },
+      "hours": {
+        "value": "Boise Basin Museum 11 a.m.–4 p.m. daily Memorial Day–Labor Day, weekends in May and September. Pon Yam and Kenn Smith museums on special occasions only.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://www.idahocityhistoricalfoundation.org/?page_id=832",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "boundary": {
+        "value": "View building exteriors from public streets. District listing gives no access to yards or interiors.",
+        "from": [
+          "access[2]"
+        ]
+      },
+      "check": {
+        "value": "An undated listing says daily. The museum operator gives seasonal hours.",
+        "from": [
+          "access[1]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.stableName": "8dfd993b5f4054c58d7c5f4bcaccde0d833f5540179fee30b0a429877b0f0427",
+      "access[2]": "0929fa71e7680f07456aa53f7ce76455399c9aa5159f54f8a2bbf000dae0c156",
+      "access[1]": "1cb93843798100cf301395c3fe5b3b7753eaa6f8d8801e0d2064d67f28e1906c",
+      "sources[1]": "d30d5a73f3f4698430eb4c5f82ac6f9916a028266e35eb262806156b3b21c2d8",
+      "story": "f103845f864591b0377da2877b4b996ef0bc8b7539c7454ee0ac77f10f51ef92",
+      "stillThere": "87d6a3b719501a638981820297c1dfcd3a6bb466364313f570c53c511d324980",
+      "thenNow": "1420787ac93b4b8e5564588feacc9fb9bbe522a5dadffb46f4205e5e1b61dbfb",
+      "progression": "7b8e8a61f57937e300da044de6a8a6b86448396e4b049536990a4cb59e6028d0",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "7a375b1890916c108d81969c2939cb55659f744f7b77f3316d08e3816199feb2"
+    },
+    "voices": [
+      "“Pon Yam has alway contributed liberally and cheerfully.”",
+      "“The title to the land has never been relinquished,”"
+    ],
+    "reviewDigest": "632b16062274ec99cf8c8abfe8a595860ffb60c9dc39e3237ab5163493ea75e8"
+  },
+  "ID-nine-mile-cemetery": {
+    "rows": {
+      "go": {
+        "value": "Nine Mile Cemetery, outside Wallace, Idaho",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.extra.Public anchor": "19ffd431c0164da02e6d6cbacd376b5f7f25caf97af0b67c2ae15c95664d25f4",
+      "story": "b76613c9333d30a7c1a9e1f8294c66e7fd94e04d827f060382012fa67eb339ed",
+      "stillThere": "41ced269d9c76b7549142c30d3566be8cd11b95b71f254361cd08a14e78d3817",
+      "thenNow": "70b248a6f2644a0a9e4c241f5772ffbd1673631672392c0b5af6f1a0461e1e3f",
+      "progression": "d4173c2a6eb104fb8a58615b45f80fdc8003896bed999a78c6949ac529656b24",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "d5b720f33eeff7e50c09ee66d39094a21b71171c7577a2ef3eecf72d8927cfaf",
+      "access": "118bea4c1e4677bccefe8ae2fa0fafd6b8dcf2def7b5929485e3bd36fcc3ecfe"
+    },
+    "voices": [
+      "“I was blind and my hands were burned… My experience left me with poor eyes, weak lungs, and throat; but, thank God, I am not now blind.”"
+    ],
+    "reviewDigest": "bcf799b1549dec6b13889e4896f3fac012fdc649a0726b3a9b959360ad0ddb11"
+  },
+  "ID-pulaski-tunnel-trail": {
+    "rows": {
+      "go": {
+        "value": "Pulaski Tunnel Trailhead, south of Wallace, Idaho",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      },
+      "website": {
+        "value": "https://www.fs.usda.gov/r01/idahopanhandle/recreation/trails/pulaski-tunnel-trail",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Trail No. 38, two miles each way to the overlook. View the adit from across the creek.",
+        "from": [
+          "access[1]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.extra.Public anchor": "e7a665511d4f42102fe3f8ccc2c97764f0e4877b2efa427975941ca3fe91d1e0",
+      "sources[1]": "81f98c51a81c4887f9e1314e0b30eb118a2f6f793a36c72f083ce3fed69e9717",
+      "access[1]": "998795bc7d2240a9513cc0e8e1329ea992bb192a17b70723a27e8ed11f14e296",
+      "locator.extra.Visitor boundary": "8de8d90ce0a0a455cc3102c7c7faccfe3ccd5eada6061ea60b41d51619aaa6f8",
+      "story": "af66fd2f15e6af2bb2b180d314964561850966fdd784f79b496186706af36d8a",
+      "stillThere": "ba8864168f2500c4e491e2817efad8bf408dd183d62d21473a5f23eb4b870e2d",
+      "thenNow": "ffa014128dcae1ee4d564fbb79225b87ac5b7fdfd784c50f53f93618540c33ad",
+      "progression": "cadfed65a2c0c9c30c1b412202447ff7b253fe40cb561a01162f57a2a67cfbd2",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "729b94f002f12f94ff85a5637cacf17d5de58854d67db51635cc6b19a6d1e69c",
+      "access": "998795bc7d2240a9513cc0e8e1329ea992bb192a17b70723a27e8ed11f14e296"
+    },
+    "warning": {
+      "value": "View the tunnel from the overlook only.",
+      "from": [
+        "locator.extra.Visitor boundary"
+      ]
+    },
+    "voices": [
+      "“For weeks there had been no rain and the woods were drier than I had ever seen them.”",
+      "“a terrific hurricane”",
+      "“my one hope was to reach an old mine tunnel which I knew to be not far from us. We raced for it.”",
+      "“I drew my revolver and said, ‘The first man who tries to leave this tunnel I will shoot.’ I did not have to use my gun.”",
+      "“Come outside boys, the boss is dead.”",
+      "“Like hell he is.”"
+    ],
+    "reviewDigest": "b2e90be7a759c1ee45406c8f66944a40444ce8860c4b3bc201cee616a685d3b8"
+  },
+  "ID-sunshine-miners-memorial": {
+    "rows": {
+      "go": {
+        "value": "Sunshine Miners Memorial, mouth of Big Creek Canyon, near Kellogg",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      },
+      "boundary": {
+        "value": "Roadside memorial only.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "parking": {
+        "value": "Park clear of the highway.",
+        "from": [
+          "access[1]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.extra.Public anchor": "10ad24edc19e4a236c42075cf89b2b426ff7568bda1c9bdf1ccf1c2877d77c27",
+      "access[1]": "5d84394a468b75daed5a4d7c45e3b3a40f6fe2850ea6f898b98822841d59c34f",
+      "story": "199fb35754e598d9696ec62dcd2a4ae757e5d161e9f697a02681d044781a8173",
+      "stillThere": "61df5fec460b5436bf47caa6e80ec187dfd6c764143c70a99393672ddd2bce30",
+      "thenNow": "0cfdf76d5dde3a5ccc65e8cd0da972a7e1360b033b58a167ff28b28d443ffbf3",
+      "progression": "15ff4e24084d0fd1c2b6dedf2d25715c05b125322057d49e07db6ebb96010442",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "448a305dac1d136d73a17539151cd8b9e0df0496bcf5ce9f22bad6ccc73c5540",
+      "access": "5d84394a468b75daed5a4d7c45e3b3a40f6fe2850ea6f898b98822841d59c34f"
+    },
+    "warning": {
+      "value": "The mine is closed and private.",
+      "from": [
+        "access[1]"
+      ]
+    },
+    "reviewDigest": "95df44d18f4660ce3a9f2cbc038986c914055b1b1244622597601a041656b685"
+  },
+  "ID-three-island-crossing": {
+    "rows": {
+      "go": {
+        "value": "Three Island Crossing State Park",
+        "from": [
+          "locator.stableName"
+        ]
+      },
+      "address": {
+        "value": "1083 S. Three Island Park Drive, Glenns Ferry",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "hours": {
+        "value": "Oregon Trail History Center Tuesday–Saturday, 9 a.m.–4 p.m. Park closes at sunset. Mountain Time.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "admission": {
+        "value": "Motor-vehicle entrance $7",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "website": {
+        "value": "https://parksandrecreation.idaho.gov/state-park/three-island-crossing-state-park/",
+        "from": [
+          "sources[1]"
+        ]
+      },
+      "closed": {
+        "value": "History Center holidays. Cottonwood and Sage cabins November–mid-March.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Observe from land only. No wading, island crossing, boat launch or private-road approach.",
+        "from": [
+          "access[2]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.stableName": "2774d0d446eb388f494c72bda8c17c1075378f1dbce9a88b3c45ecc63486d859",
+      "access[1]": "122fb375826055120003273d6a7d0ec314ae5e215bd4dbcb0e75d4755cad521a",
+      "sources[1]": "f2fcf8538348b69ab3cf0a6af1cce86c4a17932a0e0077b674ffb2c6823aabf9",
+      "access[2]": "06606684171151be5ba904e03e397381e7560d542373cbf6741705713115ae17",
+      "story": "27d7cfdd3a8d1b19f5f54b4b73d5498cfcdf49105f11b08105025e0fb99bcf1d",
+      "stillThere": "26c65626571b1bccc66e7e6557dfd08b8698eb64f2ea12723e56ac0c14a4fd0f",
+      "thenNow": "9beb8eff4f14cd7fe397a94a5e5f8191aa675cb4d15c1c922cd2e80c2f351a7b",
+      "progression": "52b9dab07d05509e91190291a4eb8c54c3814e510ed14da0ffd9c2a1293b9309",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "db3d69a2ebfd8d50bb3b2e1d4b3ef7ee16c258c90c9abe2df385ef342dbbd477"
+    },
+    "voices": [
+      "“is quite deep and runs verry swift.”"
+    ],
+    "reviewDigest": "36f841d433f7b2aac05284cd30e14c14dcc909649320cf4dbe47f26496f233bc"
+  },
+  "ID-wallace-brick-core": {
+    "rows": {
+      "go": {
+        "value": "Northern Pacific Depot Museum and downtown Wallace brick blocks",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.extra.Public anchor": "34a01b45d1517cb54c318e2afb642ba65ac8426379cf946ff1047a711cba280e",
+      "story": "db726bdc857af56fd1da8f8c18f76c871c9b3c40882c70557a7be899c4168069",
+      "stillThere": "8eb8bb5bc30448675766380912b22a89fb77cef27829e2ea583681dd315fa9e2",
+      "thenNow": "9a8154f5c33e5c1cb696b78d1787deb9c065bf6da4593a2e743a3a97ec71d060",
+      "progression": "e7fded869d8a9e3ab1786791e83f64a46d15593bba161ec8c93d668bc0a033b6",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "cfbbbf84a5231c38d167437da3a88c3b10a66e2d3333bdf0515220f123a6e9bf",
+      "access": "0f7635449b7f3c171e81ba6e4659756186e6d4d779a877408cddb28c5fd980dd"
+    },
+    "voices": [
+      "“warm fog so opaque”"
+    ],
+    "reviewDigest": "c13fbca623c92fb37db60f8fdcca18452686c404bb2b0ef3e141c3ed630a04bf"
+  },
+  "st-joe-st-maries": {
+    "rows": {
+      "go": {
+        "value": "Woodlawn Cemetery and the St. Joe riverfront, St. Maries",
+        "from": [
+          "locator.extra.Public anchor"
+        ]
+      },
+      "hours": {
+        "value": "Woodlawn Cemetery, daylight",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "closed": {
+        "value": "Beyond Avery, the unplowed scenic byway may close in snow, roughly November–May.",
+        "from": [
+          "access[1]"
+        ]
+      },
+      "boundary": {
+        "value": "Woodlawn Cemetery paths and public riverfront. Watch working river traffic from shore or public ramps.",
+        "from": [
+          "access[1]"
+        ]
+      }
+    },
+    "evidence": {
+      "locator.extra.Public anchor": "ebbae918d5b3ab53439f12f4d61764719f0a47da1be94128cf3f2f6374525f6e",
+      "access[1]": "f8648d485f10a7063cc374e3409cf69e9035e808cadd6649aca3a039f8e361fd",
+      "story": "026fc212212099d480c07ba9fba10366dfa2a59b30f362c783ad07ca5ee63142",
+      "stillThere": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "thenNow": "dcc1b63d397237ce24b87c83d5b9fcbbd3869c1df516daca25ed80a22979965e",
+      "progression": "946dcfee56ab3a69ca7ce7d4e90c40ba01aa857f1f79fbdef7b04c11bf203622",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "9bdd787ec6650863ee12b73f2d2bdf6792dde0edd8310c22e435759decf92a61",
+      "access": "f8648d485f10a7063cc374e3409cf69e9035e808cadd6649aca3a039f8e361fd"
+    },
+    "voices": [
+      "\"Its lower reaches at an altitude of 2,128 feet make it the highest navigable river in the world. On this working river, tug boats pull rafts or 'brailes' of logs to lumber mills in St. Maries and Coeur d'Alene. The tugs are living history, operating where paddle-wheelers once did.\"",
+      "\"the world's highest 'navigable' river by some definitions.\"",
+      "\"over 120 miles\"",
+      "\"a major distribution center for raw logs at the junction.\"",
+      "\"The rivers were the road: logs floated down to the mills and steamboats carried finished lumber out to market.\"",
+      "\"one of 15 built between 1915 and 1931 to flush logs down Marble Creek to the St. Joe River during spring drives\"",
+      "\"one of 5 on Marble Creek.\"",
+      "\"dumped in the river… they had dams here and there… they drove millions of them there, but after the railroad come in, you know, then the drives, that all quit.\"",
+      "\"built the incline\"",
+      "\"The last drive was in '26. Started in '26, got 'em out in '27… The river was only 20 or 30 inches deep at times, had a hell of a time getting them out. Took them two years to get the logs down here.\"",
+      "\"although numbers vary, it is believed that 85 people died in the fire and most were Forest Service firefighters.\"",
+      "\"chiseled to resemble a large flame,\"",
+      "\"is the final resting place for 58 men who perished fighting the 1910 fires\""
+    ],
+    "reviewDigest": "5b431eaeb88f9bbfb381b93d0e53f0add014551df56e652059b869fe55007982"
+  },
+  "UT-saltair-amusement-workers": {
+    "rows": {
+      "go": {
+        "value": "No visitable ground — reading entry",
+        "from": [
+          "access[1]",
+          "locator.extra.Public anchor"
+        ]
+      },
+      "boundary": {
+        "value": "No shoreline, former resort or modern event-venue visit.",
+        "from": [
+          "locator.extra.Visitor boundary"
+        ]
+      },
+      "research": {
+        "value": "Utah Historical Society Engagement Room, by appointment Monday and Wednesday, 9 a.m.–1 p.m. Collection access is limited during the move.",
+        "from": [
+          "access[2]"
+        ]
+      },
+      "website": {
+        "value": "https://history.utah.gov/library-collections/",
+        "from": [
+          "sources[2]"
+        ]
+      }
+    },
+    "evidence": {
+      "access[1]": "0d804948ab71a703350fefc9e01d7bfac9fe82cfd20781ad0bca25271a4757c5",
+      "locator.extra.Public anchor": "622193fb3a3241784a9220a29ca68ef94cd2ca610832e98c0edc6b53f73e6716",
+      "locator.extra.Visitor boundary": "e203895601517e38691bab25562fbabe439480daee6dfa50057b790071b7811e",
+      "access[2]": "99a8aea51a6eb89107d3bec713025b7403376b0e94c3b00d9e415dd9b907e6e5",
+      "sources[2]": "241e09ac8a2ef7c4aa1484a120a0733a6083d064b1b4a5a1517e2f55ed93b357",
+      "story": "200627a375db8e754c3c1e6ee74df1355c71907b50cb225d50ce92ae0c44297b",
+      "stillThere": "358b0cdd5a74b30a52c71c662d53374147f4bfbd6e45e9c787abde1d6b909162",
+      "thenNow": "e202cf90e2a6b61394cc17ac66c7ecf8d2fcf330a97691fc97d09970354061b9",
+      "progression": "883e1faefad9d3b077a3512bba7662b9ea465cf0da78554a3f6a92ee8de6f38c",
+      "lead": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "standfirst": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "access": "6ab1e5ecc981c24a4988ee5ae04cb737b88ff24f6eda1e73627d821684ec1bad"
+    },
+    "warning": {
+      "value": "No public Saltair history stop is verified.",
+      "from": [
+        "access[1]"
+      ]
+    },
+    "reading": true,
+    "voices": [
+      "“peddling popcorn and peanuts from a basket.”"
+    ],
+    "reviewDigest": "86e8ab4829540f9d555c9b2ed2b8a23b8f67afdde54f2800505b9c6c0956e0dc"
+  }
+}
