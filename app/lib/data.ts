@@ -5,6 +5,15 @@
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import { tiesFor, toV1, hasPoint, isPending, eraOf, libraryCounts } from "./maps-core.mjs";
+import {
+  indexCatalog,
+  resolveFind,
+  tierFor,
+  huntCounts,
+  isReflectionSite,
+  REFLECTION_SLUG_DENYLIST,
+  TIERS,
+} from "./hunts-core.mjs";
 
 export interface Locator {
   stableName: string;
@@ -699,49 +708,39 @@ export function getConnectedSites(site: Site, limit = 4): ConnectedSite[] {
 }
 
 // ---------------------------------------------------------------------------
-// HUNTS (Stage 1 of the game layer, Nov 20, 2026): the three founding hunts
-// with their find lists recovered verbatim from the original app's record
-// (the Nov 18, 2026 app's FINDS / FINDS2 / FINDS3 lists, identical in the
-// later app seed data). Records live in data/hunts.json, a hand-maintained
-// sidecar the converter does not generate — same pattern as tours.json.
+// HUNTS — data-driven (Nov 21, 2026 rebuild). Records live in
+// data/hunts.json (hand-maintained, desk-owned) and render against the
+// catalog (data/sites.json, regenerated from the corpus every build).
 //
-// ACTIVATION (owner's ruling, Nov 20, 2026): every hunt and every find in
-// this file is ACTIVE status — activated on the owner's word alone, with
-// no field check: the owner cannot be the feet for the whole catalog, and
-// activation no longer waits on one. The finds rest on the research
-// record; nothing here claims a find was field-verified. A tag is
-// witnessed by the player's own presence, and by their photo or position
-// only when the player chooses to give them at tag time. The hunts are
-// unscored (the Desk guide "the-game-law" states the rule). The original
-// app's quiz fields (question / options / answer key) are deliberately
-// NOT carried — this edition's game law has no question gates and no
-// answer keys; the tag is the visit itself, claimed through the entry
-// page's existing ClaimFind panel, and hunt progress derives from those
-// claims (see HuntProgress).
-//
-// A find names its ground (groundName / place, from the original app's own
-// site entries) and ties to a catalog entry only where this edition's
-// catalog actually has one for that ground (entrySlug). Where it does not,
-// entrySlug is null and the find is carried untied — listed on its hunt
-// page on its own text, like an unlinked tour stop — until the entry
-// exists. An untied find is NOT taggable (owner's ruling, Nov 20, 2026:
-// the hunts must have catalog entries — tagging happens only from a
-// catalog entry's page) and does not count toward its hunt's badge total;
-// the moment an entrySlug is set, it joins the hunt's progress
-// automatically. No tie is invented to fill the gap.
-//
-// Reflection ground is never part of a hunt: getHuntFindsForSite and
-// huntFindsForRender both drop any find tied to a reflection entry, so the
-// rule holds in code wherever finds are rendered, whatever the data says.
+// The rules live in lib/hunts-core.mjs, shared with the build-time check
+// (scripts/check-hunts.mjs):
+//   • A find is TIED when its entrySlug is a published catalog entry, or
+//     when exactly one published entry declares the find's appSite in its
+//     locator record (`App site: <id>`). Tying happens at build time — when
+//     the desk publishes the entry, the find lights up on the next build
+//     with no edit to hunts.json.
+//   • An untied find shows "catalog entry in preparation" and counts toward
+//     nothing — not the tied/total, not completion, not the badge.
+//   • Reflection ground never carries a find. A find that would tie to a
+//     reflection entry fails the build; at render it is never shown as tied.
+//   • The tier is computed from the tied finds' ground (rule written in
+//     lib/hunts-core.mjs), never hand-labelled per hunt.
+//   • Theme and region are data fields on each hunt; the theme vocabulary is
+//     data/hunt-themes.json — a new themed hunt is a data drop, not code.
+// No hunt copy is written here: every label, task, hint and ground name is
+// carried from hunts.json exactly as written.
 // ---------------------------------------------------------------------------
+
 export interface HuntFind {
   n: number;
-  /** Catalog entry this find is tagged on, or null when this edition's
-   *  catalog has no entry for the find's ground yet (carried untied). */
+  /** Catalog entry this find is tagged on, or null when no published entry
+   *  is named for the find's ground yet. */
   entrySlug: string | null;
-  /** The original app's site id for this find's ground. */
+  /** The original app's site id for this find's ground. A catalog entry
+   *  that declares this id (`App site:` in its locator) ties the find. */
   appSite: string;
-  /** The find's ground as the original app's own entry names it. */
+  /** Per-find ground key for resolving shared-appSite claims by ground. */
+  groundKey: string;
   groundName: string;
   place: string;
   /** The find's name — the label a claim records when it is tagged. */
@@ -757,17 +756,52 @@ export interface Hunt {
   name: string;
   ground: string;
   about: string;
-  /** The stamp-book badge this hunt's completion records, and its theme. */
   badge: string;
   badgeTheme: string;
+  /** The hunt's original descriptor (e.g. "Signature hunt") — printed as
+   *  written; the difficulty tier is computed separately. */
   tier: string;
+  /** Theme id from data/hunt-themes.json. */
+  theme: string;
+  /** Region name the tab groups by (within the state, computed). */
+  region: string;
   status: "active";
   finds: HuntFind[];
-  /** Reading in this edition's catalog behind the hunt (not finds). */
   related: { slug: string; label: string }[];
 }
 
+export interface HuntTheme {
+  id: string;
+  label: string;
+  mark: string;
+  stage: string;
+}
+
+export type FindTieStatus = "tied" | "untied" | "reflection" | "ambiguous";
+
+export interface ResolvedFind extends HuntFind {
+  tie: { status: FindTieStatus; slug: string | null; title: string | null; via: string };
+}
+
+export interface HuntTier {
+  n: 1 | 2 | 3 | 4 | null;
+  name: string;
+  plain: string;
+  reasons: string[];
+}
+
+export interface ResolvedHunt extends Hunt {
+  findsResolved: ResolvedFind[];
+  counts: { total: number; tied: number; untied: number };
+  /** State(s) of the tied finds' entries, computed from the catalog. */
+  states: { code: string; name: string }[];
+  themeInfo: HuntTheme;
+  difficulty: HuntTier;
+}
+
 let huntsCache: Hunt[] | null = null;
+let themesCache: HuntTheme[] | null = null;
+let resolvedCache: ResolvedHunt[] | null = null;
 
 export function getHunts(): Hunt[] {
   if (!huntsCache) {
@@ -780,38 +814,108 @@ export function getHunts(): Hunt[] {
   return huntsCache;
 }
 
+export function getHuntThemes(): HuntTheme[] {
+  if (!themesCache) {
+    try {
+      themesCache = load<HuntTheme[]>("hunt-themes.json");
+    } catch {
+      themesCache = [];
+    }
+  }
+  return themesCache;
+}
+
 export function getHunt(slug: string): Hunt | undefined {
   return getHunts().find((h) => h.slug === slug);
 }
 
+function cleanTitle(t: string): string {
+  return t.replace(/^HT-RES-[A-Z]{2}(?:-[\w-]+)?\s*[—–:]\s*/i, "");
+}
+
+export function getResolvedHunts(): ResolvedHunt[] {
+  if (resolvedCache) return resolvedCache;
+  const hunts = getHunts();
+  const idx = indexCatalog(getSites(), hunts);
+  const themes = getHuntThemes();
+  resolvedCache = hunts.map((h) => {
+    const findsResolved: ResolvedFind[] = h.finds.map((f) => {
+      const r = resolveFind(f, idx) as { status: FindTieStatus; site: Site | null; via: string };
+      return {
+        ...f,
+        tie: {
+          status: r.status,
+          slug: r.status === "tied" && r.site ? r.site.slug : null,
+          title: r.status === "tied" && r.site ? cleanTitle(r.site.title) : null,
+          via: r.via,
+        },
+      };
+    });
+    const tiedSites = findsResolved
+      .filter((f) => f.tie.status === "tied" && f.tie.slug)
+      .map((f) => getSite(f.tie.slug!)!)
+      .filter(Boolean);
+    const t = tierFor(tiedSites, (s: Site) => getVisitableAnchor(s), (s: Site) => cleanTitle(s.title));
+    const tierMeta = t.tier ? (TIERS as Record<number, { name: string; plain: string }>)[t.tier] : null;
+    const stateMap = new Map<string, string>();
+    for (const s of tiedSites) if (s.stateCode) stateMap.set(s.stateCode, s.state);
+    return {
+      ...h,
+      findsResolved,
+      counts: huntCounts(findsResolved),
+      states: [...stateMap.entries()].map(([code, name]) => ({ code, name })),
+      themeInfo: themes.find((x) => x.id === h.theme) || { id: h.theme, label: h.theme, mark: "?", stage: "" },
+      difficulty: {
+        n: (t.tier ?? null) as HuntTier["n"],
+        name: tierMeta ? tierMeta.name : "Not yet rated",
+        plain: tierMeta ? tierMeta.plain : "No find is tied to a catalog entry yet.",
+        reasons: t.reasons,
+      },
+    };
+  });
+  return resolvedCache;
+}
+
+export function getResolvedHunt(slug: string): ResolvedHunt | undefined {
+  return getResolvedHunts().find((h) => h.slug === slug);
+}
+
+/** The tier table, for the rule printed on the Hunts tab. */
+export function getTierTable(): { n: number; name: string; plain: string }[] {
+  return Object.values(TIERS as Record<number, { n: number; name: string; plain: string }>);
+}
+
 /** True when a slug names a reflection entry in the catalog. */
 function isReflectionSlug(slug: string): boolean {
+  if (REFLECTION_SLUG_DENYLIST.has(slug)) return true;
   const s = getSite(slug);
-  return !!s && s.stopType === "reflection";
+  return isReflectionSite(s);
 }
 
 /**
- * The finds of a hunt as they may be rendered: any find tied to a
- * reflection entry is dropped — reflection ground is never part of a hunt,
- * enforced here so no rendering path can surface one.
+ * The finds of a hunt as they may be rendered: a find whose tie lands on
+ * reflection ground is dropped (the build check fails first; this is the
+ * render-side guard so no path can surface one).
  */
-export function huntFindsForRender(hunt: Hunt): HuntFind[] {
-  return hunt.finds.filter((f) => !f.entrySlug || !isReflectionSlug(f.entrySlug));
+export function huntFindsForRender(hunt: Hunt): ResolvedFind[] {
+  const r = getResolvedHunt(hunt.slug);
+  return (r ? r.findsResolved : []).filter((f) => f.tie.status !== "reflection");
 }
 
 /**
  * Hunt finds tied to one catalog entry — the finds that entry's ClaimFind
- * panel can offer. Reflection entries return none, whatever the data says:
- * the game goes quiet on reflection ground by design.
+ * panel can offer. Uses the build-time resolution, so a find tied through
+ * an `App site` declaration appears on its entry automatically.
+ * Reflection entries return none, whatever the data says.
  */
 export function getHuntFindsForSite(
   siteSlug: string,
-): { hunt: Hunt; find: HuntFind }[] {
+): { hunt: Hunt; find: ResolvedFind }[] {
   if (isReflectionSlug(siteSlug)) return [];
-  const out: { hunt: Hunt; find: HuntFind }[] = [];
-  for (const hunt of getHunts()) {
-    for (const find of hunt.finds) {
-      if (find.entrySlug === siteSlug) out.push({ hunt, find });
+  const out: { hunt: Hunt; find: ResolvedFind }[] = [];
+  for (const hunt of getResolvedHunts()) {
+    for (const find of hunt.findsResolved) {
+      if (find.tie.status === "tied" && find.tie.slug === siteSlug) out.push({ hunt, find });
     }
   }
   return out;

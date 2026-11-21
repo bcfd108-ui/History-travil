@@ -7,10 +7,12 @@
     "convert": "node scripts/convert.mjs",
     "dev": "next dev",
     "postconvert": "node scripts/photo-coverage.mjs",
-    "build": "npm run convert && node scripts/check-maps.mjs && next build",
+    "build": "npm run convert && node scripts/build-navigation.mjs && node scripts/check-maps.mjs && node scripts/check-hunts.mjs && next build",
     "start": "next start",
     "check:maps": "node scripts/check-maps.mjs",
-    "test:maps": "node --test scripts/maps-core.test.mjs"
+    "test:maps": "node --test scripts/maps-core.test.mjs",
+    "check:hunts": "node scripts/check-hunts.mjs",
+    "test:hunts": "node --test scripts/hunts-core.test.mjs"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",
@@ -30,6 +32,7 @@
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
     "@types/topojson-client": "^3.1.5",
+    "saxes": "6.0.0",
     "typescript": "^5.6.0"
   }
 }

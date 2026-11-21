@@ -76,8 +76,10 @@ interface with database queries — no page rewrites.
   and sources (collapsible).
 - `/desk` — Research Desk as an index of tappable rows; `/desk/[slug]`
   serves the guide documents, one file per state, and the national file.
-- `/hunts` — the three hunts (Pulaski, Valley, Mining Country) presented as
-  photo-tag scavenger hunts, read-only in Stage 1.
+- `/hunts` — data-driven from `data/hunts.json` + `data/sites.json` at build
+  time (see `HUNTS.md`): grouped by state, region, then theme; tied/total,
+  computed tier and badge per hunt; find view with entry link, task and
+  hint on tap; signed-in progress from located check-ins.
 - `/maps` — the historic map library (see `MAPS.md`): sheets grouped by
   state → place, filter by type and era; `/maps/[id]` sheet pages with zoom
   in place; entries and routes show their tied sheets oldest first.

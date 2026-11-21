@@ -1,57 +1,147 @@
 import Link from "next/link";
-import { getHunts, huntFindsForRender } from "@/lib/data";
-import { HuntProgressLine } from "@/components/HuntProgress";
+import { getResolvedHunts, getTierTable, type ResolvedHunt } from "@/lib/data";
+import { HuntCardProgress } from "@/components/HuntProgress";
+import { HuntBadge } from "@/components/HuntBadge";
 
 export const metadata = { title: "Hunts — On Old Ground" };
 
-export default function HuntsPage() {
-  const hunts = getHunts();
+// Every number on this page is computed from data/hunts.json and
+// data/sites.json at build time (lib/data.ts getResolvedHunts). Nothing is
+// hard-coded: when the desk publishes an entry that ties an untied find,
+// the counts and the tier move on the next build.
+
+function stateOf(h: ResolvedHunt): string {
+  return h.states.length ? h.states.map((s) => s.name).join(" / ") : "Not yet placed";
+}
+
+function group<T>(items: T[], keyOf: (t: T) => string): [string, T[]][] {
+  const m = new Map<string, T[]>();
+  for (const it of items) {
+    const k = keyOf(it);
+    m.set(k, [...(m.get(k) || []), it]);
+  }
+  return [...m.entries()].sort((a, b) => a[0].localeCompare(b[0]));
+}
+
+function HuntCard({ h }: { h: ResolvedHunt }) {
   return (
-    <>
+    <div className="hunt-card">
+      <div className="hc-head">
+        <HuntBadge mark={h.themeInfo.mark} themeLabel={h.themeInfo.label} tier={h.difficulty.n} tierName={h.difficulty.name} />
+        <div>
+          <h4>
+            <Link href={`/hunts/${h.slug}`}>{h.name}</Link>
+          </h4>
+          <p className="small">{h.badge}</p>
+        </div>
+      </div>
+      <dl className="hc-facts">
+        <div>
+          <dt>Region</dt>
+          <dd>{h.region}</dd>
+        </div>
+        <div>
+          <dt>Finds tied</dt>
+          <dd>
+            {h.counts.tied} of {h.counts.total}
+          </dd>
+        </div>
+        <div>
+          <dt>Difficulty</dt>
+          <dd>{h.difficulty.n ? `Tier ${h.difficulty.n} — ${h.difficulty.name}` : h.difficulty.name}</dd>
+        </div>
+      </dl>
+      <HuntCardProgress
+        badge={h.badge}
+        finds={h.findsResolved.map((f) => ({ n: f.n, label: f.label, tiedSlug: f.tie.slug }))}
+      />
+      <p className="hc-open">
+        <Link href={`/hunts/${h.slug}`}>Open the hunt →</Link>
+      </p>
+    </div>
+  );
+}
+
+export default function HuntsPage() {
+  const hunts = getResolvedHunts();
+  const finds = hunts.reduce((n, h) => n + h.counts.total, 0);
+  const tied = hunts.reduce((n, h) => n + h.counts.tied, 0);
+  const byState = group(hunts, stateOf);
+
+  return (
+    <div className="hunts-page">
       <h1>Hunts</h1>
       <p className="lede">
         A scavenger hunt, not a test. Each hunt names things to go and find on real ground — and
         the tag is the visit itself: stand on the ground, find the thing, and it is yours. A
         photo is welcome, never required. There are no questions and no answer keys.
       </p>
-      <p className="small">
-        The three founding hunts are live, with their find lists carried from the original
-        app&apos;s record. The finds rest on the research record — the hunts stand activated
-        on the owner&apos;s word, and no find is represented as field-verified. Nothing is
-        scored. A find is tagged from its catalog entry&apos;s page, into your scrapbook and
-        stamp book — and where a find&apos;s ground has no entry in this edition yet, its
-        catalog entry is in preparation and the find is carried on its own text until the
-        entry is published. Completing a hunt records its badge in your stamp book.
-        Reflection ground is never part of any hunt.
+      <p className="count-strip" aria-label="Hunt counts">
+        <span>
+          <strong>{hunts.length}</strong> {hunts.length === 1 ? "hunt" : "hunts"}
+        </span>
+        <span>
+          <strong>{finds}</strong> finds
+        </span>
+        <span>
+          <strong>{tied}</strong> of {finds} tied to catalog entries
+        </span>
+        <span>
+          <strong>{finds - tied}</strong> catalog {finds - tied === 1 ? "entry" : "entries"} in preparation
+        </span>
       </p>
-      {hunts.map((h) => {
-        const finds = huntFindsForRender(h);
-        return (
-          <section key={h.slug} className="panel">
-            <h2>
-              <Link href={`/hunts/${h.slug}`}>{h.name}</Link>
-            </h2>
-            <p>
-              <span className="badge amber">{finds.length} finds</span>
-              <span className="badge">{h.tier}</span>
-              <span className="m"> {h.ground}</span>
-            </p>
-            <p>{h.about}</p>
-            <HuntProgressLine finds={finds} badge={h.badge} />
-            <p>
-              <Link href={`/hunts/${h.slug}`}>Open the hunt — its finds and your progress</Link>
-            </p>
-            <h3>Read the record first</h3>
-            <div className="rows">
-              {h.related.map((r) => (
-                <Link key={r.slug} className="row" href={`/sites/${r.slug}`}>
-                  <span className="t">{r.label}</span>
-                </Link>
+
+      {byState.map(([state, inState]) => (
+        <section key={state} className="hunt-state">
+          <h2>{state}</h2>
+          {group(inState, (h) => h.region).map(([region, inRegion]) => (
+            <div key={region} className="hunt-region">
+              <h3>{region}</h3>
+              {group(inRegion, (h) => h.themeInfo.label).map(([theme, inTheme]) => (
+                <div key={theme} className="hunt-theme">
+                  <p className="theme-label">{theme}</p>
+                  <div className="hunt-cards">
+                    {inTheme.map((h) => (
+                      <HuntCard key={h.slug} h={h} />
+                    ))}
+                  </div>
+                </div>
               ))}
             </div>
-          </section>
-        );
-      })}
-    </>
+          ))}
+        </section>
+      ))}
+
+      <details className="sources">
+        <summary>How the hunts work</summary>
+        <ul>
+          <li>Being there is the tag. A photo is optional and goes to your own scrapbook first.</li>
+          <li>
+            A find whose ground has no catalog entry yet shows &ldquo;catalog entry in
+            preparation&rdquo;. It does not count toward the badge or completion until its entry
+            is published — then it joins the hunt on its own.
+          </li>
+          <li>Reflection ground is never part of any hunt: no finds, no tags, no points.</li>
+        </ul>
+        <h3>How difficulty is set</h3>
+        <p>The tier comes from the ground of the hunt&apos;s tied finds, by one rule for every hunt:</p>
+        <ol className="tier-table">
+          {getTierTable().map((t) => (
+            <li key={t.n}>
+              <strong>
+                Tier {t.n} — {t.name}:
+              </strong>{" "}
+              {t.plain}
+            </li>
+          ))}
+        </ol>
+        <p className="small">
+          Seasonal or remote means the entry&apos;s Before you go record names seasonal access or
+          remote access (high-clearance, four-wheel, boat-only, backcountry). A trail walk means
+          the visitable anchor is a trail. Distance is the straight line between the entries&apos;
+          recorded points. Untied finds are left out until their entries are published.
+        </p>
+      </details>
+    </div>
   );
 }
