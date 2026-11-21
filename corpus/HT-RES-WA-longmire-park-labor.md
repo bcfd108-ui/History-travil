@@ -104,6 +104,7 @@ Reflective museum visit only. No searches for collected cultural objects, staff 
 
 ## 10. Locator record
 - Stable entry name: Longmire park labor — Longmire Museum.
+- Town: Longmire
 - Division / dossier: WA / HT-RES-WA-longmire-park-labor.
 - Public anchor: Longmire Museum, Mount Rainier National Park, Washington.
 - Printed museum street address:

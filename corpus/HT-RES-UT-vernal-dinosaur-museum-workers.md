@@ -92,6 +92,7 @@ Potential future interpretation could ask visitors to distinguish a cast label f
 
 ## 10. Locator record
 - Stable entry name: Vernal museum workers: the people behind the dinosaur
+- Town: Vernal
 - Division/dossier: UT / HT-RES-UT-vernal-dinosaur-museum-workers
 - Public anchor: Utah Field House of Natural History State Park Museum
 - Printed street address: 496 E. Main St., Vernal, Utah [1][2]

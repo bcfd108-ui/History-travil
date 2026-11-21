@@ -100,6 +100,7 @@ Reflection stop: consider what happened to household confidence when familiar wo
 ## 10. Locator record
 
 - Stable name: Grays Harbor timber labor and community — Polson Museum interpretive anchor
+- Town: Hoquiam
 - Latitude:
 - Longitude:
 - Coordinate source:

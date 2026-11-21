@@ -96,6 +96,7 @@ https://www.washingtonruralheritage.org/digital/api/singleitem/collection/whitma
 https://www.washingtonruralheritage.org/iiif/2/whitman:2189/full/700,/0/default.jpg
 
 ## 10. Locator record
+- Town: Colfax
 - Stable resource name: **Palouse rural household and change — Perkins House and Cabin public anchor**.
 - Operator-listed visitor address: **623 N Perkins Avenue, Colfax, Washington**. [1]
 - Public entrance: **designated institutional visitor approach during opening hours; exact doorway and accessible route unverified**.

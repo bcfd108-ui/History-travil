@@ -109,6 +109,7 @@ https://cdm17176.contentdm.oclc.org/digital/collection/nols/id/3263
 https://cdm17176.contentdm.oclc.org/digital/api/singleitem/collection/nols/id/3263
 
 ## 10. Locator record
+- Town: Port Townsend
 - Stable resource name: **Port Townsend maritime work and community — Museum of Art + History public anchor**.
 - Public address: **540 Water Street, Port Townsend, Washington 98368**.
 - Public entrance distinction: **operator-described street-level Madison Street elevator entrance; limitations retained**. [1]

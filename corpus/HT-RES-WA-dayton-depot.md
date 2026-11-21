@@ -88,6 +88,7 @@ No climbing rolling stock, handling signals, entering tracks or photographing st
 | Field | Value |
 |---|---|
 | Stable site name | Dayton Historic Depot / Oregon Railway and Navigation Company Depot–Dayton [1,4] |
+| Town | Dayton |
 | Latitude | 46.320822° |
 | Longitude | -117.980011° |
 | Coordinate source | Washington DAHP nomination [4] |

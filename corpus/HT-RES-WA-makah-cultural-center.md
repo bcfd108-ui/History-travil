@@ -94,6 +94,8 @@ https://makah.com/makah-tribal-info/legal-notices/
 
 ## 10. Locator record
 - Stable name: Makah Cultural & Research Center / Makah Museum, Neah Bay
+- Town: Neah Bay
+- Public anchor: Makah Museum, Makah Cultural & Research Center
 - Latitude:
 - Longitude:
 - Coordinate source/scope: No museum coordinates transcribed from a controlling source. Address: 1880 Bayview Avenue, Neah Bay, Washington 98357 [2]. No Ozette archaeological, excavation or burial coordinates are included.
