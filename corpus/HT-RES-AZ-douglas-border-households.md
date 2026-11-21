@@ -36,12 +36,12 @@ Keep all movement and employment descriptions historical. Nothing in these recol
 **Excluded:** former dwellings, active schools, present workplaces, border facilities, private collections and any attempt to locate living relatives. No employer's historic role grants access to present facilities.
 
 ## 5. Trip-shaped stop progression
-1. **Read before arrival.** Identify the named narrator and what type of evidence the passage supplies. Avoid turning a recollection into a comprehensive history of all border households.
-2. **Use only the museum's authorized public areas if its gate is confirmed.** If not, remain with the published text. No adjacent destination is substituted simply because it is nearby.
-3. **Compare categories, not presumed artifacts.** Consider how a museum may preserve tools or school objects while a household account reveals care work and unequal opportunity. Do not claim an unexamined object belonged to the narrator.
-4. **End with the household question:** whose labor made it possible for children to keep learning, and whose work is easiest to leave out of the record?
 
-The strongest moment is the contrast between a town's industrial identity and the daily responsibilities carried within families. This is a suggested reflective structure, not a reenactment, cross-border itinerary or physical school walk.
+The public anchor is the Douglas-Williams House Museum at 1001 D. Avenue, Douglas — a house museum with changing displays and a research library, separate from the families this entry follows. [1][3]
+
+The Douglas household in the record is Raúl Hector Castro's. In an interview recorded September 12, 2013, by Pam Stevenson, Castro recalls a father who worked at a smelter and, after his father's death, a mother who supported the children through midwifery. He remembers unequal school transportation in one question: “why do they ride, and we walk?” Only the opening pages of the edited transcript were read for this dossier; his broader claims are carried as his testimony, not as independently established statistics. [4]
+
+A second Douglas voice, Francisco Escobar Sr., describes parents who came from Sonora, his father's long employment and the siblings' schooling; that transcript survives here as an indexed lead — its original file did not download, so it is not treated as a fully inspected interview. The Douglas Oral History Project, a volunteer initiative, keeps this work going; its office is appointment-based rather than a walk-in visitor stop. [5,6][7]
 
 ## 6. Honest gaps and conflicting dates
 - Museum weekday listings conflict; holiday exceptions and current accessibility remain unverified. [1,2]
