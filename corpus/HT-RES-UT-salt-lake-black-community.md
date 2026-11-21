@@ -39,13 +39,12 @@ A building open to everyone today does not establish how welcome people were els
 **Permanent rule:** a historic road or district pin is not a public entrance.
 
 ## 5. Trip-shaped stop progression
-1. **Before leaving:** check the Main Library's holiday and weather gate. If closed, use the same online sources elsewhere; do not shift to a school or church door.
-2. **In the public reading area:** identify who is speaking and who is publishing. Henry's quoted recollection and a curator's summary are not the same evidence type.
-3. **Read the small action:** consider why making a copy of schoolwork could matter when an institution's account and a student's account disagreed.
-4. **Add the community layer:** distinguish scholarships, representation and recognition from a story told only as individual endurance.
-5. **End on the evidence:** the strongest moment is realizing that preserving a record can itself be protective work. Ask what becomes invisible when only the official summary survives.
 
-This is quiet reflection, not an adversarial exercise with current staff. Do not ask a visitor to accuse a school, perform discrimination, recite slurs or present personal hardship for verification. No timed challenge or proof-of-visit photo.
+The public anchor for this entry is a reading room, not a historic site: the Salt Lake City Main Library at 210 East 400 South. Nothing in the record places an Alberta Henry exhibition there; the library is open public ground where the published material can be read. [1–2]
+
+What the record holds is Henry's own account, excerpted in a University of Utah digital exhibition from her oral history (Interviews with African Americans in Utah, Interview 1, item 893658). Working with students whose missing assignments were being used to explain their difficulties, she made copies of their work before it was handed in — “give me your test paper before you hand it in” — so a student's work could not disappear from the record. [4–5]
+
+The same exhibition credits her advocacy for Black teachers and counselors and a student recognition organization that became the Rainbow Honor Society. Her papers — NAACP leadership, educational work and community organizations, including an Alberta Henry Education Foundation folder dated 1969–1998 — are held by University of Utah Special Collections (ACCN 2069), not the City Library, and portions are restricted. The state archive's biography of her reproduces descriptions of her 1975 Council on Black Affairs and 1976 State House Fellowships oaths, both in Series 17170. [4][6][7]
 
 ## 6. Honest gaps and conflicting dates
 - **Direct source boundary:** Henry's firsthand words were inspected as a quoted excerpt in the repository's digital exhibit. Full item 893658 could not be retrieved, so interview date, interviewer and exact surrounding context remain unchecked. [4–5]
