@@ -1,4 +1,4 @@
-**Trip gate — Checked November 21, 2026. Use only the NPS mainland-side visitor-center entrance and its indoor history film at 8635 A1A South. The staffed room is normally open 9–5 and is closed Thanksgiving and Christmas. Check the park alert before a storm-season visit. The historic tower, shoreline and ferry are outside this reflection visit. [1–3]**
+**Trip gate — Checked November 21, 2026. Use only the NPS visitor-center entrance on the A1A side of the channel and its indoor history film at 8635 A1A South. The staffed room is normally open 9–5 and is closed Thanksgiving and Christmas. Check the park alert before a storm-season visit. The historic tower, shoreline and ferry are outside this reflection visit. [1–3]**
 
 ## 2. Story
 
@@ -34,7 +34,7 @@ Enter the visitor center from the signed public parking approach. Watch the shor
 
 ## 7. Historical photo records
 
-**Adopted for desk review** — exact historic subject, view from the southeast, no present-day pairing. The inspected 640 × 487 frame shows open water in front, a low masonry platform and steps at left, and the unroofed-looking square tower mass with small openings against the horizon. Water occupies much of the image. The HABS negative marking appears reversed along the bottom. Photographer Herbert Kahler made this exposure March 26, 1934 as original federal survey work. NPS identifies materials made for HABS as public domain. The LOC item right advisory distinguishes original federal survey work from copied material. [8–10]
+**Adopted for desk review** — exact historic subject, view from the southeast, no present-day pairing. The inspected 640 × 487 frame shows open water in front, a low masonry platform and steps at left, and the flat-topped square tower mass with small openings against the horizon. Water occupies much of the image. The HABS negative marking appears reversed along the bottom. Photographer Herbert Kahler made this exposure March 26, 1934 as original federal survey work. NPS identifies materials made for HABS as public domain. The LOC item right advisory distinguishes original federal survey work from copied material. [8–10]
 
 Printed credit — Library of Congress, Prints and Photographs Division, Historic American Buildings Survey FL-15-5, HABS FLA,55-____,1--1, item fl0166.photos.053863p, “View from South-East,” Herbert Kahler, March 26, 1934.
 
