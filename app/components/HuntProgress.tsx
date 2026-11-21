@@ -1,190 +1,166 @@
 "use client";
-// Hunt progress, derived from the player's own claims — nothing is stored
-// for a hunt itself. A find counts as tagged when one of the player's
-// check-ins (lib/saving.ts listCheckins) carries the find's entry slug and
-// the find's label, exactly as the entry page's ClaimFind panel recorded
-// it. Completion is a stamp-book record — the hunt's badge, earned when
-// every taggable find is tagged — never a score.
+// Hunt progress for a signed-in player, derived from their own check-ins —
+// nothing is stored for a hunt itself. Signed out (or saving not connected)
+// these components render nothing but the read-only tab.
 //
-// Only finds tied to a catalog entry (entrySlug set) can be tagged, from
-// that entry's page. Finds carried untied (their ground has no entry in
-// this edition yet) are listed on their own text and counted honestly:
-// they are not part of the tagged-of total, and the page says why.
+// Ruling 4: only check-ins that captured location at the tap (finite
+// claim_lat/claim_lon) advance hunt progress and badges. A visit without
+// location is scrapbook-only and counts toward nothing. No demo, default,
+// or fallback location exists anywhere.
 //
-// The founding hunts are ACTIVE (owner's ruling, Nov 20, 2026 — activated
-// on his word alone, no field check). Their finds rest on the research
-// record; nothing here represents a find as field-verified.
+// Only TIED finds count. An untied find ("catalog entry in preparation")
+// is never checkable and never part of the badge or completion math.
 import { useEffect, useState } from "react";
-import Link from "next/link";
 import { useAccount } from "@/lib/account";
 import { createClient } from "@/lib/supabase/client";
-import { listCheckins, type Checkin } from "@/lib/saving";
-import type { HuntFind } from "@/lib/data";
+import { claimFind, listCheckins, type Checkin } from "@/lib/saving";
+import { getPositionOnce } from "@/lib/geo";
+import { checkedFindKeys, computeHuntProgress } from "@/lib/hunts-core.mjs";
 
-type FindRef = Pick<HuntFind, "entrySlug" | "label">;
-
-function taggedKeys(checkins: Checkin[]): Set<string> {
-  return new Set(checkins.map((c) => `${c.site_slug}::${c.find_label}`));
+export interface FindRef {
+  n: number;
+  label: string;
+  tiedSlug: string | null;
 }
+
+const key = (slug: string, label: string) => `${slug}::${label}`;
+const CHECKIN_EVENT = "oog:checkin";
 
 function useCheckins() {
   const { configured, user } = useAccount();
   const [checkins, setCheckins] = useState<Checkin[] | null>(null);
   const [err, setErr] = useState<string | null>(null);
-
+  const [version, setVersion] = useState(0);
+  useEffect(() => {
+    const bump = () => setVersion((v) => v + 1);
+    window.addEventListener(CHECKIN_EVENT, bump);
+    return () => window.removeEventListener(CHECKIN_EVENT, bump);
+  }, []);
   useEffect(() => {
     if (!configured || !user) return;
     const db = createClient();
     if (!db) return;
     let alive = true;
     listCheckins(db)
-      .then((rows) => {
-        if (alive) setCheckins(rows);
-      })
-      .catch((e) => {
-        if (alive) setErr(e instanceof Error ? e.message : String(e));
-      });
+      .then((rows) => alive && setCheckins(rows))
+      .catch((e) => alive && setErr(e instanceof Error ? e.message : String(e)));
     return () => {
       alive = false;
     };
-  }, [configured, user]);
-
+  }, [configured, user, version]);
   return { configured, user, checkins, err };
 }
 
-/** The one-line progress shown on the hunts index for a signed-in player.
- *  Renders nothing signed out, unconfigured, or while loading — the index
- *  stays a reading page for everyone else. */
-export function HuntProgressLine({ finds, badge }: { finds: FindRef[]; badge?: string }) {
+/** Completion line on a hunt card — signed-in players only. */
+export function HuntCardProgress({ finds, badge }: { finds: FindRef[]; badge: string }) {
   const { user, checkins } = useCheckins();
   if (!user || !checkins) return null;
-  const taggable = finds.filter((f) => f.entrySlug);
-  if (taggable.length === 0) return null;
-  const keys = taggedKeys(checkins);
-  const done = taggable.filter((f) => keys.has(`${f.entrySlug}::${f.label}`)).length;
-  const complete = done === taggable.length;
+  const p = computeHuntProgress(finds, checkins);
+  if (p.tied === 0) return null;
   return (
-    <p className="small">
-      <strong>
-        Your progress: {done} of {taggable.length} finds tagged
-        {complete
-          ? badge
-            ? ` — hunt complete; the badge ${badge} is recorded in your stamp book.`
-            : " — hunt complete, recorded in your stamp book."
-          : "."}
-      </strong>
+    <p className="hunt-progress">
+      {p.complete ? (
+        <strong>Complete — {badge} earned</strong>
+      ) : (
+        <>
+          Your finds: <strong>{p.done} of {p.tied}</strong>
+        </>
+      )}
     </p>
   );
 }
 
-/** The find list on a hunt's own page, with the signed-in player's tagged
- *  state on each find and the hunt's progress and completion above it. */
-export function HuntFindList({
-  badge,
-  finds,
-}: {
-  badge: string;
-  finds: HuntFind[];
-}) {
+/** Progress panel on a hunt's page — signed-in players only. */
+export function HuntProgressPanel({ finds, badge }: { finds: FindRef[]; badge: string }) {
   const { user, checkins, err } = useCheckins();
-  const taggable = finds.filter((f) => f.entrySlug);
-  const untied = finds.length - taggable.length;
-  const keys = checkins ? taggedKeys(checkins) : new Set<string>();
-  const done = taggable.filter((f) => keys.has(`${f.entrySlug}::${f.label}`)).length;
-  const complete = !!user && taggable.length > 0 && done === taggable.length;
-
+  if (!user) return null;
+  if (err) return <p className="form-error">{err}</p>;
+  if (!checkins) return <p className="small">Checking your finds…</p>;
+  const p = computeHuntProgress(finds, checkins);
   return (
-    <>
-      {user && err && <p className="form-error">{err}</p>}
-      {user && !checkins && !err && <p className="small">Checking your tags…</p>}
-      {user && checkins && (
-        <section className="panel" aria-label="Your progress on this hunt">
-          <h2>Your progress</h2>
-          {taggable.length === 0 ? (
-            <p>
-              This hunt is active, but none of its finds can be tagged yet — every
-              find&apos;s ground is still waiting for its catalog entry, and those entries
-              are in preparation. When an entry is published, its find becomes taggable
-              from that entry&apos;s page, and your progress will be counted here.
-            </p>
-          ) : (
-            <>
-              <p>
-                <strong>
-                  {done} of {taggable.length} finds tagged.
-                </strong>
-              </p>
-              {complete ? (
-                <p>
-                  <strong>Hunt complete.</strong> Every find with a catalog entry is
-                  tagged, and the badge <strong>{badge}</strong> is earned — recorded in
-                  your stamp book. Completion is a stamp-book record, not a score — the
-                  ground was the prize.
-                </p>
-              ) : (
-                <p className="small">
-                  Tag a find from its entry&apos;s page — being there is the tag, and a
-                  photo is yours to add, never required. When every find with an entry is
-                  tagged, the hunt completes and the badge {badge} is recorded in your
-                  stamp book.
-                </p>
-              )}
-              {untied > 0 && (
-                <p className="small">
-                  {untied} more {untied === 1 ? "find is" : "finds are"} carried untied
-                  below — their catalog {untied === 1 ? "entry is" : "entries are"} in
-                  preparation, so they cannot be tagged yet and do not count toward the
-                  badge yet. Each joins the total the moment its entry is published.
-                </p>
-              )}
-            </>
-          )}
-        </section>
+    <section className="panel" aria-label="Your progress on this hunt">
+      <h2>Your progress</h2>
+      {p.tied === 0 ? (
+        <p>No find in this hunt can be checked yet — each one is waiting on its catalog entry.</p>
+      ) : (
+        <>
+          <div className="meter" aria-hidden="true">
+            <span style={{ width: `${(100 * p.done) / p.tied}%` }} />
+          </div>
+          <p>
+            <strong>
+              {p.done} of {p.tied} finds checked.
+            </strong>{" "}
+            {p.complete ? `Hunt complete — the badge ${badge} is in your stamp book.` : `Check them all to earn ${badge}.`}
+          </p>
+        </>
       )}
+    </section>
+  );
+}
 
-      <div className="rows">
-        {finds.map((f) => {
-          const tagged = !!f.entrySlug && keys.has(`${f.entrySlug}::${f.label}`);
-          const inner = (
-            <>
-              <span className="t">
-                Find {f.n} — {f.label}
-                {tagged ? " ✓ Tagged" : ""}
-              </span>
-              <span className="small">
-                {f.groundName} · {f.place} ·{" "}
-                {f.status === "active" ? (
-                  <span className="badge amber">Active find</span>
-                ) : (
-                  <span className="badge amber">Candidate find — not yet field-checked or activated</span>
-                )}
-              </span>
-              <span>{f.task}</span>
-              {f.hint && (
-                <span className="small">
-                  <strong>Hint:</strong> {f.hint}
-                </span>
-              )}
-              {!f.entrySlug && (
-                <span className="small">
-                  This find&apos;s catalog entry is in preparation — the find is carried on
-                  its own text until the entry is published, and tagging opens from that
-                  entry&apos;s page. It does not count toward the badge yet.
-                </span>
-              )}
-            </>
-          );
-          return f.entrySlug ? (
-            <Link key={f.n} className="row" href={`/sites/${f.entrySlug}`}>
-              {inner}
-            </Link>
-          ) : (
-            <div key={f.n} className="row">
-              {inner}
-            </div>
-          );
-        })}
-      </div>
-    </>
+/** "I'm here" — check one tied find from the hunt page. Location is read at
+ *  the moment of the tap and stored with the check; no location, no check.
+ *  A photo is optional. */
+export function CheckFind({
+  huntSlug,
+  find,
+}: {
+  huntSlug: string;
+  find: FindRef;
+}) {
+  const { configured, user } = useAccount();
+  const { checkins } = useCheckins();
+  const [photo, setPhoto] = useState<File | null>(null);
+  const [busy, setBusy] = useState(false);
+  const [msg, setMsg] = useState<string | null>(null);
+  const [err, setErr] = useState<string | null>(null);
+  const [done, setDone] = useState(false);
+  if (!configured || !user || !find.tiedSlug) return null;
+  const already = done || (checkins ? checkedFindKeys(checkins).has(key(find.tiedSlug, find.label)) : false);
+  if (already) return <p className="find-checked">✓ Checked — you were there.</p>;
+  return (
+    <div className="find-check">
+      <label className="small">
+        Photo (optional, saved to your scrapbook){" "}
+        <input type="file" accept="image/*" onChange={(e) => setPhoto(e.target.files?.[0] ?? null)} />
+      </label>
+      <button
+        type="button"
+        className="btn"
+        disabled={busy}
+        onClick={async () => {
+          const db = createClient();
+          if (!db) return;
+          setBusy(true);
+          setErr(null);
+          setMsg(null);
+          const point = await getPositionOnce();
+          if (!point) {
+            setBusy(false);
+            setErr("Your location could not be read. A find is checked only with location captured at the tap — no location, no progress.");
+            return;
+          }
+          const e = await claimFind(db, user.id, {
+            siteSlug: find.tiedSlug!,
+            findLabel: find.label,
+            photo,
+            claimPoint: point,
+            huntSlug,
+          });
+          setBusy(false);
+          if (e) setErr(e);
+          else {
+            setDone(true);
+            setMsg(photo ? "Checked. Your photo is in your scrapbook." : "Checked.");
+            window.dispatchEvent(new Event(CHECKIN_EVENT));
+          }
+        }}
+      >
+        {busy ? "Reading your location…" : "I'm here — check this find"}
+      </button>
+      {msg && <p className="form-ok">{msg}</p>}
+      {err && <p className="form-error">{err}</p>}
+    </div>
   );
 }

@@ -340,3 +340,53 @@ form input[type="email"], form input[type="text"] { min-width: min(320px, 100%);
 .badge.prep { background: var(--charcoal); color: var(--cream); border-color: var(--charcoal); text-transform: none; }
 .tie-rows .row > span { display: block; margin-top: 3px; }
 .tie-rows .row .basis { font-size: 0.82rem; line-height: 1.45; }
+
+/* ---- Hunts tab (data-driven rebuild) ---------------------------------- */
+/* .count-strip differs from the map library only in margin (18px vs 14px).
+   Scoped so /maps keeps the unscoped rule above byte-for-byte. */
+.hunts-page .count-strip { display: flex; flex-wrap: wrap; gap: 8px 22px; margin: 18px 0 8px; padding: 12px 16px; background: var(--charcoal); color: var(--cream); border-radius: 6px; font-size: 0.95rem; }
+.hunt-state > h2 { margin-top: 1.6em; }
+.hunt-region h3 { margin: 1.1em 0 0.3em; color: var(--slate); font-size: 1.12rem; }
+.theme-label { margin: 0.4em 0 0; font-size: 0.78rem; letter-spacing: 0.09em; text-transform: uppercase; color: var(--muted); }
+.hunt-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; margin: 10px 0 18px; }
+.hunt-card { background: #fff; border: 1px solid var(--line); border-top: 4px solid var(--amber); border-radius: 6px; padding: 16px 18px; display: flex; flex-direction: column; gap: 8px; }
+.hunt-card h4 { margin: 0; font-size: 1.15rem; }
+.hunt-card h4 a { color: var(--charcoal); text-decoration: none; }
+.hunt-card h4 a:hover { color: var(--amber-deep); }
+.hunt-card .small { margin: 2px 0 0; }
+.hc-head { display: flex; gap: 14px; align-items: center; }
+.hc-facts { display: grid; grid-template-columns: repeat(3, 1fr); gap: 6px 12px; margin: 4px 0; }
+.hc-facts dt { font-size: 0.72rem; letter-spacing: 0.07em; text-transform: uppercase; color: var(--muted); }
+.hc-facts dd { margin: 0; font-size: 0.95rem; color: var(--charcoal); }
+.hc-open { margin: 2px 0 0; font-weight: bold; }
+.hunt-progress { margin: 0; font-size: 0.93rem; color: var(--slate); }
+.hunt-badge { display: inline-flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; width: 58px; height: 58px; flex: 0 0 auto; border-radius: 50%; background: var(--steel); border: 3px solid var(--amber); color: var(--cream); }
+.hunt-badge.lg { width: 84px; height: 84px; }
+.hunt-badge .hb-mark { font-weight: bold; font-size: 1.05rem; letter-spacing: 0.04em; line-height: 1; }
+.hunt-badge.lg .hb-mark { font-size: 1.5rem; }
+.hunt-badge .hb-pips { display: flex; gap: 3px; }
+.hunt-badge .hb-pips i { width: 6px; height: 6px; border-radius: 50%; background: var(--charcoal); border: 1px solid var(--rivet); }
+.hunt-badge .hb-pips i.on { background: var(--amber); border-color: var(--amber); }
+.hunt-badge.tier-4 { background: var(--slate); }
+.hunt-badge.tier-0 { border-color: var(--rivet); }
+.hunt-title { display: flex; gap: 18px; align-items: center; }
+.hunt-title h1 { margin-bottom: 0.2em; }
+.tier-table li { margin: 4px 0; }
+.find-list { display: flex; flex-direction: column; gap: 14px; margin: 16px 0 22px; }
+.find-card { background: #fff; border: 1px solid var(--line); border-left: 5px solid var(--amber); border-radius: 6px; padding: 14px 18px; }
+.find-card.untied { border-left-color: var(--rivet); background: var(--pale); }
+.find-card h3 { margin: 0 0 4px; font-size: 1.12rem; color: var(--charcoal); }
+.find-card p { margin: 6px 0; }
+.find-n { font-size: 0.76rem; letter-spacing: 0.09em; text-transform: uppercase; color: var(--muted); margin: 0 !important; }
+.find-entry a { font-weight: bold; }
+.find-task { font-size: 1.02rem; line-height: 1.55; }
+details.find-hint { margin: 6px 0; }
+details.find-hint summary { cursor: pointer; color: var(--slate); font-weight: bold; font-size: 0.95rem; }
+details.find-hint p { margin: 6px 0 0; padding: 8px 12px; background: var(--cream); border-left: 3px solid var(--amber); }
+.find-check { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; }
+.find-checked { color: var(--slate); font-weight: bold; }
+.meter { height: 10px; background: var(--pale); border: 1px solid var(--rivet); border-radius: 5px; overflow: hidden; }
+.meter span { display: block; height: 100%; background: var(--amber); }
+/* background, color, border-color, and text-transform already match the
+   map-library .badge.prep rule. Only letter-spacing differs, so it is scoped. */
+.hunts-page .badge.prep { letter-spacing: 0.02em; }

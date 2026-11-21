@@ -1,0 +1,8 @@
+[
+ {"id":"fire-service","label":"Fire service","mark":"F","stage":"founding"},
+ {"id":"timber-rail","label":"Timber and rail","mark":"T","stage":"founding"},
+ {"id":"mining","label":"Mining","mark":"M","stage":"founding"},
+ {"id":"lighthouse","label":"Lighthouses","mark":"L","stage":"stage-2"},
+ {"id":"railroad","label":"Railroad","mark":"R","stage":"stage-2"},
+ {"id":"logging-fire","label":"Logging and fire","mark":"LF","stage":"stage-2"}
+]
