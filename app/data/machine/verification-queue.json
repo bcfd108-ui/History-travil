@@ -8345,6 +8345,18 @@
    "attempts": []
   },
   {
+   "id": "vq_IL-graue-mill-and-museum",
+   "slug": "IL-graue-mill-and-museum",
+   "name": "Graue Mill and Museum — a working Salt Creek gristmill and an Underground Railroad station",
+   "town": "Oak Brook",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-graue-mill-and-museum.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_IL-haymarket-martyrs-monument",
    "slug": "IL-haymarket-martyrs-monument",
    "name": "Haymarket Martyrs' Monument, Forest Home Cemetery — the Haymarket defendants' graves and labor's memorial ground",
@@ -8357,6 +8369,18 @@
    "attempts": []
   },
   {
+   "id": "vq_IL-illinois-michigan-canal-lockport",
+   "slug": "IL-illinois-michigan-canal-lockport",
+   "name": "Illinois & Michigan Canal at Lockport — the canal's headquarters town, its office, and its warehouse",
+   "town": "Lockport",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-illinois-michigan-canal-lockport.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_IL-jane-addams-hull-house-museum",
    "slug": "IL-jane-addams-hull-house-museum",
    "name": "Jane Addams Hull-House Museum — the Hull-House settlement",
@@ -8365,6 +8389,30 @@
    "verifiedOn": "2026-11-21",
    "verifiedOnSource": "corpus-checked-line",
    "corpusFile": "HT-RES-IL-jane-addams-hull-house-museum.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IL-joliet-iron-works-historic-site",
+   "slug": "IL-joliet-iron-works-historic-site",
+   "name": "Joliet Iron Works Historic Site — the ruins of Joliet's first great steel works",
+   "town": "Joliet",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-joliet-iron-works-historic-site.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IL-old-joliet-prison",
+   "slug": "IL-old-joliet-prison",
+   "name": "Old Joliet Prison — the Illinois State Penitentiary at Joliet, 1858–2002",
+   "town": "Joliet",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-old-joliet-prison.md",
    "queueState": "queued",
    "attempts": []
   },
@@ -9186,8 +9234,8 @@
   }
  ],
  "counts": {
-  "items": 765,
-  "dated": 524,
+  "items": 769,
+  "dated": 528,
   "unrecorded": 241
  }
 }

@@ -168636,7 +168636,7 @@
   {
    "id": "lq_dd4a2c41ac2ce122",
    "projectedSlug": "il-graue-mill-and-museum",
-   "targetSlug": null,
+   "targetSlug": "IL-graue-mill-and-museum",
    "name": "Graue Mill and Museum",
    "town": "Oak Brook",
    "county": "DuPage",
@@ -168652,8 +168652,8 @@
      "role": "lead"
     }
    ],
-   "queueState": "queued",
-   "reconcile": null,
+   "queueState": "published",
+   "reconcile": "published",
    "attempts": []
   },
   {
@@ -179646,8 +179646,8 @@
   "byQueueState": {
    "checked-dead": 23,
    "held": 27,
-   "published": 39,
-   "queued": 6941
+   "published": 40,
+   "queued": 6940
   },
   "byState": {
    "AK": 121,
