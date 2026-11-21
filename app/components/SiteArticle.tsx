@@ -6,6 +6,7 @@ import {
   type HistoricPhoto,
   getHuntFindsForSite,
   getPlainTop,
+  getPublicLocator,
   getToursForSite,
   getVisitableAnchor,
   historicLocationFields,
@@ -37,45 +38,26 @@ function PhotoFigure({ photo }: { photo: HistoricPhoto }) {
 }
 
 function LocatorCard({ site }: { site: Site }) {
-  const L = site.locator;
-  const fields: [string, string][] = [
-    ["Stable name", L.stableName],
-    ["Printed address", L.address],
-    ["Operator", L.operator],
-    ["NRHP / National Register", L.nrhp],
-    ["HMdb", L.hmdb],
-    ["ARK", L.ark],
-    ["Archive ID", L.archiveId],
-    ["Register URL", L.registerUrl],
-    ["Coordinates", site.coordinates ? `${site.coordinates.lat}, ${site.coordinates.lon}` : ""],
-    ["Coordinate source", L.coordinateSource || site.coordinateKind],
-    ...L.extra.map((e) => [e.key, e.value] as [string, string]),
-  ];
+  const { operator, access, listing, registerUrl, point } = getPublicLocator(site.slug);
+  if (!operator && !access && !listing && !point) return null;
   return (
     <section className="panel" aria-label="Locator record">
       <h2>Locator record</h2>
       <dl className="locator-grid">
-        {fields.map(([k, v]) => (
-          <div key={k}>
-            <dt>{k}</dt>
-            <dd>
-              {v ? (
-                k === "Register URL" && /^https?:/.test(v) ? (
-                  <a href={v} target="_blank" rel="noreferrer">{v}</a>
-                ) : (
-                  v
-                )
-              ) : (
-                <span className="blank">— blank in the record</span>
-              )}
-            </dd>
+        {operator && <div><dt>Operator</dt><dd>{operator}</dd></div>}
+        {access && <div><dt>Public entrance / access</dt><dd>{access}</dd></div>}
+        {listing && (
+          <div>
+            <dt>NRHP / National Register</dt>
+            <dd>{registerUrl ? <a href={registerUrl} target="_blank" rel="noreferrer">{listing}</a> : listing}</dd>
           </div>
-        ))}
+        )}
+        {point && <div><dt>Coordinates</dt><dd>{point.lat}, {point.lon}</dd></div>}
       </dl>
-      {site.coordinates && (
+      {point && (
         <p className="small">
           <a
-            href={`https://www.openstreetmap.org/?mlat=${site.coordinates.lat}&mlon=${site.coordinates.lon}#map=15/${site.coordinates.lat}/${site.coordinates.lon}`}
+            href={`https://www.openstreetmap.org/?mlat=${point.lat}&mlon=${point.lon}#map=15/${point.lat}/${point.lon}`}
             target="_blank"
             rel="noreferrer"
           >
@@ -85,9 +67,6 @@ function LocatorCard({ site }: { site: Site }) {
           entrance; the Before you go section above says where you may stand.
         </p>
       )}
-      <p className="small">
-        Blank fields are blank in the source dossier. Nothing is invented to fill them.
-      </p>
     </section>
   );
 }
