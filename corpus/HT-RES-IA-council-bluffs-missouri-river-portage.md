@@ -67,6 +67,7 @@ Quiet witness only. No participant photo task for treaty-related history. Readin
 | Field | Verified value |
 |---|---|
 | Stable site name | Council Bluffs Lewis and Clark Monument Park — Missouri River interpretation |
+| Town | Council Bluffs |
 | Latitude | 41.2961 |
 | Longitude | -95.8568 |
 | Coordinate source | Lewis and Clark Trail Experience printed coordinates [3] |

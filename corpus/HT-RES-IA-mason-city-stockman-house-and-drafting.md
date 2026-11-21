@@ -55,6 +55,8 @@ Pending field review and Gene’s authorization. A voluntary exterior image of t
 | Field | Value |
 |---|---|
 | Stable site name | G. C. Stockman House |
+| Town | Mason City |
+| Public anchor | Architectural Interpretive Center, 520 First Street NE, for scheduled public tours |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

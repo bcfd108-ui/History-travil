@@ -117,6 +117,7 @@ https://durangotrain.com/faqs/
 ## 10. Locator record
 
 - Stable entry name: Durango railroad workers: a working life beyond the passenger window
+- Town: Durango
 - Division/dossier: CO / HT-RES-CO-durango-railroad-workers
 - Public anchor: Animas Museum
 - Printed street address: 3065 West 2nd Avenue, Durango, Colorado [1]

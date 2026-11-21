@@ -61,6 +61,8 @@ Held for Gene’s authorization and a human check of the open upper public sight
 | Field | Value |
 |---|---|
 | Stable site name | Elkader Keystone Bridge and upper Keystone Park |
+| Town | Elkader |
+| Public anchor | Upper Keystone Park at Main and Bridge Streets, Elkader, identified in city event material as 103 S Main Street |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

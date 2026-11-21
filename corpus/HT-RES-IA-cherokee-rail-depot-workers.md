@@ -61,6 +61,8 @@ Hold for field review and Gene's authorization. A voluntary exterior view may be
 | Field | Value |
 |---|---|
 | Stable site name | Illinois Central Railroad Depot, Cherokee |
+| Town | Cherokee |
+| Public anchor | The public South Fourth Street sidewalk at the approach to the depot’s civic address, 119 S 4th Street, Cherokee |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

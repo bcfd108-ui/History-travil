@@ -78,6 +78,7 @@ Optional private reflection: What does a newspaper preserve that an interview do
 
 ## 10. Locator record
 - Stable name: Denver Public Library Central Library, Special Collections & Archives; Denver Japanese community digital-reading dossier.
+- Town: Denver
 - Printed public institution address: **10 W. Fourteenth Ave. Pkwy., Denver, 80204**. [2]
 - Latitude: . Longitude: . Source: . Scope: . Building address only; no geocoded or historical household pin.
 - NRHP: . HMdb: . ARK: . Register URL: .

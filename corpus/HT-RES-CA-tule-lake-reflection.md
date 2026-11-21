@@ -96,6 +96,7 @@ Relevant sources opened/read November 19, 2026. The segment transcript was inspe
 
 ## 10. Locator record
 - Stable name: Tule Lake — family and imposed labels reflection
+- Town: Tule Lake
 - Public visitor address: none cleared for this winter draft
 - Latitude:
 - Longitude:

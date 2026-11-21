@@ -60,6 +60,8 @@ Pending Gene's authorization and a human check for a public sidewalk stance, pas
 | Field | Value |
 |---|---|
 | Stable site name | Preston’s Station Historic District, Belle Plaine |
+| Town | Belle Plaine |
+| Public anchor | Belle Plaine Area Museum, 901 12th Street, a drive-up and short walk from legal downtown parking using posted public entrance and sidewalk |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

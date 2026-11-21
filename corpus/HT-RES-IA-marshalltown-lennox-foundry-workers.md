@@ -61,6 +61,8 @@ Held. A field reviewer may assess an exterior view of a legible historic interpr
 | Field | Value |
 |---|---|
 | Stable site name | Lennox manufacturing and municipal Lennox Trail Access, Marshalltown |
+| Town | Marshalltown |
+| Public anchor | Lennox Trail Access, 201 S 12th Avenue, Marshalltown |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

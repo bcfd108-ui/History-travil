@@ -77,6 +77,7 @@ Optional private reflection: How can an account hold classmates' care and an unj
 
 ## 10. Locator record
 - Stable name: Amache Museum, downtown Granada; digital reflection alternative.
+- Town: Granada
 - Printed public institution address: **205 E. Goff Ave., Granada, Colorado**. [1,2] Building-level locator, not a verified accessible-door position.
 - Latitude: . Longitude: . Source: . Scope: . No historical-ground/weather-widget coordinates adopted.
 - NRHP: . HMdb: . ARK: . Register URL: .

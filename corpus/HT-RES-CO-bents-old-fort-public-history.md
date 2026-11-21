@@ -91,6 +91,7 @@ All checked 19 November 2026.
 
 ## 10. Locator record
 Stable name: Bent's Old Fort National Historic Site, Information Center
+- Town: La Junta
 Printed public park visitor address: 35110 State Highway 194 E., La Junta, CO [9]
 Latitude:
 Longitude:

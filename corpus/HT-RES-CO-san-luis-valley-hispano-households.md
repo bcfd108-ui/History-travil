@@ -87,6 +87,7 @@ All checked 19 November 2026; direct text read unless stated otherwise.
 
 ## 10. Locator record
 Stable name: San Luis Valley Museum
+- Town: Alamosa
 Printed physical visitor address: 401 Hunt Avenue, Alamosa, Colorado 81101 [1]
 Latitude:
 Longitude:

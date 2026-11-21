@@ -95,6 +95,8 @@ Sources directly opened/read November 19, 2026. Selected transcript passages ins
 | Field | Value |
 |---|---|
 | Stable site name | GLBT Historical Society Museum |
+| Town | San Francisco |
+| Public anchor | GLBT Historical Society Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

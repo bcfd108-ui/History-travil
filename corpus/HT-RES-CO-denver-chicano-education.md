@@ -77,6 +77,7 @@ Optional private reflection: What changes when a historical account describes st
 
 ## 10. Locator record
 - Stable name: Denver Public Library Central Library, Special Collections & Archives; Denver Chicano education reflection dossier.
+- Town: Denver
 - Printed public institution address: **10 W. Fourteenth Ave. Pkwy., Denver, 80204**. [2]
 - Latitude: . Longitude: . Source: . Scope: . No school or sensitive historical coordinates.
 - NRHP: . HMdb: . ARK: . Register URL: . Archive image ID: .

@@ -94,6 +94,7 @@ No collection of private family information, distressing imagery or cultural kno
 
 ## 10. Locator record
 Stable name: Fresno Hmong community family-history reading dossier (archive-only)
+- Town: Fresno
 Public visitor address:
 Latitude:
 Longitude:

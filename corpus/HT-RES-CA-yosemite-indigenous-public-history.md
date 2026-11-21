@@ -87,6 +87,7 @@ All checked 19 November 2026; direct text read unless stated otherwise.
 
 ## 10. Locator record
 Stable name: Yosemite Museum
+- Town: Yosemite Village
 Public visitor locality: Yosemite Village, Yosemite National Park [1,2]
 Street address:
 Latitude:

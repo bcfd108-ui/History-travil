@@ -82,6 +82,7 @@ Optional private reflection: What must work together before a public place is me
 
 ## 10. Locator record
 - Stable name: Denver Public Library Central Library, Special Collections & Archives; Denver disability rights research dossier.
+- Town: Denver
 - Printed public institution address: **10 W. Fourteenth Ave. Pkwy., Denver, 80204**. [2]
 - Separate conditional museum lead: **201 S. Cherokee Street, Unit 100, Denver CO 80223**. Operator-published address, not a confirmed tour or private-service invitation. [5]
 - Latitude: . Longitude: . Source: . Scope: . No guessed entrance coordinates.

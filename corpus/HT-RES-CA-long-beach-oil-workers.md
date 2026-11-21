@@ -98,6 +98,7 @@ No field activation. Possible private reading prompt: distinguish a remembered y
 ## 10. Locator record
 
 - Stable entry name: Long Beach oil workers
+- Town: Long Beach
 - Division/dossier: CA / HT-RES-CA-long-beach-oil-workers
 - Public anchor: Historical Society of Long Beach public gallery, with separate California State Archives digital reading
 - Printed street address: 4260 Atlantic Avenue, Long Beach, California 90807 [1]

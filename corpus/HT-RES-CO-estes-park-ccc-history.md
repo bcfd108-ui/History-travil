@@ -96,6 +96,7 @@ No answer or particular label is invented. If these prompts do not fit the curre
 
 ## 10. Locator record
 - Stable name: Estes Park Museum, main gallery
+- Town: Estes Park
 - Public visitor address: 200 4th Street, Estes Park, Colorado 80517
 - Latitude: 
 - Longitude: 

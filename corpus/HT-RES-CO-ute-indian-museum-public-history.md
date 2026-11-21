@@ -89,6 +89,7 @@ No answer has been invented. Do not require a specific label that has not been v
 
 ## 10. Locator record
 - Stable name: Ute Indian Museum, Montrose
+- Town: Montrose
 - Public visitor address: 17253 Chipeta Road, Montrose, Colorado
 - Latitude: 38.4348065
 - Longitude: -107.8678179
