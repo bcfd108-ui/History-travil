@@ -72,6 +72,8 @@ No photo tag offered. The human check would need a lawful street-side standing p
 | Field | Value |
 |---|---|
 | Stable site name | Warkentin House — Newton |
+| Town | Newton |
+| Public anchor | The city’s Warkentin House Museum entrance |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

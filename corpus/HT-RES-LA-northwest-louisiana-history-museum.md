@@ -39,6 +39,8 @@ Optional reading observation only: compare the scale of tools and people in a Hu
 
 ## 10. Structured locator
 - Stable site name: Northwest Louisiana History Museum — Clementine Hunter
+- Town: Natchitoches
+- Public anchor: Northwest Louisiana History Museum, 800 Front Street
 - Latitude:
 - Longitude:
 - Coordinate source and scope:

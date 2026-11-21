@@ -67,6 +67,8 @@ The roadside state marker dates the move to the replacement ranger station to 19
 | Field | Value |
 |---|---|
 | Stable site name | Valley Creek Ranger Station (Stanley Museum) [2, 5] |
+| Town | Stanley |
+| Public anchor | Valley Creek Ranger Station (Stanley Museum) |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

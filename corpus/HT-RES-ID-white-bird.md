@@ -96,6 +96,7 @@ https://www.lib.uidaho.edu/digital/fisher/items/fisher270.html
 
 ## 10. Locator record
 - Stable name: White Bird Battlefield, Nez Perce National Historical Park
+- Town: White Bird
 - Latitude: 45°46'44.42"N
 - Longitude: 116°16'39.87"W
 - Coordinate source/scope: Printed NPS battlefield locator [1]. Not an overlook parking pin, exact peace-party position, camera station or sensitive-site coordinate. No decimal conversion added.

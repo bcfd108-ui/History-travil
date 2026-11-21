@@ -80,6 +80,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Jackson Square and St. Louis Cathedral, French Quarter, New Orleans, Louisiana |
+| Town | New Orleans |
+| Public anchor | Jackson Square, City of New Orleans Parks and Parkways, bound by Chartres and St. Ann Streets, Decatur Street and St. Peter Street, New Orleans; and St. Louis Cathedral, 615 Pere Antoine Alley in the address used by visitor sources |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

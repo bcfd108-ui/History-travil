@@ -62,6 +62,8 @@ No offered tag. A future voluntary exterior submission requires a human field ch
 | Field | Value |
 |---|---|
 | Stable site name | Harvey House — moved Clifton Hotel section, Florence |
+| Town | Florence |
+| Public anchor | Public street frontage at Third and Marion, outside the Florence Historical Society museum, published as 221 Marion |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

@@ -73,6 +73,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Gallier House (James Gallier, Jr. House), 1132 Royal Street, New Orleans |
+| Town | New Orleans |
+| Public anchor | Gallier House, 1132 Royal St., New Orleans, LA 70116 |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

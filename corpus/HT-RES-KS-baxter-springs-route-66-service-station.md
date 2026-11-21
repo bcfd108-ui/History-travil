@@ -39,6 +39,7 @@ None activated. Optional visitor exterior photo may go to pending QC only after 
 
 ## 10. Locator record
 - Stable site name: Baxter Springs Independent Oil and Gas Service Station / Kansas Route 66 Visitor Center
+- Public anchor: Kansas Route 66 Visitor Center, 940 Military Avenue, Baxter Springs, KS 66713
 - Latitude:
 - Longitude:
 - Coordinate source:

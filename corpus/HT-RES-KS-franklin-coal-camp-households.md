@@ -65,6 +65,8 @@ No tag offered for the historical protest reading. Any unrelated present-day con
 | Field | Value |
 |---|---|
 | Stable site name | Franklin Miners Hall Museum — earlier union hall site |
+| Town | Franklin |
+| Public anchor | Miners Hall Museum admissions approach at 701 S Broadway |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

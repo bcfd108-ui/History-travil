@@ -80,6 +80,7 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Grand Ecore Visitor Center and bluff, Grand Ecore, Natchitoches Parish, Louisiana |
+| Town | Grand Ecore |
 | Latitude | 31.817929 |
 | Longitude | -93.088894 |
 | Coordinate source and scope | Point returned in the place record attached to the Corps visitor-center listing in this pass. Scope: the visitor center only — not the landing, the Gethsemane site or the earthworks line, none of which has a verified coordinate here. [1] |

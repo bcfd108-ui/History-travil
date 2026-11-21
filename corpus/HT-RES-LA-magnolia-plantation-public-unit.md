@@ -75,6 +75,7 @@ Quiet witness. If you were already at the open public anchor, a voluntary text n
 |---|---|
 | Stable site name | Magnolia Plantation NPS unit |
 | Historic location | Magnolia plantation district, Natchitoches Parish |
+| Public anchor | NPS Magnolia Plantation parking, store information point and posted inland path |
 | Lawful visitor anchor | NPS Magnolia Plantation parking, store information point and posted inland path |
 | Approach and public boundary | Drive-up with a short walk within NPS public interpretation. Excludes private house, shore and fenced areas. |
 | Latitude | |

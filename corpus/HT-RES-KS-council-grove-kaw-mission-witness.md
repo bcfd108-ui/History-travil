@@ -76,6 +76,8 @@ Answer key:
 | Field | Value |
 |---|---|
 | Stable site name | Kaw Mission State Historic Site, public museum |
+| Town | Council Grove |
+| Public anchor | Kaw Mission State Historic Site |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

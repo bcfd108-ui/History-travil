@@ -45,6 +45,7 @@ An optional observation from a lawful storefront-side sidewalk is the contrast b
 
 ## 10. Structured locator
 - Stable site name: Front Street and Kaffie-Frederick General Mercantile
+- Public anchor: Kaffie-Frederick General Mercantile, 758 Front Street
 - Latitude:
 - Longitude:
 - Coordinate source and scope:

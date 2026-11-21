@@ -74,6 +74,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Hermann-Grima House (Hermann–Grima House; Christian Woman's Exchange in the listing-era file), 820 St. Louis Street, New Orleans |
+| Town | New Orleans |
+| Public anchor | Hermann-Grima House, 820 St. Louis St., New Orleans, LA 70112 |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

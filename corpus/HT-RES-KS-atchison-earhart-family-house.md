@@ -40,6 +40,7 @@ None activated. A current exterior comparison frame is optional and pending QC o
 
 ## 10. Locator record
 - Stable site name: Amelia Earhart Birthplace Museum
+- Public anchor: Amelia Earhart Birthplace Museum, 223 N. Terrace Street, Atchison, KS 66002
 - Latitude:
 - Longitude:
 - Coordinate source:

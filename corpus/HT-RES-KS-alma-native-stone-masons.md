@@ -61,6 +61,8 @@ No tag offered. Any future voluntary exterior contribution requires a verified p
 | Field | Value |
 |---|---|
 | Stable site name | Meyer Block — Wabaunsee County Museum, Alma |
+| Town | Alma |
+| Public anchor | Wabaunsee County Museum’s posted public entrance at 227 Missouri, with exterior views from the public sidewalk at Missouri and Third |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

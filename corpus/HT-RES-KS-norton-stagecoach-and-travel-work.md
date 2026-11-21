@@ -66,6 +66,7 @@ No optional photo tag. There is no verified public standing point tied to the na
 | Field | Value |
 |---|---|
 | Stable site name | Norton stage and mail work — historic service area |
+| Town | Norton |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

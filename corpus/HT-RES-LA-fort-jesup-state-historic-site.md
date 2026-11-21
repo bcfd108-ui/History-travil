@@ -65,6 +65,7 @@ Quiet witness. If you were already at the open public anchor, a voluntary text n
 |---|---|
 | Stable site name | Fort Jesup State Historic Site |
 | Historic location | Former Fort Jesup military reservation, Sabine Parish |
+| Public anchor | Fort Jesup State Historic Site officers’ quarters museum |
 | Lawful visitor anchor | Fort Jesup State Historic Site officers’ quarters museum |
 | Approach and public boundary | Drive-up and short walk inside signed public state historic site interpretation area. |
 | Latitude | |

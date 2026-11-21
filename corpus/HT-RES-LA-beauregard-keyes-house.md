@@ -76,6 +76,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Beauregard-Keyes House (LeCarpentier-Beauregard-Keyes House; BK Historic House & Gardens), 1113 Chartres Street, New Orleans |
+| Town | New Orleans |
+| Public anchor | BK Historic House & Gardens, 1113 Chartres St., New Orleans, LA 70116 |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

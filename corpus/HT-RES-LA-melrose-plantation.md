@@ -78,6 +78,7 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Melrose Plantation (Melrose on the Cane), Melrose, Natchitoches Parish, Louisiana |
+| Town | Melrose |
 | Latitude | 31.5986 |
 | Longitude | -92.9669 |
 | Coordinate source and scope | HABS record object location for the African House, 31°35′55″ N, 92°58′00.98″ W, via the Library of Congress survey record; consistent with the center-point coordinates begun in the 1972 nomination (92°57′57″ W as legible). Scope: museum complex center, not a parcel corner. [4, 10] |
