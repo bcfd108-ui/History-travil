@@ -156,7 +156,11 @@ export function GroundGroups({ rows, ctx }: { rows: BrowseRow[]; ctx: Query }) {
   return (
     <>
       {buckets(rows, (r) => [r.state]).map(([state, places]) => (
-        <section className="ground-group" key={state}>
+        <section
+          className="ground-group"
+          id={"state-" + places[0].stateCode}
+          key={state}
+        >
           <h2>{state}</h2>
           {buckets(places, (r) => [area(r)]).map(([name, items]) => (
             <section key={name}>
@@ -198,7 +202,7 @@ export function ClusterIndex({
         const ordered = [...items].sort(byTitle);
         const short = (r: BrowseRow) =>
           r.title
-            .replace(/^HT-RES(?:-[A-Z]{2})?\s*[—:-]\s*/, "")
+            .split(/\s+[—–]\s+|:\s+/)[0]
             .split(/\s+/)
             .slice(0, 3)
             .join(" ");

@@ -1,7 +1,8 @@
 import { notFound } from "next/navigation";
-import { Crumbs, GroundGroups, Pager } from "@/components/Browse";
+import { Crumbs, GroundGroups, IndexLink, Pager } from "@/components/Browse";
 import {
   PAGE,
+  buckets,
   countLabel,
   pageNumber,
   pathName,
@@ -31,6 +32,7 @@ export default async function Theme({ params, searchParams }: Props) {
   if (!theme) notFound();
   const ctx = { from: "theme", group: theme };
   const rows = selection(ctx);
+  const states = buckets(rows, (r) => [r.state]);
   const n = pageNumber(query(await searchParams).page, rows.length);
   return (
     <>
@@ -39,6 +41,28 @@ export default async function Theme({ params, searchParams }: Props) {
       />
       <h1>{pathName(theme)}</h1>
       <p className="index-total">{countLabel(rows.length)}</p>
+      {states.length > 1 && rows.length > PAGE && (
+        <details className="state-fold">
+          <summary>Jump to a state</summary>
+          <div className="index-grid">
+            {states.map(([name, members]) => {
+              const firstPage = Math.floor(rows.indexOf(members[0]) / PAGE) + 1;
+              const href =
+                url(themeUrl(theme), { page: String(firstPage) }) +
+                "#state-" +
+                members[0].stateCode;
+              return (
+                <IndexLink
+                  key={name}
+                  href={href}
+                  label={name}
+                  count={members.length}
+                />
+              );
+            })}
+          </div>
+        </details>
+      )}
       <GroundGroups rows={rows.slice((n - 1) * PAGE, n * PAGE)} ctx={ctx} />
       <Pager
         n={n}
