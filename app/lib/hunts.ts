@@ -47,7 +47,10 @@ const normalize = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, " ").tri
 
 export function resolveHunts(seeds: HuntSeed[], sites: Site[], anchorOf: (s: Site) => VisitableAnchor | null): Hunt[] {
   const bySlug = new Map(sites.map(s => [s.slug, s]));
+  const huntIds = new Set<string>();
   return seeds.filter(h => h.status === "active").map(h => {
+    if (!/^[a-z0-9-]+$/.test(h.slug) || huntIds.has(h.slug)) throw new Error("Invalid or duplicate hunt slug: " + h.slug);
+    huntIds.add(h.slug);
     const finds: HuntFind[] = [];
     const ids = new Set<string>();
     for (const f of h.finds) {

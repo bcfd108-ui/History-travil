@@ -7,7 +7,8 @@
     "convert": "node scripts/convert.mjs",
     "dev": "next dev",
     "build": "node scripts/convert.mjs && next build",
-    "start": "next start"
+    "start": "next start",
+    "test:hunts": "node scripts/convert.mjs && tsc --target ES2022 --module commonjs --esModuleInterop --skipLibCheck --outDir .tmp/hunt-tests tests/hunts.test.ts && node --test .tmp/hunt-tests/tests/hunts.test.js"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",

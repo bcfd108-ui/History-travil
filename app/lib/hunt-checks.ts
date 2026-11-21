@@ -4,7 +4,7 @@ import { haversineKm, type LatLon } from "./geo";
 
 export type FindRef = Pick<HuntFind, "id" | "entrySlug" | "legacyLabels">;
 export type Book = { objects: Map<string, boolean>; legacy: Set<string> };
-export const receiptName = (hunt: string, f: FindRef) => [hunt, f.id, f.entrySlug].join("~");
+export const receiptName = (hunt: string, f: FindRef) => [hunt, f.id, f.entrySlug].join(".");
 
 export function checked(book: Book, hunt: string, f: FindRef) {
   return !!f.entrySlug && (book.objects.has(receiptName(hunt, f)) ||
