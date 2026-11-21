@@ -40,14 +40,12 @@ The 2019 directory describes museum educational services and an appointment-base
 No object inventory, current exhibition, film schedule, accessibility assessment or physical condition has been verified. This dossier does not fill those gaps with tourism-directory claims.
 
 ## 5. Trip-shaped stop progression
-**Remote preparation sequence only; no physical itinerary is activated.**
 
-1. Begin with the Nation's name and the distinction between cultural relationships and separate governments.
-2. Read the brief attributed passage from Art Wilson as a boundary on behavior, not a clue to a destination.
-3. Read the Nation's own institutional purpose. Keep preservation for the community separate from a visitor's desire to see more.
-4. End with the strongest story moment: what remains unvisited can be just as important to respecting the history as what is placed on public display.
+This is a remote reading entry: no public physical anchor is verified in the record, and the Nation's published words are the substance. Their online availability permits reading; it does not establish entry into any place they mention. [1,3,4]
 
-If a future public museum admission gate is independently established, a new visit plan must use that exact institution's current conditions. It must not add communities, churches, burial places, cultural sites or substitute attractions. No question sequence, answer key, test or completion requirement accompanies this reading entry.
+A release issued by the Nation's Office of the Chairman and Vice Chairman on November 10, 2015, describes the documentary *Ours Is the Land*. In it, Legislative Council member Art Wilson explains the significance of ancestors and the obligation not to disturb them: “we are taught not to bother them, to leave them alone.” The same release identifies elder Joseph Joaquin speaking against reducing the Nation's relationship with its land to monetary or mineral value, in the context of a proposed mining project — a dated statement of the Nation's position, not an updated account of that project's status. [3]
+
+The Nation's *History & Culture* page presents its continuing relationships with the Sonoran Desert and its knowledge of that environment. A 2019 directory describes the Cultural Center & Museum's educational services and an appointment-based library and archive whose audience is principally community members and service providers; no current exhibition, object inventory or walk-in research access is verified here. [2][4]
 
 ## 6. Honest gaps and conflicting dates
 - Current winter opening, public eligibility, admission cost, holiday closures and temporary restrictions remain unverified.
