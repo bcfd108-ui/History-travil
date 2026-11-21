@@ -1,1 +1,20 @@
-{}
+{
+ "IA-boone-railroad-shop-workers": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Sanborn_Fire_Insurance_Map_from_Boone%2C_Boone_County%2C_Iowa._LOC_sanborn02583_006-9.jpg",
+  "alt": "1916 fire insurance map showing the curved Chicago and North Western roundhouse around a turntable, the machine shop, and parallel railroad tracks in Boone, Iowa.",
+  "credit": "Sanborn Map Company, April 1916, sheet 9. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+  "sourceName": "Library of Congress — Sanborn Maps Collection, item sanborn02583_006",
+  "sourceUrl": "https://www.loc.gov/item/sanborn02583_006/",
+  "dateNote": "April 1916. This sheet documents the railroad shops at the Boone stop. It does not establish the Lincoln Highway alignment or public access to the historic rail yard.",
+  "caption": "Boone's Chicago & North Western roundhouse, turntable, machine shop and adjoining yard, mapped in April 1916."
+ },
+ "lincoln-highway-iowa": {
+  "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Sanborn_Fire_Insurance_Map_from_Boone%2C_Boone_County%2C_Iowa._LOC_sanborn02583_006-9.jpg",
+  "alt": "1916 fire insurance map showing the curved Chicago and North Western roundhouse around a turntable, the machine shop, and parallel railroad tracks in Boone, Iowa.",
+  "credit": "Sanborn Map Company, April 1916, sheet 9. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
+  "sourceName": "Library of Congress — Sanborn Maps Collection, item sanborn02583_006",
+  "sourceUrl": "https://www.loc.gov/item/sanborn02583_006/",
+  "dateNote": "April 1916. This sheet documents the railroad shops at the Boone stop. It does not establish the Lincoln Highway alignment or public access to the historic rail yard.",
+  "caption": "Boone stop inset — Boone's Chicago & North Western roundhouse, turntable, machine shop and adjoining yard, mapped in April 1916."
+ }
+}
