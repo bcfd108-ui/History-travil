@@ -38,15 +38,11 @@ No surviving garment, tool, pay envelope, worker residence or current display ha
 
 ## 5. Trip-shaped stop progression
 
-A source-led visit shape, **not an industrial itinerary**. Suggested 30–45 minutes is an editorial allowance; archive retrieval may require a separate confirmed session.
+The public anchor is the Historical Society of Long Beach's public gallery, 4260 Atlantic Avenue, with the interview itself read digitally through the California State Archives. No garment, tool, pay envelope, worker residence or current display has been identified for the man in this entry. [3–4]
 
-1. **Begin digitally:** identify narrator, interviewer and interview dates. Read printed pages 19–20 with the literary-rights statement. [3]
-2. **Notice the date correction:** the interviewer guesses; the narrator corrects. Treat that exchange as evidence of how oral history is made, not a reason to silently smooth the chronology.
-3. **Optional public-gallery context:** if actually open, visit HSLB’s public gallery on its own terms. No Grant display is promised. Do not enter the archive or expect unarranged staff research. [1–2]
-4. **Separate scales:** distinguish a municipal collection about oil from an individual’s memory of wages and household need. They answer different questions. [3–4]
-5. **Strongest story ending:** return to the household decision. What does a “better-paying job” mean if it still cannot meet the family’s needs? End with that question rather than a spectacle of equipment.
+Allan Grant was interviewed by Dale E. Treleven on April 29–30 and May 1, 1991, for the California State Archives through UCLA's Oral History Program. In the portions read for this dossier, Grant recalls taking oil-field work in the Signal Hill/Long Beach area after his father's death because he needed higher earnings — correcting the interviewer's proposed mid-1920s date to 1928. Supporting his siblings required more than food, he explains; covering clothing helped move him toward sharecropping. No direct quotation is reproduced here: the manuscript's literary-rights statement requires written permission for quotation for publication. The passage is a brief worker-and-household window inside a much longer interview centered on Grant's later public life, and it does not establish a typical oil worker's income, employer or routine. [3]
 
-If historical death or hardship enters the discussion, keep it reflective. No simulated work, accident reenactment, timed challenge, photo hunt, collection activity or reward. Closed gallery means digital-only, not a detour to oil ground.
+The Historical Society's collection guide separately identifies city-manager files from 1923–1953 addressing topics including oil discovery. A further lead — minutes of the Shell Oil Unit Long Beach Local 128, Oil Workers International Union, at the University of Houston (collection 2006-005a, Box 11, Folder 28) — was identified by its finding aid only; the minutes were not retrieved, and nothing connects Grant to Shell or that local. [4][5]
 
 ## 6. Honest gaps and conflicting dates
 
