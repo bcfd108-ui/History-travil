@@ -46,15 +46,12 @@ No current Indigenous exhibit inventory, label authorship, audio station or cons
 Surviving colonial-period architecture is not a substitute for the community voice. Nor does a historic artifact’s presence authorize handling, photography, reproduction or extrapolation to a cultural site.
 
 ## 5. Trip-shaped stop progression
-One state-museum reflection sequence, conditional on open public areas. No directions between buildings or to excluded ground.
 
-1. **Establish scope at entry.** Use the current state visitor information and open public interpretation only. Keep all unrelated property outside the visit.
-2. **Read the named voice first.** Identify Lopez and the publisher before looking at the restored setting. Distinguish personal testimony, institutional history and operator interpretation.
-3. **Examine the narrative presented.** In an open exhibit, ask whether Indigenous people appear as named people, labor, a generalized category or present-day communities. Record only what is actually visible.
-4. **Notice evidence and silence.** A missing credit or perspective is a question for interpretation, not a license to fill the gap with an invented story.
-5. **End quietly with continuity:** the important contrast is not old buildings against modern streets. It is a colonial story told as finished against a descendant community explaining obligations that continue.
+The public ground is San Juan Bautista State Historic Park, whose museums the state operator lists as the Plaza Hotel, Zanetta House/Plaza Hall, Plaza Stables and Castro-Breen Adobe, with furnished interpretation. That list establishes the park's public offerings, not access to every room today — and no current Indigenous exhibit inventory, label authorship or audio station was inspected onsite. Surviving colonial-period architecture is not a substitute for the community's own voice. [1]
 
-Optional unsent question for a public interpreter: **Which current exhibits were developed with named descendant communities, and where can visitors read those communities’ own published accounts?** Do not ask for restricted knowledge or directions to cultural ground.
+That voice is published by the Amah Mutsun Tribal Band. In *An Introduction from Chairman Valentin Lopez* on the Tribe's website, Lopez identifies the community through descendants of Indigenous people taken to missions San Juan Bautista and Santa Cruz, and describes colonization, historical trauma and a return to stewardship. Recounting a 2005 appeal by Tribal elders, he says they insisted: “we must find a way to return to this path.” That is his published account of the elders' direction, not a separately recorded quotation from a named elder, and the page is not visibly dated — its titles are not presented here as a fresh 2026 statement. [3]
+
+The Tribal account is a companion to the park visit, explicitly separate from the museum's displays: this dossier does not say the museum tells this precise story until the actual display is checked. [3]
 
 ## 6. Honest gaps and conflicting dates
 - Public opening is operator-published, not a same-day guarantee. No individual building, accessible route or winter weather inspection was performed.
