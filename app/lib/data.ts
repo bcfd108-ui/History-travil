@@ -272,6 +272,20 @@ let sitesCache: Site[] | null = null;
 let indexCache: IndexRow[] | null = null;
 let statsCache: Stats | null = null;
 
+interface PublicLocator {
+  operator: string;
+  access: string;
+  listing: string;
+  registerUrl: string;
+  point: { lat: number; lon: number } | null;
+}
+
+let publicLocators: Record<string, PublicLocator> | null = null;
+export function getPublicLocator(slug: string) {
+  publicLocators ??= load<Record<string, PublicLocator>>("public-locators.json");
+  return publicLocators[slug];
+}
+
 export function getSites(): Site[] {
   if (!sitesCache) sitesCache = load<Site[]>("sites.json");
   return sitesCache;
@@ -316,7 +330,7 @@ export function getHistoricPhoto(slug: string): HistoricPhoto | undefined {
 // public entrance. Where the dossier deliberately omits the point (its value
 // says so, or is blank), the omission is the record's own statement and is
 // carried as-is — this helper returns only fields with real content; pure
-// blanks stay in the full locator grid, marked blank there.
+// blanks remain in the source record.
 // ---------------------------------------------------------------------------
 const HISTORIC_LOCATION_KEY =
   /^(historic|historical|separate historical|discovery)/i;

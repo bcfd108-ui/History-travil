@@ -13,6 +13,7 @@
 // with §1 as a bold header line; and a home-bench 8-part scheme. Sections are
 // therefore mapped by title keywords first, section numbers second.
 // Run: node scripts/convert.mjs   (also runs as part of `npm run build`)
+import { publicLocator } from "./public-locator.mjs";
 import { readdirSync, readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -202,7 +203,7 @@ function mapSections(sections, titled) {
   return { lead, gate, story, thenNow, stillThere, progression, gaps, photoRecord, sources, locatorSec, candSec, moreSections };
 }
 
-function parseLocator(sec) {
+function parseLocator(sec, includeContinuations = true) {
   const pairs = [];
   if (!sec) return pairs;
   const body = sec.body.replace(/```[a-z]*\n?/g, "").replace(/```/g, "");
@@ -214,7 +215,7 @@ function parseLocator(sec) {
     const cell = line.match(/^\|?\s*([^:|]{2,60}?)\s*\|\s*(.*)$/);
     const m = cell || line.match(/^\*{0,2}([^:*]{2,60}?)\*{0,2}:\s*(.*)$/);
     if (m) pairs.push({ key: m[1].trim().replace(/_/g, " ").replace(/^trip gate$/i, "Before you go"), value: m[2].trim() });
-    else if (pairs.length && !/^#/.test(line)) pairs[pairs.length - 1].value += " " + line;
+    else if (includeContinuations && pairs.length && !/^#/.test(line)) pairs[pairs.length - 1].value += " " + line;
   }
   return pairs;
 }
@@ -440,6 +441,7 @@ function convert(filePath, origin) {
       candidateFinds: cand.candidates,
       publishedAs: "Published research — the record, with its gaps printed. Not yet field-proven.",
     },
+    publicLocator: publicLocator(parseLocator(S.locatorSec, false), md),
     meta: { slug, origin, isRevision, boldSec1, altScheme: !sections[10] && !!S.locatorSec, moreCount: (S.moreSections || []).length, signals, cand, hasCoordinates: !!coordinates, coordinateKind },
   };
 }
@@ -448,13 +450,14 @@ function convert(filePath, origin) {
 const bySlug = new Map();
 const collisions = [];
 function ingest(filePath, origin) {
-  const { site, meta } = convert(filePath, origin);
+  const entry = convert(filePath, origin);
+  const { site, meta } = entry;
   const prev = bySlug.get(site.slug);
   if (prev) {
     collisions.push(`${site.slug}: ${prev.meta.origin}${prev.meta.isRevision ? " (R02)" : ""} vs ${origin}${meta.isRevision ? " (R02)" : ""}`);
     if (prev.meta.isRevision && !meta.isRevision) return;
   }
-  bySlug.set(site.slug, { site, meta });
+  bySlug.set(site.slug, entry);
 }
 for (const f of readdirSync(corpusDir).filter((f) => f.startsWith("HT-RES-") && f.endsWith(".md")).sort())
   ingest(join(corpusDir, f), "corpus");
@@ -513,6 +516,8 @@ const stats = {
 };
 
 if (!existsSync(outDir)) mkdirSync(outDir, { recursive: true });
+const publicLocators = Object.fromEntries([...bySlug].map(([slug, entry]) => [slug, entry.publicLocator]));
+writeFileSync(join(outDir, "public-locators.json"), JSON.stringify(publicLocators));
 writeFileSync(join(outDir, "sites.json"), JSON.stringify(sites, null, 1));
 writeFileSync(join(outDir, "index.json"), JSON.stringify(index));
 writeFileSync(join(outDir, "stats.json"), JSON.stringify(stats, null, 2));
