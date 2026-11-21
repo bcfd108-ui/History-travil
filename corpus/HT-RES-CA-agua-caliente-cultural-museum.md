@@ -43,13 +43,11 @@ The public museum can supply present interpretation even when a particular tempo
 
 ## 5. Trip-shaped stop progression
 
-1. **Choose the gate first:** distinguish an ordinary timed visit from the specific free-evening offer. Check holiday exceptions and any individual access needs before travel.
-2. **Orient inside:** begin with the museum's public welcome and the Tribe's own introduction, rather than treating artifacts as a puzzle to solve.
-3. **Listen for attribution:** notice whether a label identifies an Elder, artist, curator or government record. These voices do different work and need not be collapsed into one institutional narrator.
-4. **Keep exhibition dates visible:** if interested in Section 14, use the dated public release as background. Do not ask the current art exhibition to supply an absent historical film or claim that an old show is still there.
-5. **End with the strongest story moment:** return to the published declaration of home. Reflect on how a place can welcome visitors without surrendering authority over its own story or opening all its land.
+The public ground is the Agua Caliente Cultural Museum in Palm Springs — the Agua Caliente Band of Cahuilla Indians' own ticketed museum, with permanent and changing galleries as the operator describes them. No present-day site inspection was performed for this dossier, and nothing outside the museum — canyons, springs, ceremonial places, neighborhoods, archives storage — is part of the visit. [2][3]
 
-One museum visit is enough for this narrative. No extension into cultural landscapes, photography expedition or search for historical remains is part of it. If the museum is closed, the Tribe's public writing is the fallback, not a nearby substitute site.
+The exhibition at the center of this entry is *Section 14 The Untold Story*, announced in the Tribe's June 14, 2025 release. Tribal Chairman Reid D. Milanovich, as identified in that release, framed it in one sentence: “This is our home, and it has been since time immemorial.” The release describes an exhibition built on Tribal Elders' recollections and documentary evidence about the efforts to retain land and sovereignty — the Tribe's framing of its own history, not a substitute for every other former resident's account. The release was read; its referenced film was not viewed, and no individual Elder's words are invented here. [4]
+
+The museum's public life continues past its galleries: the operator advertised a November 18, 2026 discussion with Mildred Browne and Moraino J. Patencio. That listing proves an advertised program, not that it occurred or that a recording is available. [6]
 
 ## 6. Honest gaps and conflicting dates
 
