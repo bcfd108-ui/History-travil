@@ -2,17 +2,19 @@
   "name": "history-travel-hosted",
   "version": "0.2.0",
   "private": true,
-  "description": "History Travel — hosted edition (Stage 2: accounts + saving behind the Stage 1 catalog; dormant until keys are wired at deployment).",
+  "description": "History Travel \u2014 hosted edition (Stage 2: accounts + saving behind the Stage 1 catalog; dormant until keys are wired at deployment).",
   "scripts": {
     "convert": "node scripts/convert.mjs",
     "dev": "next dev",
     "postconvert": "node scripts/photo-coverage.mjs",
-    "build": "npm run convert && node scripts/build-navigation.mjs && node scripts/check-maps.mjs && node scripts/check-hunts.mjs && next build",
+    "build": "npm run convert && node scripts/build-navigation.mjs && node scripts/check-maps.mjs && node scripts/check-hunts.mjs && node scripts/check-machine-queue.mjs && next build",
     "start": "next start",
     "check:maps": "node scripts/check-maps.mjs",
     "test:maps": "node --test scripts/maps-core.test.mjs",
     "check:hunts": "node scripts/check-hunts.mjs",
-    "test:hunts": "node --test scripts/hunts-core.test.mjs"
+    "test:hunts": "node --test scripts/hunts-core.test.mjs",
+    "queue:build": "node scripts/build-machine-queue.mjs",
+    "test:queue": "node --test scripts/machine-queue.test.mjs"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",
