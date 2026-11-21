@@ -262,5 +262,177 @@
     "hook": "“The water changed in a day. The relationship to this place did not end.” On March 10, 1957, the gates of The Dalles Dam closed and within hours the reservoir silenced a salmon fishery fished for at least 10,000 years. The falls are underwater. The people of Celilo Village remain. Stand beside the quiet river knowing both."
    }
   ]
+ },
+ {
+  "id": "lincoln-highway-iowa",
+  "name": "The Lincoln Highway Across Iowa",
+  "meta": "DRIVE · WEST TO EAST ON THE OLD HIGHWAY · 5 STOPS",
+  "description": "The Lincoln Highway was the first road across the country, and in Iowa it ran town to town along what became U.S. 30. These five stops are the catalog's ground on it, in the order a driver met them — from the Missouri River crossing at Council Bluffs east to Cedar Rapids. None of them is a roadside attraction. Each is a working town the highway passed through, and the road is the thread that ties them.",
+  "stops": [
+   {
+    "name": "Council Bluffs — the Missouri River Crossing",
+    "place": "Council Bluffs, Iowa",
+    "siteSlug": "IA-council-bluffs-missouri-river-portage",
+    "hook": "The road starts at the river. Before there was a highway this crossing was a portage ground, and the entry asks you to read the memorial against the river record. This is reflection ground — start the drive by standing still a minute."
+   },
+   {
+    "name": "Boone — the Railroad Shops",
+    "place": "Boone, Iowa",
+    "siteSlug": "IA-boone-railroad-shop-workers",
+    "hook": "East out of the Bluffs, the highway runs into railroad country. Boone's shops kept the Chicago & North Western's engines working; for a hundred miles the road and the rails crossed the same state doing the same job, and this stop is where the rails answer back."
+   },
+   {
+    "name": "Marshalltown — the Foundry",
+    "place": "Marshalltown, Iowa",
+    "siteSlug": "IA-marshalltown-lennox-foundry-workers",
+    "hook": "The next town east made things. The Lennox works grew out of a Marshalltown shop that had to make its own tools — the highway towns ran on what shops like this produced, and shipped it out on the same roads and rails you just drove."
+   },
+   {
+    "name": "Belle Plaine — Where the Station Moved for the Road",
+    "place": "Belle Plaine, Iowa",
+    "siteSlug": "IA-belle-plaine-lincoln-highway-crossroads",
+    "hook": "Here the road itself is the story. When the highway was rerouted, Preston's filling station picked up and moved across town to stay on it. The record keeps both streets and both date ranges for the move — read them, then go stand on the corners."
+   },
+   {
+    "name": "Cedar Rapids — the Czech Households",
+    "place": "Cedar Rapids, Iowa",
+    "siteSlug": "IA-cedar-rapids-czech-immigrant-households",
+    "hook": "The last stop on this chain is a neighborhood, not a business. The highway carried people through Cedar Rapids; the Czech households here are what people carried in and kept — a language held in kitchens a few blocks from the road."
+   }
+  ]
+ },
+ {
+  "id": "pony-express",
+  "name": "The Pony Express — St. Joseph to the Kansas Stations",
+  "meta": "DRIVE · EAST TO WEST, THE WAY THE RIDERS RAN · 3 STOPS",
+  "description": "The Pony Express lasted eighteen months, and its first miles west out of St. Joseph crossed the Missouri and climbed into Kansas. These three stops are the relay as the catalog holds it: the stables a rider left from, the barn that kept his next horse ready, and the station household that kept the door open. Drive it east to west, the way the mail ran.",
+  "stops": [
+   {
+    "name": "St. Joseph Pony Express Stables",
+    "place": "St. Joseph, Missouri",
+    "siteSlug": "MO-st-joseph-pony-express-stables",
+    "hook": "Every run started here — a horse saddled, a rider up, the river crossing ahead. The record holds a pouch still waiting to go. Start where the riders started."
+   },
+   {
+    "name": "Hollenberg Station",
+    "place": "Hollenberg Station, Kansas",
+    "siteSlug": "KS-hollenberg-station-household-work",
+    "hook": "West into Kansas, the first stations were households. Hollenberg kept the door open — meals, beds, and a station family behind the schedule. The Express is remembered for speed; this stop is about the people who made a timetable out of a farmhouse."
+   },
+   {
+    "name": "Marysville — the Pony Express Barn",
+    "place": "Marysville, Kansas",
+    "siteSlug": "KS-marysville-pony-express-barn-work",
+    "hook": "The last stop on this chain is the barn. West of Hollenberg the relay ran on stock tenders more than on riders — Marysville's barn is where the horses were kept ready, the unglamorous work underneath the fast part, and the reason a rider could change mounts and keep moving."
+   }
+  ]
+ },
+ {
+  "id": "arkansas-delta",
+  "name": "The Arkansas Delta — River, Levee, and Tenant Ground",
+  "meta": "DRIVE · NORTH TO SOUTH THROUGH THE DELTA · 5 STOPS",
+  "description": "The Delta's history is water and work: a river that floods, levees raised against it, and tenant households farming behind them. These five stops run north to south through that ground, from a government colony townsite to a plantation house at the bottom of the state. Three of the five are reflection stops — read them as witness, not as sights.",
+  "stops": [
+   {
+    "name": "Dyess — the Colony",
+    "place": "Dyess, Arkansas",
+    "siteSlug": "AR-dyess-colony-households",
+    "hook": "Start at the colony the government built in the Depression: twenty acres, a house, and a fresh start on paper. What came with the twenty acres — and what it cost — is the Delta's story in one townsite."
+   },
+   {
+    "name": "Tyronza — the Tenant Farmers' Union",
+    "place": "Tyronza, Arkansas",
+    "siteSlug": "AR-tyronza-tenant-farmers-union",
+    "hook": "South from Dyess is the other answer to the same ground: tenant farmers organizing for themselves instead of waiting to be resettled. This is reflection ground — the union's museum stands where sharecroppers decided the terms had to change."
+   },
+   {
+    "name": "Marianna — the Levee and the Relief Boat",
+    "place": "Marianna, Arkansas",
+    "siteSlug": "AR-marianna-st-francis-levee-workers",
+    "hook": "The route turns toward the St. Francis levees. When the water came in 1927, Marianna became a relief headquarters and the relief boat came in — the record names the local rescuers. The levee was work; the flood made it a lifeline."
+   },
+   {
+    "name": "Helena — a Wage Promised at the River",
+    "place": "Helena, Arkansas",
+    "siteSlug": "AR-helena-delta-freedom-and-river-workers",
+    "hook": "Down to the Mississippi itself. Helena's entry is a wage promised at the river and what happened when men organized to collect it — reflection ground, where river work and freedom work were the same fight."
+   },
+   {
+    "name": "Lakeport Plantation",
+    "place": "Lake Village, Arkansas",
+    "siteSlug": "AR-lakeport-plantation-freed-workers",
+    "hook": "The route ends at the oldest ground on it: a plantation house whose museum tells the place from the labor side, through the freed workers who made it run. End here — the Delta's whole story, from colony to plantation, is behind you."
+   }
+  ]
+ },
+ {
+  "id": "route-66",
+  "name": "Route 66 — Springfield to Amarillo",
+  "meta": "DRIVE · WESTBOUND, THE WAY THE ROAD RAN · 6 STOPS",
+  "description": "Six catalog stops on the Mother Road, in the order a westbound driver met them: out of Springfield, across the thirteen Kansas miles, and down the Oklahoma length to Amarillo. Every stop is a working place the road fed — a room for the night, a pump, a service bay, a dance floor. One is reflection ground, and it comes first on purpose.",
+  "stops": [
+   {
+    "name": "Springfield — the Address That Meant a Room",
+    "place": "Springfield, Missouri",
+    "siteSlug": "MO-springfield-route-66-black-motoring",
+    "hook": "Start with the hardest geography on this road: where a Black traveler could stop for the night. Springfield's entry is reflection ground, and it sets the terms for every mile west of here — the road was not the same road for everybody."
+   },
+   {
+    "name": "Baxter Springs — the Cottage Station",
+    "place": "Baxter Springs, Kansas",
+    "siteSlug": "KS-baxter-springs-route-66-service-station",
+    "hook": "Kansas holds thirteen miles of Route 66, and Baxter Springs holds its station: a filling station built to look like a cottage, now the Kansas Route 66 visitor center. The little house sold a recognizable service — that was the point of it."
+   },
+   {
+    "name": "Hydro — Lucille Hamons and the Provine Station",
+    "place": "Hydro, Oklahoma",
+    "siteSlug": "OK-hydro-provine-service-station",
+    "hook": "Into Oklahoma, the road ran on people like Lucille Hamons, who kept the Provine station's bay working for decades of drivers. This is the road at its most personal — one woman, one station, and every traveler who ever limped in."
+   },
+   {
+    "name": "Clinton — the Road as Work",
+    "place": "Clinton, Oklahoma",
+    "siteSlug": "OK-clinton-route-66-road-work",
+    "hook": "West to Clinton, the entry stops being a business and becomes the road itself: the work of building it, and what happened to that work when the highway moved. Every stop on this route exists because somebody built the ground it stands on."
+   },
+   {
+    "name": "Elk City — Under the New Highway",
+    "place": "Elk City, Oklahoma",
+    "siteSlug": "OK-elk-city-route-66-road-work",
+    "hook": "One town further west, the same story from the other side of the paving: the work under the new highway, in the record of the people who did it. Clinton and Elk City are two chapters of one job."
+   },
+   {
+    "name": "Amarillo — the Nat on Sixth Avenue",
+    "place": "Amarillo, Texas",
+    "siteSlug": "TX-amarillo-sixth-avenue-route-66-work",
+    "hook": "The route lands on Sixth Avenue, Amarillo's stretch of the road, at the Nat — a dance floor built over a swimming pool. End the drive where the road's working day turned into its night."
+   }
+  ]
+ },
+ {
+  "id": "mississippi-river-missouri",
+  "name": "Down the Mississippi — Hannibal to Ste. Geneviève",
+  "meta": "DRIVE · NORTH TO SOUTH DOWN THE MISSISSIPPI · 3 STOPS",
+  "description": "Three Missouri towns on one river, in downstream order. Hannibal worked the landing, St. Louis decided who was free in a courthouse by the water, and Ste. Geneviève kept its French Creole households on the floodplain below. Two of the three are reflection stops — the river's history runs deep, and not all of it is scenery.",
+  "stops": [
+   {
+    "name": "Hannibal — the Landing and the Print Shops",
+    "place": "Hannibal, Missouri",
+    "siteSlug": "MO-hannibal-river-and-print-workers",
+    "hook": "Start at the landing, where the river was a workplace before it was anything else: type set by hand in the print shops, boats worked at the water's edge. Everything downstream of here happened in a bigger town, but it all floated past this one first."
+   },
+   {
+    "name": "St. Louis — the Old Courthouse",
+    "place": "St. Louis, Missouri",
+    "siteSlug": "MO-st-louis-old-courthouse-scott-family",
+    "hook": "Downstream, the river town became a city, and in its courthouse the Scott family petitioned for their freedom. This is reflection ground. The river carried people toward freedom and away from it; this room is where two of them asked the law to say which."
+   },
+   {
+    "name": "Ste. Geneviève — the French Creole Households",
+    "place": "Ste. Geneviève, Missouri",
+    "siteSlug": "MO-ste-genevieve-french-creole-households",
+    "hook": "Below St. Louis the river slows past the oldest ground on the route: Pélagie's household on a census page, in a French Creole town older than the state. End where the record is a household, not a monument."
+   }
+  ]
  }
 ]

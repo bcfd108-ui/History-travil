@@ -456,6 +456,141 @@ export function getTour(id: string): Tour | undefined {
   return getTours().find((t) => t.id === id);
 }
 
+/** Every tour (route) whose stop list includes this catalog entry. */
+export function getToursForSite(slug: string): Tour[] {
+  return getTours().filter((t) => t.stops.some((s) => s.siteSlug === slug));
+}
+
+// ---------------------------------------------------------------------------
+// HISTORIC MAPS (owner's direction, Nov 20, 2026 — "historic maps should be
+// part of it"): an entry or a route may carry a historic map — a Sanborn
+// sheet, a USGS quadrangle, a period plat — when one has been honestly
+// sourced from the entry's own dossier record: public domain, with the
+// repository, date and credit printed alongside, and a stable source URL
+// verified before adoption. Records live in data/historic-maps.json, a
+// hand-maintained sidecar keyed by entry slug or tour id, same pattern as
+// historic-photos.json. No verified map, no figure — the slot renders
+// nothing and the gap stays in the record. No image is ever generated or
+// guessed into this slot.
+// ---------------------------------------------------------------------------
+export interface HistoricMap {
+  src: string;
+  alt: string;
+  caption: string;
+  credit: string;
+  sourceName: string;
+  sourceUrl: string;
+  dateNote?: string;
+}
+
+let mapsCache: Record<string, HistoricMap> | null = null;
+
+export function getHistoricMap(key: string): HistoricMap | undefined {
+  if (!mapsCache) {
+    try {
+      mapsCache = load<Record<string, HistoricMap>>("historic-maps.json");
+    } catch {
+      mapsCache = {};
+    }
+  }
+  return mapsCache[key];
+}
+
+// ---------------------------------------------------------------------------
+// CONNECTED GROUND (owner's direction, Nov 20, 2026): entries link to each
+// other only on connections the record itself supports — never on a
+// resemblance invented by the code. Three kinds, in this order:
+//   1. ROUTE — the two entries are stops on the same tour in tours.json.
+//   2. CORRIDOR — a named corridor, river, or trail (the lexicon below)
+//      appears in BOTH entries' own record text (title, story, then/now,
+//      what's-still-there). A phrase present in only one record links
+//      nothing.
+//   3. TOWN — both entries carry the same town in their locator-derived
+//      record (many desk-published entries carry no town; they simply
+//      earn no town link).
+// Themes are NOT used: they are broad subject buckets, and sharing one is
+// not a connection. The result is capped; route-mates come first.
+// ---------------------------------------------------------------------------
+const CORRIDORS: { phrase: string; label: string }[] = [
+  { phrase: "lincoln highway", label: "The Lincoln Highway" },
+  { phrase: "pony express", label: "The Pony Express line" },
+  { phrase: "route 66", label: "Route 66" },
+  { phrase: "santa fe trail", label: "The Santa Fe Trail" },
+  { phrase: "oregon trail", label: "The Oregon Trail" },
+  { phrase: "lewis and clark", label: "The Lewis and Clark route" },
+  { phrase: "mississippi river", label: "The Mississippi River" },
+  { phrase: "missouri river", label: "The Missouri River" },
+  { phrase: "columbia river", label: "The Columbia River" },
+  { phrase: "snake river", label: "The Snake River" },
+  { phrase: "clearwater river", label: "The Clearwater River" },
+];
+
+export interface ConnectedSite {
+  site: Site;
+  /** The connection, named in a few words — printed beside the link. */
+  connection: string;
+}
+
+let recordTextCache: Map<string, string> | null = null;
+
+function recordText(site: Site): string {
+  if (!recordTextCache) recordTextCache = new Map();
+  let text = recordTextCache.get(site.slug);
+  if (text === undefined) {
+    text = [site.title, site.story, site.thenNow, site.stillThere]
+      .join("\n")
+      .toLowerCase();
+    recordTextCache.set(site.slug, text);
+  }
+  return text;
+}
+
+export function getConnectedSites(site: Site, limit = 4): ConnectedSite[] {
+  const out: ConnectedSite[] = [];
+  const seen = new Set<string>([site.slug]);
+  const push = (other: Site, connection: string) => {
+    if (seen.has(other.slug) || out.length >= limit) return;
+    seen.add(other.slug);
+    out.push({ site: other, connection });
+  };
+
+  // 1. Route-mates.
+  for (const tour of getToursForSite(site.slug)) {
+    for (const stop of tour.stops) {
+      if (!stop.siteSlug || stop.siteSlug === site.slug) continue;
+      const other = getSite(stop.siteSlug);
+      if (other) push(other, `Same route — ${tour.name}`);
+      if (out.length >= limit) return out;
+    }
+  }
+
+  // 2. A named corridor, river, or trail in both records.
+  const myText = recordText(site);
+  const myCorridors = CORRIDORS.filter((c) => myText.includes(c.phrase));
+  if (myCorridors.length > 0) {
+    for (const other of getSites()) {
+      if (seen.has(other.slug)) continue;
+      const otherText = recordText(other);
+      const shared = myCorridors.find((c) => otherText.includes(c.phrase));
+      if (shared) push(other, `Both on ${shared.label}`);
+      if (out.length >= limit) return out;
+    }
+  }
+
+  // 3. Same town, where the record carries one.
+  if (site.town) {
+    for (const other of getSites()) {
+      if (seen.has(other.slug)) continue;
+      if (other.town === site.town && other.stateCode === site.stateCode) {
+        push(other, `Same town — ${site.town}`);
+      }
+      if (out.length >= limit) return out;
+    }
+  }
+
+  return out;
+}
+
 // ---------------------------------------------------------------------------
 // HUNTS (Stage 1 of the game layer, Nov 20, 2026): the three founding hunts
 // with their find lists recovered verbatim from the original app's record

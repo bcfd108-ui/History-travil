@@ -1,11 +1,14 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import {
+  getConnectedSites,
+  getHistoricMap,
   getHistoricPhoto,
   getHuntFindsForSite,
   getPlainTop,
   getSite,
   getSites,
+  getToursForSite,
   getVisitableAnchor,
   historicLocationFields,
   thenNowInvitation,
@@ -122,6 +125,73 @@ function LocatorCard({ site }: { site: Site }) {
       <p className="small">
         Blank fields are blank in the source dossier. Nothing is invented to fill them.
       </p>
+    </section>
+  );
+}
+
+// The entry's historic map, where one has been honestly sourced from the
+// dossier record (owner's direction, Nov 20, 2026). Same discipline as the
+// historic photograph: renders nothing when the record has none.
+function HistoricMapFigure({ slug }: { slug: string }) {
+  const map = getHistoricMap(slug);
+  if (!map) return null;
+  return (
+    <figure className="historic-photo">
+      <img src={map.src} alt={map.alt} loading="lazy" />
+      <figcaption>
+        <span className="hp-caption">{map.caption}</span>
+        <span className="hp-credit">
+          {map.credit} ·{" "}
+          <a href={map.sourceUrl} target="_blank" rel="noreferrer">
+            {map.sourceName}
+          </a>
+        </span>
+        {map.dateNote && <span className="hp-note">{map.dateNote}</span>}
+      </figcaption>
+    </figure>
+  );
+}
+
+// Connected ground (owner's direction, Nov 20, 2026): the routes this entry
+// is a stop on, and the other entries the record itself ties to this one —
+// same route, a corridor or river named in both records, or the same town.
+// Connections are derived in lib/data.ts from the records only; where none
+// exist, the panel does not render.
+function ConnectionsPanel({ site }: { site: Site }) {
+  const tours = getToursForSite(site.slug);
+  const connected = getConnectedSites(site);
+  if (tours.length === 0 && connected.length === 0) return null;
+  return (
+    <section className="panel" aria-label="Connected ground">
+      <h2>Connected ground</h2>
+      {tours.length > 0 && (
+        <>
+          <p className="small">On this route:</p>
+          <div className="rows">
+            {tours.map((t) => (
+              <Link key={t.id} className="row" href={`/tours/${t.id}`}>
+                <span className="t">{t.name}</span>
+                <span className="small">{t.meta}</span>
+              </Link>
+            ))}
+          </div>
+        </>
+      )}
+      {connected.length > 0 && (
+        <div className="rows">
+          {connected.map(({ site: other, connection }) => (
+            <Link key={other.slug} className="row" href={`/sites/${other.slug}`}>
+              <span className="t">{other.title}</span>
+              <span className="small">
+                {other.town ? `${other.town}, ` : ""}
+                {other.state}
+                {other.stopType === "reflection" ? " · Reflection stop" : ""}
+              </span>
+              <span>{connection}</span>
+            </Link>
+          ))}
+        </div>
+      )}
     </section>
   );
 }
@@ -264,6 +334,7 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
       {site.lead && <Md text={site.lead} />}
 
       <HistoricPhotoFigure slug={site.slug} />
+      <HistoricMapFigure slug={site.slug} />
 
       <AnchorPanel site={site} />
 
@@ -345,6 +416,8 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
           <Md text={s.body} />
         </section>
       ))}
+
+      <ConnectionsPanel site={site} />
 
       <HistoricLocation site={site} />
       <LocatorCard site={site} />
