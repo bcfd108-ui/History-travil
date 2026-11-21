@@ -40,15 +40,12 @@ The museum’s preservation mission is documented, but no current objects, room 
 No private family collection, worship space, farm or community facility is designated for visits. A publication’s location captions are not travel instructions.
 
 ## 5. Trip-shaped stop progression
-**Archive-only sequence**, undertaken at home or another place already independently authorized for the reader. No physical stop chain is activated.
 
-1. **Read the credit before the story.** Identify narrator, interviewer/translator, original publisher and republisher. Notice how many people helped make a family voice publicly available.
-2. **Read for the narrator’s priority.** Use the brief education-focused excerpt rather than converting the account into a checklist of suffering.
-3. **Place another voice beside it.** Inspect the StoryCorps description and time log. Distinguish a searchable catalog from audio that has actually been heard.
-4. **Test the travel claim.** Compare a past exhibit announcement with a current operator gate. A closed or unverified venue stays out of the itinerary.
-5. **End at the strongest story moment:** translating and preserving a parent’s words can itself be an act of historical authorship. The next generation is not merely receiving history; it helps decide how to carry it.
+This is an archive-only reading dossier: no public visitor address is established, and no household artifact, garment or photograph is identified as being on display anywhere. What the record holds is published testimony, readable with its provenance attached. [5,6]
 
-Reflection question: **Which parts of an account are the narrator’s experience, which are translation or editorial framing, and which remain unknown to the reader?** No onsite question is assigned because no current physical host was verified.
+*A Hmong Mother's Journey to Fresno*, published by Community Alliance on March 2, 2015, is a daughter interviewing her mother: the interview and translation are credited to Chonny Vang, and the speaker is her mother, Zoua Vang. The piece reprints a kNOw Youth Media interview with permission. Zoua Vang recalls arriving in Fresno in 1994 and prioritizing her children's schooling despite having been denied educational opportunities herself. Her emphasis is her own: “Education is the key to a better life.” The account is translated, edited family testimony, not a claim about every Hmong household. Its painful personal details are not reproduced here as visitor material. [5]
+
+A second Fresno voice sits in the StoryCorps catalog: Lisa Herrick and Lee Herrick's conversation, recorded March 1, 2020 (35 minutes 21 seconds; identifier mby019713). The catalog entry, participant names and subject log were read directly; audio playback was not tested, so no listening experience is promised. [6]
 
 ## 6. Honest gaps and conflicting dates
 - Current museum hours, admission, appointment terms and exhibition availability remain unknown. The organization’s public-facing mission is not equivalent to a confirmed visitor gate.
