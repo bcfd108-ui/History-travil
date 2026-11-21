@@ -2129,6 +2129,30 @@
    "attempts": []
   },
   {
+   "id": "vq_NC-biltmore-estate",
+   "slug": "NC-biltmore-estate",
+   "name": "Biltmore Estate — the people who built the house",
+   "town": "",
+   "state": "NC",
+   "verifiedOn": null,
+   "verifiedOnSource": "unrecorded",
+   "corpusFile": "HT-RES-NC-biltmore-estate.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NC-wright-brothers-national-memorial",
+   "slug": "NC-wright-brothers-national-memorial",
+   "name": "Wright Brothers National Memorial — twelve seconds, four flights",
+   "town": "",
+   "state": "NC",
+   "verifiedOn": null,
+   "verifiedOnSource": "unrecorded",
+   "corpusFile": "HT-RES-NC-wright-brothers-national-memorial.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_NE-brownville-river-landings",
    "slug": "NE-brownville-river-landings",
    "name": "Brownville’s Missouri River crossings",
@@ -8285,6 +8309,54 @@
    "attempts": []
   },
   {
+   "id": "vq_IL-black-metropolis-bronzeville",
+   "slug": "IL-black-metropolis-bronzeville",
+   "name": "Black Metropolis–Bronzeville — the Great Migration's city within a city, and the Bronzeville Walk of Fame",
+   "town": "Chicago",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-black-metropolis-bronzeville.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IL-dusable-black-history-museum",
+   "slug": "IL-dusable-black-history-museum",
+   "name": "DuSable Black History Museum and Education Center — the museum that began in a Bronzeville living room",
+   "town": "Chicago",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-dusable-black-history-museum.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IL-first-division-museum-cantigny",
+   "slug": "IL-first-division-museum-cantigny",
+   "name": "First Division Museum at Cantigny — the Big Red One's museum on Colonel McCormick's estate",
+   "town": "Wheaton",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-first-division-museum-cantigny.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IL-haymarket-martyrs-monument",
+   "slug": "IL-haymarket-martyrs-monument",
+   "name": "Haymarket Martyrs' Monument, Forest Home Cemetery — the Haymarket defendants' graves and labor's memorial ground",
+   "town": "Forest Park",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-haymarket-martyrs-monument.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_IL-jane-addams-hull-house-museum",
    "slug": "IL-jane-addams-hull-house-museum",
    "name": "Jane Addams Hull-House Museum — the Hull-House settlement",
@@ -9005,6 +9077,66 @@
    "attempts": []
   },
   {
+   "id": "vq_NC-cape-hatteras-lighthouse-graveyard-of-the-atlantic-museum",
+   "slug": "NC-cape-hatteras-lighthouse-graveyard-of-the-atlantic-museum",
+   "name": "Cape Hatteras Lighthouse and Graveyard of the Atlantic Museum",
+   "town": "",
+   "state": "NC",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NC-cape-hatteras-lighthouse-graveyard-of-the-atlantic-museum.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NC-fort-raleigh-freedmens-colony",
+   "slug": "NC-fort-raleigh-freedmens-colony",
+   "name": "Fort Raleigh and the Roanoke Island Freedmen’s Colony",
+   "town": "",
+   "state": "NC",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NC-fort-raleigh-freedmens-colony.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NC-greensboro-sit-ins-woolworth",
+   "slug": "NC-greensboro-sit-ins-woolworth",
+   "name": "Greensboro Sit-Ins and the Woolworth Lunch Counter",
+   "town": "",
+   "state": "NC",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NC-greensboro-sit-ins-woolworth.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NC-reed-gold-mine",
+   "slug": "NC-reed-gold-mine",
+   "name": "Reed Gold Mine and North Carolina’s First Gold Rush",
+   "town": "",
+   "state": "NC",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NC-reed-gold-mine.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NC-spencer-shops-nc-transportation-museum",
+   "slug": "NC-spencer-shops-nc-transportation-museum",
+   "name": "Spencer Shops and the North Carolina Transportation Museum",
+   "town": "",
+   "state": "NC",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NC-spencer-shops-nc-transportation-museum.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_SC-charleston-iaam-gadsdens-wharf",
    "slug": "SC-charleston-iaam-gadsdens-wharf",
    "name": "International African American Museum and Gadsden’s Wharf",
@@ -9054,8 +9186,8 @@
   }
  ],
  "counts": {
-  "items": 754,
-  "dated": 515,
-  "unrecorded": 239
+  "items": 765,
+  "dated": 524,
+  "unrecorded": 241
  }
 }
