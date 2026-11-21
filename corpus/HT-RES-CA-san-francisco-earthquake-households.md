@@ -35,14 +35,12 @@ A third household lead is **Abbie's April 25 letter to Julia**, described by SFP
 **Excluded:** private homes, old household addresses, former relief camps, graves, debris locations, damaged structures and any present emergency scene. Historic descriptions of damage or improvised responses are evidence, never visitor instructions.
 
 ## 5. Trip-shaped stop progression
-**A quiet document encounter, executable online; conditional research-room reading only if its gate is confirmed.**
 
-1. Begin with the immediate problem of telling family that someone survived. Distinguish original writing material from a modern reproduction.
-2. Move forward in time to the later letter. Look for the difference between the survival message and the practical work of rebuilding a household and income.
-3. Read the curator's household lead as a different evidence layer. Do not fill missing handwriting with a reconstructed quotation.
-4. Finish with the strongest reflection: a city can describe itself as recovering while individual households are still waiting for ordinary life to function.
+The public venue is the San Francisco History Center, on the sixth floor of the Main Library at 100 Larkin Street — a research room for learning and collection discovery. It guarantees neither an exhibition of these items nor entry to closed stacks, and private homes, relief camps, graves and damaged structures are excluded from any visit. [1]
 
-No earthquake simulation, fire reenactment, emergency-response exercise or competitive loss comparison. The sequence ends with the records, not a visit to where someone lost a home.
+Two pieces of household correspondence carry the entry. James Graves Jones, writing on April 21, 1906, got word to his family on the surface he had: a shirt collar. UC Davis's California History–Social Science Project publishes the message's text, with California Historical Society provenance; its opening is direct — “All safe but awfully scared.” The reproduced text was read; the original artifact was not inspected. [3]
+
+Charles Ross, writing to A. M. Von Metzke on June 12, 1906, describes a later stage: continuing outdoor cooking, household repair delays, and a newly obtained printing-shop job whose permanence was uncertain — concern about the emotional aftermath alongside confidence in rebuilding. The Bancroft's digitized transcription was read in full; Ross's observations are one writer's, not citywide statistics. A public library curator separately identifies earthquake personal accounts within its ephemera collection; no box was requested. [4][5]
 
 ## 6. Honest gaps and conflicting dates
 - Main Library opening and specialist document service are separate gates. Holiday closures are verified; item retrieval and staffing availability are not. [1,2]
