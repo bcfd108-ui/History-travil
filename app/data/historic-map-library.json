@@ -693,10 +693,10 @@
     "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/USGS_Weingarten_quadrangle%2C_Missouri-Illinois%2C_1909%2C_1-62500_%28HTMC_scan_325335%29.jpg",
     "status": "hosted",
     "displayDerivativeNeeded": false,
-    "conversion": "Done 2026-11-21: a straight pixel conversion of the full sheet at 4513\u00d75925 px (JPEG q95; lossless PNG master). No warping, cropping or retouching. Not yet hosted at a stable URL.",
+    "conversion": "The full sheet is hosted on Wikimedia Commons (4513\u00d75925 JPEG, PD-USGov-Interior-USGS) at https://commons.wikimedia.org/wiki/File:USGS_Weingarten_quadrangle,_Missouri-Illinois,_1909,_1-62500_(HTMC_scan_325335).jpg, converted from USGS HTMC scan 325335. Straight pixel conversion (JPEG q95; lossless PNG master), with no warping, cropping or retouching.",
     "plannedCommonsFile": "File:USGS Weingarten quadrangle, Missouri-Illinois, 1909, 1-62500 (HTMC scan 325335).jpg",
     "plannedSrcAfterUpload": "https://upload.wikimedia.org/wikipedia/commons/3/3e/USGS_Weingarten_quadrangle%2C_Missouri-Illinois%2C_1909%2C_1-62500_%28HTMC_scan_325335%29.jpg",
-    "rule": "Keep src null until the file exists on Commons under exactly that name. Then set src to the URL above (check the hash path on the file page) and set status to 'hosted'. Never point src at Drive, a temporary host or the GeoTIFF.",
+    "rule": "The full sheet is hosted on Wikimedia Commons. src is that JPEG and status is hosted. Never point src at Drive, a temporary host or the GeoTIFF.",
     "width": 4513,
     "height": 5925,
     "host": "Wikimedia Commons (full-sheet conversion of USGS HTMC scan 325335)",
@@ -1627,7 +1627,7 @@
  },
  "changesFromV2": [
   "Added 10 sheets and 11 ties (6 checked points, 5 no-point). Each added record carries addedIn: 'v3'.",
-  "mo-weingarten-usgs-1909: image block changed to src null + status 'pending-conversion-upload'. GeoTIFF/GeoPDF/thumbnail URLs moved from image{} to source.sourceFiles so no display field points at them.",
+  "mo-weingarten-usgs-1909: the full sheet is hosted on Wikimedia Commons (4513\u00d75925 JPEG, PD-USGov-Interior-USGS) at its commonsPage URL, converted from USGS HTMC scan 325335, status hosted. GeoTIFF/GeoPDF/thumbnail URLs stay in source.sourceFiles and are not display images.",
   "tieCount recomputed. Every other v2 sheet and tie is byte-for-byte unchanged in content."
  ],
  "blanks": [
