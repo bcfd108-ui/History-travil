@@ -105,6 +105,7 @@ https://history.idaho.gov/wp-content/uploads/2018/09/Priest_River_Experimental_F
 | Fixed field | Value |
 |---|---|
 | Stable site name | Priest River Experimental Forest; separate Priest River Museum & Timber Education Center interpretive candidate |
+| Town | Priest River |
 | Latitude | |
 | Longitude | |
 | Coordinate source | No permanent public-entrance coordinate verified. |

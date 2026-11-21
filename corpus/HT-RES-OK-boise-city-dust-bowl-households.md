@@ -55,6 +55,8 @@ No photo tag offered. Any future voluntary contribution requires lawful field-ch
 | Field | Value |
 |---|---|
 | Stable site name | Cimarron Heritage Center — Dust Bowl House |
+| Town | Boise City |
+| Public anchor | Cimarron Heritage Center |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

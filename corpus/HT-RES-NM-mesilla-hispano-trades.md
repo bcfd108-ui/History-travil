@@ -107,6 +107,7 @@ No matched historical/repeat photograph or approved public photo tag is claimed.
 ## 10. Locator record
 
 Stable name: Taylor-Mesilla Historic Site — Reynolds Store Visitor Center
+- Town: Mesilla
 
 Latitude:
 

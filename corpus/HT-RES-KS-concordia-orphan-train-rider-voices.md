@@ -66,6 +66,8 @@ Quiet reflection only. No activity or photo-tag proposal.
 | Field | Value |
 |---|---|
 | Stable site name | National Orphan Train Complex — Concordia Union Pacific Railroad Depot |
+| Town | Concordia |
+| Public anchor | Drive up to the Morgan-Dowell Welcome Center and follow staff directions for the short public walk to the restored Union Pacific depot on the same Concordia museum campus |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

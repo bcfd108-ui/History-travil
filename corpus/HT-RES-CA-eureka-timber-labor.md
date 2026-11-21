@@ -97,6 +97,7 @@ If no appropriate item is displayed, leave the answer blank. The published accou
 7. https://digitalcommons.humboldt.edu/old_timers/3/
 
 ## 10. Locator record
+- Town: Eureka
 
 - **Stable name:** Clarke Historical Museum, Eureka
 - **Latitude:**

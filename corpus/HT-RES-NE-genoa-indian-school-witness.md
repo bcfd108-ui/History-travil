@@ -75,6 +75,8 @@ Witness only. No field action, hunt or score. Answer key:
 | Field | Value |
 |---|---|
 | Stable site name | Genoa U.S. Indian School Interpretive Center — witness only |
+| Town | Genoa |
+| Public anchor | Genoa U.S. Indian School Interpretive Center |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

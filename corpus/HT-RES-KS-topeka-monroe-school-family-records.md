@@ -72,6 +72,8 @@ Answer key:
 | Field | Value |
 |---|---|
 | Stable site name | Monroe Elementary School, Brown v. Board of Education National Historical Park |
+| Town | Topeka |
+| Public anchor | Monroe Elementary School, Brown v. Board of Education National Historical Park |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

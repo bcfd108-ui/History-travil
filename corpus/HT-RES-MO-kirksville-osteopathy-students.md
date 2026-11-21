@@ -55,6 +55,8 @@ Site and interior participation rules need a human check. Reading and trip plann
 | Field | Value |
 |---|---|
 | Stable site name | Museum of Osteopathic Medicine, first American School of Osteopathy |
+| Town | Kirksville |
+| Public anchor | Drive up to the A.T. Still University Museum of Osteopathic Medicine at 800 W. Jefferson St., Kirksville, and use the short signed museum approach and ordinary visitor entrance |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

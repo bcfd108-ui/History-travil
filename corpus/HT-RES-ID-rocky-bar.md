@@ -82,6 +82,7 @@ No scored activity in cemeteries, Indigenous cultural places, mines or private b
 
 ## 10. Locator record
 - Stable name: Rocky Bar, within South Boise Historic Mining District, Elmore County, Idaho
+- Town: Rocky Bar
 - Stable dossier ID: HT-RES-ID-rocky-bar
 - Latitude: 
 - Longitude: 

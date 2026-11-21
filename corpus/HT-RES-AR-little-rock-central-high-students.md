@@ -62,6 +62,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Little Rock Central High School National Historic Site |
+| Town | Little Rock |
+| Public anchor | Drive to the NPS visitor parking at 2120 W. Daisy L. Gatson Bates Drive |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

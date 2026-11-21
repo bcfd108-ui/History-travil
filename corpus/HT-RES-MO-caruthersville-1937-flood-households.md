@@ -60,6 +60,8 @@ Quiet witness only. Reading and trip planning require no account, location shari
 | Field | Value |
 |---|---|
 | Stable site name | Caruthersville 1937 flood, Pemiscot County Courthouse public frontage |
+| Town | Caruthersville |
+| Public anchor | Pemiscot County Courthouse, 610 Ward Ave., Caruthersville |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

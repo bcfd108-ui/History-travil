@@ -67,6 +67,7 @@ This entry's ground carries finds of the Pulaski Hunt; the hunt ties live in the
 
 ## 10. Locator record
 - Stable name: Pulaski Tunnel Trail — National Register listing: Edward Pulaski Tunnel and Placer Creek Escape Route
+- Town: Wallace
 - Public anchor: Pulaski Tunnel Trailhead, just south of Wallace, Idaho — Trail No. 38, two miles each way to the adit overlook
 - Address:
 - Latitude: 47.460

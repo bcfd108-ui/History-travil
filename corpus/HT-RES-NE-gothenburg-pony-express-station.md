@@ -66,6 +66,8 @@ Answer key:
 | Field | Value |
 |---|---|
 | Stable site name | Gothenburg Pony Express Station at Ehmen Park |
+| Town | Gothenburg |
+| Public anchor | Gothenburg Pony Express Station at Ehmen Park |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

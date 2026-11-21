@@ -47,6 +47,7 @@ A voluntary dated report may confirm the self-guided entrance and which rooms st
 |---|---|
 | Stable site name | Anchuca, the frame house behind a merchant’s brick front |
 | Historic location | Victor Wilson House, Vicksburg, Warren County |
+| Town | Vicksburg |
 | Public anchor | 1010 First East Street, Vicksburg |
 | Approach | Operator’s day-tour entrance |
 | Visitor boundary | Day-tour rooms and designated grounds only |

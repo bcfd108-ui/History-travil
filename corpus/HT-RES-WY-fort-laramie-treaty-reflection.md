@@ -113,6 +113,7 @@ Linked catalog: https://catalog.archives.gov/id/299803
 ## 10. Locator record
 
 - Stable name: Fort Laramie National Historic Site, public visitor center
+- Town: Fort Laramie
 - Latitude:
 - Longitude:
 - Coordinate source/scope:

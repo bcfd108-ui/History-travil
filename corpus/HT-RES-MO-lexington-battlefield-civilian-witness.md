@@ -69,6 +69,7 @@ Quiet witness only. Reading and planning remain available without an account, lo
 | Field | Verified value |
 |---|---|
 | Stable site name | Anderson House and Lexington Battlefield, Battle of Lexington State Historic Site |
+| Town | Lexington |
 | Latitude | 39.190278 [3] |
 | Longitude | -93.880278 [3] |
 | Coordinate source and scope | Missouri State Parks Visitor Center/Historic Site Office listing [3]. Visitor anchor only. |

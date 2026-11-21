@@ -88,6 +88,7 @@ Object record / field confirmation:
 
 ## 10. Locator record
 - Stable name: Mesa migrant agricultural households / Trimble descendant account.
+- Town: Mesa
 - Public anchor: Mesa Historical Museum, Old Lehi School main building.
 - Printed public street address: 2345 N. Horne, Mesa, Arizona. [1,2]
 - ZIP: 85205 in visitor-page body; 85203 in footer and FAQ, unresolved. [1,2]

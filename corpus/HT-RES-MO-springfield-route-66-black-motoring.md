@@ -59,6 +59,8 @@ Quiet witness for the former hotel and its absence. Reading and planning are ava
 | Field | Verified value |
 |---|---|
 | Stable site name | Alberta’s Hotel (historical) and Park Central Square (off-site public anchor) |
+| Town | Springfield |
+| Public anchor | Park Central Square |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

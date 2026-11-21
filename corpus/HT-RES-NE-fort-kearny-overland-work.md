@@ -74,6 +74,7 @@ Answer key:
 | Field | Value |
 |---|---|
 | Stable site name | Fort Kearny State Historical Park |
+| Public anchor | Fort Kearny State Historical Park |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

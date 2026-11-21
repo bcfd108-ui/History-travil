@@ -89,13 +89,12 @@ function Check({ hunt, find }: { hunt: string; find: HuntFind }) {
 
 export function HuntFindList({ hunt, finds }: { hunt: string; finds: HuntFind[] }) {
   return <ol className="hunt-finds">{finds.map(f => <li className="panel" key={f.id} id={f.id}>
-    <h2>{f.ground}</h2><p className="small">{f.place}</p>
-    {f.entrySlug ? <>
-      <p>{f.task}</p>
-      <p><Link href={"/sites/" + f.entrySlug}>Read the catalog entry</Link></p>
-      <details><summary>Hint</summary><p>{f.hint}</p></details>
-      <Check hunt={hunt} find={f} />
-    </> : <p className="hunt-pending">catalog entry in preparation</p>}
+    <h2>{f.label}</h2><p className="small">{f.ground} · {f.place}</p>
+    {f.entrySlug ? <p><Link href={"/sites/" + f.entrySlug}>Read the catalog entry</Link></p>
+      : <p className="hunt-pending">catalog entry in preparation</p>}
+    <p>{f.task}</p>
+    {f.hint && <details><summary>Hint</summary><p>{f.hint}</p></details>}
+    {f.entrySlug && <Check hunt={hunt} find={f} />}
   </li>)}</ol>;
 }
 

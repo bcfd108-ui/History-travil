@@ -90,6 +90,7 @@ No points for entering restricted workings, crossing a trestle, collecting ore o
 
 ## 10. Locator record
 - Stable name: Mackay and Mine Hill industrial history, Custer County, Idaho
+- Town: Mackay
 - Stable dossier ID: HT-RES-ID-mackay
 - Latitude: 
 - Longitude: 

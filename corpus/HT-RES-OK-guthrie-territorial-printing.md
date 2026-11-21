@@ -51,6 +51,8 @@ Optional architectural lettering observation awaits a lawful sidewalk field chec
 | Field | Value |
 |---|---|
 | Stable site name | Guthrie Territorial Printing and State Capital Publishing Building |
+| Town | Guthrie |
+| Public anchor | Drive up and use the staffed Oklahoma Territorial Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

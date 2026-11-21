@@ -72,6 +72,7 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | St. Augustine Catholic Church and Cemetery, Isle Brevelle, Natchez, Natchitoches Parish, Louisiana |
+| Town | Natchez |
 | Latitude | 31.593734 |
 | Longitude | -92.972654 |
 | Coordinate source and scope | Latitude/longitude printed in the 2014 National Register nomination's geographical data for the property. Scope: the church and cemetery district, about 57 acres. [1] |

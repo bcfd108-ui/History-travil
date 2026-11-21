@@ -95,6 +95,8 @@ No defensible historical/current camera alignment was established. A credited im
 
 ## 10. Locator record
 Stable name: Sky City Cultural Center & Haak’u Museum
+- Town: Acoma
+- Public anchor: Sky City Cultural Center & Haak'u Museum
 
 Public physical entrance address:
 

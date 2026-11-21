@@ -59,6 +59,8 @@ No participant photo path pending field check, operator policy and Gene’s auth
 | Field | Value |
 |---|---|
 | Stable site name | Saint Paul Union Depot railroad workers |
+| Town | Saint Paul |
+| Public anchor | Saint Paul Union Depot |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

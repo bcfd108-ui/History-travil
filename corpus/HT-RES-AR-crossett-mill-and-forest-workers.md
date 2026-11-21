@@ -40,6 +40,7 @@ None adopted.
 ## 10. Structured locator
 - Stable site: Crossett Centennial Park, civic anchor for local forest labor
 - Historical location: Crossett Experimental Forest and Stillion-to-Crossett corridor [3]. Exact pickup:
+- Town: Crossett
 - Public anchor: Centennial Park, Main Street across from City Hall, Crossett [1, 2]
 - Latitude:
 - Longitude:

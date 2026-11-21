@@ -107,6 +107,8 @@ https://www.nps.gov/articles/washington-grand-coulee-dam.htm
 | Field | Value |
 |---|---|
 | Stable site name | Grand Coulee Dam Visitor Center [1] |
+| Town | Grand Coulee |
+| Public anchor | Grand Coulee Dam Visitor Center |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

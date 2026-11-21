@@ -69,6 +69,8 @@ Field-only candidate: compare an operator-labeled reconstruction detail with a s
 | Field | Value |
 |---|---|
 | Stable site name | Neligh Mill State Historic Site |
+| Town | Neligh |
+| Public anchor | Neligh Mill State Historic Site |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

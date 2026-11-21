@@ -66,6 +66,8 @@ Pending field review and Gene’s authorization. A voluntary photograph of the p
 | Field | Value |
 |---|---|
 | Stable site name | American Gothic House |
+| Town | Eldon |
+| Public anchor | American Gothic House Center, 300 American Gothic Street, Eldon |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

@@ -79,6 +79,8 @@ Held pending field verification and Gene’s authorization. Possible subject is 
 | Field | Verified value |
 |---|---|
 | Stable site name | Amana Woolen Mill — Main Amana |
+| Town | Amana |
+| Public anchor | Warped & Woven Mill Mercantile, 794 48th Avenue |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

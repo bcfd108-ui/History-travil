@@ -72,6 +72,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Madame John's Legacy (Madam John's Legacy in the National Register file), 632 Dumaine Street, New Orleans |
+| Town | New Orleans |
+| Public anchor | The public sidewalk on Dumaine Street, reading the street facade only |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

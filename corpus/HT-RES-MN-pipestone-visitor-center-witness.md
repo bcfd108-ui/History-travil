@@ -56,6 +56,8 @@ Quiet witness. No tag or photo contribution proposed. [1–2]
 | Field | Value |
 |---|---|
 | Stable site name | Pipestone National Monument — visitor center treaty witness |
+| Town | Pipestone |
+| Public anchor | Drive to the signed visitor center at 36 Reservation Ave. Use only the ordinary public entrance and exhibitory space when open, or read remotely when closed |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

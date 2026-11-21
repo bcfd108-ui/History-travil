@@ -119,6 +119,7 @@ https://azstateparks.com/jerome/
 ## 10. Locator record
 
 - Stable entry name: Jerome worker households: Mary (Shea) Lyons and community work.
+- Town: Jerome
 - Division/dossier: AZ OP03 / HT-RES-AZ-jerome-worker-households.
 - Public anchor: Jerome Historical Society Mine Museum, public exhibition only.
 - Printed street address: 200 Main Street, Jerome. [1]

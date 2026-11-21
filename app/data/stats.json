@@ -1,0 +1,70 @@
+{
+  "generatedFrom": "corpus dossiers (~/workspace/history-travel/corpus + home-bench root)",
+  "filesSeen": 682,
+  "sitesConverted": 675,
+  "perState": {
+    "AZ": 24,
+    "AR": 24,
+    "CA": 24,
+    "CO": 24,
+    "ID": 82,
+    "IA": 24,
+    "KS": 28,
+    "LA": 36,
+    "MN": 25,
+    "MS": 74,
+    "MO": 24,
+    "MT": 24,
+    "NE": 20,
+    "NV": 24,
+    "NM": 24,
+    "ND": 24,
+    "OK": 24,
+    "OR": 25,
+    "SD": 20,
+    "TX": 28,
+    "UT": 24,
+    "WA": 25,
+    "WY": 24
+  },
+  "withCoordinates": 87,
+  "coordinateKinds": {
+    "locatorFields": 77,
+    "printedPair": 10
+  },
+  "withAnyLocatorId": 531,
+  "withNrhp": 266,
+  "withHmdb": 77,
+  "blankCoordinates": 588,
+  "reflection": 231,
+  "view": 444,
+  "reflectionSignals": {
+    "slug": 44,
+    "candSec": 154,
+    "preamble": 118,
+    "gate": 52
+  },
+  "formatVariants": {
+    "boldSection1": 250,
+    "altLocatorScheme": 14
+  },
+  "sec8ApparatusSeen": 286,
+  "sec8BulletsSeen": 462,
+  "sec8QuestionPromptsDropped": 11,
+  "sec8FieldLinesDropped": 64,
+  "candidateFindsSurfaced": 19,
+  "sitesWithCandidates": 8,
+  "townsRecorded": 603,
+  "emptyAccess": 4,
+  "emptyStory": 0,
+  "unmappedSectionsCarried": 117,
+  "collisions": [
+    "bayhorse: corpus (R02) vs corpus",
+    "cataldo-mission: corpus (R02) vs corpus",
+    "murray: corpus (R02) vs corpus",
+    "fort-sherman: corpus vs home-bench root",
+    "pierce: corpus vs home-bench root",
+    "spokane-fire-1889: corpus vs home-bench root",
+    "st-joe-st-maries: corpus vs home-bench root"
+  ]
+}

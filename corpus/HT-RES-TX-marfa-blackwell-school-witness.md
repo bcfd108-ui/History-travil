@@ -51,6 +51,7 @@ Quiet witness throughout. No photo tag proposed. [1,4–5]
 | Field | Value |
 |---|---|
 | Stable site name | Blackwell School National Historic Site |
+| Town | Marfa |
 | Latitude | 30.305819 |
 | Longitude | -104.022421 |
 | Coordinate source | National Register nomination §10, source 4 |

@@ -67,6 +67,8 @@ Optional observation for future field/QC review: photograph the line of the maso
 | Field | Value |
 |---|---|
 | Stable site name | Waco Suspension Bridge |
+| Town | Waco |
+| Public anchor | Indian Spring Park, 101 N. University Parks Drive, on the signed city park path near the river |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

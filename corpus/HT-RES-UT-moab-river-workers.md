@@ -93,6 +93,7 @@ Possible future interpretive prompt: distinguish a named worker, a remembered ta
 
 ## 10. Locator record
 - Stable entry name: Moab river workers: provisioning, guiding and the work behind the view
+- Town: Moab
 - Division/dossier: UT / HT-RES-UT-moab-river-workers
 - Public anchor: Moab Museum
 - Printed street address: 118 East Center Street, Moab, Utah 84532 [1]

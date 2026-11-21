@@ -61,6 +61,8 @@ Quiet witness stop. No participant photo tags or contribution requirement.
 | Field | Value |
 |---|---|
 | Stable site name | Crookston sugar-beet workers, interpreted at Central Park public green space |
+| Town | Crookston |
+| Public anchor | Central Park public green space |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

@@ -96,6 +96,7 @@ No field find. Possible private source-reading exercise: identify narrator, inte
 | Field | Value |
 |---|---|
 | Stable site name | Los Angeles garment workers |
+| Town | Los Angeles |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

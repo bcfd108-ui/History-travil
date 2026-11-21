@@ -55,6 +55,7 @@ This entry's ground carries a find of the Mining Country Hunt; the hunt tie live
 
 ## 10. Locator record
 - Stable name: Downtown Wallace, Idaho — the brick core
+- Town: Wallace
 - Public anchor: Northern Pacific Depot Museum and the brick blocks of downtown Wallace, Idaho — the whole downtown is the site
 - Address:
 - Latitude: 47.474

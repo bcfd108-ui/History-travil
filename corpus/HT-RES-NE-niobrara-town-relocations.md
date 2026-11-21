@@ -74,6 +74,8 @@ Reflection only. Read from the present-day public library or remotely. Answer ke
 | Field | Value |
 |---|---|
 | Stable site name | Niobrara town relocations, present village public reading stop |
+| Town | Niobrara |
+| Public anchor | Niobrara Public Library |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

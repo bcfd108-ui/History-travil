@@ -74,6 +74,8 @@ No photo tag offered. An exterior photo submission would require a verified publ
 | Field | Value |
 |---|---|
 | Stable site name | Sheridan County Courthouse — Hoxie |
+| Town | Hoxie |
+| Public anchor | The ordinary public Ninth Street frontage outside the address printed by the district court |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

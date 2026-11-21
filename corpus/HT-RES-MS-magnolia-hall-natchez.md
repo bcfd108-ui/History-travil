@@ -49,6 +49,7 @@ Quiet reflection. No visitor photo or scoring prompt.
 |---|---|
 | Stable site name | Magnolia Hall (Henderson–Britton House) |
 | Historic location | Natchez, Adams County, Mississippi |
+| Town | Natchez |
 | Public anchor | Magnolia Hall gift shop and public tour, 215 South Pearl Street |
 | Approach | Short walk from the public street |
 | Visitor boundary | Gift shop and the rooms opened by the guide |

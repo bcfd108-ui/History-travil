@@ -104,6 +104,7 @@ Reflection prompt: What changes when the person normally described by others is 
 ## 10. Locator record
 
 Stable name: Kern County Museum
+- Town: Bakersfield
 
 Latitude:
 

@@ -71,6 +71,7 @@ Quiet reflection only. No activity or photo-tag proposal.
 | Field | Value |
 |---|---|
 | Stable site name | Quindaro Townsite |
+| Town | Kansas City |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

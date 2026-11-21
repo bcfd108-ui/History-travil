@@ -66,6 +66,8 @@ No field find proposed. The stop is a documentary reading, and no verified survi
 | Field | Value |
 |---|---|
 | Stable site name | O’Neill settlement and press — O’Neill Public Library reading stop |
+| Town | O'Neill |
+| Public anchor | O'Neill Public Library |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

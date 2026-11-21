@@ -48,6 +48,7 @@ Optional dated reports may cover the shared museum entrance and visitor accessib
 |---|---|
 | Stable site name | Mississippi Civil Rights Museum and the Dahmer family’s truck |
 | Historic location | Kelly Settlement, Forrest County, with movement history statewide |
+| Town | Jackson |
 | Public anchor | Mississippi Civil Rights Museum, 222 North Street, Jackson |
 | Approach | Staffed Two Mississippi Museums entrance, then civil-rights galleries |
 | Visitor boundary | Authorized museum galleries only |

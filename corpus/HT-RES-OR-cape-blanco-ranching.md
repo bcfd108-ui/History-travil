@@ -106,6 +106,7 @@ Reflection and documentary comparison only. No farm, cemetery, archaeological, c
 
 ## 10. Locator record
 - Stable entry name: Cape Blanco ranching — Patrick and Jane Hughes House.
+- Town: Sixes
 - Division / dossier: OR / HT-RES-OR-cape-blanco-ranching.
 - Public anchor: Historic Hughes House, Cape Blanco State Park, Sixes vicinity, Oregon.
 - Printed street address: Cape Blanco Road approach; no numbered house address established.

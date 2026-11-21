@@ -64,6 +64,7 @@ Held for field review. A voluntary photograph of the mill’s exterior from a la
 | Field | Verified value |
 |---|---|
 | Stable site name | Watkins Woolen Mill State Historic Site |
+| Public anchor | Watkins Woolen Mill State Historic Site visitor center |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

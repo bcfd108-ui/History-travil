@@ -71,6 +71,8 @@ Answer key:
 | Field | Value |
 |---|---|
 | Stable site name | Nicodemus Township Hall and National Historic Site visitor center |
+| Town | Nicodemus |
+| Public anchor | Nicodemus Township Hall and National Historic Site visitor center |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

@@ -64,6 +64,7 @@ Any future voluntary detail observation at the furnace remains pending a human f
 | Field | Verified value |
 |---|---|
 | Stable site name | Maramec Iron Works District and Maramec Spring Park |
+| Public anchor | Driver entrance and public parking at Maramec Spring Park, reached via Missouri Route 8 |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

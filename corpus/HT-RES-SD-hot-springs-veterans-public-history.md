@@ -63,6 +63,8 @@ Witness-only public-history reading. No find, scoring or scavenger activity.
 | Field | Value |
 |---|---|
 | Stable site name | Battle Mountain Sanitarium — Hot Springs library and remote interpretation |
+| Town | Hot Springs |
+| Public anchor | Hot Springs Public Library |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

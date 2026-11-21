@@ -97,6 +97,7 @@ No activity requires locating an old address, approaching a home, photographing 
 ## 10. Locator record
 
 Stable name: Tucson Chinese Cultural Center
+- Town: Tucson
 
 Latitude:
 

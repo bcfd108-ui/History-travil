@@ -72,6 +72,7 @@ Answer key:
 | Field | Value |
 |---|---|
 | Stable site name | Fort Robinson Northern Cheyenne witness stop |
+| Public anchor | Fort Robinson History Center |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

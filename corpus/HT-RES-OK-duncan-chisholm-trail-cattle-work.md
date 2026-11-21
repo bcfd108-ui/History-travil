@@ -77,6 +77,8 @@ A public-approach photograph of the modern drive bronze is an optional contribut
 | Field | Verified value |
 |---|---|
 | Stable site name | Duncan Chisholm Trail Cattle Work |
+| Town | Duncan |
+| Public anchor | Chisholm Trail Heritage Center, 1000 Chisholm Trail Parkway |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

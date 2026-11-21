@@ -70,6 +70,8 @@ Field only: compare one operator-identified surviving exterior detail from an op
 | Field | Value |
 |---|---|
 | Stable site name | Willa Cather Childhood Home and National Willa Cather Center, Red Cloud |
+| Town | Red Cloud |
+| Public anchor | National Willa Cather Center |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

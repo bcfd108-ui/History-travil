@@ -68,6 +68,8 @@ Field-check only. Proposed photo tag: a pond-side stone edge with the old hatche
 | Field | Value |
 |---|---|
 | Stable site name | Spearfish hatchery workers and the spring supply |
+| Town | Spearfish |
+| Public anchor | Spearfish hatchery public grounds |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

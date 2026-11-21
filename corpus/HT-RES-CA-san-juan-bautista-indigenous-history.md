@@ -112,6 +112,8 @@ No artifact handling, ritual imitation or reenactment of coercion.
 | Field | Value |
 |---|---|
 | Stable site name | San Juan Bautista State Historic Park |
+| Town | San Juan Bautista |
+| Public anchor | San Juan Bautista State Historic Park |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

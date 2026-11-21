@@ -86,6 +86,7 @@ A scan, a private structure or a person's image is not automatically a lawful ph
 The archive is a custodian; the newspaper is the original publisher. The museum is the oral-history record publisher. Neither source is represented as a library-created collection or authorization for private access.
 
 ## 10. Locator record
+- Town: Capitan
 Stable public anchor name: Capitan Public Library
 Public visitor address: 101 E. 2nd St., Capitan, New Mexico 88316 [1]
 Latitude:

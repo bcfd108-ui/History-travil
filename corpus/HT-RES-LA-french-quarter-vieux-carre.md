@@ -76,6 +76,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | French Quarter (Vieux Carré) Historic District, New Orleans |
+| Town | New Orleans |
+| Public anchor | The public streets, sidewalks and squares of the district itself, walked from Jackson Square and the riverfront |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

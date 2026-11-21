@@ -103,6 +103,7 @@ The Archives states that possessing material does not necessarily mean it owns c
 
 ## 10. Locator record
 - Stable name: North Dakota State Archives, North Dakota Heritage Center
+- Town: Bismarck
 - Public visitor address: 612 East Boulevard Ave., Bismarck, North Dakota 58505 [1]
 - Latitude:
 - Longitude:

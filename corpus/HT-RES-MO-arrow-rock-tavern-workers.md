@@ -69,6 +69,7 @@ Held for field check and Gene’s authorization. A volunteer could document the 
 | Field | Verified value |
 |---|---|
 | Stable site name | J. Huston Tavern, Arrow Rock State Historic Site |
+| Town | Arrow Rock |
 | Latitude | 39.07005 |
 | Longitude | -92.945083 |
 | Coordinate source and scope | Missouri State Parks tavern feature point, not a visitor entry or repeat stance [3] |

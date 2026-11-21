@@ -92,6 +92,7 @@ Draft prompts only; no activated hunt, scoring or answer key.
 [7] Idaho National Register list, district reference and boundary description: https://history.idaho.gov/wp-content/uploads/2018/07/NRHP_Idaho.pdf
 
 ## 10. Locator record
+- Town: Challis
 
 - **Stable name:** Challis, Idaho: town and freight connections; visitor anchor Land of the Yankee Fork State Park Interpretive Center
 - **Latitude:**

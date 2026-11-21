@@ -73,6 +73,8 @@ Quiet reflection for the Cherokee land-history reading. No pending contribution 
 | Field | Verified value |
 |---|---|
 | Stable site name | Perry Cherokee Outlet Land Office Witness |
+| Town | Perry |
+| Public anchor | Cherokee Strip Museum and Rose Hill School, 2617 West Fir Street |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

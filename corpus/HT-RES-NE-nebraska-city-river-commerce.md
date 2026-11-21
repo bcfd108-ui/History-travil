@@ -71,6 +71,8 @@ Field only: compare visible porch or building-footprint details with the distric
 | Field | Value |
 |---|---|
 | Stable site name | Old Freighters Museum — Nebraska City |
+| Town | Nebraska City |
+| Public anchor | Old Freighters Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

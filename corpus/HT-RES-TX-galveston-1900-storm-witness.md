@@ -50,6 +50,8 @@ Quiet witness. No contribution path.
 | Field | Value |
 |---|---|
 | Stable site name | Galveston 1900 Storm Gallery Witness |
+| Town | Galveston |
+| Public anchor | Galveston 1900 Storm Gallery |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

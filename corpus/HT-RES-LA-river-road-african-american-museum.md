@@ -67,6 +67,7 @@ If you were already at the open public entrance, a text note can tell us what yo
 |---|---|
 | Stable site name | River Road African American Museum — Pierre Caliste Landry |
 | Historic location | Donaldsonville and Ascension Parish, the civic and community setting of the Landry history |
+| Town | Donaldsonville |
 | Public anchor | River Road African American Museum, 406 Charles Street, Donaldsonville |
 | Approach | Short walk from lawful street arrival to the signed Charles Street entrance |
 | Visitor boundary | Main public reception and open galleries. Optional observation at the signed museum entrance only. |

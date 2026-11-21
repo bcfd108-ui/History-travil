@@ -101,6 +101,7 @@ Reading prompts only: identify narrator versus ancestor; distinguish an original
 
 ## 10. Locator record
 - Stable entry name: Golden Spike Chinese labor — named descendants and public commemoration.
+- Town: Promontory
 - Division / dossier: UT / HT-RES-UT-golden-spike-chinese-labor.
 - Public anchor: Golden Spike National Historical Park Visitor Center, Promontory Summit, Utah.
 - Printed street address: 6200 North 22300 West, Promontory, Utah 84307; official indexed extract. [2]

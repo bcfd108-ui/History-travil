@@ -60,6 +60,8 @@ Quiet witness only. Reading and trip planning are available without an account, 
 | Field | Value |
 |---|---|
 | Stable site name | Joplin History & Mineral Museum, Tri-State mining workers |
+| Town | Joplin |
+| Public anchor | Joplin History & Mineral Museum, 504 S. Schifferdecker Ave., is a drive-up stop with a short visitor walk from designated parking |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

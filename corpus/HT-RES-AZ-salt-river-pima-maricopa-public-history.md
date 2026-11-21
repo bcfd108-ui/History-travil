@@ -96,6 +96,7 @@ No answer or current label is invented. No copying designs, handling objects, in
 
 ## 10. Locator record
 - Stable name: Huhugam Ki: Museum, public indoor gallery
+- Town: Scottsdale
 - Public visitor address: 10005 E. Osborn Road, Scottsdale, Arizona 85256
 - Latitude: 
 - Longitude: 

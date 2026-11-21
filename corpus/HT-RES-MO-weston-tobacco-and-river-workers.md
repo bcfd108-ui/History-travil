@@ -59,6 +59,8 @@ Held for field review and Gene’s authorization. The designated public exterior
 | Field | Verified value |
 |---|---|
 | Stable site name | Weston Bend State Park historic tobacco barn |
+| Town | Weston |
+| Public anchor | Weston Bend State Park historic tobacco barn |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

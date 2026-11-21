@@ -70,6 +70,8 @@ Quiet witness. The itinerary contains no photo-tag activity. Reading and plannin
 | Field | Value |
 |---|---|
 | Stable site name | Presidio Nuestra Señora de Loreto de la Bahía |
+| Town | Goliad |
+| Public anchor | Presidio La Bahía State Historic Site public museum/check-in at 217 Loop 71, Goliad |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

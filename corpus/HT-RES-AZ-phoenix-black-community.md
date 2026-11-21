@@ -103,6 +103,7 @@ Witness-only reflection on exclusion and community work. No photo find.
 | Field | Value |
 |---|---|
 | Stable site name | Phoenix Black community — Ragsdale family and Calvin Goode |
+| Town | Phoenix |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

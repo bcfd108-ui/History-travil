@@ -88,6 +88,7 @@ No finds inside mines, private buildings or cemeteries; no collecting ore, fitti
 
 ## 10. Locator record
 - Stable name: Silver City Historic District, Owyhee County, Idaho
+- Town: Silver City
 - Stable dossier ID: HT-RES-ID-silver-city
 - Latitude: 43.016515
 - Longitude: -116.732612

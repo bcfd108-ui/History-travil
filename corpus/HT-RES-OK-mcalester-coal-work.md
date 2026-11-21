@@ -83,6 +83,8 @@ Quiet reflection for the disasters and affected families. Field-checked photogra
 | Field | Verified value |
 |---|---|
 | Stable site name | McAlester Coal Work and Krebs Heritage Museum |
+| Town | McAlester |
+| Public anchor | Krebs Heritage Museum, 85 S Main Street, Krebs |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

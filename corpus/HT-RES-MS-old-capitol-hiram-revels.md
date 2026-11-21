@@ -47,6 +47,7 @@ Voluntary dated reports can confirm chamber availability or the accessible visit
 |---|---|
 | Stable site name | Old Capitol Museum and the room that elected Hiram Revels |
 | Historic location | Historic state capitol’s Old House Chamber, Jackson |
+| Town | Jackson |
 | Public anchor | Old Capitol Museum, 100 South State Street, Jackson |
 | Approach | Regular public museum entry during opening hours |
 | Visitor boundary | Public museum areas subject to current gallery availability |

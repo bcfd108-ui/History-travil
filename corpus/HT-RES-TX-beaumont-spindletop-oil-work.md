@@ -48,6 +48,8 @@ Museum equipment may support a voluntary observation once signage, field access 
 | Field | Value |
 |---|---|
 | Stable site name | Spindletop Boomtown Museum and Lucas Gusher Work |
+| Town | Beaumont |
+| Public anchor | Spindletop Boomtown Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

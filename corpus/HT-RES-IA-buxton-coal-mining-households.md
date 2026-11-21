@@ -77,6 +77,8 @@ No on-site photo path. Quiet reading and off-site interpretation are available w
 | Field | Verified value |
 |---|---|
 | Stable site name | Buxton Historic Townsite — mining households |
+| Town | Buxton |
+| Public anchor | African American Museum of Iowa, Cedar Rapids |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

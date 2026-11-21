@@ -54,6 +54,7 @@ Quiet reflection. No visitor access check or photo prompt at the lodging or rest
 |---|---|
 | Stable site name | Dunleith and The Castle |
 | Historic location | 84 Homochitto Street, Natchez, Adams County, Mississippi |
+| Town | Natchez |
 | Public anchor | The Castle Restaurant and Pub, former carriage house and stables, during public dining service |
 | Approach | Drive-up and short walk to restaurant entry |
 | Visitor boundary | Restaurant patron areas only; house, hotel porches and wider grounds excluded |

@@ -52,6 +52,8 @@ Quiet witness throughout. No contribution path.
 | Field | Value |
 |---|---|
 | Stable site name | Mission San José NPS Visitor Center Witness |
+| Town | San Antonio |
+| Public anchor | Mission San José NPS Visitor Center |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

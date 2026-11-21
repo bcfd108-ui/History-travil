@@ -72,6 +72,8 @@ A courthouse frontage photo might support a later record of the civic street, af
 | Field | Verified value |
 |---|---|
 | Stable site name | Guymon Rock Island Railroad Town |
+| Town | Guymon |
+| Public anchor | Public North Main sidewalk at the county courthouse block, 319 N Main |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

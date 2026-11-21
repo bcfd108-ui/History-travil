@@ -54,6 +54,8 @@ Optional future photo tag, pending field and Dash review: the two low wings fram
 | Field | Value |
 |---|---|
 | Stable site name | Fair Park Texas Centennial Buildings (1936–1937) |
+| Town | Dallas |
+| Public anchor | Enter by a designated open Fair Park gate and take the public walk alongside the Esplanade |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

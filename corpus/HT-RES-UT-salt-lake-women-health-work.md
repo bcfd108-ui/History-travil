@@ -100,6 +100,7 @@ No scoring, medical roleplay, diagnosis exercise or patient-identification chall
 ## 10. Locator record
 
 - Stable name: Church History Library, Salt Lake City
+- Public anchor: Church History Library, 15 E North Temple Street, Salt Lake City
 - Latitude:
 - Longitude:
 - Coordinate source:

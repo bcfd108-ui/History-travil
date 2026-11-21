@@ -90,6 +90,7 @@ A later, operator-verified public interpretation could ask visitors to distingui
 
 ## 10. Locator record
 - Stable entry name: Ely railroad workers: paperwork and public memory
+- Town: Ely
 - Division/dossier: NV / HT-RES-NV-ely-railroad-workers
 - Public anchor: East Ely Railroad Depot Museum, state-operated upstairs museum
 - Printed street address: 1100 Avenue A, Ely, Nevada 89301 [1]

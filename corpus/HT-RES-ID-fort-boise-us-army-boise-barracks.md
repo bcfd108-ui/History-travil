@@ -123,6 +123,7 @@ No primary-sourced haunted tradition was found in the nomination, VA, or ACHP so
 |---|---|
 | Stable site name | Fort Boise (U.S. Army) / Boise Barracks |
 | Historic location | Sec. 2, T3N, R2E; ~440-acre 1972 boundary NE of downtown Boise |
+| Town | Boise |
 | Public anchor | Fort Boise marker (N. 5th St. near W. Fort St.); Fort Boise Park; public-street exterior |
 | Address | 550 W. Fort St. area (marker); 500 W. Fort St. (VA campus, no tour); 155 E. Garrison Rd. (park) |
 | Approach | W. Fort St. / N. 5th St., Boise North End edge |

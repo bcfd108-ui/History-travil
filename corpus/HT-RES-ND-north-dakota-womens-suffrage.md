@@ -103,6 +103,7 @@ Rights clearance:
 ## 10. Locator record
 
 Stable name: State Archives — Orin G. Libby Memorial Reading Room
+- Town: Bismarck
 
 Latitude:
 

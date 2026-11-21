@@ -68,6 +68,7 @@ Field-only candidate: photograph the silhouette through an operator-designated v
 | Field | Value |
 |---|---|
 | Stable site name | Chimney Rock State Historic Site |
+| Public anchor | Abbott Visitor Center, Chimney Rock |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

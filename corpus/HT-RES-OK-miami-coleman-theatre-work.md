@@ -50,6 +50,8 @@ Possible exterior marquee detail as a voluntary submission candidate after lawfu
 | Field | Value |
 |---|---|
 | Stable site name | Coleman Theatre Beautiful — Miami |
+| Town | Miami |
+| Public anchor | Signed public streetside approach and sidewalk at 103 N Main |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

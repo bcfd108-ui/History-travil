@@ -101,6 +101,7 @@ Research-only possibility: observe a non-sensitive public interpretive feature t
 
 ## 10. Locator record
 - Stable entry name: Cody museum community — curatorial collaboration at the Center of the West.
+- Town: Cody
 - Division / dossier: WY / HT-RES-WY-cody-museum-community.
 - Public anchor: Buffalo Bill Center of the West, admitted Whitney Western Art Museum galleries.
 - Printed street address: 720 Sheridan Avenue, Cody, Wyoming 82414. [1]

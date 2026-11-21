@@ -111,6 +111,7 @@ https://history.utah.gov/wp-content/uploads/2024/05/Womens-Oral-History-Database
 ## 10. Locator record
 
 Stable name: The Helper Museum / Western Mining & Railroad Museum
+- Town: Helper
 Latitude:
 Longitude:
 Coordinate source:

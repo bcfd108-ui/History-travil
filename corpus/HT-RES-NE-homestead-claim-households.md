@@ -71,6 +71,7 @@ Field-only candidate for the built-environment portion: photograph an operator-i
 | Field | Value |
 |---|---|
 | Stable site name | Homestead National Historical Park — Freeman claim |
+| Public anchor | Homestead National Historical Park |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

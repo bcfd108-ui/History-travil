@@ -3,8 +3,8 @@ import { haversineKm, type LatLon } from "./geo";
 
 type Access = "roadside" | "walk" | "hike" | "remote";
 type Seed = {
-  id: string; entrySlug: string; ground: string; place: string; sourceNote: string;
-  catalogNames?: string[]; evidence?: string; task?: string; hint?: string;
+  id: string; entrySlug: string | null; targetEntrySlug?: string; label: string; groundName: string; place: string; sourceNote: string;
+  task: string; hint: string;
   access?: Access; seasonal?: boolean; legacyLabels?: string[]; vicinityKm?: number;
 };
 export type HuntSeed = {
@@ -12,7 +12,7 @@ export type HuntSeed = {
   badge: string; status: string; finds: Seed[]; related: { slug: string; label: string }[];
 };
 export type HuntFind = {
-  id: string; entrySlug: string | null; ground: string; place: string; task: string;
+  id: string; entrySlug: string | null; label: string; ground: string; place: string; task: string;
   hint: string; legacyLabels: string[]; point: LatLon | null; vicinityKm: number | null;
   access: Access; seasonal: boolean;
 };
@@ -43,8 +43,6 @@ function tierFor(finds: HuntFind[]) {
   return tied.some(f => f.access === "walk") ? "Local walk" : "Easy roadside";
 }
 
-const normalize = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim();
-
 export function resolveHunts(seeds: HuntSeed[], sites: Site[], anchorOf: (s: Site) => VisitableAnchor | null): Hunt[] {
   const bySlug = new Map(sites.map(s => [s.slug, s]));
   const huntIds = new Set<string>();
@@ -56,28 +54,19 @@ export function resolveHunts(seeds: HuntSeed[], sites: Site[], anchorOf: (s: Sit
     for (const f of h.finds) {
       if (!/^[a-z0-9-]+$/.test(f.id) || ids.has(f.id)) throw new Error("Invalid or duplicate hunt find: " + h.slug + "/" + f.id);
       ids.add(f.id);
-      let site = bySlug.get(f.entrySlug);
-      if (!site && f.catalogNames?.length) {
-        const names = f.catalogNames.map(normalize);
-        const matches = sites.filter(s => s.stateCode === f.entrySlug.split("-")[0] &&
-          [s.locator.stableName, s.title].some(n => names.includes(normalize(n))));
-        if (matches.length === 1) site = matches[0];
-      }
+      // A reserved slug identifies pending ground without publishing a tie.
+      // Several distinct field tasks may resolve to the same dossier.
+      const target = f.entrySlug ?? f.targetEntrySlug;
+      const site = target ? bySlug.get(target) : undefined;
       if (site?.stopType === "reflection") continue;
       const anchor = site && anchorOf(site);
-      const playable = site && anchor;
-      const record = site ? [site.access, site.stillThere, site.progression, site.story, site.photoRecord].join(" ") : "";
-      // If a revision withdraws the cited ground, keep its place on the list
-      // while withholding the stale invitation and all badge credit.
-      const supported = !f.evidence || record.toLowerCase().includes(f.evidence.toLowerCase());
-      const tied = Boolean(playable && supported);
+      const tied = Boolean(site && anchor);
       const access = site?.access || "";
       const method = f.access ?? (anchor?.approach === "hike" ? "hike" : anchor?.approach === "drive-up" ? "roadside" : "walk");
       finds.push({
-        id: f.id, entrySlug: tied ? site!.slug : null, ground: f.ground, place: f.place,
-        task: tied ? f.task || "Find the public stop named in the entry: " + anchor!.name : "",
-        hint: tied ? f.hint || anchor!.boundary || access.replace(/\*\*/g, "") || anchor!.name : "",
-        legacyLabels: f.legacyLabels ?? [], point: tied ? site!.coordinates : null,
+        id: f.id, entrySlug: tied ? site!.slug : null, label: f.label, ground: f.groundName, place: f.place,
+        task: f.task, hint: f.hint,
+        legacyLabels: [f.label, ...(f.legacyLabels ?? [])], point: tied ? site!.coordinates : null,
         vicinityKm: f.vicinityKm ?? null, access: method,
         seasonal: f.seasonal ?? /open seasonally|seasonal access|closed (?:in|during|for) (?:the )?winter/i.test(access)
       });

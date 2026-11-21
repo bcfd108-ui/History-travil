@@ -103,6 +103,7 @@ Reflection prompt: What responsibilities follow when a family entrusts its story
 ## 10. Locator record
 
 Stable name: Southern Colorado Coal Miners Memorial & Museum
+- Town: Trinidad
 
 Latitude:
 

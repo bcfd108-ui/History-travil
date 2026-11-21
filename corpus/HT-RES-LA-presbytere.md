@@ -73,6 +73,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | The Presbytère, Louisiana State Museum, Jackson Square, New Orleans, Louisiana |
+| Town | New Orleans |
+| Public anchor | The Presbytère, Louisiana State Museum, 751 Chartres Street, New Orleans, LA 70116 |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

@@ -58,6 +58,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Jacksonport State Park, White River port |
+| Town | Jacksonport |
+| Public anchor | Jacksonport State Park visitor center, 111 Avenue St., Newport mailing address |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

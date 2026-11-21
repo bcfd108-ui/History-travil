@@ -64,6 +64,8 @@ Optional for a later human field check and Dash review: an exterior frame of the
 | Field | Value |
 |---|---|
 | Stable site name | Fort Worth Stockyards — Livestock Exchange |
+| Town | Fort Worth |
+| Public anchor | 131 East Exchange Avenue, Suite 113 for the museum and signed public sidewalk on East Exchange Avenue for the exterior |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

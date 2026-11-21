@@ -55,6 +55,8 @@ The public ferry is a reading stop. Optional modern ferry-view contributions rem
 | Field | Value |
 |---|---|
 | Stable site name | Houston Ship Channel and Turning Basin, Lynchburg Ferry public anchor |
+| Town | Houston |
+| Public anchor | Use the signed Lynchburg Ferry north landing, at the county’s published Lynchburg approach, when county service is operating |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

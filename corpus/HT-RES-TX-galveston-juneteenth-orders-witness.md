@@ -65,6 +65,8 @@ Quiet witness only. No photo-tag activity. The reading and visit plan require no
 | Field | Value |
 |---|---|
 | Stable site name | Galveston Juneteenth — former Osterman Building and Absolute Equality mural |
+| Town | Galveston |
+| Public anchor | Ordinary public sidewalk at the Absolute Equality mural and marker at Strand and 22nd Street |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

@@ -103,6 +103,7 @@ Reflection stop: what changes when the people whose history is being interpreted
 ## 10. Locator record
 
 - Stable name: Tamástslikt Cultural Institute
+- Town: Pendleton
 - Latitude:
 - Longitude:
 - Coordinate source:

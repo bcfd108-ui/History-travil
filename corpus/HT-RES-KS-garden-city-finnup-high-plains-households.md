@@ -43,6 +43,8 @@ None. A visitor who wants to submit a current memorial subject frame can do so o
 
 ## 10. Locator record
 - Stable site name: Finnup Park (public memorial anchor only)
+- Town: Garden City
+- Public anchor: Finnup Park
 - Latitude:
 - Longitude:
 - Coordinate source:

@@ -67,6 +67,8 @@ Any future building-detail contribution from an ordinary public viewpoint is vol
 | Field | Verified value |
 |---|---|
 | Stable site name | Marceline Santa Fe Depot and E. P. Ripley Park public approach |
+| Town | Marceline |
+| Public anchor | Walt Disney Hometown Museum, 120 E. Santa Fe Ave. Use the signed street-side visitor entrance and designated approach, a drive-up and short walk |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

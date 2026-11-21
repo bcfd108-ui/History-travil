@@ -66,6 +66,7 @@ Quiet witness. Text and photo invitation fields are omitted for the sensitive hi
 |---|---|
 | Stable site name | Melrose Estate — the work behind the house |
 | Historic location | Melrose Estate, Natchez, Adams County |
+| Town | Natchez |
 | Public anchor | NPS Melrose signed parking and operator-controlled visit |
 | Approach | Drive-up and short walk via signed NPS paths |
 | Visitor boundary | Public paths, posted-open outbuildings and ranger-controlled tour spaces |

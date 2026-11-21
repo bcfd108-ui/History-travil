@@ -104,6 +104,7 @@ All blank. Public museum observation and reading only; no collecting, industrial
 
 ## 10. Locator record
 - Stable entry name: Butte mining labor — World Museum of Mining and household testimony.
+- Town: Butte
 - Division / dossier: MT / HT-RES-MT-butte-mining-labor.
 - Public anchor: World Museum of Mining, above-ground public visitor areas only.
 - Printed street address: 155 Museum Way, Butte, Montana 59701. [8]

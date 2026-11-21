@@ -48,6 +48,7 @@ Voluntary dated reports may confirm gallery availability or accessibility at the
 |---|---|
 | Stable site name | Museum of Mississippi History and the people on the Greenville levee |
 | Historic location | Greenville and the Mississippi Delta, 1927; museum in Jackson |
+| Town | Jackson |
 | Public anchor | Museum of Mississippi History, 222 North Street, Jackson |
 | Approach | Staffed shared lobby, then Museum of Mississippi History galleries |
 | Visitor boundary | Museum public spaces only |

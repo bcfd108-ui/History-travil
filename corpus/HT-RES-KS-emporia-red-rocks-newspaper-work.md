@@ -63,6 +63,8 @@ No offered photo tag. The public exterior boundary, camera position and terms re
 | Field | Value |
 |---|---|
 | Stable site name | Red Rocks — William Allen White House, Emporia |
+| Town | Emporia |
+| Public anchor | Kansas Historical Society’s Red Rocks State Historic Site at 927 Exchange, in its staffed season |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

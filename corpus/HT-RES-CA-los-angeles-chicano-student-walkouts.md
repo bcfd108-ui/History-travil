@@ -105,6 +105,7 @@ Optional observation, only if a relevant display exists: does the label let a st
 ## 10. Locator record
 
 - Stable name: LA Plaza de Cultura y Artes [1]
+- Town: Los Angeles
 - Latitude:
 - Longitude:
 - Coordinate source:

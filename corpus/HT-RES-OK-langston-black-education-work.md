@@ -47,6 +47,7 @@ No photo contribution while public footing and subject are unresolved.
 | Field | Value |
 |---|---|
 | Stable site name | Langston Black Education and the Langston City Herald |
+| Town | Langston |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

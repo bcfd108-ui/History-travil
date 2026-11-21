@@ -60,6 +60,8 @@ A field reviewer may assess a voluntary street-side image of the upper exterior 
 | Field | Value |
 |---|---|
 | Stable site name | Swain-Vincent House and Fort Dodge gypsum history |
+| Town | Fort Dodge |
+| Public anchor | The publicly passable Third Avenue South sidewalk by the Vincent House frontage, Fort Dodge |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

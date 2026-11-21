@@ -38,7 +38,11 @@ Photo: **blank** — the source record carries no photograph for this ground.
 Modern project photo: **blank**. Photo point: **blank**. No photograph was field-matched for this entry.
 
 ## 8. Candidate finds
-Reflection only. This disaster memorial is for quiet witness.
+Dormant, non-scored ideas only:
+- Compare the monument's five names with the tunnel record's count of the dead. Key: **blank**.
+- Note the two cobblestone monuments' 1921 date, from the record. Key: **blank**.
+
+This entry's ground carries a find of the Pulaski Hunt; the hunt tie lives in the hunt record, not in this section. Nothing here is scored from the research text.
 
 ## 9. Source list
 [1] Forest History Society — The 1910 Fires: https://foresthistory.org/the-big-blowup-centennial-anniversary-is-this-weekend/
@@ -47,6 +51,7 @@ Reflection only. This disaster memorial is for quiet witness.
 
 ## 10. Locator record
 - Stable name: Nine Mile Cemetery — Wallace 1910 Fire Memorial
+- Town: Wallace
 - Public anchor: Nine Mile Cemetery, outside Wallace, Idaho
 - Address:
 - Latitude: 47.498

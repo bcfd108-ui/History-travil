@@ -57,6 +57,8 @@ Pending field check and QC. No contribution invitation on the ground in this dra
 | Field | Value |
 |---|---|
 | Stable site name | Soudan Iron Mine |
+| Town | Soudan |
+| Public anchor | Soudan Iron Mine |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

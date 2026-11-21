@@ -87,6 +87,7 @@ Language recordings, community people and ceremonial objects are not collectible
 
 ## 10. Locator record
 - Stable name: Coos History Museum — public Tribal-language interpretation anchor
+- Town: Coos Bay
 - Latitude:
 - Longitude:
 - Coordinate source/scope:

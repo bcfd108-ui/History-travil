@@ -98,6 +98,7 @@ Museum-based observation only. No industrial artifact collecting, private-home v
 
 ## 10. Locator record
 - Stable entry name: Bend mill labor — Deschutes Historical Museum.
+- Town: Bend
 - Division / dossier: OR / HT-RES-OR-bend-mill-labor.
 - Public anchor: Deschutes Historical Museum in historic Reid School.
 - Printed street address: 129 NW Idaho Avenue, Bend, Oregon.

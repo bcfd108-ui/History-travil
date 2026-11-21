@@ -68,6 +68,7 @@ If you were already at the open public entrance, a text note can tell us what yo
 |---|---|
 | Stable site name | West Baton Rouge Museum — the Allendale cabins |
 | Historic location | Allendale Plantation community, West Baton Rouge Parish. Selected structures relocated to Port Allen. |
+| Town | Port Allen |
 | Public anchor | West Baton Rouge Museum, main reception and published public campus |
 | Approach | Drive-up to signed museum parking, then short walk to main museum |
 | Visitor boundary | Public entrance, reception and signed campus paths. Historic interiors by staff only. Optional observation at main entrance only. |

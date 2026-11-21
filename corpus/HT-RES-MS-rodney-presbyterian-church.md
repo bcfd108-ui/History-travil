@@ -62,6 +62,7 @@ Research reading. Visitor observation fields omitted.
 |---|---|
 | Stable site name | Rodney Presbyterian Church |
 | Historic location | Rodney, Jefferson County, Mississippi |
+| Town | Rodney |
 | Public anchor | |
 | Visitor boundary | |
 | Latitude | |

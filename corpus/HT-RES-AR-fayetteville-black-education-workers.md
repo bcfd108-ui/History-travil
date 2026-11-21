@@ -56,6 +56,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Fayetteville Lincoln School and Walker Park public reading stop |
+| Town | Fayetteville |
+| Public anchor | Walker Park, 10 W. 15th Street, Fayetteville |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

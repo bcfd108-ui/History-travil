@@ -74,6 +74,8 @@ Ordinary history visit. Candidate to verify in the field: matching detail of per
 | Field | Verified value |
 |---|---|
 | Stable site name | E.W. Marland Mansion and Estate |
+| Town | Ponca City |
+| Public anchor | Marland Mansion & Estate, 901 Monument Road |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

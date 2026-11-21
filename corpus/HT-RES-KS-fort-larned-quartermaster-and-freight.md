@@ -51,6 +51,7 @@ None activated; no questions, answer keys, points or completion requirement. Aft
 
 ## 10. Locator record
 - Stable site name: Fort Larned National Historic Site — Quartermaster Warehouse
+- Public anchor: Fort Larned National Historic Site visitor center
 - Latitude:
 - Longitude:
 - Coordinate source:

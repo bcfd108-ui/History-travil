@@ -55,6 +55,8 @@ Reading and trip planning are free and available without an account, location sh
 | Field | Value |
 |---|---|
 | Stable site name | Historic Dyess Colony, Cash household and agricultural resettlement |
+| Town | Dyess |
+| Public anchor | Historic Dyess Colony Visitors Center, 110 Center Drive, drive-up with a short walk to the signed entrance |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

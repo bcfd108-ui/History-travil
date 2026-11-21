@@ -63,6 +63,8 @@ A voluntary photo of a publicly visible memorial brick could be considered after
 | Field | Verified value |
 |---|---|
 | Stable site name | Audrain County Fire Brick Museum, Mexico |
+| Town | Mexico |
+| Public anchor | Fire Brick Museum, Audrain County Historical Society, at the Robert S. Green Park museum complex, 501 South Muldrow, Mexico |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

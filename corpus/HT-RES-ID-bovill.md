@@ -56,6 +56,7 @@ This entry's ground carries a find of the Valley Hunt; the hunt tie lives in the
 
 ## 10. Locator record
 - Stable name: Bovill, Idaho — main street
+- Town: Bovill
 - Public anchor: Bovill main street, Bovill, Idaho (Latah County)
 - Address:
 - Latitude: 46.858

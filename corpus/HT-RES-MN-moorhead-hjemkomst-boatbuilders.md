@@ -60,6 +60,8 @@ No participant photo path pending field check, venue rules, independent QC and G
 | Field | Value |
 |---|---|
 | Stable site name | Hjemkomst boatbuilders, interpreted at Hjemkomst Center |
+| Town | Moorhead |
+| Public anchor | Hjemkomst Center |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

@@ -61,6 +61,7 @@ Research reading. Visitor observation fields omitted.
 |---|---|
 | Stable site name | Rosemont |
 | Historic location | Davis family property, Woodville vicinity, Wilkinson County |
+| Town | Woodville |
 | Public anchor | |
 | Visitor boundary | |
 | Latitude | |

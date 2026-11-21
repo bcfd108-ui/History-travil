@@ -70,7 +70,7 @@ export default async function TourPage({ params }: { params: Promise<{ id: strin
             </>
           );
           return s.siteSlug ? (
-            <Link key={i} className="row" href={`/sites/${s.siteSlug}`}>
+            <Link key={i} className="row" href={`/sites/${s.siteSlug}?from=route&group=${encodeURIComponent(id)}`}>
               {inner}
             </Link>
           ) : (
@@ -122,7 +122,7 @@ export default async function TourPage({ params }: { params: Promise<{ id: strin
       )}
 
       <p className="small">
-        <Link href="/tours">All tours</Link>
+        <Link href="/tours">All routes</Link>
       </p>
     </article>
   );

@@ -56,6 +56,8 @@ No tag path pending a human boundary and winter access check, independent QC and
 | Field | Value |
 |---|---|
 | Stable site name | Wadena Northern Pacific Passenger Depot and Burlington Northern Park |
+| Town | Wadena |
+| Public anchor | Wadena Northern Pacific Passenger Depot |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

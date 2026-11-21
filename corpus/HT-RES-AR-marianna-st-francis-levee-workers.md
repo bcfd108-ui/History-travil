@@ -48,6 +48,7 @@ None. Quiet witness.
 ## 10. Structured locator
 - Stable site: Marianna City Square Park civic exterior
 - Historical location: Marianna reporting location for 1897 relief landing. Exact landing:
+- Town: Marianna
 - Public anchor: Court Square Park public street-side sidewalk, Poplar and Main, Marianna [2, 8, 9]
 - Latitude:
 - Longitude:

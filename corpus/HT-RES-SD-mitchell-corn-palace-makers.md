@@ -71,6 +71,8 @@ Conditional photo find for field review: a finished panel edge showing the plant
 | Field | Value |
 |---|---|
 | Stable site name | Mitchell Corn Palace |
+| Town | Mitchell |
+| Public anchor | Mitchell Corn Palace |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

@@ -62,6 +62,8 @@ The old replica website redirected to a suspended-account page. Current hours ab
 | Field | Value |
 |---|---|
 | Stable site name | Fort Hall · 1834 trading post [1, 7] |
+| Town | Fort Hall |
+| Public anchor | Bannock County Historical Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

@@ -41,6 +41,7 @@ None adopted pending field and rights checks.
 ## 10. Structured locator
 - Stable site: Calico Rock Historic District
 - Historical location: Main Street commercial block, Calico Rock [2]
+- Town: Calico Rock
 - Public anchor: Calico Rock Museum & Visitor Center, 105 Main St., Calico Rock, AR [1]
 - Latitude:
 - Longitude:

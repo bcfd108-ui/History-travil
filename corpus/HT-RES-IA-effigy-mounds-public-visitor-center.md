@@ -69,6 +69,7 @@ Quiet reflection only. No participant photo path. Reading and planning require n
 | Field | Verified value |
 |---|---|
 | Stable site name | Effigy Mounds National Monument — public visitor center interpretation |
+| Public anchor | Public NPS Visitor Center |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

@@ -69,6 +69,8 @@ Quiet witness only for cotton labor and displacement. The story and its trip pla
 | Field | Verified value |
 |---|---|
 | Stable site name | Kennett Court Square and Dunklin County Courthouse exterior |
+| Town | Kennett |
+| Public anchor | The open public sidewalks of Kennett Court Square facing Dunklin County Courthouse, 100 Kennett Court Square |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

@@ -62,6 +62,8 @@ Held. A human reviewer may verify a nonblocking public-sidewalk view of an ident
 | Field | Value |
 |---|---|
 | Stable site name | Boone C&NW railroad shops history, James H. Andrew Railroad Museum and downtown exterior |
+| Town | Boone |
+| Public anchor | In season, James H. Andrew Railroad Museum, 225 10th Street |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

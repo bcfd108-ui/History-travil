@@ -47,6 +47,8 @@ The nomination attributes Redmon’s recollection to Miller’s 1944 book. A rec
 | Field | Value |
 |---|---|
 | Stable site name | Eisenhower Birthplace State Historic Site |
+| Town | Denison |
+| Public anchor | Arrive at the signed Eisenhower Birthplace State Historic Site visitor entrance on S. Lamar |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

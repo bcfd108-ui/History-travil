@@ -57,6 +57,7 @@ Quiet witness only. No participant photo path or location requirements.
 | Field | Value |
 |---|---|
 | Stable site name | Lower Sioux Agency Historic Site · Public Interpretation |
+| Public anchor | Lower Sioux Agency Historic Site |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

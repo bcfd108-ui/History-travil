@@ -85,6 +85,7 @@ Exact viewed image: https://tile.loc.gov/image-services/iiif/service:ndnp:ndhi:b
 [4] Library of Congress, title history and bibliographic record, read as institutional context rather than primary worker testimony: https://www.loc.gov/item/sn84022127/
 
 ## 10. Locator record
+- Town: Bismarck
 
 - **Stable name:** State Archives, Orin G. Libby Memorial Reading Room.
 - **Public address:** 612 East Boulevard Avenue, Bismarck, North Dakota 58505. [1]

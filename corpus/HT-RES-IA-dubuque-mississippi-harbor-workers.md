@@ -71,6 +71,8 @@ Candidate held pending a human field check, Dash and Gene. The wheel outside the
 | Field | Verified value |
 |---|---|
 | Stable site name | Dubuque Ice Harbor — harbor and dredge workers |
+| Town | Dubuque |
+| Public anchor | City Mississippi Riverwalk |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

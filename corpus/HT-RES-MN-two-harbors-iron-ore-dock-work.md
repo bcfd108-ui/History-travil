@@ -51,6 +51,8 @@ No active observation. A future voluntary profile photo can be evaluated after a
 | Field | Value |
 |---|---|
 | Stable site name | Two Harbors iron ore docks and Agate Bay public shore viewpoint |
+| Town | Two Harbors |
+| Public anchor | Agate Bay public shore viewpoint |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

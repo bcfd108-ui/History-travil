@@ -121,6 +121,8 @@ Conditional photo find for field review: the surviving quartzite entrance arch, 
 | Field | Value |
 |---|---|
 | Stable site name | Old Minnehaha County Courthouse / Old Courthouse Museum |
+| Town | Sioux Falls |
+| Public anchor | Old Courthouse Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

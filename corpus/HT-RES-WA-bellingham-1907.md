@@ -89,6 +89,7 @@ Do not reenact forced movement, assign perpetrator/victim roles, reconstruct det
 
 ## 10. Locator record
 - Stable name: Bellingham 1907 anti-South Asian expulsion — Arch of Healing and Reconciliation reflection anchor
+- Town: Bellingham
 - State / county / city: Washington / Whatcom / Bellingham
 - Public anchor: Lee Memorial Park, corner of Lottie and North Commercial streets, north of Central Library [1–2]
 - Latitude:

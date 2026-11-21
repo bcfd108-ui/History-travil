@@ -45,6 +45,7 @@ None. Reflection only: no photo prompt, task, hunt, score, reenactment or disclo
 
 ## 10. Locator record
 - Stable site name: Washita Battlefield National Historic Site Visitor Center
+- Public anchor: Washita Battlefield National Historic Site Visitor Center
 - Latitude:
 - Longitude:
 - Coordinate source:

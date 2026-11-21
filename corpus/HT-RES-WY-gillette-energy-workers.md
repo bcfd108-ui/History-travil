@@ -100,6 +100,7 @@ Reflection prompts only: identify whether a statement is testimony, an archive d
 
 ## 10. Locator record
 - Stable entry name: Gillette energy workers — community testimony beyond production figures.
+- Town: Gillette
 - Division / dossier: WY / HT-RES-WY-gillette-energy-workers.
 - Public anchor: Campbell County Rockpile Museum, admitted indoor public galleries.
 - Printed street address: 900 W. Second Street, Gillette, Wyoming 82716. [1]

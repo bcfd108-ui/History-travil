@@ -60,6 +60,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Southern Tenant Farmers Museum, Tyronza |
+| Town | Tyronza |
+| Public anchor | Southern Tenant Farmers Museum, 117 North Main Street, Tyronza |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

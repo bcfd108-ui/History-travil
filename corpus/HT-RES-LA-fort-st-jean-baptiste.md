@@ -40,6 +40,8 @@ Quiet witness only. No optional contribution is assigned to the historic or pres
 
 ## 10. Structured locator
 - Stable site name: Fort St. Jean Baptiste State Historic Site replica
+- Town: Natchitoches
+- Public anchor: Fort St. Jean Baptiste State Historic Site replica, 155 Rue Jefferson
 - Latitude:
 - Longitude:
 - Coordinate source and scope:

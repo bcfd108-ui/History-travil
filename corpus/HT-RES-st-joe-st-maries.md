@@ -109,6 +109,7 @@ https://idahomagazine.com/article/avery-spotlight-city-idaho/
 
 ```yaml
 stable_site_name: St. Joe River / St. Maries, Idaho
+Public anchor: Woodlawn Cemetery and the St. Joe riverfront
 latitude:
 longitude:
 coordinate_source:

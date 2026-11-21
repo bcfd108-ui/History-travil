@@ -88,6 +88,7 @@ https://yvmuseum.org/
 
 ## 10. Locator record
 - Stable name: Yakima Valley Museum, food-and-labor interpretation anchor
+- Town: Yakima
 - Latitude:
 - Longitude:
 - Coordinate source/scope: None assigned. Operator prints 2105 Tieton Drive, Yakima, WA 98902. Museum access is separate from historic fields, camps, organizing sites and archival image locations.

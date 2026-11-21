@@ -62,6 +62,8 @@ No participant photo path pending a human field check and Gene’s authorization
 | Field | Value |
 |---|---|
 | Stable site name | St. Croix Boom Site and north DNR wayside |
+| Town | Stillwater |
+| Public anchor | St. Croix Boom Site |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

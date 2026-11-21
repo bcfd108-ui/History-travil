@@ -109,6 +109,7 @@ https://nmfarmandranchmuseum.org/museum-attractions/
 ## 10. Locator record
 
 - Stable name: New Mexico Farm & Ranch Heritage Museum
+- Public anchor: New Mexico Farm & Ranch Heritage Museum
 - Latitude:
 - Longitude:
 - Coordinate source:

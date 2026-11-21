@@ -102,6 +102,7 @@ Research-only comparison: a verified public historical display and a named worke
 
 ## 10. Locator record
 - Stable entry name: Missoula smokejumper history — Wendy Kamm and workplace belonging.
+- Town: Missoula
 - Division / dossier: MT / HT-RES-MT-missoula-smokejumper-history.
 - Public anchor: Missoula Smokejumper Visitor Center, closed for renovations; documentary archive now.
 - Printed street address: 5765 West Broadway Street, Missoula, Montana 59808. [1]

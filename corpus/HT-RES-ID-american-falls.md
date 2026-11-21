@@ -109,6 +109,7 @@ Activation status: NOT ACTIVATED; no inundated-site access in any mode.
 [11] https://www.powercounty.gov/182/American-Falls-Old-Town — county history read; completion date only, not endorsing low-water access.
 
 ## 10. Locator record
+- Town: American Falls
 - Stable resource name: American Falls town relocation, 1920s; reflection on community continuity and displacement.
 - Permanent public visitor destination: American Falls Tailwater Access; operator directs visitors off Fish Hatchery Road, west side below dam. Signed designated approach only. Exact entrance point not independently surveyed. [1]
 - Historic site: American Falls Reservoir Flooded Townsite. **Historical resource only, not a navigation destination.**

@@ -48,6 +48,7 @@ A dated voluntary report of posted public visiting hours or the street entrance 
 |---|---|
 | Stable site name | St. Mary Basilica, Natchez |
 | Historic location | Former Cathedral of the Sorrowful Heart of Mary, Natchez |
+| Town | Natchez |
 | Public anchor | Union Street public sidewalk at the church, 107 South Union Street |
 | Approach | View exterior from public sidewalk. Consult parish for interior access. |
 | Visitor boundary | Public street or parish-authorized visitor space |

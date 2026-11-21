@@ -115,6 +115,8 @@ The cemetery and histories of death or displacement remain reflection-only, with
 | Field | Value |
 |---|---|
 | Stable site name | Fort Walla Walla Museum [1,2] |
+| Town | Walla Walla |
+| Public anchor | Fort Walla Walla Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

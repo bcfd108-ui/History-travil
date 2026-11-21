@@ -52,6 +52,8 @@ None proposed for the displacement or memorial reading. The closed-season itiner
 | Field | Value |
 |---|---|
 | Stable site name | Hull-Rust-Mahoning Open Pit Mine and Hibbing town relocation |
+| Town | Hibbing |
+| Public anchor | Hull Rust Mine View |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

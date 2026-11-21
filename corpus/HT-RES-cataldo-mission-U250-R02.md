@@ -52,6 +52,7 @@ https://idahostatearchives.libraryhost.com/repositories/2/resources/4011
 ## 7. Locator records
 ```yaml
 stable_site_name: Cataldo Mission / Coeur d’Alene Mission of the Sacred Heart
+Public anchor: Coeur d'Alene's Old Mission State Park
 latitude:
 longitude:
 coordinate_source:

@@ -104,6 +104,7 @@ Directly read November 19, 2026. Sensitive location details found within sources
 
 ## 10. Locator record
 Stable name: Museum of Uintah County
+- Town: Vernal
 Latitude:
 Longitude:
 Coordinate source/scope: No verified public entrance coordinates; no community or cultural coordinates supplied.

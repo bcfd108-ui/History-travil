@@ -59,6 +59,8 @@ Quiet reflection only.
 | Field | Value |
 |---|---|
 | Stable site name | Cimarron Crossing Park — Ranch at Cimarron Crossing |
+| Town | Cimarron |
+| Public anchor | Cimarron Crossing Park, City of Cimarron |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

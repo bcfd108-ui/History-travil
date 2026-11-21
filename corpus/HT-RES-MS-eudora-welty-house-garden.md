@@ -49,6 +49,7 @@ Voluntary dated reports may confirm the garden gate, the separate visitor-center
 |---|---|
 | Stable site name | Eudora Welty House & Garden, a writer’s desk and her mother’s planting book |
 | Historic location | Welty family home, 1119 Pinehurst Street, Jackson |
+| Town | Jackson |
 | Public anchor | Visitor center at 1109 Pinehurst Street, Jackson |
 | Approach | Check in at visitor center for house tour or attend during free garden hours |
 | Visitor boundary | Guided house rooms and designated public garden |

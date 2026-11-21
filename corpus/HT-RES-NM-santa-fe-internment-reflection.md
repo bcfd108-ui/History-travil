@@ -87,6 +87,7 @@ Photo-tag permission:
 
 ## 10. Locator record
 - Stable name: Santa Fe Japanese American detention / correspondence and interrupted connection.
+- Town: Santa Fe
 - Public anchor: Fray Angélico Chávez History Library, New Mexico History Museum.
 - Printed visitor entrance: 113 Lincoln Avenue, Santa Fe. [1]
 - Latitude:

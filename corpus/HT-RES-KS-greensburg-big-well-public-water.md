@@ -73,6 +73,8 @@ No photo tag offered. Any future exterior feature would need a human field check
 | Field | Value |
 |---|---|
 | Stable site name | Greensburg Well — Big Well Park public exterior |
+| Town | Greensburg |
+| Public anchor | Drive up to publicly designated Big Well Park at the city’s printed 315 S Sycamore address |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

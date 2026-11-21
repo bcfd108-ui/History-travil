@@ -74,6 +74,8 @@ Quiet witness. If you were already at the open public anchor, a voluntary text n
 |---|---|
 | Stable site name | Oakland Plantation public unit |
 | Historic location | Former Bermuda plantation center, today Oakland, Natchitoches Parish |
+| Town | Oakland |
+| Public anchor | NPS Oakland Plantation entrance pavilion and signed interpretation paths |
 | Lawful visitor anchor | NPS Oakland Plantation entrance pavilion and signed interpretation paths |
 | Approach and public boundary | Drive-up with a short walk from NPS parking. Follow signed public paths and open doors only. |
 | Latitude | |

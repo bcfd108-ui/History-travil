@@ -56,6 +56,8 @@ A view of the relocated house exterior may be proposed only after a human confir
 | Field | Value |
 |---|---|
 | Stable site name | Czech immigrant households, National Czech & Slovak Museum & Library, Cedar Rapids |
+| Town | Cedar Rapids |
+| Public anchor | National Czech & Slovak Museum & Library, 1400 Inspiration Place SW, Cedar Rapids |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

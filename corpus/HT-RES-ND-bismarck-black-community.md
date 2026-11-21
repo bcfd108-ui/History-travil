@@ -89,6 +89,7 @@ No school visit, neighborhood walk, grave search, performance or reenactment is 
 ## 10. Locator record
 
 - Stable name: Bismarck Black community — named-memory and archival reflection.
+- Town: Bismarck
 - Public anchor: State Archives, Orin G. Libby Memorial Reading Room.
 - Printed public address: 612 East Boulevard Avenue, Bismarck, North Dakota 58505. [1]
 - Latitude: blank.

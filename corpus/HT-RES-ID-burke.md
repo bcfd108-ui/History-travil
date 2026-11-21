@@ -54,6 +54,7 @@ This entry's ground carries finds of the Mining Country Hunt; the hunt ties live
 
 ## 10. Locator record
 - Stable name: Burke, Idaho — the canyon town and the Tiger Hotel ground
+- Town: Burke
 - Public anchor: Burke's single public street, Burke, Idaho (State Hwy 4, about 7 miles up Burke Canyon from Wallace) — view from the public street only
 - Address:
 - Latitude: 47.519

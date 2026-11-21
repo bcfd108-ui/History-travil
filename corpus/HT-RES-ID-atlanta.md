@@ -88,6 +88,7 @@ https://www.idahogeology.org/product/S-00-15
 
 ## 10. Locator record
 - Stable name: Atlanta Historic District / Atlanta, Idaho
+- Town: Atlanta
 - Latitude:
 - Longitude:
 - Coordinate source/scope: No visitor arrival or camera coordinate verified. Archive item [8] prints 43.801221, -115.127222 for Atlanta location metadata only; deliberately not promoted to a navigation pin.

@@ -66,6 +66,8 @@ Optional exterior photo observation, subject to field check, museum rules and Da
 | Field | Value |
 |---|---|
 | Stable site name | USS Lexington (CV-16), Corpus Christi |
+| Town | Corpus Christi |
+| Public anchor | USS Lexington Museum public entry and signed ship tour, 2914 N. Shoreline Blvd. Drive up to the ordinary visitor approach and take the signed walk/ramp |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

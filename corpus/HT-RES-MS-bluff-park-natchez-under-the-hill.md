@@ -47,6 +47,7 @@ An optional dated access report may describe the upper park path or changes to t
 |---|---|
 | Stable site name | Bluff Park, Natchez |
 | Historic location | Upper and Middle Landings, Natchez riverfront, Adams County |
+| Town | Natchez |
 | Public anchor | Upper Bluff Park overlook, 101 South Broadway, Natchez |
 | Approach | Use the signed upper public park. |
 | Visitor boundary | Upper public park only |

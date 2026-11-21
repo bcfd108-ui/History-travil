@@ -57,6 +57,8 @@ A contribution is voluntary and awaits a human field check, Gene’s authorizati
 | Field | Value |
 |---|---|
 | Stable site name | Crater of Diamonds State Park, Prairie Creek diamond field |
+| Town | Murfreesboro |
+| Public anchor | Crater of Diamonds State Park visitor center, 209 State Park Road, Murfreesboro |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

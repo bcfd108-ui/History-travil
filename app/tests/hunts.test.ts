@@ -16,24 +16,29 @@ const lighthouse: Site = { ...sample, slug: target, title: "Test lighthouse", lo
 }};
 const seed: HuntSeed = { slug: "lighthouse-test", status: "active", name: "Test hunt", badge: "Light keeper",
   region: "Idaho", area: "Test coast", theme: "Lighthouse", related: [], finds: [{
-    id: "lantern", entrySlug: target, ground: "Test lighthouse", place: "Idaho", sourceNote: "Test fixture.",
-    catalogNames: ["Test lighthouse"], access: "roadside"
+    id: "lantern", entrySlug: null, targetEntrySlug: target, label: "Find the lamp", groundName: "Test lighthouse",
+    place: "Idaho", sourceNote: "Test fixture.", task: "Stand by the lamp.", hint: "Look at the lantern.", access: "roadside"
   }] };
 
 test("catalog publication, withdrawal and reflection all propagate from the same unchanged seed", () => {
   const publish = (records: Site[]) => model(records, [seed])[0];
   const pending = publish([]); assert.equal(pending.tied, 0); assert.equal(pending.finds.length, 1);
   const live = publish([lighthouse]); assert.equal(live.tied, 1); assert.equal(live.finds[0].entrySlug, target);
-  assert.ok(live.finds[0].task.includes(getVisitableAnchor(lighthouse)!.name));
+  assert.equal(live.finds[0].task, seed.finds[0].task);
+  assert.equal(pending.finds[0].task, live.finds[0].task);
   assert.equal(publish([{...lighthouse, stopType:"reflection"}]).finds.length, 0);
   assert.equal(publish([]).finds[0].entrySlug, null);
 });
 
-test("a unique exact local name can tie a new filename, ambiguous names and neighbor states cannot", () => {
-  const renamed = {...lighthouse, slug:"ID-new-filename"};
-  assert.equal(model([renamed], [seed])[0].finds[0].entrySlug, renamed.slug);
-  assert.equal(model([renamed, {...renamed,slug:"ID-other"}], [seed])[0].tied, 0);
-  assert.equal(model([{...renamed,stateCode:"WA"}], [seed])[0].tied, 0);
+test("two tasks at the same ground remain independently taggable after a desk publish", () => {
+  const other = {...seed.finds[0], id:"steps", label:"Find the steps", task:"Stand at the steps."};
+  const pair = [{...seed, finds:[seed.finds[0],other]}];
+  assert.equal(model([{...lighthouse,slug:"ID-same-name"}],pair)[0].tied,0);
+  const hunt = model([lighthouse],pair)[0];
+  assert.equal(hunt.tied,2);
+  const book = {objects:new Map([[receiptName(hunt.slug,hunt.finds[0]),false]]),legacy:new Set<string>()};
+  assert.ok(checked(book,hunt.slug,hunt.finds[0]));
+  assert.equal(checked(book,hunt.slug,hunt.finds[1]),false);
 });
 
 test("tiers follow access, seasonal limits, and straight-line separation", () => {
@@ -55,11 +60,19 @@ test("every playable find has visitable, non-reflection catalog ground", () => {
     assert.equal(h.tied, h.finds.filter(f => f.entrySlug).length);
     for (const f of h.finds) if (f.entrySlug) {
       const record = bySlug.get(f.entrySlug)!;
-      assert.equal(record.stopType,"view"); assert.ok(getVisitableAnchor(record));
+      assert.notEqual(record.stopType,"reflection"); assert.ok(getVisitableAnchor(record));
       assert.ok(f.task && f.hint);
     }
   }
-  for (const key of ["ID-nine-mile-cemetery","ID-sunshine-miners-memorial"]) assert.equal(bySlug.get(key)?.stopType,"reflection");
+});
+
+test("the catalog join preserves desk labels, tasks, hints and source order for pending and tied finds", () => {
+  for (const hunt of model(sites)) {
+    const raw = seeds.find(h => h.slug === hunt.slug)!;
+    const expected = raw.finds.filter(f => sites.find(s => s.slug === (f.entrySlug ?? f.targetEntrySlug))?.stopType !== "reflection");
+    assert.deepEqual(hunt.finds.map(f => [f.id,f.label,f.task,f.hint]),
+      expected.map(f => [f.id,f.label,f.task,f.hint]));
+  }
 });
 
 test("a fresh check uses one private object for either a receipt or a photo", async () => {

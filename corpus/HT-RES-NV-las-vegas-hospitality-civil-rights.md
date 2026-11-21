@@ -110,6 +110,7 @@ No scoring, scavenger hunt, reenactment of segregation, reward for finding exclu
 ## 10. Locator record
 
 - Stable name: UNLV University Libraries, Special Collections & Archives, Lied Library
+- Town: Las Vegas
 - Latitude:
 - Longitude:
 - Coordinate source:

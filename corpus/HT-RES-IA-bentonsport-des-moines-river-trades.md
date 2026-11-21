@@ -60,6 +60,8 @@ Held for a safe open north-bank field check and Gene’s authorization. A volunt
 | Field | Value |
 |---|---|
 | Stable site name | Bentonsport Historic District and north-bank Bentonsport Park |
+| Town | Bentonsport |
+| Public anchor | Bentonsport Park, 22098 Hawk Drive, in Van Buren County |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

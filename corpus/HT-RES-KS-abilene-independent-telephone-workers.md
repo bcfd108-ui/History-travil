@@ -43,6 +43,8 @@ None activated. Once a human validates safe sidewalk standing space, visibility 
 
 ## 10. Locator record
 - Stable site name: United Building public sidewalk exterior, Abilene
+- Town: Abilene
+- Public anchor: United Building public sidewalk exterior, Abilene
 - Latitude:
 - Longitude:
 - Coordinate source:

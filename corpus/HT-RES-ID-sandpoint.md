@@ -107,6 +107,7 @@ Activation status: NOT ACTIVATED.
 [11] https://harvester.lib.uidaho.edu/collection/items/lumber1817.html — University of Idaho catalog and rights fields read; booklet not inspected.
 
 ## 10. Locator record
+- Town: Sandpoint
 - Stable resource name: Sandpoint rail-and-timber waterfront history; museum-first interpretation.
 - Permanent public visitor destination: Bonner County Historical Society & Museum, 611 S Ella Avenue, Sandpoint, Idaho. Operator-published visitor address, not a historical-site pin. Exact door coordinates not verified. [1]
 - Conditional destination: City Beach, 58 Bridge Street park-address evidence; current open entrance unverified. [2–4]

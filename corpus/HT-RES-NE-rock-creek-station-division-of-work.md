@@ -69,6 +69,7 @@ The deaths are a quiet witness reading. This stop has no photo find attached to 
 | Field | Value |
 |---|---|
 | Stable site name | Rock Creek Station State Historical Park, Nebraska |
+| Public anchor | Rock Creek Station State Historical Park |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

@@ -58,6 +58,8 @@ Pending field review and Gene’s authorization. An optional photograph of the p
 | Field | Value |
 |---|---|
 | Stable site name | Keokuk Lock and Dam No. 19 |
+| Town | Keokuk |
+| Public anchor | City Gateway Parks public observation area in the First and Second Street area, Keokuk, a drive-up and short walk only along posted municipal access |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

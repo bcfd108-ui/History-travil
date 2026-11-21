@@ -95,6 +95,7 @@ No answer, specific label or hidden design meaning has been invented. No touchin
 
 ## 10. Locator record
 - Stable name: Heard Museum, public exhibition galleries
+- Town: Phoenix
 - Public visitor address: 2301 N. Central Avenue, Phoenix, Arizona 85004
 - Latitude: 
 - Longitude: 

@@ -72,6 +72,7 @@ Answer key:
 | Field | Value |
 |---|---|
 | Stable site name | Hollenberg Pony Express Station State Historic Site |
+| Public anchor | Hollenberg Pony Express Station State Historic Site |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

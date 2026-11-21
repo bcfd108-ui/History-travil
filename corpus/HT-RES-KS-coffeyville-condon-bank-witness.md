@@ -77,6 +77,8 @@ Quiet reflection only. No photo tag or activity.
 | Field | Value |
 |---|---|
 | Stable site name | Condon National Bank — Perkins Building, Coffeyville |
+| Town | Coffeyville |
+| Public anchor | Public Walnut Street sidewalk at the Perkins Building |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

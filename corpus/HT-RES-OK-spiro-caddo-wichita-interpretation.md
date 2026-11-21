@@ -58,6 +58,7 @@ None. Quiet witness only, permanently excluded from scavenger scores, stamps, ch
 - **S11** Caddo Nation, [History](https://mycaddonation.com/history-1) and [Language Preservation](https://mycaddonation.com/language-preservation) (government-published self-description and distinction between related languages and distinct communities).
 
 ## 10. Locator record
+- Public anchor: OHS Spiro Mounds Archaeological Center public visitor-center entrance during operator hours; 18154 First Street, Spiro, OK 74959
 - **Visit anchor:** OHS Spiro Mounds Archaeological Center public visitor-center entrance during operator hours; 18154 First Street, Spiro, OK 74959 (S1). Street address only. OHS publishes center-level coordinates but no field-verified indoor/door point is supplied; no latitude/longitude emitted by this dossier.
 - **Historic subject:** Ancestral Spiro community as interpreted at the center; no historic ground pin. **Visit type:** reflection stop. **Remote fallback:** S3 + S6 + S8.
 - **Field / hunt / release:** Not stood on / not eligible / not released.

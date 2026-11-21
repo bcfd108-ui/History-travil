@@ -63,6 +63,8 @@ Quiet witness only. This stop has no photo-tag task. The reading and planning re
 | Field | Value |
 |---|---|
 | Stable site name | Mission Espada — the system that moved water |
+| Town | San Antonio |
+| Public anchor | NPS Mission Espada Contact Station and signed public approach, 10040 Espada Road, San Antonio |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

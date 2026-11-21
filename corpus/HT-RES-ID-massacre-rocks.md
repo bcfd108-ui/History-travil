@@ -91,6 +91,7 @@ https://idahostatearchives.libraryhost.com/repositories/3/archival_objects/6737
 
 ## 10. Locator record
 - Stable name: Massacre Rocks State Park
+- Town: American Falls
 - Latitude: 42.6808
 - Longitude: -112.9836
 - Coordinate source/scope: IDPR operator page [1], park-level locator only. Not surveyed entrance, historic encounter location, grave, Register Rock or camera position.

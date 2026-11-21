@@ -40,6 +40,7 @@ None proposed. Operator personal-photo policy is in [1].
 ## 10. Structured locator
 - Stable site: Pfeiffer House and Carriage House
 - Historical location: 10th and Cherry Streets, Piggott, nomination address [4]
+- Town: Piggott
 - Public anchor: 1021 W. Cherry St., Piggott, AR. Drive-up west lot and guided buildings only [1]
 - Latitude:
 - Longitude:

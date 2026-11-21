@@ -55,6 +55,8 @@ Pending field review and Gene’s authorization. The exterior log wall may suppo
 | Field | Value |
 |---|---|
 | Stable site name | Egge-Koren House, Vesterheim Heritage Park |
+| Town | Decorah |
+| Public anchor | Vesterheim Heritage Park at the 520 W Water Street campus, Decorah |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

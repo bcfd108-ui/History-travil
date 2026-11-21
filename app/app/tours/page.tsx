@@ -1,32 +1,35 @@
-import Link from "next/link";
+import { Crumbs } from "@/components/Browse";
 import { getTours } from "@/lib/data";
-
-export const metadata = { title: "Tours — On Old Ground" };
-
+import { routeRegion } from "@/lib/browse";
+export const metadata = {
+  title: "Routes — On Old Ground",
+  alternates: { canonical: "/tours" },
+};
 export default function ToursPage() {
   const tours = getTours();
+  const regions = [...new Set(tours.map(routeRegion))].sort();
   return (
     <>
-      <h1>Tours</h1>
-      <p className="lede">
-        Tours chain entries into a route — one ground, one afternoon, the stops in the order the
-        story happened.
-      </p>
-      <p>
-        Every tour here is <strong>free and self-guided</strong> — walk or drive it at your own
-        pace. Where a town or a company runs a tour of the same ground, the tour page lists it
-        too, researched from their own advertising, so everything is in one place.
-      </p>
-      <div className="rows">
-        {tours.map((t) => (
-          <Link key={t.id} className="row" href={`/tours/${t.id}`}>
-            <span className="t">{t.name}</span>
-            <span className="small">
-              {t.meta} — {t.stops.length} stop{t.stops.length === 1 ? "" : "s"}
-            </span>
-          </Link>
-        ))}
-      </div>
+      <Crumbs items={[{ name: "Home", href: "/" }, { name: "Routes" }]} />
+      <h1>Routes</h1>
+      <p className="index-total">{tours.length} routes</p>
+      {regions.map((region) => (
+        <section key={region}>
+          <h2>{region}</h2>
+          <div className="index-grid">
+            {tours
+              .filter((t) => routeRegion(t) === region)
+              .map((t) => (
+                <a key={t.id} className="index-link" href={"/tours/" + t.id}>
+                  <span>{t.name}</span>
+                  <small>
+                    {t.stops.length} {t.stops.length === 1 ? "stop" : "stops"}
+                  </small>
+                </a>
+              ))}
+          </div>
+        </section>
+      ))}
     </>
   );
 }

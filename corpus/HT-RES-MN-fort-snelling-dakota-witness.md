@@ -57,6 +57,7 @@ Quiet witness throughout. No photo tag. [2–3,10]
 | Field | Value |
 |---|---|
 | Stable site name | Historic Fort Snelling — Dakota winter detention witness, Plank Museum anchor |
+| Public anchor | Drive up to the signed Plank Museum & Visitor Center, then take the short visitor path |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

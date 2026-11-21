@@ -1,7 +1,9 @@
+import {ClusterIndex} from "@/components/Browse";
+import {inState} from "@/lib/browse";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { DESK_GUIDES } from "@/lib/content";
-import { getIndex, getStates, getStats } from "@/lib/data";
+import { getStates, getStats } from "@/lib/data";
 import { Md } from "@/lib/md";
 
 export const dynamicParams = false;
@@ -66,28 +68,14 @@ export default async function DeskDocPage({ params }: { params: Promise<{ slug: 
   const stateMatch = slug.match(/^state-([a-z]{2})$/);
   if (stateMatch) {
     const code = stateMatch[1].toUpperCase();
-    const rows = getIndex().filter((r) => r.stateCode === code);
+    const rows = inState(code);
     if (!rows.length) notFound();
     return (
       <article>
         <p className="small"><Link href="/desk">← Research Desk</Link></p>
         <h1>{rows[0].state} file</h1>
-        <p className="lede">{rows.length} entries. Each row opens the full entry.</p>
-        <div className="rows">
-          {rows.map((r) => (
-            <Link key={r.slug} className="row" href={`/sites/${r.slug}`}>
-              <span className="t">{r.title}</span>
-              <div className="m">
-                {r.town ? `${r.town} · ` : ""}
-                <span className={`badge${r.stopType === "reflection" ? " reflection" : ""}`}>
-                  {r.stopType === "reflection" ? "Reflection stop" : "View stop"}
-                </span>
-                {r.approach && <span className="badge amber">{r.approach}</span>}
-                {r.themes.join(" · ")}
-              </div>
-            </Link>
-          ))}
-        </div>
+        <p className="index-total">{rows.length} entries</p>
+        <ClusterIndex rows={rows} view="area" code={code}/>
       </article>
     );
   }

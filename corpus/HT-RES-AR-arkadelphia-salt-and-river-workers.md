@@ -61,6 +61,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Arkadelphia-area Ouachita saltmaking and Clark County Historical Museum |
+| Town | Arkadelphia |
+| Public anchor | Clark County Historical Museum, 750 S. Fifth St., Arkadelphia |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

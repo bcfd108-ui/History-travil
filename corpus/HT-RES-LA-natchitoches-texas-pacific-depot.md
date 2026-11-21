@@ -48,6 +48,8 @@ Quiet witness only. The dossier contains no activated Photo Point, contribution 
 
 ## 10. Structured locator
 - Stable site name: Texas and Pacific Railway Depot, Natchitoches
+- Town: Natchitoches
+- Public anchor: Texas and Pacific Railway Depot, 1927 Remembrance Way
 - Latitude:
 - Longitude:
 - Coordinate source and scope:

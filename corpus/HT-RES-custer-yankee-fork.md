@@ -88,6 +88,7 @@ https://www.nps.gov/subjects/nationalregister/weekly-list-20210617.htm
 
 ```yaml
 stable_site_name: Custer Historic District
+Public anchor: Custer schoolhouse museum
 latitude:
 longitude:
 coordinate_source:

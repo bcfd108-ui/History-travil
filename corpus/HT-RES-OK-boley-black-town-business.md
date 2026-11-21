@@ -54,6 +54,8 @@ No photo tag offered. Any future voluntary contribution requires lawful field-ch
 | Field | Value |
 |---|---|
 | Stable site name | Boley Historic District — Pecan Street public frontage |
+| Town | Boley |
+| Public anchor | Boley Historic District — Pecan Street public frontage |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

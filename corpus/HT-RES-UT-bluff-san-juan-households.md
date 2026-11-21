@@ -95,6 +95,7 @@ All answer strings and installation checks remain blank. No collection, access b
 ## 10. Locator record
 
 - Stable name: Bluff Fort
+- Town: Bluff
 - Latitude:
 - Longitude:
 - Coordinate source/scope:

@@ -68,6 +68,7 @@ Quiet reflection only. No participant photo task. Reading and planning require n
 | Field | Verified value |
 |---|---|
 | Stable site name | Historic Center Street Neighborhood — displacement and public interpretation |
+| Town | Des Moines |
 | Latitude | 41.591211 |
 | Longitude | -93.634274 |
 | Coordinate source | Marker sponsor [1] |

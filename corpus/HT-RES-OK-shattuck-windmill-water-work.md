@@ -45,6 +45,8 @@ Potential voluntary detail of a visible vane from the visitor path only after fi
 | Field | Value |
 |---|---|
 | Stable site name | Shattuck Windmill Museum & Park |
+| Town | Shattuck |
+| Public anchor | Shattuck Windmill Museum & Park |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

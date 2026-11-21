@@ -106,6 +106,7 @@ No searches in storage, private rooms, outdoor yards or collections handling. No
 ## 10. Locator record
 
 - Stable name: Range Riders Museum
+- Town: Miles City
 - Latitude:
 - Longitude:
 - Coordinate source/scope:

@@ -59,6 +59,7 @@ Quiet witness and conservation interpretation. No participant photo path or loca
 | Field | Value |
 |---|---|
 | Stable site name | Jeffers Petroglyphs · Public Interpretation |
+| Public anchor | Jeffers Petroglyphs |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

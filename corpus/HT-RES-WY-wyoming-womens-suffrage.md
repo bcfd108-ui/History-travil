@@ -111,6 +111,7 @@ https://www.wyoachs.com/people/2019/8/5/how-a-myth-is-created-the-saga-of-esther
 ## 10. Locator record
 
 Stable name: Wyoming State Museum / Wyoming State Archives — women's suffrage research and interpretation
+- Town: Cheyenne
 Latitude:
 Longitude:
 Coordinate source:

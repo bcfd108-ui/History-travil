@@ -50,6 +50,7 @@ Optional dated opening reports belong to the public museum. Any reopening of the
 |---|---|
 | Stable site name | Historic Jefferson College, Washington |
 | Historic location | Old Methodist church, now gone, Jefferson College grounds, Washington, Adams County |
+| Town | Washington |
 | Public anchor | Old Capitol Museum, 100 South State Street, Jackson, Mississippi. Off-site gallery only. |
 | Approach | Use the Jackson museum’s regular public entrance during posted hours. |
 | Visitor boundary | No access to the Washington campus during rehabilitation |

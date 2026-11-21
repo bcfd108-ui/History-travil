@@ -52,6 +52,8 @@ Optional site feature pending human field review and Gene and Dash clearance: po
 | Field | Value |
 |---|---|
 | Stable site name | Lyndon B. Johnson Boyhood Home, Johnson City |
+| Town | Johnson City |
+| Public anchor | Begin at the NPS Johnson City Visitor Center and use the signed path to the Boyhood Home |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

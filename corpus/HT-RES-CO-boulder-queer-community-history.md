@@ -83,6 +83,7 @@ Find key: . Next-stop key: . Completion stamp: . Field verification: .
 
 ## 10. Locator record
 - Stable name: CU Boulder Rare & Distinctive Collections Reading Room, Norlin Library M350B.
+- Town: Boulder
 - Public locator as printed: **1720 Pleasant Street, Boulder, CO 80309-0184; Norlin Library M350B, 184 UCB.** [1]
 - Latitude: . Longitude: . Coordinate source: .
 - Scope: appointment-based public archive only; not a historical residence, meeting place, service center or street route.

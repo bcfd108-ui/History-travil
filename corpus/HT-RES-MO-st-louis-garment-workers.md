@@ -60,6 +60,8 @@ The case has no cleared contribution location. Reading and trip planning require
 | Field | Value |
 |---|---|
 | Stable site name | Building at 1300 Washington Avenue, St. Louis garment district |
+| Town | St. Louis |
+| Public anchor | The public sidewalk corner of 13th Street and Washington Avenue is a short urban walk from lawful parking or transit |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

@@ -100,6 +100,7 @@ All blank. Reading and public interpretation only. No collecting, climbing, beac
 
 ## 10. Locator record
 - Stable entry name: Yaquina Head lightkeepers — Interpretive Center and conditional public lighthouse exterior.
+- Town: Newport
 - Division / dossier: OR / HT-RES-OR-yaquina-lightkeepers.
 - Public anchor: Yaquina Head Interpretive Center, BLM Outstanding Natural Area, Newport, Oregon.
 - Printed street approach: Lighthouse Drive from U.S. 101; no numbered doorway address established. [5]

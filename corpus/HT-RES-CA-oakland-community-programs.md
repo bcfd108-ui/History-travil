@@ -103,6 +103,7 @@ Optional observation, only if a relevant item is actually displayed: what practi
 ## 10. Locator record
 
 - Stable name: African American Museum and Library at Oakland [1]
+- Town: Oakland
 - Latitude:
 - Longitude:
 - Coordinate source:

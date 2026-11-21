@@ -69,6 +69,7 @@ Field-only candidate: from a cleared public walk, compare the scale and form of 
 | Field | Value |
 |---|---|
 | Stable site name | Arthur County Library and First Arthur County Courthouse public reading stop |
+| Public anchor | First Arthur County Courthouse |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

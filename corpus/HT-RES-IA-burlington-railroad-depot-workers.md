@@ -68,6 +68,8 @@ Possible subject is the street-facing stone and canopy from an authorized, nonbl
 | Field | Verified value |
 |---|---|
 | Stable site name | Chicago, Burlington and Quincy Station — Burlington Depot |
+| Town | Burlington |
+| Public anchor | Public street-side exterior at Burlington Depot, 300 South Main Street |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

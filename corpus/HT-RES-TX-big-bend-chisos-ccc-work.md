@@ -65,6 +65,7 @@ Optional future photo observation after field and Dash review: a handheld landsc
 | Field | Value |
 |---|---|
 | Stable site name | Chisos Basin — Civilian Conservation Corps work |
+| Public anchor | NPS Chisos Basin Visitor Center, reached by signed open park road into the Basin and a short walk from the signed visitor lot |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

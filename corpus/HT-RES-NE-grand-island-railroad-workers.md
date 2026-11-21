@@ -68,6 +68,8 @@ Field-only candidate: identify one exterior working-town feature from a marked S
 | Field | Value |
 |---|---|
 | Stable site name | Stuhr Museum — Grand Island railroad labor reading stop |
+| Town | Grand Island |
+| Public anchor | Stuhr Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

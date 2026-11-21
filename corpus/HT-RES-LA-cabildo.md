@@ -85,6 +85,7 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | The Cabildo, Louisiana State Museum, Jackson Square, New Orleans, Louisiana |
+| Town | New Orleans |
 | Latitude | 29.957593 |
 | Longitude | -90.063847 |
 | Coordinate source and scope | Point returned in the place record attached to the Louisiana State Museum's Cabildo listing in this pass. Scope: the building at 701 Chartres Street, not the wider Vieux Carré district. [1] |
