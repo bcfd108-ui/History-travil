@@ -34,14 +34,12 @@ The verified visitor feature is the public museum and its advertised cultural ex
 The directly readable survivals for this research are the published interview and the Nation's online account. A web-accessible statement is evidence for reading, not permission to reproduce associated images or visit the places mentioned. Do not turn cultural knowledge into a search for plants, materials, objects or unmarked sites.
 
 ## 5. Trip-shaped stop progression
-Suggested reading-and-museum sequence, not an outdoor route or booked program:
-1. **Before any journey:** check the current operator gate and conditions. If travel is uncertain, complete the reading at home instead.
-2. **Begin with identity:** read the named speaker and her own affiliation before the museum interpretation. Avoid introducing her merely as a generic Native guide.
-3. **Inside the open public museum only:** notice whether any publicly displayed account identifies its author, narrator or community. If it does not, record that absence without supplying an attribution yourself. No particular label is guaranteed.
-4. **Pair the accounts:** read the Southern Sierra Miwuk Nation's institutional statement alongside the museum's framing. Ask what each source is positioned to know, and what neither establishes.
-5. **Strongest ending:** return to Parker's decision to answer visitors. Sit with the difference between being represented and speaking. End quietly, without a stamp, score or challenge at loss ground.
 
-Optional question for an ordinary staffed public encounter, if available: “Which published community-authored resources would you recommend alongside these exhibits?” No outreach has been made and no demonstration is requested or assumed.
+The verified visitor feature is the Yosemite Museum in Yosemite Village and its advertised cultural exhibits; an adjoining art gallery is a separate, intermittent offering. No specific basket, maker label, demonstration or staff member is promised for a particular day. [1]
+
+Julia Parker — Coast Miwok and Kashia Pomo — tells how Native narration entered that museum. In the National Endowment for the Arts' published interview accompanying her 2007 National Heritage Fellowship, she recalls being asked to work at the museum, doubting her ability to speak publicly, then hearing a ranger say something she knew was wrong. Her response: “And so I began to talk a little bit.” It is her recollection in an institutional transcript, not an audio clip heard here, and her family and learning relationships do not make her a spokesperson for every Yosemite-associated Nation. [4]
+
+The Southern Sierra Miwuk Nation's own website carries the longer record: its ancestors' good-faith treaty signing during the Gold Rush, the treaties' remaining unratified, the resulting landlessness, and a federal-acknowledgment petition begun in 1982 that its update describes as ongoing. A web-accessible statement is evidence for reading, not permission to reproduce its images or visit the places it names. [4]
 
 ## 6. Honest gaps and conflicting dates
 - The guide expires November 24. It does not establish Thanksgiving, December or a later winter schedule. [2]
