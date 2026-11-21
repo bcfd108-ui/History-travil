@@ -65,6 +65,36 @@ const THEME_KEYWORDS = {
   "Civil rights": ["civil rights", "segregation", "suffrage", "african american", "black history", "voting"],
   "Industry & energy": ["power plant", "hydroelectric", "factory", "mill ", "oil ", "coal", "smelter"],
   "Trade & transport": ["ferry", "steamboat", "shipping", "freight", "stagecoach", "pony express"],
+  "Prisons & Asylums": [
+    /\bprisons?\b/, "penitentiary", "asylum", "jail", "inmate", "reformatory",
+    "state hospital at", "hospital for the insane", "jamestown state hospital",
+    /\bpsychiatric (?:and behavioral-health )?hospital\b/, "psychiatric institution",
+    /\bprisoners?[- ]of[- ]war\b/, /\bpows?\b/, "military prisoners", "convicted prisoners",
+    "detention camp", "wartime confinement", "forced confinement", "place of confinement",
+    "incarceration site", "incarcerated at", "imprisonment at",
+  ],
+  // Browse adds "(lore)" to this key. A "Haunted history / lore" heading is
+  // common even where the dossier explicitly finds no local tradition.
+  "Haunted Tellings": [
+    /\bghost[- ]tour/, "ghost report", "as haunted", "to be haunted", "haunted house",
+    "haunted rooms", "haunted hallway", "apparition", "paranormal accounts",
+    "paranormal anecdotes", /\bwitch\b/, "chained-grave legend", "devil baby",
+  ],
+  "The Weird & Curious": [
+    "hoax", "fabricated frontier event", "invented pioneer legend", "civic satire",
+    "center of the universe", "corn palace", "devil baby", "chained-grave",
+    "chimney-skeleton", "chloe folklore", "haunted hallway mirror",
+  ],
+  "Battlefields": [
+    // A source credit, such as "American Battlefield Trust", is not a site tag.
+    /\bbattlefields?\b(?! trust| ground outside| prisoners)/,
+    /\b(?:battles? (?:of|at|in)|(?:a|the) battle)\b/,
+    /\b(?:siege of|(?:the|a) siege)\b/, "assault and surrender",
+    "under bombardment", "river batteries", "white flag", "field hospital",
+    "brices cross roads", "champion hill", "big black river", "fighting near raymond",
+    "honey springs", "bear paw", "little bighorn", "palo alto", "fort sumter",
+    "fort blakely", "fort wade",
+  ],
 };
 
 // Split on `## N.` headers; also synthesise §1 from a bold `**1. ...**` header
