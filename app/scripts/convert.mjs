@@ -28,7 +28,7 @@ const STATE_NAMES = {
   AZ: "Arizona", NM: "New Mexico", ND: "North Dakota", SD: "South Dakota",
   NE: "Nebraska", KS: "Kansas", OK: "Oklahoma", TX: "Texas", MN: "Minnesota",
   IA: "Iowa", MO: "Missouri", AR: "Arkansas", LA: "Louisiana", MS: "Mississippi",
-  AL: "Alabama", TN: "Tennessee", KY: "Kentucky", GA: "Georgia", FL: "Florida", IL: "Illinois",
+  AL: "Alabama", TN: "Tennessee", KY: "Kentucky", GA: "Georgia", FL: "Florida", IL: "Illinois", SC: "South Carolina",
 };
 // Uncoded (home-bench) slugs: slug -> [town, stateCode]
 const LOCAL = {
