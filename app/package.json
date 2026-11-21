@@ -6,9 +6,11 @@
   "scripts": {
     "convert": "node scripts/convert.mjs",
     "dev": "next dev",
-    "build": "node scripts/convert.mjs && node scripts/build-navigation.mjs && node scripts/check-maps.mjs && node scripts/check-hunts.mjs && node scripts/check-machine-queue.mjs && next build",
+    "build": "node scripts/convert.mjs && node scripts/build-navigation.mjs && node scripts/check-maps.mjs && node scripts/check-hunts.mjs && node scripts/check-machine-queue.mjs && node scripts/check-machine-worker.mjs && next build",
     "queue:build": "node scripts/build-machine-queue.mjs",
     "test:queue": "node --test scripts/machine-queue.test.mjs",
+    "test:worker": "node --test scripts/machine-worker.test.mjs",
+    "check:worker": "node scripts/check-machine-worker.mjs",
     "start": "next start",
     "check:maps": "node scripts/check-maps.mjs",
     "test:maps": "node --test scripts/maps-core.test.mjs",

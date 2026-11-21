@@ -83,3 +83,20 @@ Phase 1 has no runtime behavior on the site. To remove it, revert this branch's 
 ## Kill switch
 
 Phase 1 has no workflows. There is nothing to disable. Later phases must name their workflow files here before they are allowed to run.
+
+## Phase 2 — The research worker
+
+The worker is `.github/workflows/machine-research.yml`. It reads `machine/worker.config.json` for the provider, the model, the per-run cap, and the schedule. The schedule in that file is the cron. `scripts/check-machine-worker.mjs` fails the build if the workflow cron drifts.
+
+The key is the GitHub secret `MACHINE_RESEARCH_KEY`. The owner sets it under Settings → Secrets and variables → Actions. The workflow reads that name and no other. An empty secret is a clean stop: the run says the key is unset, files no issue, and opens no pull request.
+
+The worker reads open pull requests whose head branch starts with `machine/research-run-` before it researches. Lead ids already named in those run reports are skipped, and the drafted dossiers count as filed ground for the variant check. That is what stops the two-hour schedule from filing the same lead again while a draft is still waiting. A run that cannot read those pull requests stops and files an issue. It does not guess.
+
+### Kill switch
+
+In the Actions tab, open **Machine research** and choose **Disable workflow**. You can also delete or rename `.github/workflows/machine-research.yml` and merge that change. Either one stops scheduled runs and manual runs. The queue, the catalog, and the live site do not change. A draft pull request already opened stays open until the desk closes or merges it. Nothing the worker wrote is published by the workflow itself.
+
+### Rollback
+
+Revert the Phase 2 commits. That removes the workflow, `machine/worker.config.json`, `lib/machine-worker.mjs`, `scripts/machine-research.mjs`, `scripts/check-machine-worker.mjs`, `scripts/machine-worker.test.mjs`, and the `check-machine-worker` build step. Phase 1 stays. Close any open `machine/research-run-*` pull requests the desk does not want. The converter and the published catalog are untouched. The schedule does not run until this workflow file is on `main`.
+
