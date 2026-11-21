@@ -40,14 +40,11 @@ The operator's page titled “Accessibility & Inclusion” primarily contains an
 
 ## 5. Trip-shaped stop progression
 
-**One public interpretive visit, approximately 60–90 minutes for this story thread**, an editorial estimate, not an operator tour duration. No multi-site route or evening viewing requirement.
+The public anchor is Lowell Observatory, 1400 W. Mars Hill Road, Flagstaff, and its public visitor interpretation. The worker this entry follows, though, survives in the observatory's archive rather than in any established display. [1]
 
-1. **Begin before arrival with the word.** Explain that the historical job title describes a person. Open the archive's Williams biography, preserving the Boston/Flagstaff chronology. [2]
-2. **Use public interpretation as the setting.** During admitted daytime hours, stay in open galleries or an authorized public program. Ask which people are credited for work, rather than searching for access to a particular instrument or office.
-3. **Compare biography and record.** Read the letter's catalog description. Mark what the catalog establishes and what still requires reading the manuscript. An unavailable scan must not become a fabricated quotation. [3]
-4. **End with the employment boundary.** Return to the institution's account of the marriage-related departure. Ask how much talent a workplace can recognize while still restricting the person who supplies it. This is the strongest interpretive moment, not an observing demonstration. [2]
+Elizabeth Langdon Williams went to work for Lowell in 1905 as a human “computer” — the job title, before it named a machine, for the person who did the calculations. She began in the Boston office and moved to Flagstaff in April 1919, where calculation and correspondence continued. After she married fellow employee George Hall Hamilton in 1922, Constance Lowell asked the couple to leave because of the marriage. That account is the archive's institutional exhibit narrative, not a personnel file inspected for this dossier. [2]
 
-**Closed-day or unsafe-weather mode:** read the online biography and catalog remotely. No substitute hill walk, exterior-building search, research-site visit or staff-area approach. This history remains usable even when the public visitor gate is unavailable.
+Two cataloged records carry her name: a handwritten letter from Williams to Percival Lowell dated August 15, 1910 (Omeka item 2 — written in her Boston period, not Flagstaff), and a photograph of her dated circa 1920 (Omeka item 1, creator unknown). Both require the Lowell Observatory Archives' written permission for public use, and no current floor display of her material is established. [3,5]
 
 ## 6. Honest gaps and conflicting dates
 
