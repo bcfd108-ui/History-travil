@@ -42,9 +42,11 @@ A working archive is different from a commemorative facade. This dossier's sugge
 
 ## 5. Trip-shaped stop progression
 
-1. Begin with the edited Ragsdale account and Goode transcript remotely. [1,8]
-2. Use Burton Barr as a public reading room when open. A separate visit to the Carver museum is conditional on a confirmed admission gate. No historic family or business addresses form part of the stop. [2–4,9]
-3. **Story landing — the class of one.** Read Goode’s words next to the property survey’s account of where the school was built. Give the student and teacher the last word. [8,11]
+This is a reading entry. Its public ground is Burton Barr Central Library, where the City advertises an Arizona Room and an Accessibility Services Center, and its substance is two published interviews that can be read without entering any historical property. [1][6]
+
+Lincoln Ragsdale Jr., interviewed November 10, 2023, by Summer Cherland and Mary Nunn, recalls work in his family's Phoenix mortuary business — early transport work, later management — and adds a personal choice in his own words: “the funeral home business was not my passion.” The Ragsdale Family Papers are held separately, at Arizona State University's Wurzburger Reading Room in Hayden Library, Tempe, by appointment. [1][5]
+
+Calvin C. Goode's interview of September 19, 2001, gives the school side of the same community. As a student who wanted to continue mechanical drawing, Goode recalls that his segregated school did not offer the course, but a shop teacher “formed a class of one.” He graduated in 1945 and later returned as the school's accountant, keeping its accounts from 1949 until the school closed — in his recollection, the work of a community carried in family businesses and classrooms alike. His account is the Historical League's edited transcript of his memory, not an inspected class register or payroll. [8]
 
 ## 6. Honest gaps and conflicting dates
 - **Housing date conflict:** the interview-based story places the family's move the year before the narrator's 1955 birth, implying 1954; ASU gives 1953. Leave the exact year unresolved rather than silently harmonizing it. [1,5]
