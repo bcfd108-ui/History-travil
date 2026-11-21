@@ -72,6 +72,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Old Ursuline Convent (Ursuline Convent), Chartres Street, New Orleans |
+| Town | New Orleans |
+| Public anchor | Old Ursuline Convent Museum, 1112 Chartres St., New Orleans, LA 70116 |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

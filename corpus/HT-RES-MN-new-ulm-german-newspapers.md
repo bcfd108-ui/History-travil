@@ -57,6 +57,8 @@ No participant path offered. The later post-office façade could be considered s
 | Field | Value |
 |---|---|
 | Stable site name | New Ulm German-language newspapers, interpreted at Brown County Historical Society Museum |
+| Town | New Ulm |
+| Public anchor | Brown County Historical Society Museum |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

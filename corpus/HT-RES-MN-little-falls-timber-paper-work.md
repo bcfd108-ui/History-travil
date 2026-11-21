@@ -50,6 +50,8 @@ No active tag. Retained stonework from the open city path is an evidence lead pe
 | Field | Value |
 |---|---|
 | Stable site name | Little Falls Timber and Paper Work, Mill Park |
+| Town | Little Falls |
+| Public anchor | Mill Park |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

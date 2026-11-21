@@ -63,6 +63,7 @@ Lighthouse Hunt candidate for field review only. Tower silhouette or fog-signal 
 | Field | Value |
 |---|---|
 | Stable site name | Split Rock Light Station |
+| Public anchor | Use the signed public MNHS visitor approach |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

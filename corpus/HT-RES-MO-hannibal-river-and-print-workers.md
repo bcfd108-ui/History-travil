@@ -78,6 +78,8 @@ Held for field check and Gene’s authorization. The public house frontage could
 | Field | Verified value |
 |---|---|
 | Stable site name | Mark Twain Boyhood Home & Museum Interpretive Center and Nipper Park |
+| Town | Hannibal |
+| Public anchor | Mark Twain Boyhood Home & Museum Interpretive Center |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

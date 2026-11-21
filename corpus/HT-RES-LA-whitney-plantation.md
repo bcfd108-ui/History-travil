@@ -74,6 +74,7 @@ Quiet witness. The memorial and former enslavement ground receive no visitor pho
 |---|---|
 | Stable site name | Whitney Plantation — Anna and Victor Haydel |
 | Historic location | Habitation Haydel, Wallace, St. John the Baptist Parish |
+| Town | Wallace |
 | Public anchor | Whitney Plantation public visitor center |
 | Approach | Drive-up to signed parking and short walk to visitor-center entrance |
 | Visitor boundary | Open museum center and enrolled, inland public tour only. Upper house by authorized guide. |

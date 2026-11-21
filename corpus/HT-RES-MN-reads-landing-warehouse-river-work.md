@@ -57,6 +57,8 @@ No photo-tag path pending a human check of the museum approach and Gene’s auth
 | Field | Value |
 |---|---|
 | Stable site name | Reads Landing warehouse and river work, interpreted at Reads Landing School |
+| Town | Reads Landing |
+| Public anchor | Reads Landing School |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

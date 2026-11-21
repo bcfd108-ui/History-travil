@@ -75,6 +75,8 @@ The labor-dispute landing is quiet witness. No photo-tag path is proposed. Readi
 | Field | Verified value |
 |---|---|
 | Stable site name | International Falls paper mill workers |
+| Town | International Falls |
+| Public anchor | Smokey Bear Park |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

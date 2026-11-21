@@ -55,6 +55,8 @@ Pending field check and QC. A future voluntary view of the span and the cut is e
 | Field | Value |
 |---|---|
 | Stable site name | Duluth Ship Canal and Lake Superior Maritime Visitor Center |
+| Town | Duluth |
+| Public anchor | Lake Superior Maritime Visitor Center |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

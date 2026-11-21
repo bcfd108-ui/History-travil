@@ -61,6 +61,8 @@ Interpretation only. No participant photo path. Keep cultural and closure bounda
 | Field | Value |
 |---|---|
 | Stable site name | Grand Portage National Monument · Public Heritage Center |
+| Town | Grand Portage |
+| Public anchor | Grand Portage National Monument Public Heritage Center |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

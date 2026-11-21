@@ -53,6 +53,8 @@ None proposed. The riverfront and sensitive ground stay outside the itinerary.
 | Field | Value |
 |---|---|
 | Stable site name | Winona River Trade and Winona County History Center |
+| Town | Winona |
+| Public anchor | Winona County History Center |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

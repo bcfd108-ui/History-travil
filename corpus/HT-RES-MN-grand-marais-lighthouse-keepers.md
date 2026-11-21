@@ -83,6 +83,8 @@ Pending human field verification and Gene’s authorization. Candidate subject: 
 | Field | Verified value |
 |---|---|
 | Stable site name | Grand Marais lighthouse keepers · Lightkeeper’s House |
+| Town | Grand Marais |
+| Public anchor | Cook County History Museum |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

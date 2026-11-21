@@ -59,6 +59,8 @@ Held for field review. The museum entrance could document the current public anc
 | Field | Verified value |
 |---|---|
 | Stable site name | Independence outfitting town and National Frontier Trails Museum |
+| Town | Independence |
+| Public anchor | National Frontier Trails Museum, 416 W. Maple |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

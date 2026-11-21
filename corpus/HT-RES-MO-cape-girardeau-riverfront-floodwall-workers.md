@@ -63,6 +63,8 @@ Flood loss and the working gate are quiet witness. Reading and trip planning req
 | Field | Verified value |
 |---|---|
 | Stable site name | Cape Girardeau Floodwall and Riverfront Park |
+| Town | Cape Girardeau |
+| Public anchor | Use legal downtown parking and the public downtown sidewalk near the Port Cape building at Water and Themis streets, before the gate |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

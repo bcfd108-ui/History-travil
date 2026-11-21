@@ -58,6 +58,8 @@ No photo-tag path pending field check, venue photography rules and Dash review. 
 | Field | Value |
 |---|---|
 | Stable site name | Red Wing pottery workers, interpreted at Pottery Museum of Red Wing |
+| Town | Red Wing |
+| Public anchor | Pottery Museum of Red Wing |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

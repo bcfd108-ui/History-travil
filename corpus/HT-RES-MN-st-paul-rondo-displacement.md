@@ -61,6 +61,7 @@ Quiet witness only. No participant photo path. No account, location or contribut
 | Field | Value |
 |---|---|
 | Stable site name | Rondo displacement, interpreted at Rondo Commemorative Plaza |
+| Public anchor | Rondo Commemorative Plaza |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

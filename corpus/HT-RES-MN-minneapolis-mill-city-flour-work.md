@@ -54,6 +54,8 @@ Optional candidate after human review: a visible machine attachment or masonry m
 | Field | Value |
 |---|---|
 | Stable site name | Washburn A Mill Complex — Mill City Museum |
+| Town | Minneapolis |
+| Public anchor | Use the signed Mill City Museum entrance at 704 S. 2nd St. The museum and its marked visitor areas are the only indoor route |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

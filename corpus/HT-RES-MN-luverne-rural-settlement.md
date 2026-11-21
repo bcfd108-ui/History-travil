@@ -54,6 +54,8 @@ No photo invitation pending field verification and Gene’s authorization. No ac
 | Field | Value |
 |---|---|
 | Stable site name | Luverne-area rural settlement, interpreted at Rock County History Center |
+| Town | Luverne |
+| Public anchor | Rock County History Center |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |
