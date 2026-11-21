@@ -89,6 +89,7 @@ No operational-controls challenge, radiation search, collection activity, restri
 
 ## 10. Locator record
 - Stable name: Experimental Breeder Reactor No. 1 / EBR-I Atomic Museum.
+- Public anchor: EBR-I Atomic Museum
 - State/county: Idaho / Butte County. [13]
 - Latitude: **blank**.
 - Longitude: **blank**.

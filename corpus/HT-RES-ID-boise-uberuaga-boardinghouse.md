@@ -63,6 +63,7 @@ The museum’s house exhibit also locates collection items 2004.028.033, 2004.02
 | Field | Value |
 |---|---|
 | Stable site name | Cyrus Jacobs/Uberuaga House [2] |
+| Town | Boise |
 | Latitude | 43° 36′ 49″ |
 | Longitude | 116° 12′ 05″ |
 | Coordinate source | 1972 nomination, section 10, printed DMS without hemisphere [4] |

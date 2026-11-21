@@ -99,6 +99,7 @@ https://idfg.idaho.gov/sites/default/files/wma-map-r3-fort-boise.pdf
 
 ## 10. Locator record
 - Stable name: Fort Boise and Riverside Ferry Sites, Parma vicinity
+- Town: Parma
 - Latitude: 43.821956
 - Longitude: -117.019419
 - Coordinate source/scope: Printed NPS site GPS [1], not a surveyed original footprint, entrance, permitted water access or camera station. Lawful access is governed separately by IDFG map/signs [4,11]. Not the Parma replica or Boise military fort.

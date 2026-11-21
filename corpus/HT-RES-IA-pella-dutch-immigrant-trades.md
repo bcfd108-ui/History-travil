@@ -63,6 +63,8 @@ Held for human review and Gene’s authorization. A voluntary workshop or mill e
 | Field | Value |
 |---|---|
 | Stable site name | Pella Dutch immigrant trades, Scholte House Museum and Gardens |
+| Town | Pella |
+| Public anchor | Scholte House Museum and Gardens, 728 Washington Street |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

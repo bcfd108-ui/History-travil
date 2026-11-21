@@ -62,6 +62,7 @@ HABS and its cited 1871 deed place the property at the northwest corner. The 197
 | Field | Value |
 |---|---|
 | Stable site name | Post Office Block (Boise Basin Museum) [3, 4] |
+| Town | Idaho City |
 | Latitude | 43° 49′ 43″ |
 | Longitude | 115° 49′ 58″ |
 | Coordinate source | HABS ID-15, title sheet, DMS as printed without hemisphere [3] |

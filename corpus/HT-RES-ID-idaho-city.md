@@ -83,6 +83,7 @@ https://npgallery.nps.gov/AssetDetail/NRIS/75000626
 
 ## 10. Locator record
 - Stable name: Idaho City historic town / Idaho City National Register district
+- Town: Idaho City
 - Latitude:
 - Longitude:
 - Coordinate source/scope: No visitor pin assigned. UI aerial catalog prints 43.882495, -115.812179 for the image's Idaho City location; not field-verified, not a camera station. [9]

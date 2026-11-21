@@ -87,6 +87,8 @@ https://archives.lib.byu.edu/repositories/ltpsc/archival_objects/8cd6412b470cbbd
 
 ## 10. Locator record
 - Stable name: Paris Tabernacle / Bear Lake Stake Tabernacle
+- Town: Paris
+- Public anchor: Paris Tabernacle, 109 S. Main Street, Paris, Idaho 83261
 - Latitude:
 - Longitude:
 - Coordinate source/scope: Unassigned. Nomination OCR contains a historic center-point entry, but page-image verification failed; do not transcribe partial OCR or substitute a guessed modern entrance pin. Operator street address is 109 S. Main Street, Paris, Idaho 83261.

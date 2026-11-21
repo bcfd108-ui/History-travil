@@ -103,6 +103,7 @@ https://www.si.edu/object/archives/components/sova-naa-photolot-90-1-ref932
 | Fixed field | Value |
 |---|---|
 | Stable site name | Sheep Rock/Soda Point Interpretive Site, Soda Springs / Hudspeth Cutoff interpretation |
+| Town | Soda Springs |
 | Latitude | 42.64803 |
 | Longitude | -111.70200 |
 | Coordinate source | NPS public-site page, directly printed. [1] |

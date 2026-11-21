@@ -111,6 +111,7 @@ https://www.nps.gov/hafo/planyourvisit/park-brochure.htm
 | Fixed field | Value |
 |---|---|
 | Stable site name | Hagerman Fossil Beds National Monument, public visitor center and designated overlooks |
+| Town | Hagerman |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

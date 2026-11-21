@@ -103,6 +103,7 @@ Inactive draft prompts only; no scored tasks or answer keys.
 [11] Museum archive access and reproduction process: https://boundarycountymuseum.org/research-library
 
 ## 10. Locator record
+- Town: Bonners Ferry
 
 - **Stable name:** Bonners Ferry, Idaho: Kootenai River crossings and rail connections
 - **Latitude:**

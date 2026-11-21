@@ -51,6 +51,7 @@ This entry's ground carries a find of the Pulaski Hunt; the hunt tie lives in th
 
 ## 10. Locator record
 - Stable name: Nine Mile Cemetery — Wallace 1910 Fire Memorial
+- Town: Wallace
 - Public anchor: Nine Mile Cemetery, outside Wallace, Idaho
 - Address:
 - Latitude: 47.498

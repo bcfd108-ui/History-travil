@@ -93,6 +93,8 @@ No cemetery, cultural-place, claim, tunnel or artifact hunt. No condition encour
 
 ## 10. Locator record
 - Stable name: Florence mining basin and managed Florence Cemetery/townsite interpretation, Idaho County, Idaho
+- Town: Florence
+- Public anchor: Florence Cemetery
 - Stable dossier ID: HT-RES-ID-florence
 - Latitude: 
 - Longitude: 

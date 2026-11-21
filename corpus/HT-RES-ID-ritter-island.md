@@ -122,6 +122,7 @@ https://www.idahoheritagetrust.org/projects-grants/minnie-miller-farm-barn/
 | Field | Verified value |
 |---|---|
 | Stable site name | Ritter Island, Thousand Springs State Park [1] |
+| Public anchor | Ritter Island, Thousand Springs State Park |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

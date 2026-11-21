@@ -122,6 +122,7 @@ https://idahostatearchives.libraryhost.com/repositories/2/resources/2490
 ## 10. Locator record
 
 - Stable name: U.S. Assay Office, Boise
+- Town: Boise
 - Latitude: 43°36.76′N
 - Longitude: 116°11.803′W
 - Coordinate source: https://www.hmdb.org/m.asp?m=305301

@@ -76,6 +76,8 @@ Held pending human verification of a lawful, nonblocking public sidewalk stance 
 | Field | Verified value |
 |---|---|
 | Stable site name | Herbert Hoover National Historic Site — Birthplace Cottage |
+| Town | West Branch |
+| Public anchor | Ordinary public NPS visitor center and historic interiors |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

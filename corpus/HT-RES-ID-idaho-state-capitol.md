@@ -95,6 +95,7 @@ https://capitolcommission.idaho.gov/about/historical-photos/
 
 ## 10. Locator record
 - Stable name: Idaho State Capitol, Boise
+- Town: Boise
 - Latitude:
 - Longitude:
 - Coordinate source/scope: No visitor/camera pin assigned. UI aerial catalog prints 43.61769, -116.199725 as image-location metadata, not a verified entrance or camera point. [12]

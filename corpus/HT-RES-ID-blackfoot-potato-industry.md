@@ -82,6 +82,7 @@ https://objects.lib.uidaho.edu/uiext/uiext12681.pdf
 https://www.lib.uidaho.edu/digital/hohp/items/hohp019.html
 
 ## 10. Locator record
+- Town: Blackfoot
 - Stable resource name: **Idaho Potato Museum — Blackfoot potato-industry interpretation**.
 - Public visitor address: **130 NW Main Street, Blackfoot, Idaho**. [1]
 - Historic resource: former Oregon Short Line Railroad depot; its historic footprint/platform is not the museum entrance locator.

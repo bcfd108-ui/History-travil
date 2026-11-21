@@ -102,6 +102,7 @@ https://mccmeetings.blob.core.usgovcloudapi.net/ketchid-pubu/MEET-Packet-bbf38d5
 | Fixed field | Value |
 |---|---|
 | Stable site name | Ketchum rail and sheep-shipping interpretation — Wood River Museum of History + Culture |
+| Town | Ketchum |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

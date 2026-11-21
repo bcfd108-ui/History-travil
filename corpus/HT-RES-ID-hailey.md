@@ -89,6 +89,7 @@ No hunt in mines, homes, cemeteries or sensitive cultural places; no photographi
 
 ## 10. Locator record
 - Stable name: Hailey mining-service and newspaper history, Blaine County, Idaho
+- Town: Hailey
 - Stable dossier ID: HT-RES-ID-hailey
 - Latitude: 43.517659
 - Longitude: -114.313881

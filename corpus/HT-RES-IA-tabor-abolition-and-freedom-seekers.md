@@ -63,6 +63,8 @@ Quiet witness only. No photo-tag path.
 | Field | Value |
 |---|---|
 | Stable site name | Tabor Antislavery Historic District, Todd House and Public Square |
+| Town | Tabor |
+| Public anchor | Tabor City Park / Public Square at Park Street, Tabor |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

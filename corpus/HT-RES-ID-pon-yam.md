@@ -88,6 +88,8 @@ https://drive.google.com/file/d/1jC8ze0UG5FurZuqiBYecsls_pqHkA3U3/view
 | Fixed field | Value |
 |---|---|
 | Stable site name | Pon Yam House / Pon Yam Museum and Resource Center |
+| Town | Idaho City |
+| Public anchor | Pon Yam Museum and Resource Center |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

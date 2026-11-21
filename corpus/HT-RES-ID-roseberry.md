@@ -94,6 +94,7 @@ Do not turn Victor's death, a family memorial, private houses or Tribal cultural
 
 ## 10. Locator record
 - Stable name: Historic Roseberry / Valley County Museum, Long Valley Preservation Society.
+- Town: Roseberry
 - State/county: Idaho / Valley County.
 - General visitor address: **13131 Farm-to-Market Road**, east of Donnelly. [4]
 - Latitude: **blank**.

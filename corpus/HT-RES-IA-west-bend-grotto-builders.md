@@ -63,6 +63,8 @@ Held. A human field reviewer may confirm a voluntary detail of stonework from a 
 | Field | Value |
 |---|---|
 | Stable site name | Grotto of the Redemption, West Bend |
+| Town | West Bend |
+| Public anchor | Shrine of the Grotto of the Redemption, West Bend |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

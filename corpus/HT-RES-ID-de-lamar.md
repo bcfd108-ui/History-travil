@@ -118,6 +118,7 @@ https://npgallery.nps.gov/AssetDetail/NRIS/76000679
 ## 10. Locator record
 
 - Stable name: Delamar Historic District, Idaho
+- Town: De Lamar
 - Latitude:
 - Longitude:
 - Coordinate source:

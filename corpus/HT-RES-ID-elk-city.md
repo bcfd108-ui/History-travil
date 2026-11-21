@@ -95,6 +95,8 @@ https://history.idaho.gov/wp-content/uploads/2018/09/Historic_Resources_of_the_E
 
 ## 10. Locator record
 - Stable name: Elk City, Idaho; verified nearby public alternative: Red River WMA viewing platform
+- Town: Elk City
+- Public anchor: Red River WMA viewing platform
 - Latitude:
 - Longitude:
 - Coordinate source/scope: No verified public-arrival coordinate assigned. Archival town geotags intentionally not promoted to platform/parking/camera locations.
