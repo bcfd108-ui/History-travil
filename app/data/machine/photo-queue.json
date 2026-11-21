@@ -2917,6 +2917,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-IL-graue-mill-and-museum",
+   "Slug": "IL-graue-mill-and-museum",
+   "Entry": "Graue Mill and Museum — a working Salt Creek gristmill and an Underground Railroad station",
+   "Town": "Oak Brook",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-graue-mill-and-museum",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "none",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-IL-haymarket-martyrs-monument",
    "Slug": "IL-haymarket-martyrs-monument",
    "Entry": "Haymarket Martyrs' Monument, Forest Home Cemetery — the Haymarket defendants' graves and labor's memorial ground",
@@ -2932,12 +2947,57 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-IL-illinois-michigan-canal-lockport",
+   "Slug": "IL-illinois-michigan-canal-lockport",
+   "Entry": "Illinois & Michigan Canal at Lockport — the canal's headquarters town, its office, and its warehouse",
+   "Town": "Lockport",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-illinois-michigan-canal-lockport",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "none",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-IL-jane-addams-hull-house-museum",
    "Slug": "IL-jane-addams-hull-house-museum",
    "Entry": "Jane Addams Hull-House Museum — the Hull-House settlement",
    "Town": "Chicago",
    "State": "Illinois",
    "Entry URL": "https://onoldground.com/sites/IL-jane-addams-hull-house-museum",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "none",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-IL-joliet-iron-works-historic-site",
+   "Slug": "IL-joliet-iron-works-historic-site",
+   "Entry": "Joliet Iron Works Historic Site — the ruins of Joliet's first great steel works",
+   "Town": "Joliet",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-joliet-iron-works-historic-site",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "none",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-IL-old-joliet-prison",
+   "Slug": "IL-old-joliet-prison",
+   "Entry": "Old Joliet Prison — the Illinois State Penitentiary at Joliet, 1858–2002",
+   "Town": "Joliet",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-old-joliet-prison",
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "Photo research pending.",
    "Next desk or field action": "Desk — verify missing era and rights",
@@ -11423,6 +11483,6 @@
   }
  ],
  "counts": {
-  "items": 761
+  "items": 765
  }
 }
