@@ -67,6 +67,7 @@ Pending field and Dash checks, an optional handheld street-side photo may docume
 | Field | Value |
 |---|---|
 | Stable site name | El Paso Union Passenger Station |
+| Town | El Paso |
 | Latitude | 31.757554 [5] |
 | Longitude | -106.494676 [5] |
 | Coordinate source | UNT photograph catalog location field [5] |

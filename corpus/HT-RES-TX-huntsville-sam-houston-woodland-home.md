@@ -52,6 +52,8 @@ The museum’s 1847–1859 span and four births are [2]. The university archive 
 | Field | Value |
 |---|---|
 | Stable site name | Woodland Home (Sam Houston, House) |
+| Town | Huntsville |
+| Public anchor | Start at the public museum entrance and use its map to reach the signed Woodland Home path in an open period |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

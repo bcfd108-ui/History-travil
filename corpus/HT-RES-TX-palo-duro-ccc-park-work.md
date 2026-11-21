@@ -46,6 +46,7 @@ A future optional architectural detail could be field-checked at the public rim 
 | Field | Value |
 |---|---|
 | Stable site name | Palo Duro Canyon Rim Visitor Center and CCC Park Work |
+| Public anchor | Palo Duro Canyon Rim Visitor Center |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

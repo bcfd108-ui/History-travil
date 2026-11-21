@@ -107,6 +107,7 @@ Directly read November 19, 2026; only the relevant entries or text support this 
 
 ## 10. Locator record
 Stable name: Old School Community Center DUP Museum
+- Town: Spring City
 Latitude:
 Longitude:
 Coordinate source/scope: No entrance coordinate verified; no district centroid substituted.

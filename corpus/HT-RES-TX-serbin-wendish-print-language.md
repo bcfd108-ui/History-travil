@@ -63,6 +63,8 @@ Optional after field and Dash review: a museum-approved exterior photograph from
 | Field | Value |
 |---|---|
 | Stable site name | Serbin — Texas Wendish Heritage Museum and school-language history |
+| Town | Serbin |
+| Public anchor | Texas Wendish Heritage Museum public entrance, 1011 CR 212 |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

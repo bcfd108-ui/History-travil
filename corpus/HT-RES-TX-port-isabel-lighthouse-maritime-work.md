@@ -54,6 +54,8 @@ The Coast Guard table says first lit in 1853. Its narrative dates completion to 
 | Field | Value |
 |---|---|
 | Stable site name | Port Isabel Lighthouse State Historic Site |
+| Town | Port Isabel |
+| Public anchor | Use the signed Port Isabel Lighthouse State Historic Site lower grounds from Queen Isabella Boulevard |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

@@ -68,6 +68,8 @@ Witness only. No photo-tag task or contribution path at this stop. Reading and p
 | Field | Value |
 |---|---|
 | Stable site name | Texas City 1947 Disaster — Texas City Museum witness |
+| Town | Texas City |
+| Public anchor | Texas City Museum, 409 6th Street North |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

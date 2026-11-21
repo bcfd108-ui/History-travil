@@ -51,6 +51,8 @@ Pending a field visit, the public East Main streetscape may provide a voluntary 
 | Field | Value |
 |---|---|
 | Stable site name | Post company-town development and tabernacle lease |
+| Town | Post |
+| Public anchor | Use the East Main public sidewalk outside the signed City of Post civic address, with ordinary open crossings and sidewalks as the boundary |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

@@ -65,6 +65,8 @@ Optional only after human field and Dash checks: a handheld reference photograph
 | Field | Value |
 |---|---|
 | Stable site name | Nacogdoches Stone Fort Museum and original downtown house |
+| Town | Nacogdoches |
+| Public anchor | SFA Stone Fort Museum on the circle at Griffith and Clark Boulevards |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

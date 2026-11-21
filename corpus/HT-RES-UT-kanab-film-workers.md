@@ -106,6 +106,7 @@ No answer key, stamp, stunt challenge or chained route is activated. Do not gath
 ## 10. Locator record
 
 - Stable name: Kanab Museum, Deanna P. Glover Building
+- Town: Kanab
 - Latitude:
 - Longitude:
 - Coordinate source:

@@ -86,6 +86,7 @@ No collecting, touching artifacts without permission, grave-location task or exp
 
 ## 10. Locator record
 - Stable name: Topaz Museum, Delta — survivor-story reflection anchor.
+- Town: Delta
 - Public street address: 55 West Main, Delta, Utah 84624. [1–2]
 - Latitude: 
 - Longitude: 

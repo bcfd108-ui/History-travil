@@ -114,6 +114,8 @@ Future interpretation could compare an attributed memory with a verified collect
 | Field | Value |
 |---|---|
 | Stable site name | Park City Museum |
+| Town | Park City |
+| Public anchor | Park City Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

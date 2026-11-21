@@ -65,6 +65,8 @@ Optional pending field and Dash review: a handheld photo of a labeled industrial
 | Field | Value |
 |---|---|
 | Stable site name | Thurber coal and brick work — W. K. Gordon Museum |
+| Town | Thurber |
+| Public anchor | Tarleton’s W. K. Gordon Museum and Research Center public galleries, 65258 I-20, Mingus mailing address |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

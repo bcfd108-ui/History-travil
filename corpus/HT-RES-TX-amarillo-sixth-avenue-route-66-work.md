@@ -67,6 +67,8 @@ Optional pending a field check from the public sidewalk and Dash review: photogr
 | Field | Value |
 |---|---|
 | Stable site name | Amarillo Natatorium (The Nat) |
+| Town | Amarillo |
+| Public anchor | Sixth Avenue public sidewalk at the 2705 frontage |
 | Latitude | 35.210788 [7] |
 | Longitude | −101.866488 [7] |
 | Coordinate source | Texas Historical Commission Route 66 survey 5-1-375-ANR-205 [7] |

@@ -68,6 +68,8 @@ Quiet witness only. No photo-tag activity. Reading and planning require no accou
 | Field | Value |
 |---|---|
 | Stable site name | Palo Alto Battlefield National Historical Park |
+| Town | Brownsville |
+| Public anchor | NPS Palo Alto Visitor Center, 7200 Paredes Line Road, Brownsville |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

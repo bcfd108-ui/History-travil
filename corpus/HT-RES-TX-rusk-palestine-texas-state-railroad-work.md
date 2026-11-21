@@ -67,6 +67,7 @@ Quiet reflection for incarcerated labor. No photo-tag activity during the reflec
 | Field | Value |
 |---|---|
 | Stable site name | Texas State Railroad — Rusk–Palestine |
+| Public anchor | Palestine Depot, 789 Park Road 70 |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

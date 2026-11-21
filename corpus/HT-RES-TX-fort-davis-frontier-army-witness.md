@@ -69,6 +69,8 @@ Quiet witness. No photo-tag activity. Reading and planning require neither accou
 | Field | Value |
 |---|---|
 | Stable site name | Fort Davis National Historic Site |
+| Town | Fort Davis |
+| Public anchor | NPS Fort Davis Visitor Center from the signed public entrance and parking area |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

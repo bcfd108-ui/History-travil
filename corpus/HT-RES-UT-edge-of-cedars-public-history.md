@@ -113,6 +113,8 @@ Directly read November 19, 2026. References support only the associated claims; 
 | Field | Value |
 |---|---|
 | Stable site name | Edge of the Cedars State Park Museum |
+| Town | Blanding |
+| Public anchor | Edge of the Cedars State Park Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

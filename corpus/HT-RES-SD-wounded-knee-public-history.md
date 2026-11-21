@@ -112,6 +112,7 @@ Witness-only remote reading. No photo finds, scoring or visitor route.
 | Field | Value |
 |---|---|
 | Stable site name | Wounded Knee public history — digital reflection |
+| Town | Wounded Knee |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |
