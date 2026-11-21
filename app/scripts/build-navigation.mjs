@@ -20,7 +20,7 @@ const rows = read("sites.json").map((site) => {
   );
   const themes = [
     ...new Set([
-      ...site.themeFamilies,
+      ...(site.themeFamilies || []),
       ...site.themes.map((t) => (t === "Military" ? "Military Ground" : t)),
     ]),
   ];
@@ -34,7 +34,7 @@ const rows = read("sites.json").map((site) => {
   ]
     .filter(Boolean)
     .join(" ");
-  const recordedName = site.locator.stableName;
+  const recordedName = site.locator?.stableName || "";
   return {
     slug,
     title,
@@ -45,11 +45,11 @@ const rows = read("sites.json").map((site) => {
     stateCode,
     themes,
     stopType,
-    mapPoint,
+    mapPoint: mapPoint ?? null,
     nameKey: normalize(title),
     recordedNameKey: normalize(recordedName),
     townKey: normalize(town),
-    areaKey: normalize(county),
+    areaKey: normalize(county || ""),
     text: normalize(
       [
         title,
