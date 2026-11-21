@@ -38,15 +38,12 @@ The durable evidence for this draft is the accessible scholarly edition, the Tri
 No artifacts are identified for handling, collecting or field photography. No historic works, excavation or active land use is part of this visit.
 
 ## 5. Trip-shaped stop progression
-One public museum, no external stop chain.
 
-1. **Confirm the actual museum gate**, not just the grounds’ opening. Read current notices and remain within authorized visitor areas.
-2. **Begin with the small primary observation.** Notice the diary’s tentative wording. Separate it from later claims and from Cannon’s secondhand conversation record.
-3. **Read a living-community voice alongside it.** Keep the regional comparison clearly labeled. Do not place a Colfax family into a Coloma scene.
-4. **Examine interpretation rather than assume it.** Where open displays discuss Indigenous people or other overlooked families, record the named sources and credits actually shown. A blank credit remains a question.
-5. **End quietly at the strongest story moment:** a museum can date an event precisely yet still need to broaden whose history it tells. Continuing community voices should change the visitor’s reading, not become another object to collect.
+The public anchor is the Gold Discovery Museum and Visitor Center at Marshall Gold Discovery State Historic Park, 310 Back Street, Coloma. The operator describes a museum presenting Gold Rush, Indigenous and other cultural histories, with regional agricultural history besides; the objects, wording and authorship of current displays were not inspected onsite for this dossier. [1]
 
-Optional unsent question: **Which named descendant communities contributed to the current museum interpretation, and which public accounts can visitors read in those communities’ own publications?** Do not request restricted locations or personal family information.
+The discovery itself survives in a workman's diary. Henry William Bigler's entry for 24 January 1848 reads: “This day some kind of metal that looks like gold was found in the tail race.” The passage reaches this dossier through the Church Historian's Press scholarly edition of George Q. Cannon's journal, which cites the Bigler extracts in *Utah Historical Quarterly* 5(3), 1932; Cannon's own entry of 17 October 1849 records a later conversation with Bigler, not eyewitness presence at the discovery. The California Geological Survey independently identifies Bigler's diary as important evidence for the 24 January 1848 date. [3][4]
+
+The park's own account of revised interpretation and a Tribal-published regional account carry what the discovery set in motion for the people already living there. No historic work, excavation or active land use is part of the visit, and no replica makes its surrounding ground available for exploration. [1]
 
 ## 6. Honest gaps and conflicting dates
 - Museum hours and holiday closures are operator-published, not a live guarantee. No same-day weather, staffing or accessibility inspection occurred.
