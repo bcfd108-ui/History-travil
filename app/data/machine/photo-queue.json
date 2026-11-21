@@ -1,0 +1,12 @@
+{
+ "version": 1,
+ "phase": 1,
+ "kind": "photo",
+ "status": "pending: gap report not on main",
+ "note": "photo-gaps.csv is not on main. Its generator is only on open PR #3 (branch photos-every-listing) and is not copied into this phase. This queue reads app/public/desk/photo-gaps.csv or app/data/photo-gaps.csv when one of those files is present.",
+ "source": null,
+ "items": [],
+ "counts": {
+  "items": 0
+ }
+}
