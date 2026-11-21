@@ -8345,6 +8345,18 @@
    "attempts": []
   },
   {
+   "id": "vq_IL-galena-lead-mining-district-dowling-house",
+   "slug": "IL-galena-lead-mining-district-dowling-house",
+   "name": "Galena lead-mining district and the Dowling House — the 1826 stone trading post in the town lead built",
+   "town": "Galena",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-galena-lead-mining-district-dowling-house.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_IL-graue-mill-and-museum",
    "slug": "IL-graue-mill-and-museum",
    "name": "Graue Mill and Museum — a working Salt Creek gristmill and an Underground Railroad station",
@@ -8425,6 +8437,18 @@
    "verifiedOn": "2026-11-21",
    "verifiedOnSource": "corpus-checked-line",
    "corpusFile": "HT-RES-IL-pullman-national-historical-park.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IL-us-grant-home",
+   "slug": "IL-us-grant-home",
+   "name": "U.S. Grant Home State Historic Site — the furnished house Galena gave its general in 1865",
+   "town": "Galena",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-us-grant-home.md",
    "queueState": "queued",
    "attempts": []
   },
@@ -9234,8 +9258,8 @@
   }
  ],
  "counts": {
-  "items": 769,
-  "dated": 528,
+  "items": 771,
+  "dated": 530,
   "unrecorded": 241
  }
 }
