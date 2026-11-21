@@ -31,13 +31,12 @@ The historical point is not that museum objects belonged to Bewley. **No connect
 - **No verified worker-specific display:** a museum visit must not be advertised as an encounter with the interviewee's own uniform, office or personal papers.
 
 ## 5. Trip-shaped stop progression
-1. **Prepare with one person's voice.** Read the short attributed career passage, keeping its 2023 publication date and managerial viewpoint visible.
-2. **Use only the museum's visitor entrance during confirmed public opening.** This is not a trip to an airport terminal or workplace. If access is uncertain, complete the reading remotely.
-3. **Within permitted public gallery space, favor civilian interpretation.** The advertised Women in Flight and Arizona Aviation material provides a candidate context. Current availability still needs checking; there is no fixed object route or promised label.
-4. **Let an object change the scale of the story.** If a commercial-service uniform is actually displayed, consider it as evidence that aviation is also a workplace. Do not invent its wearer's biography or claim it illustrates the interviewee's employment.
-5. **Land on the invisible work.** End by holding the museum's visible machinery beside the narrator's choice of ground-based work. The strongest moment is noticing how much a machine-centered story leaves out, not learning how to use a machine.
 
-This progression is interpretation, not a test. It does not require photographs, equipment handling, simulated job tasks or entry into aircraft. No timed or scored activity is created around accident or loss material.
+The public anchor is the Pima Air & Space Museum, 6000 E. Valencia Road, Tucson — a ticketed museum with civilian interpretation. Admission does not authorize touching, entering or operating aircraft, and no worker-specific display is verified: a visit here is not an encounter with the interviewee's uniform, office or personal papers. [1,3,5]
+
+The named worker is Danette Bewley, in her own published words. In Jay Gonzales's April 17, 2023 Q&A, she describes choosing airport management after exploring other aviation careers, learning through career moves and mentors, and valuing Tucson's people and collaborative character. The article dates her arrival at the Tucson Airport Authority to 2012 — a historical career statement, not a claim about today's leadership. Her summary of the work: “It's not just being a pilot.” The interview text was read directly; no recording or employment file was examined. [4]
+
+A further lead sits at the University of Arizona's Archive Tucson: a Bob Ring interview of June 28, 2017, with Tucson airport history among its topics. Only its description was read; the recording was not listened to, and it is not quoted here as labor evidence. [6]
 
 ## 6. Honest gaps and conflicting dates
 - **Winter body versus generic footer:** the museum's season-specific visitor hours and footer differ. Both are reported in section 1 rather than silently choosing one for a late arrival. [1]
