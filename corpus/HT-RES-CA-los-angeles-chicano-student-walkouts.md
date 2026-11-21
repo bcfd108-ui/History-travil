@@ -44,13 +44,11 @@ LA Plaza also retains an **online exhibitions** page containing **¡Ya Basta! Th
 
 ## 5. Trip-shaped stop progression
 
-1. **Before departure:** check the date against the museum's operator schedule. Read the short participant excerpt in advance; it gives the visit a human question even if no walkouts object is displayed.
-2. **At the public museum:** orient to visitor spaces and current exhibits. Stay within the permitted areas rather than trying to turn the building into an archive reading room.
-3. **Look for the people telling the story:** where relevant interpretation is actually present, distinguish a participant's words from a curator's explanation or a later film. If this topic is absent, acknowledge that rather than assigning unrelated objects to it.
-4. **Compare the historical record remotely:** use the linked photograph's metadata and the interview to consider what a crowd image can show and what it cannot reveal about an individual student's educational ambitions. Do not copy the photograph without rights review.
-5. **End with the strongest story moment:** return to the student's demand for education. Reflect on how it changes the meaning of leaving a classroom when the purpose is to be taken seriously as a learner.
+The public anchor is LA Plaza de Cultura y Artes and its museum operation. The operator advertises a broad permanent historical exhibition; installation details and this topic's present representation remain uninspected. School grounds, classrooms, former meeting places and private residences are not included — historical significance is not current admission permission. [1][6]
 
-This progression proposes one museum visit, not a multi-school journey. If the museum is closed or a walkouts-specific experience is essential, use the archive-only fallback until a relevant exhibit is verified. No historical confrontation is staged or described as an activity to repeat.
+Paula Crisostomo, a Lincoln High School participant in the walkouts, gave her account in Pasadena on February 23, 2018, for Deborah Aschheim's Pasadena Time Travel project, which collected participant interviews in 2017–18 and paired excerpts with drawings for a 2018 public-art project. Crisostomo recalled being the eldest daughter among eight children, with household and sibling-care responsibilities, a mother active in community affairs, and encouragement from teacher Sal Castro and college students. Her statement of the purpose is plain: “We were asking for better schools, a better education.” The transcript was read; no original sound recording was reviewed. [2][3]
+
+Carlos Manuel Haro, then a third-year UCLA student and Roosevelt High alumnus, later described the walkouts' significance in terms of students' self-worth and their resolve to write their own futures. The Getty holds the documented record of George Rodriguez's 1968 student-walkout photograph (reference 2024.R.42). [8]
 
 ## 6. Honest gaps and conflicting dates
 
