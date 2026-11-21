@@ -46,15 +46,11 @@ The Phoenix reading room preserves and makes evidence available. It is not the p
 
 ## 5. Trip-shaped stop progression
 
-**Prepare digitally.** Read the short dated statements and retain their citations. Carry the distinction between quotation, catalog description and original document into the visit.
+This is a research progression anchored at the Polly Rosenbaum Archives and History Building, where appointed researchers can use historical collections including newspapers and government records; access to any particular original is subject to staff confirmation and handling requirements. The two organizers' voices, though, are published online by the University of Arizona and need no travel. [1][2][3]
 
-**Visit only after confirmation.** If an appointment is secured later, follow the reading-room's instructions and use only materials made available. No appointment or retrieval is implied here.
+Frances Willard Munds addressed Arizona's women days after the suffrage initiative passed on November 5, 1912. In “Greetings to Arizona's New Citizens, The Women” (Tucson Citizen, November 16, 1912), she urged women to “make a study of the laws that govern women and children” — the ballot, in her framing, was the start of the work, not the end of it. The same exhibit records the campaign's path from legislative disappointment to the popular initiative, and Phoenix's part in it: Mayor Lloyd Christy's October permission for a Votes for Women banner. That is a historical connection, not a surviving banner or a street destination. [2]
 
-**Compare evidence, not personalities.** Place the campaign's promises beside evidence of its limits. An archive visit can focus on a single newspaper page rather than a large unsupported biography.
-
-**End with unfinished citizenship.** Hold the language of victory alongside the continuing exclusions. Let the final moment be quiet reflection on the difference between a formal change and being able to use it.
-
-This is a proposed research progression, not a room-by-room tour, street route or access authorization. The digital version stands alone if travel is impractical.
+Pauline M. O'Neill, writing in the Tucson Citizen on January 28, 1912, predicted a future “until women vote in every state,” and the university exhibit describes her leadership alongside Munds's. A Munds speech of 1911–1912 is cataloged at the Arizona Memory Project (RG 99, SG 10 Women's Suffrage, Box 1, Folder 3; OCLC 893224567); its catalog description was read, the document itself not retrieved. [3][5]
 
 ## 6. Honest gaps and conflicting dates
 
