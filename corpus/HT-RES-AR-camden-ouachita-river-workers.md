@@ -55,6 +55,8 @@ A contribution is voluntary and awaits a human field check, Gene’s authorizati
 | Field | Value |
 |---|---|
 | Stable site name | Camden’s Ouachita harbor and McCollum–Chidester House Museum |
+| Town | Camden |
+| Public anchor | McCollum–Chidester House Museum, 926 Washington Street, Camden |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

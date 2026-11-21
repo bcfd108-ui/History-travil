@@ -54,6 +54,8 @@ Quiet witness only. Reading and trip planning are free and available without an 
 | Field | Value |
 |---|---|
 | Stable site name | Delta Cultural Center, Helena wartime freedom and labor |
+| Town | Helena-West Helena |
+| Public anchor | Delta Cultural Center Visitors Center, 141 Cherry Street, Helena-West Helena |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

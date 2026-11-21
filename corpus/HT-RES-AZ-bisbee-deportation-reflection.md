@@ -113,6 +113,7 @@ No answer requires entering another property, accessing a restricted collection,
 ## 10. Locator record
 
 Stable name: Bisbee Mining & Historical Museum
+- Town: Bisbee
 
 Latitude:
 

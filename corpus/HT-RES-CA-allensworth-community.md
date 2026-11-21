@@ -116,6 +116,8 @@ Optional observation from a permitted public interpretive area: does the interpr
 | Field | Value |
 |---|---|
 | Stable site name | Colonel Allensworth State Historic Park |
+| Town | Allensworth |
+| Public anchor | Colonel Allensworth State Historic Park |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

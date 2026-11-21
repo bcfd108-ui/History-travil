@@ -61,6 +61,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Winslow Tunnel and Winslow Museum |
+| Town | Winslow |
+| Public anchor | Winslow Museum and City Hall, 108 N. Winslow Blvd. Drive up and use the short signed public entrance while open |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

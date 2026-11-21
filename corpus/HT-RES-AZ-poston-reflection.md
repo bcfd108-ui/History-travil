@@ -84,6 +84,7 @@ Find key: . Next-stop key: . Completion stamp: . Field verification: .
 
 ## 10. Locator record
 - Stable name: Poston reflection dossier; conditional institutional lead, Colorado River Indian Tribes Museum & Gift Shop.
+- Town: Poston
 - Public locator as printed by operator: **133 West Riverside Drive (Inside the Moovalya Shopping Plaza), Parker, Arizona 85344.** [1]
 - Locator status: source-only pending reconciliation; no travel activation.
 - Latitude: . Longitude: . Coordinate source: .

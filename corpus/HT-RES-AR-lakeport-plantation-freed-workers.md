@@ -61,6 +61,7 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Lakeport Plantation Museum |
+| Public anchor | Drive up to the A-State visitor center at 601 AR-142 |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

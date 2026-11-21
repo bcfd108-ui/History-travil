@@ -62,6 +62,8 @@ A contribution is voluntary and awaits a human field check, Gene’s authorizati
 | Field | Value |
 |---|---|
 | Stable site name | Eureka Springs railroad workers and historic depot |
+| Town | Eureka Springs |
+| Public anchor | Drive up to the Eureka Springs Historical Museum in the Calif House and use the short posted entrance approach |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

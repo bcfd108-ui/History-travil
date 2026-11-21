@@ -57,6 +57,8 @@ Reading and trip planning are free and available without an account, location sh
 | Field | Value |
 |---|---|
 | Stable site name | Fordyce Bathhouse, Hot Springs National Park |
+| Town | Hot Springs |
+| Public anchor | Fordyce Bathhouse Visitor Center, on Central Avenue between the Quapaw and Maurice Bathhouses |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

@@ -55,6 +55,8 @@ Quiet witness only. Reading and trip planning are free and available without an 
 | Field | Value |
 |---|---|
 | Stable site name | Fort Smith National Historic Site, U.S. District Court and marshal’s work |
+| Town | Fort Smith |
+| Public anchor | Fort Smith National Historic Site Visitor Center, 301 Parker Ave., using signed visitor parking, open lanes and a short walk to the ordinary NPS entrance |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

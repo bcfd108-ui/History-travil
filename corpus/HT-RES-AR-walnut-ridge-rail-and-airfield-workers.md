@@ -57,6 +57,8 @@ A contribution is voluntary and awaits a human field check, Gene’s authorizati
 | Field | Value |
 |---|---|
 | Stable site name | Walnut Ridge Army Air Field and Wings of Honor Museum |
+| Town | Walnut Ridge |
+| Public anchor | Wings of Honor Museum, 70 Beacon Road, Walnut Ridge |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

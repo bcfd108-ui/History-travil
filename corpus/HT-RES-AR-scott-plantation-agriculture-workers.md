@@ -61,6 +61,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Plantation Agriculture Museum and Steele–Dortch General Store, Scott |
+| Town | Scott |
+| Public anchor | Plantation Agriculture Museum, 4815 AR Hwy 161 South, Scott |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

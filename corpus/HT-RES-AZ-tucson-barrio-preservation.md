@@ -122,6 +122,8 @@ Witness-only reflection. No photo find or scavenger task.
 | Field | Value |
 |---|---|
 | Stable site name | Tucson barrio preservation — La Casa Cordova |
+| Town | Tucson |
+| Public anchor | Tucson Museum of Art’s La Casa Cordova |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

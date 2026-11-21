@@ -58,6 +58,8 @@ A contribution is voluntary and awaits a human field check, Gene’s authorizati
 | Field | Value |
 |---|---|
 | Stable site name | Powhatan Historic State Park, Lawrence County Courthouse |
+| Town | Powhatan |
+| Public anchor | Powhatan Historic State Park courthouse museum, 4414 Hwy 25 |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

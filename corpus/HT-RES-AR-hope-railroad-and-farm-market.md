@@ -57,6 +57,8 @@ A contribution is voluntary and awaits a human field check, Gene’s authorizati
 | Field | Value |
 |---|---|
 | Stable site name | Hope Visitor Information Center and Missouri Pacific Railroad Depot |
+| Town | Hope |
+| Public anchor | Drive to the city’s Hope Visitor Information Center downtown and use signed lawful parking and the short public street-side approach to 100 E. Division |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

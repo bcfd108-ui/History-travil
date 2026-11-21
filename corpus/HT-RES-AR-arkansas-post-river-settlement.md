@@ -62,6 +62,8 @@ Quiet witness only. Reading and planning are free and available without an accou
 | Field | Value |
 |---|---|
 | Stable site name | Arkansas Post National Memorial, Arkansas Trading House story |
+| Town | Gillett |
+| Public anchor | Arkansas Post National Memorial visitor center, 1741 Old Post Road, Gillett |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

@@ -97,6 +97,7 @@ Sources opened/read November 19, 2026. Item 416's published transcription was re
 
 ## 10. Locator record
 - Stable name: Delano Filipino farmworker organizing — hearing the news
+- Town: Delano
 - Public visitor address: none established; archive-only
 - Latitude:
 - Longitude:

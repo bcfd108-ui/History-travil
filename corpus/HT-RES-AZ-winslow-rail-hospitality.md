@@ -127,6 +127,8 @@ https://vimeo.com/162757523
 | Field | Value |
 |---|---|
 | Stable site name | Old Trails Museum, Winslow |
+| Town | Winslow |
+| Public anchor | Old Trails Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

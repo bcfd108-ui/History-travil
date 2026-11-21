@@ -61,6 +61,8 @@ A contribution is voluntary and awaits a human field check, Gene’s authorizati
 | Field | Value |
 |---|---|
 | Stable site name | El Dorado Armstrong lease oil story and Oil Heritage Park |
+| Town | El Dorado |
+| Public anchor | Oil Heritage Park, 101 E. Cedar Street, El Dorado |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source and scope |  |

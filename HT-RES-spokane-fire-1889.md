@@ -89,6 +89,7 @@ https://en.wikipedia.org/wiki/Davenport_Hotel_(Spokane)
 
 ```yaml
 stable_site_name: Great Spokane Fire of 1889 / Downtown Spokane rebuild
+Public anchor: Downtown Spokane — public sidewalks
 latitude:
 longitude:
 coordinate_source:
