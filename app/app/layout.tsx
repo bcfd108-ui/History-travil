@@ -40,7 +40,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <Link href="/catalog">Catalog</Link>
                 <Link href="/desk">Research Desk</Link>
                 <Link href="/hunts">Hunts</Link>
-                <Link href="/tours">Tours</Link>
+                <Link href="/tours">Routes</Link>
                 <Link href="/near">Near Here</Link>
               </nav>
               <AccountBar />

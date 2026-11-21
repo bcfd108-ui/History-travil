@@ -13,6 +13,7 @@
 // with §1 as a bold header line; and a home-bench 8-part scheme. Sections are
 // therefore mapped by title keywords first, section numbers second.
 // Run: node scripts/convert.mjs   (also runs as part of `npm run build`)
+import { dossierFamilies, recordedCounty, verifiedMapPoint } from "./navigation-fields.mjs";
 import { readdirSync, readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -23,6 +24,12 @@ const homeDir = join(appRoot, "..");
 const outDir = join(appRoot, "data");
 
 const STATE_NAMES = {
+  AL: "Alabama", AK: "Alaska", CT: "Connecticut", DE: "Delaware", FL: "Florida",
+  GA: "Georgia", IL: "Illinois", IN: "Indiana", KY: "Kentucky", ME: "Maine",
+  MD: "Maryland", MA: "Massachusetts", MI: "Michigan", NH: "New Hampshire",
+  NJ: "New Jersey", NY: "New York", NC: "North Carolina", OH: "Ohio", PA: "Pennsylvania",
+  RI: "Rhode Island", SC: "South Carolina", TN: "Tennessee", VT: "Vermont",
+  VA: "Virginia", WV: "West Virginia", WI: "Wisconsin",
   ID: "Idaho", WA: "Washington", OR: "Oregon", MT: "Montana", WY: "Wyoming",
   UT: "Utah", NV: "Nevada", CA: "California", CO: "Colorado",
   AZ: "Arizona", NM: "New Mexico", ND: "North Dakota", SD: "South Dakota",
@@ -356,9 +363,10 @@ function convert(filePath, origin) {
     gate: /reflection (stop|ground|only)|quiet witness|quiet reflection|witness only/i.test(S.gate?.body || "") || /sacred (site|ground)|not a (game|hunt)/i.test((S.gate?.body || "") + " " + S.lead),
   };
   const isReflection = signals.slug || signals.candSec || signals.preamble || signals.gate;
-  const stopType = isReflection ? "reflection" : "view";
+  const declaredStop = pick(pairs, key => key === "stop type").trim().toLowerCase();
+  const stopType = isReflection || declaredStop === "reflection" ? "reflection" : declaredStop === "hunt" ? "hunt" : "view";
 
-  const cand = extractCandidates(S.candSec, isReflection);
+  const cand = extractCandidates(S.candSec, stopType === "reflection");
 
   const hay = (title + " " + (S.story?.body || "")).toLowerCase();
   const themes = Object.entries(THEME_KEYWORDS)
@@ -367,6 +375,11 @@ function convert(filePath, origin) {
     .sort((a, b) => b[1] - a[1])
     .slice(0, 4)
     .map(([name]) => name);
+
+  const themeFamilies = dossierFamilies(preamble);
+  // A named battlefield is a narrower path within the tagged catalog.
+  if ((themes.length || themeFamilies.length) && /\bbattlefield\b/i.test(title + " " + locator.stableName))
+    themeFamilies.push("Battlefields");
 
   return {
     site: {
@@ -378,6 +391,9 @@ function convert(filePath, origin) {
       stateCode: stateCode || "",
       division: stateCode ? STATE_NAMES[stateCode] : "",
       themes,
+      themeFamilies,
+      county: recordedCounty(pairs, preamble),
+      mapPoint: verifiedMapPoint(pairs, locator, md),
       stopType,
       standfirst: cleanPreamble(preamble),
       lead: scrubText(S.lead || ""),
@@ -477,3 +493,6 @@ writeFileSync(join(outDir, "sites.json"), JSON.stringify(sites, null, 1));
 writeFileSync(join(outDir, "index.json"), JSON.stringify(index));
 writeFileSync(join(outDir, "stats.json"), JSON.stringify(stats, null, 2));
 console.log(JSON.stringify(stats, null, 2));
+
+// Build the search and browse projection from the exact published site records.
+await import("./build-navigation.mjs");

@@ -17,7 +17,7 @@ export interface NearRow {
   title: string;
   town: string;
   state: string;
-  stopType: "reflection" | "view";
+  stopType: "reflection" | "view" | "hunt";
   approach: string | null;
   lat: number;
   lon: number;
@@ -32,6 +32,8 @@ type Phase =
 export default function NearHere({ rows }: { rows: NearRow[] }) {
   const [phase, setPhase] = useState<Phase>({ kind: "idle" });
 
+  const [page,setPage] = useState(1);
+  const size = 24;
   const sorted = useMemo(() => {
     if (phase.kind !== "ready") return [];
     return rows
@@ -87,25 +89,30 @@ export default function NearHere({ rows }: { rows: NearRow[] }) {
             the entry&apos;s Before you go section says where you may actually stand.
           </p>
           <div className="rows">
-            {sorted.map(({ r, km }) => (
+            {sorted.slice((page-1)*size,page*size).map(({ r, km }) => (
               <Link key={r.slug} className="row" href={`/sites/${r.slug}`}>
                 <span className="t">{r.title}</span>
                 <div className="m">
                   {formatDistance(km)} · {r.town ? `${r.town}, ` : ""}{r.state}
                   {" · "}
                   <span className={`badge${r.stopType === "reflection" ? " reflection" : ""}`}>
-                    {r.stopType === "reflection" ? "Reflection stop" : "View stop"}
+                    {r.stopType === "reflection" ? "Reflection stop" : r.stopType === "hunt" ? "Hunt stop" : "View stop"}
                   </span>
                   {r.approach && <span className="badge">{r.approach}</span>}
                 </div>
               </Link>
             ))}
           </div>
+          {sorted.length>size && <nav className="pager" aria-label="Pages">
+            <button className="btn" disabled={page===1} onClick={()=>setPage(page-1)}>Previous page</button>
+            <span>{page} of {Math.ceil(sorted.length/size)}</span>
+            <button className="btn" disabled={page*size>=sorted.length} onClick={()=>setPage(page+1)}>Next page</button>
+          </nav>}
           <p>
             <button
               type="button"
               className="linklike"
-              onClick={() => setPhase({ kind: "idle" })}
+              onClick={() => {setPage(1);setPhase({ kind: "idle" });}}
             >
               Clear my position
             </button>

@@ -29,7 +29,7 @@ export interface Site {
   stateCode: string;
   division: string;
   themes: string[];
-  stopType: "reflection" | "view";
+  stopType: "reflection" | "view" | "hunt";
   standfirst: string;
   lead: string;
   access: string;
@@ -43,6 +43,7 @@ export interface Site {
   sources: string;
   locator: Locator;
   coordinates: { lat: number; lon: number } | null;
+  mapPoint: {lat:number; lon:number} | null;
   coordinateKind: string;
   candidateFinds: string[];
   publishedAs: string;
@@ -55,7 +56,7 @@ export interface IndexRow {
   state: string;
   stateCode: string;
   themes: string[];
-  stopType: "reflection" | "view";
+  stopType: "reflection" | "view" | "hunt";
   hasCoordinates: boolean;
   hasLocator: boolean;
   /** Derived at load by getVisitableAnchor() from the full record. */

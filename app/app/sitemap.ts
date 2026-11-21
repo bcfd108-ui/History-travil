@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getHunts, getSites, getStates, getTours } from "@/lib/data";
 import { DESK_GUIDES } from "@/lib/content";
+import {stateUrl,themeList,themeUrl} from "@/lib/browse";
 import { SITE_URL } from "@/lib/seo";
 
 // The sitemap is derived from the same data the pages are built from, so it
@@ -15,6 +16,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
   return [
     page("/", 1),
     page("/catalog", 0.9),
+    page("/map",0.8),
+    page("/themes",0.8),
+    ...getStates().map(s=>page(stateUrl(s.code),0.8)),
+    ...themeList().map(t=>page(themeUrl(t),0.8)),
     page("/desk", 0.8),
     page("/hunts", 0.8),
     page("/tours", 0.8),

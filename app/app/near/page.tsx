@@ -9,7 +9,7 @@ export default function NearPage() {
   // list is short because the record is honest, not because the app is thin.
   const rows: NearRow[] = [];
   for (const s of getSites()) {
-    if (!s.coordinates) continue;
+    if (!s.mapPoint) continue;
     const anchor = getVisitableAnchor(s);
     if (!anchor) continue;
     rows.push({
@@ -19,8 +19,8 @@ export default function NearPage() {
       state: s.state,
       stopType: s.stopType,
       approach: anchor.approach,
-      lat: s.coordinates.lat,
-      lon: s.coordinates.lon,
+      lat: s.mapPoint.lat,
+      lon: s.mapPoint.lon,
     });
   }
 
