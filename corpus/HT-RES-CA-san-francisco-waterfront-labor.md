@@ -34,15 +34,11 @@ NPS describes maritime exhibits and a park film at the visitor center. No curren
 
 ## 5. Trip-shaped stop progression
 
-One public interior anchor, not a walking chain. **Suggested 45–60 minutes is an editorial planning estimate**, not a ranger program or booked duration.
+The public anchor is the San Francisco Maritime Visitor Center, 499 Jefferson Street, where the National Park Service describes maritime exhibits and a park film. No current Williams portrait, artifact, employment record or dedicated labor gallery is promised. [1]
 
-1. **Before arrival:** check current opening and alerts; read the source introduction so narrator, editor and publication date are not confused. [1,3–4]
-2. **Inside the visitor center:** use currently open public exhibits for broad maritime context. Follow posted rules. The worker passage is companion reading, not an assertion that NPS endorses this draft.
-3. **Shift the focus:** read the brief Williams passage about education and dignity. Ask what a vessel-centered account might leave out about the people who worked around it.
-4. **Quiet reflection:** acknowledge the two 1934 deaths without a challenge, stamp, reenactment or visit to a death location. [5]
-5. **Strongest ending:** return to the distinction between pride and arrogance. What would a historical record need to preserve so that workers are remembered as thinkers and citizens rather than anonymous labor?
+The worker is Cleophas (“Bill”) Williams, in an edited oral-history selection published in *The Dispatcher* in August 1998, edited by Harvey Schwartz. The union archive's introduction places his Local 10 career in 1944–1981 and his election as the local's first Black president in 1967. Williams recalls arriving from the segregated South, finding both opportunity and racial indifference, learning from other workers, and the California Labor School as his first integrated school. His concluding distinction: “It wasn't arrogance. It was pride.” The selection is retrospective testimony chosen by a union historian for the union's newspaper — not an unedited recording — and the introduction acknowledges a separate 1995 interview without specifying which excerpts come from which. [4]
 
-If entry is unavailable, remain with digital reading. Do not substitute an active waterfront location or try to find a former worker’s home. A later route would need its own permissions and source verification; none is activated here.
+The union archive explains that its online excerpts were previously published in *The Dispatcher* and that its wider oral-history collection was digitized in 2017; full-record access is a separate process, and no request was made. No surviving equipment is an invitation to operate, board or enter anything. [4–5,7]
 
 ## 6. Honest gaps and conflicting dates
 
