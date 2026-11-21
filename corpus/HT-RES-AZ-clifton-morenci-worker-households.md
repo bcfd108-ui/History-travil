@@ -47,13 +47,11 @@ The building's presence does not prove that a particular worker, household or au
 
 ## 5. Trip-shaped stop progression
 
-**Before leaving: hear the household perspective.** Read the published interview excerpt, noting speaker, interview date and the difference between recollection and corroboration. This remains worthwhile even if the physical stop is unavailable.
+The public anchor is the Greenlee County Historical Society Museum at 299 Chase Creek, Clifton, in the former Eagle Hall — a building its operator attributes to Antonio and Ambrose Spezia in 1913, with surviving original form and detailing and former community uses on its upper level. Museum visitor areas are public during an actual opening; the upstairs, stores and archives are not established as accessible, and no exhibit of the household in this entry is claimed. [1][5]
 
-**At an actual museum opening: begin with the institution.** Stay within visitor areas. Let the museum's displayed interpretation establish its own scope instead of expecting the room to illustrate every claim in this dossier.
+That household speaks in Anna Ochoa O'Leary's interview with Jennifer Nájera (October 27, 2023), published by the university-hosted Mapping Chicana/Mexicana Voices project. O'Leary was raised in Clifton; her father worked at Phelps Dodge. Her recollections describe becoming an auxiliary spokesperson — traveling, writing, and meeting disagreement at home: “We're writing statements. We're writing letters. We're doing the outreach.” The transcript was read; the audio was not listened to. Where her husband's recollection differs from hers, the dossier keeps both rather than adjudicating between them. [3]
 
-**If the terminal is available: compare forms of evidence.** A photograph, its spreadsheet description and a historian's commentary are different records. Record any item identifier actually shown. Do not substitute a nearby historic scene for an unlocated photograph or treat an interactive historical map as a travel map. [2]
-
-**End with the strongest story moment.** Return to the contrast between household expectations and the public work of making statements, letters and appeals. The ending is reflection on recognized and unrecognized labor, not a hunt completion. No onward route to a former clinic, home or workplace is included.
+The museum also advertises a dedicated research computer; its operational availability was not verified. The mines, industrial facilities, rail corridors and private property of the district are documentary subjects only, excluded entirely from any visit. [2]
 
 ## 6. Honest gaps and conflicting dates
 
