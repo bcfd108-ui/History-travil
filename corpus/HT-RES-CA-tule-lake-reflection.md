@@ -36,15 +36,12 @@ The interpretive landing is the distance between an institutional label and a fa
 **Excluded:** active/private property, closed interiors, sensitive and burial places, historic enclosure exploration, roadside stopping and substitute approaches. No outdoor itinerary is inferred from public maps or photographs.
 
 ## 5. Trip-shaped stop progression
-This is an archive reading sequence, not a physical route.
 
-1. **Begin with provenance:** note the speaker, interviewers, recording date and documentary purpose. An edited archival record is not a present-day conversation with the survivor.
-2. **Read the chosen family passage:** distinguish what Kashiwagi says about his own reasons from what he remembers about his mother. Do not generalize either into a universal family experience.
-3. **Notice the label:** recognize that administrative categorization can conceal motives and relationships. No historical questionnaire exercise follows.
-4. **Strongest story moment:** original reflection question: *What disappears when a person is remembered only by the category assigned to them?*
-5. **End quietly:** there is no required answer, disclosure, reenactment, photo or visit. Leave the site-access gate closed until independently verified in a separate task.
+This is an archive-only entry: no public visitor address is cleared in this draft, and no outdoor itinerary is inferred from maps or photographs. National Park Service ranger programming exists under operator conditions, but this dossier holds no reservation, confirmed date, guide or winter entrance arrangement; the fairgrounds museum the NPS references is a lead only, with no exhibit, fee or opening claim adopted. [1]
 
-Readers may stop at any point. A future visit requires actual operator confirmation, not completion of this reading.
+What the record holds is Hiroshi Kashiwagi's testimony, published by Densho with its provenance. Kashiwagi, interviewed by Chizu Omori and Emiko Omori on October 1, 1992, recalled resisting registration after his rights had been taken away, and distinguished refusing to register from the label subsequently applied to him. In segment 3 he remembers his mother's overriding concern: “her real concern was to keep us all together.” The segment transcript was read in full; the recording itself was not played. [4]
+
+The repository explains that the interview was made for the Omori sisters' documentary *Rabbit in the Moon*, not as a comprehensive life history — a focused interview with its own purpose and silences. The record also identifies Kashiwagi's later writing and theatrical work; incarceration is not the entirety of his life. Active and private property, closed interiors, burial places and the historic enclosure itself are excluded. [5]
 
 ## 6. Honest gaps and conflicting dates
 - Search-indexed winter language and the direct hours-widget shell differ in what they expose. The guided-tour page supplies the clearer winter limitation; no exact reopening date is asserted. [1–3]
