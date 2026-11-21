@@ -1,9 +1,11 @@
 import Link from "next/link";
-import { HUNTS } from "@/lib/content";
+import { getHunts, huntFindsForRender } from "@/lib/data";
+import { HuntProgressLine } from "@/components/HuntProgress";
 
 export const metadata = { title: "Hunts — On Old Ground" };
 
 export default function HuntsPage() {
+  const hunts = getHunts();
   return (
     <>
       <h1>Hunts</h1>
@@ -13,30 +15,43 @@ export default function HuntsPage() {
         photo is welcome, never required. There are no questions and no answer keys.
       </p>
       <p className="small">
-        The hunts&apos; own find lists live in the current app. In this edition, the record
-        behind each hunt is below — and where an entry carries candidate finds from the
-        research record, you can tag them with your photo from the entry&apos;s own page, into
-        your scrapbook and stamp book. Candidates are labelled as what they are: not yet
-        field-checked or activated. Reflection ground is never part of any hunt.
+        The three founding hunts are live, with their find lists carried from the original
+        app&apos;s record. The finds rest on the research record — the hunts stand activated
+        on the owner&apos;s word, and no find is represented as field-verified. Nothing is
+        scored. A find is tagged from its catalog entry&apos;s page, into your scrapbook and
+        stamp book — and where a find&apos;s ground has no entry in this edition yet, its
+        catalog entry is in preparation and the find is carried on its own text until the
+        entry is published. Completing a hunt records its badge in your stamp book.
+        Reflection ground is never part of any hunt.
       </p>
-      {HUNTS.map((h) => (
-        <section key={h.slug} className="panel">
-          <h2>{h.name}</h2>
-          <p>
-            <span className="badge amber">{h.findsInApp} finds</span>
-            <span className="m"> {h.ground}</span>
-          </p>
-          <p>{h.about}</p>
-          <h3>Read the record first</h3>
-          <div className="rows">
-            {h.related.map((r) => (
-              <Link key={r.slug} className="row" href={`/sites/${r.slug}`}>
-                <span className="t">{r.label}</span>
-              </Link>
-            ))}
-          </div>
-        </section>
-      ))}
+      {hunts.map((h) => {
+        const finds = huntFindsForRender(h);
+        return (
+          <section key={h.slug} className="panel">
+            <h2>
+              <Link href={`/hunts/${h.slug}`}>{h.name}</Link>
+            </h2>
+            <p>
+              <span className="badge amber">{finds.length} finds</span>
+              <span className="badge">{h.tier}</span>
+              <span className="m"> {h.ground}</span>
+            </p>
+            <p>{h.about}</p>
+            <HuntProgressLine finds={finds} badge={h.badge} />
+            <p>
+              <Link href={`/hunts/${h.slug}`}>Open the hunt — its finds and your progress</Link>
+            </p>
+            <h3>Read the record first</h3>
+            <div className="rows">
+              {h.related.map((r) => (
+                <Link key={r.slug} className="row" href={`/sites/${r.slug}`}>
+                  <span className="t">{r.label}</span>
+                </Link>
+              ))}
+            </div>
+          </section>
+        );
+      })}
     </>
   );
 }

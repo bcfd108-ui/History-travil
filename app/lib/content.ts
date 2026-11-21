@@ -1,4 +1,4 @@
-// Research Desk guide documents and the hunt list.
+// Research Desk guide documents.
 // The guide texts are written from the project's own governing documents —
 // the publish manifest's fidelity rules, the product law (Update 252), and
 // the QC compiled summary — and say so on their face. The full text of the
@@ -35,7 +35,7 @@ export const DESK_GUIDES: DeskDoc[] = [
 - **Disagreements are printed, not smoothed.** When sources conflict on a date, a count, or an hour, the entry carries the conflict and says which way to plan.
 - **Locators are never invented.** Across 311 dossiers checked in the November 2026 QC run, zero invented register numbers were found; every filled identifier traced to a cited source.
 - **Access is stated honestly.** Closures, seasonal gates, museum-only and archive-only status ride on top of the entry, prominently.
-- **Quality control is a separate pass.** Dossiers are drafted, then independently checked against the standard before they publish. A QC pass is not publication, and publication is not activation — turning an entry into a scored hunt still takes a human field check and the owner's word.`,
+- **Quality control is a separate pass.** Dossiers are drafted, then independently checked against the standard before they publish. A QC pass is not publication, and publication is not activation — a hunt goes active on the owner's word alone, on the strength of the record.`,
   },
   {
     slug: "stop-types",
@@ -63,64 +63,12 @@ export const DESK_GUIDES: DeskDoc[] = [
 
 **Reflection ground is never part of the game.** No finds, no tags, no scoring on loss ground — ever.
 
-**Activation is earned, not automatic.** A candidate find in a research dossier is a draft until a human has stood on the ground, checked it, and the owner has given the word. Candidate finds shown on entries in this edition are labelled exactly that: from the research record, not yet field-checked or activated.`,
+**Activation is the owner's word.** The founding hunts stand activated on the owner's ruling, on the strength of the research record — no field check gates a hunt, and no find is represented as field-verified. A tag is witnessed by the player's own presence, and by their photo or position only when they choose to give them. Candidate finds shown on entries in this edition are labelled exactly that: from the research record, candidates until the owner activates them.`,
   },
 ];
 
-export interface Hunt {
-  slug: string;
-  name: string;
-  ground: string;
-  findsInApp: number;
-  about: string;
-  related: { slug: string; label: string }[];
-}
-
-// The three hunts as built in the current app (13 finds total). Their find
-// lists live in the app record; this edition presents the hunts with the
-// research record behind them, and candidate finds on individual entries
-// can be tagged into a visitor's scrapbook, with a photo if they choose (Stage 2).
-export const HUNTS: Hunt[] = [
-  {
-    slug: "pulaski-hunt",
-    name: "The Pulaski Hunt",
-    ground: "Wallace, Idaho — the Pulaski Trail and the 1910 Big Burn country",
-    findsInApp: 5,
-    about:
-      "Five photo finds in the country Ed Pulaski walked his crew out of in August 1910 — the tunnel, the trail, the town that rebuilt in brick. The research record behind it is the firefighter-innovation packet: Pulaski's tool, the Nicholson adit, and the words of the men who were there.",
-    related: [
-      { slug: "st-joe-st-maries", label: "The St. Joe and the fire that filled a cemetery" },
-      { slug: "ID-lochsa-ranger-station", label: "Lochsa Ranger Station" },
-    ],
-  },
-  {
-    slug: "valley-hunt",
-    name: "The Valley Hunt",
-    ground: "Lewiston, Idaho — the Lewis-Clark Valley home ground",
-    findsInApp: 4,
-    about:
-      "Four photo finds across Lewiston's own record: the locomotive park, the 1909 depot, Main Street's district, Normal Hill, and the confluence of the Snake and Clearwater — where the hunt goes quiet at the Nez Perce beat, because that ground is reflection, not a game.",
-    related: [
-      { slug: "lewiston-locomotive-park", label: "Locomotive Park / Engine 92" },
-      { slug: "lewiston-depot", label: "Lewiston Depot" },
-      { slug: "lewiston-main-street", label: "Historic Main Street" },
-      { slug: "lewiston-normal-hill", label: "Normal Hill" },
-      { slug: "lewiston-confluence", label: "Snake–Clearwater Confluence" },
-    ],
-  },
-  {
-    slug: "mining-country-hunt",
-    name: "The Mining Country Hunt",
-    ground: "Idaho's silver and gold country — Murray, Bayhorse, Kellogg, the Yankee Fork",
-    findsInApp: 4,
-    about:
-      "Four photo finds in the mining country dossiers: the Coeur d'Alene silver ground, Bayhorse's charcoal-kiln townsite, the Bunker Hill labour record, and the Yankee Fork's dredge country. Several of these entries carry live gates — Wardner is held, the Staff House Museum is closed until Memorial Day weekend 2027, and Bayhorse stays out of routing until Idaho Parks publishes a reopening — and the hunt respects every one of them.",
-    related: [
-      { slug: "murray", label: "Murray" },
-      { slug: "bayhorse", label: "Bayhorse" },
-      { slug: "bunker-hill-kellogg", label: "Bunker Hill / Kellogg" },
-      { slug: "custer-yankee-fork", label: "Custer / Yankee Fork" },
-      { slug: "cataldo-mission", label: "Cataldo Mission" },
-    ],
-  },
-];
+// The hunt list itself — the three founding hunts and their find lists,
+// recovered verbatim from the original app's record — lives in
+// data/hunts.json behind lib/data.ts (getHunts), the same sidecar pattern
+// as the tours. Hunt pages render from that data; nothing about the hunts
+// is kept here any more.

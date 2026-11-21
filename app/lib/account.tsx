@@ -2,7 +2,7 @@
 // Account state for the whole app: whether saving is configured at all,
 // whether a visitor is signed in, and the magic-link sign-in/out actions.
 //
-// Sign-in exists ONLY for saving (plans, photo tags, the stamp book, the
+// Sign-in exists ONLY for saving (plans, tags, the stamp book, the
 // notebook, submissions). Nothing about reading waits on this provider:
 // every page renders fully for a signed-out, unconfigured visit.
 import {

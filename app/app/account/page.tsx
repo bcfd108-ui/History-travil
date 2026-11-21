@@ -1,5 +1,5 @@
 "use client";
-// Your scrapbook: everything the account holds — day plans, photo tags, the
+// Your scrapbook: everything the account holds — day plans, tags, the
 // stamp book derived from them, notebook entries, and the candidates you
 // have filed (field reports, study requests, "now" photos) with their
 // review state printed honestly. Reading never needs this page; it exists
