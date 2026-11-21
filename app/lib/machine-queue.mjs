@@ -36,9 +36,9 @@
 // Reconciliation (after dedupe):
 //   A live catalog match (sites.json) sets queueState to published.
 //   A corpus dossier that is absent from sites.json sets queueState to filed.
-//   Match: same postal state, and normalized name equals the catalog title,
-//   the locator stable name, or the slug as words; or the lead name is a
-//   whole-word phrase of at least 12 characters inside one of those.
+//   Match: exact. Same postal state, and the normalized name equals the
+//   catalog title, the locator stable name, or the slug as words. A shorter
+//   name does not claim a longer title.
 //   Towns must be equal when both sides have a town. Several matches leave
 //   the item unreconciled (targetSlug null, reconcile "ambiguous").
 //
