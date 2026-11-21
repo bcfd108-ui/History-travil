@@ -110,6 +110,7 @@ The current product is a sourced reading-and-reflection stop. It can be worthwhi
 ## 10. Locator record
 
 - Stable name: Sanford Lab Homestake Visitor Center
+- Town: Lead
 - Public printed address: 160 West Main Street, Lead, South Dakota
 - Latitude:
 - Longitude:

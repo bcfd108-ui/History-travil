@@ -100,6 +100,7 @@ Do not search for domestic artifacts, enter former home plots, approach current 
 
 ## 10. Locator record
 - Stable name: Eugene Across the Bridge civil-rights reflection — Alton Baker Park public anchor.
+- Public anchor: Alton Baker Park
 - Latitude: 
 - Longitude: 
 - Coordinate source: 

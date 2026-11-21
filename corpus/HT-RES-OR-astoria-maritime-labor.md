@@ -96,6 +96,7 @@ Observation and reflection only. No shipwreck hunt, artifact collection, worker 
 
 ## 10. Locator record
 - Stable entry name: Astoria maritime labor — Columbia River Maritime Museum.
+- Town: Astoria
 - Division / dossier: OR / HT-RES-OR-astoria-maritime-labor.
 - Public anchor: Columbia River Maritime Museum.
 - Printed public address: 1792 Marine Drive, Astoria, Oregon 97103. [1]

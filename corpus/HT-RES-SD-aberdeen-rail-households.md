@@ -114,6 +114,8 @@ https://dacotahprairiemuseum.org/galleries/new-dawn-on-the-prairie-railroad-car/
 | Field | Value |
 |---|---|
 | Stable site name | Aberdeen rail households — Dacotah Prairie Museum |
+| Town | Aberdeen |
+| Public anchor | Dacotah Prairie Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

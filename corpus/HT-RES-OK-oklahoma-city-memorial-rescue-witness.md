@@ -71,6 +71,8 @@ Quiet reflection throughout. The visitor can read the story and use the memorial
 | Field | Verified value |
 |---|---|
 | Stable site name | Oklahoma City National Memorial & Museum |
+| Town | Oklahoma City |
+| Public anchor | Outdoor Symbolic Memorial, NW Sixth and North Harvey vicinity, with the museum entrance at 620 N Harvey Ave. Drive-up to the signed public arrival area, then a short walk along designated memorial paths |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

@@ -96,6 +96,7 @@ No image or interview media has been reproduced into this dossier. Do not pair a
 
 ## 10. Locator record
 - Stable name: Vanport — flood, displacement and community memory; East Delta Park public reflection anchor
+- Public anchor: East Delta Park
 - State / county: Oregon / Multnomah
 - Public operator entrance: N Denver Avenue and Martin Luther King Jr Blvd, Portland, OR 97217 [1]
 - Latitude:

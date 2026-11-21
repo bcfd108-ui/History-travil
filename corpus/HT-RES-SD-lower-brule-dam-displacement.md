@@ -96,6 +96,7 @@ https://www.lowerbrulesiouxtribe.com/_files/ugd/5ecd07_487ac123077d4781b59ada2ff
 | Field | Value |
 |---|---|
 | Stable site name | Lower Brule dam displacement — remote reflection |
+| Town | Lower Brule |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

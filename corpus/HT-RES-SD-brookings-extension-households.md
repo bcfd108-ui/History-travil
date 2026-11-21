@@ -61,6 +61,8 @@ Possible museum photo find for field review only: a labelled public exhibit obje
 | Field | Value |
 |---|---|
 | Stable site name | South Dakota Agricultural Heritage Museum — Brookings extension households |
+| Town | Brookings |
+| Public anchor | South Dakota Agricultural Heritage Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

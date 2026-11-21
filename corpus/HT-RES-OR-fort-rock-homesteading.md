@@ -106,6 +106,7 @@ https://staff.digitalcollections.ohs.org/oral-history-interview-with-reub-long-s
 ## 10. Locator record
 
 Stable name: Fort Rock Homestead Village Museum
+- Town: Fort Rock
 Public address: 64696 Fort Rock Road, Fort Rock, Oregon 97735
 Latitude:
 Longitude:

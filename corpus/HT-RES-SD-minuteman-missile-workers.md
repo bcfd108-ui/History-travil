@@ -107,6 +107,7 @@ https://www.nps.gov/mimi/planyourvisit/vc-exhibits.htm
 | Field | Value |
 |---|---|
 | Stable site name | Minuteman Missile National Historic Site Visitor Center |
+| Public anchor | Minuteman Missile National Historic Site Visitor Center |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

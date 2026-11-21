@@ -71,6 +71,8 @@ No field find proposed. The defensible experience is a public reading stop. No s
 | Field | Value |
 |---|---|
 | Stable site name | Huron suffrage organizers |
+| Town | Huron |
+| Public anchor | Huron Public Library |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

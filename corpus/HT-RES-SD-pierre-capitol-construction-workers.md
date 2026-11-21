@@ -124,6 +124,8 @@ Conditional photo find for field review only. Document a labelled surviving publ
 | Field | Value |
 |---|---|
 | Stable site name | South Dakota State Capitol |
+| Town | Pierre |
+| Public anchor | South Dakota State Capitol |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

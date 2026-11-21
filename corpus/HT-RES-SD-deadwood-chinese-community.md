@@ -107,6 +107,8 @@ Reflection and documentary reading only. Hold any museum-based photo find until 
 | Field | Value |
 |---|---|
 | Stable site name | Adams Museum, Deadwood Chinese-community reading anchor |
+| Town | Deadwood |
+| Public anchor | Adams Museum |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

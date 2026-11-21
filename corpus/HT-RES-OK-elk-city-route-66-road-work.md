@@ -47,6 +47,7 @@ Draft only. No exterior observation or contribution proposed for historical work
 | Field | Value |
 |---|---|
 | Stable site name | Elk City Route 66 Road Work |
+| Town | Elk City |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

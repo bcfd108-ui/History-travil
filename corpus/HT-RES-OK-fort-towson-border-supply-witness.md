@@ -49,6 +49,8 @@ Quiet reflection throughout. No photo contribution path.
 | Field | Value |
 |---|---|
 | Stable site name | Fort Towson Historic Site Visitor Center Witness |
+| Town | Fort Towson |
+| Public anchor | Staffed Fort Towson Historic Site visitor center via the operator’s signed public driveway, then a short walk to its entrance |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

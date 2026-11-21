@@ -75,6 +75,8 @@ After a field check of the lawful standing area, the potential observation is th
 | Field | Verified value |
 |---|---|
 | Stable site name | Provine Service Station (Lucille’s), Hydro |
+| Town | Hydro |
+| Public anchor | Station’s visitor exterior, about half a mile west of the OK-58/I-40 junction on historic Route 66 according to NPS |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

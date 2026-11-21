@@ -72,6 +72,8 @@ Field-check only. Proposed photo find: the preserved small-frame building at the
 | Field | Value |
 |---|---|
 | Stable site name | De Smet Surveyors’ House and railroad families |
+| Town | De Smet |
+| Public anchor | De Smet Surveyors' House |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

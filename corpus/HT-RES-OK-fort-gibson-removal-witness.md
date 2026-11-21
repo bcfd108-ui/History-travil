@@ -57,6 +57,8 @@ Quiet reflection only.
 | Field | Value |
 |---|---|
 | Stable site name | Fort Gibson Historic Site — public removal interpretation |
+| Town | Fort Gibson |
+| Public anchor | Fort Gibson Historic Site |
 | Latitude | |
 | Longitude | |
 | Coordinate source | |

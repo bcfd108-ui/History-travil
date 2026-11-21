@@ -78,6 +78,7 @@ Quiet witness throughout. No contribution path on this loss ground.
 | Field | Verified value |
 |---|---|
 | Stable site name | Honey Springs Battlefield Visitor Center Witness |
+| Town | Honey Springs |
 | Latitude | 35.523556 |
 | Longitude | -95.485119 |
 | Coordinate source | Oklahoma Historical Society Plan Your Visit [1] |

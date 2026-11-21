@@ -54,6 +54,7 @@ None. Quiet witness only; no scoring, prompts, photo tags, hunts or reenactments
 
 ## 10. Locator record
 - Stable site name: Greenwood Rising Black Wall Street History Center
+- Public anchor: Greenwood Rising Black Wall Street History Center
 - Latitude:
 - Longitude:
 - Coordinate source:

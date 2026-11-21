@@ -98,6 +98,7 @@ No artifact retrieval, graveside tasks, private-house photography, contact sent 
 ## 10. Locator record
 
 Stable name: Jacksonville Old City Hall History Center — regional Black pioneer reflection anchor
+- Town: Jacksonville
 Latitude:
 Longitude:
 Coordinate source:

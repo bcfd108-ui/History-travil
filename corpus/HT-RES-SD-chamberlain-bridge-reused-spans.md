@@ -72,6 +72,8 @@ No field photo find proposed. The park access can support the reading. A safe, r
 | Field | Value |
 |---|---|
 | Stable site name | Chamberlain Bridge and the reused Missouri River spans |
+| Town | Chamberlain |
+| Public anchor | Roam Free Park |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |
