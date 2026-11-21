@@ -544,8 +544,8 @@
   }
  },
  "ID-burke": {
-  "searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Burke Burke Idaho photograph; Archive search — Burke Burke Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Burke (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3ABurkeID.jpg | https://commons.wikimedia.org/wiki/File%3ABurke%2C_Idaho_c._1891.jpg | https://www.lib.uidaho.edu/digital/cities/items/cities759.html | https://lib.uidaho.edu/digital/postcards/",
-  "reason": "Item or image retrieval failed. Its pixels and reuse terms could not both be verified. curl: (22) The requested URL returned error: 429\n",
+  "searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Burke Burke Idaho photograph; Archive search — Burke Burke Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Burke (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3ABurkeID.jpg | https://commons.wikimedia.org/wiki/File%3ABurke%2C_Idaho_c._1891.jpg | https://www.lib.uidaho.edu/digital/cities/items/cities759.html | https://lib.uidaho.edu/digital/postcards/ | Burst 1 — Commons Burke category and BurkeID; University of Idaho PG 8-X431; Burke, Idaho in 2017; circa-1891 street scene.",
+  "reason": "NOW needed. The 2017 frame shows surviving industrial buildings. The exact 1888 mill segment has not been matched.",
   "groundReview": {
    "status": "PUBLIC GROUND",
    "viewpoint": "Burke’s public street (State Highway 4) only. Respect signs and stay outside all structures.",
@@ -569,15 +569,15 @@
   }
  },
  "ID-nine-mile-cemetery": {
-  "searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Nine Mile Cemetery Wallace Idaho photograph; Archive search — Nine Mile Cemetery Wallace Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Nine Mile Cemetery (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AWallace_Idaho.JPG | https://commons.wikimedia.org/wiki/File%3ABullion_Mine_memorial_-_Wallace_Idaho.jpg | https://www.lib.uidaho.edu/digital/tabor/items/tabor0222.html | https://npgallery.nps.gov/GetAsset/28ed10e7-1daf-4f58-95af-883e3b320398/ | https://commons.wikimedia.org/wiki/File:Nine_Mile_Cemetery_NRHP_100012276_Shoshone_County,_ID.jpg",
-  "reason": "HOLD f919a39aeb — Individual subject and location evidence require desk sign-off. Compare the source item with “HT-RES-ID-nine-mile-cemetery — The 1910 firefighters' monument” before releasing this image.",
+  "searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Nine Mile Cemetery Wallace Idaho photograph; Archive search — Nine Mile Cemetery Wallace Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Nine Mile Cemetery (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AWallace_Idaho.JPG | https://commons.wikimedia.org/wiki/File%3ABullion_Mine_memorial_-_Wallace_Idaho.jpg | https://www.lib.uidaho.edu/digital/tabor/items/tabor0222.html | https://npgallery.nps.gov/GetAsset/28ed10e7-1daf-4f58-95af-883e3b320398/ | https://commons.wikimedia.org/wiki/File:Nine_Mile_Cemetery_NRHP_100012276_Shoshone_County,_ID.jpg | Burst 1 — Ian Poellet’s 2015 original and Jon Roanhaus’s 2026 upper-cemetery view on Commons; distinct cemetery and memorial register IDs.",
+  "reason": "THEN needed. The 2026 overview does not resolve either firefighter memorial. No period image of the marked grave plot qualified.",
   "groundReview": {
    "status": "DESK REVIEW"
   }
  },
  "ID-pulaski-tunnel-trail": {
-  "searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Pulaski Tunnel Trail Wallace Idaho photograph; Archive search — Pulaski Tunnel Trail Wallace Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Pulaski Tunnel Trail (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3APulaski_Tunnel_memorial_-_Wallace_Idaho.jpg | https://commons.wikimedia.org/wiki/File%3APulaski_Tunnel_after_1910_fire.jpg | https://www.lib.uidaho.edu/digital/archivalidaho/items/archivalidaho432.html | https://npgallery.nps.gov/NRHP/GetAsset/NRHP/84001179_text | https://commons.wikimedia.org/wiki/File:Pulaski_Tunnel_Trail_bridge_installation.jpg",
-  "reason": "HOLD ba9d5c9f9a — Individual subject and location evidence require desk sign-off. Compare the source item with “HT-RES-ID-pulaski-tunnel-trail — The trail to the tunnel where forty men lived” before releasing this image.",
+  "searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Pulaski Tunnel Trail Wallace Idaho photograph; Archive search — Pulaski Tunnel Trail Wallace Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Pulaski Tunnel Trail (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3APulaski_Tunnel_memorial_-_Wallace_Idaho.jpg | https://commons.wikimedia.org/wiki/File%3APulaski_Tunnel_after_1910_fire.jpg | https://www.lib.uidaho.edu/digital/archivalidaho/items/archivalidaho432.html | https://npgallery.nps.gov/NRHP/GetAsset/NRHP/84001179_text | https://commons.wikimedia.org/wiki/File:Pulaski_Tunnel_Trail_bridge_installation.jpg | Burst 1 — University of Idaho W. W. Morris item; 2010 Forest Service restored-portal file, agency centennial trail guide, 2015 cemetery photograph, trail bridge, and Rocbolt’s later Flickr trail records.",
+  "reason": "The refuge portal is paired. The more recent Flickr trail records carry CC BY-NC 2.0.",
   "groundReview": {
    "status": "PUBLIC GROUND",
    "viewpoint": "Trail No. 38, signed public overlook outside the gated tunnel, when the trail is open and passable.",
@@ -643,8 +643,8 @@
   }
  },
  "murray": {
-  "searched": "Dossier source opened — https://history.idaho.gov/wp-content/uploads/NRHP_Idaho.pdf; Dossier source opened — https://www.hmdb.org/m.asp?m=73474; Dossier source opened — https://www.lib.uidaho.edu/digital/barstock/items/barstock2963.html; Commons file search — site:commons.wikimedia.org/wiki/File: Murray Murray Idaho photograph; Archive search — Murray Murray Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Murray (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AID_Murray_237354_1996_24000_geo.pdf | https://www.lib.uidaho.edu/digital/barstock/items/barstock508.html | https://arc.lib.montana.edu/mor/location_search.php?location=Murray%2C+Idaho+Territory",
-  "reason": "Desk review pending. Search returned leads, but no image has completed both the ground and rights check.",
+  "searched": "Dossier source opened — https://history.idaho.gov/wp-content/uploads/NRHP_Idaho.pdf; Dossier source opened — https://www.hmdb.org/m.asp?m=73474; Dossier source opened — https://www.lib.uidaho.edu/digital/barstock/items/barstock2963.html; Commons file search — site:commons.wikimedia.org/wiki/File: Murray Murray Idaho photograph; Archive search — Murray Murray Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Murray (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AID_Murray_237354_1996_24000_geo.pdf | https://www.lib.uidaho.edu/digital/barstock/items/barstock508.html | https://arc.lib.montana.edu/mor/location_search.php?location=Murray%2C+Idaho+Territory | Burst 1 — University of Idaho PG 8-X549 and barstock2963; Commons Murray Courthouse 1978; Auvet’s two Downtown Murray Idaho Flickr records.",
+  "reason": "NOW needed. The Flickr town views are CC BY-NC-ND 2.0. The courthouse image predates its loss and replacement, and cannot supply a modern comparison.",
   "groundReview": {
    "status": "DESK REVIEW"
   }
@@ -3275,8 +3275,8 @@
   }
  },
  "ID-wallace-brick-core": {
-  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Wallace_Idaho_downtown.jpg",
-  "reason": "HOLD cb16ec4d36 — Individual subject and location evidence require desk sign-off. Compare the source item with “HT-RES-ID-wallace-brick-core — The brick downtown that faced the Big Burn” before releasing this image.",
+  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Wallace_Idaho_downtown.jpg | Burst 1 — University of Idaho barstock887 and barstock2622; Rectify2’s dated intersection photograph on Commons.",
+  "reason": "The circa-1896 corner and 2020 streetscape are paired. The separately indexed Bank Street image has noncommercial/educational conditions.",
   "groundReview": {
    "status": "PUBLIC GROUND",
    "viewpoint": "Wallace’s public downtown sidewalks, starting at the Northern Pacific Depot Museum.",
@@ -3342,8 +3342,8 @@
   }
  },
  "bunker-hill-kellogg": {
-  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Bunker_Hill_and_Sullivan_Mill_near_Wardner,_Shoshone_County,_Idaho,_between_1905_and_1915_(AL%2BCA_1589).jpg",
-  "reason": "HOLD 63173c17a5 — Individual subject and location evidence require desk sign-off. Compare the source item with “Bunker Hill / Kellogg: two conflicts, not one explosion” before releasing this image.",
+  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Bunker_Hill_and_Sullivan_Mill_near_Wardner,_Shoshone_County,_Idaho,_between_1905_and_1915_(AL%2BCA_1589).jpg | Burst 1 — University of Idaho Barnard-Stockbridge PG 8-X013a and alternate 1899 wreckage image; UW successor mill file AL+CA 1589.",
+  "reason": "NOW needed. A same-footprint lawful contemporary viewpoint has not been established. The later mill image cannot stand in for the destroyed works.",
   "groundReview": {
    "status": "DESK REVIEW"
   }
@@ -4069,8 +4069,8 @@
   }
  },
  "ID-wallace-center-of-the-universe-manhole": {
-  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Center_of_the_Universe.JPG",
-  "reason": "HOLD ce4de7b98e — Individual subject and location evidence require desk sign-off. Compare the source item with “Wallace \"Center of the Universe\" Manhole — the 2004 Superfund \"Probalism\" monument” before releasing this image.",
+  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Center_of_the_Universe.JPG | Burst 1 — Jan Kronsell’s original close-up on Commons; Wallace district photograph; installation and declaration sources in the dossier.",
+  "reason": "THEN needed. The 1896 street photograph predates the 2004 cover. The newer wide frame obscures its cast face.",
   "groundReview": {
    "status": "PUBLIC GROUND",
    "viewpoint": "Sidewalks at Bank and Sixth streets in Wallace. Stay out of traffic.",
@@ -4824,8 +4824,8 @@
   }
  },
  "ID-sunshine-miners-memorial": {
-  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Sunshine_Mine_Disaster.jpg",
-  "reason": "HOLD 973ca87072 — Individual subject and location evidence require desk sign-off. Compare the source item with “HT-RES-ID-sunshine-miners-memorial — May 2, 1972, and the 91 names at Big Creek” before releasing this image.",
+  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Sunshine_Mine_Disaster.jpg | Burst 1 — Visitor7’s Sunshine Mine Disaster on Commons; University of Idaho postcard nwpostcards1585; NIOSH Sunshine fire publication and mine-disaster collections.",
+  "reason": "FIRST PHOTO needed. The 2011 photo identifies the memorial, but its release covers the photographer’s contribution and supplies no reuse basis for the prominently depicted Ken Lonn sculpture. Postcard reuse unresolved. Survivor portraits do not depict the memorial ground.",
   "groundReview": {
    "status": "PUBLIC GROUND",
    "viewpoint": "Sunshine Miners Memorial, Big Creek exit. Photograph the memorial from its public grounds, clear of the highway. The mine is private.",
@@ -4920,8 +4920,8 @@
   }
  },
  "cataldo-mission": {
-  "searched": "See approved assignment ledger and dossier.",
-  "reason": "Research the missing era using the exact subject.",
+  "searched": "See approved assignment ledger and dossier. | Burst 1 — University of Idaho PG 8-X322 and B60; UW AL+CA 1472; modern church photographs; Cataldo register documentation and existing 1975 parish-house yard assignment.",
+  "reason": "The church facade is paired. AL+CA 1472 depicts the earlier St. Joe log mission. The separate 1975 yard view remains individually credited.",
   "groundReview": {
    "status": "PUBLIC GROUND",
    "viewpoint": "Public mission grounds at Old Mission State Park during posted opening.",
