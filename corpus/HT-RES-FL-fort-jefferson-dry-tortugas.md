@@ -1,4 +1,4 @@
-**Trip gate — Checked November 21, 2026. The Fort Jefferson diorama is in the staffed indoor Sails to Rails Museum at 901 Caroline Street, Key West. The operator posts paid, self-guided access daily 9:30–4:30. Check holiday or storm closures first. The island fort, shore, ferries and dock are outside this reflection visit. [1–4]**
+**Trip gate — Operator rechecked November 21, 2026. Access hold. Research Desk reading. The entry's public anchor, the Sails to Rails Museum at 901 Caroline Street, Key West, is temporarily closed while the operator relocates it; the operator posts the closure and no reopening date. Until a lawful public anchor is verified, this entry routes no visit. The island fort, shore, ferries and dock remain outside this reflection visit. [1]**
 
 ## 2. Story
 
@@ -18,13 +18,13 @@ HABS documents an immense brick perimeter, six bastions, repeated casemate arche
 
 | Feature | Access class for this entry |
 |---|---|
-| Sails to Rails Fort Jefferson diorama and signed entrance | Public staffed indoor interpretation, admission applies. |
+| Sails to Rails Fort Jefferson diorama and signed entrance | Held. Museum temporarily closed while relocating; no public access verified. |
 | Brick perimeter, bastions, casemates, cisterns and interior ruins | Historical fabric for desk reflection. Outside this visit. |
 | Historic seaport waterfront, Garden Key, moat and docks | Outside this progression. |
 
 ## 5. Public progression
 
-Use the signed Caroline Street visitor entrance during the museum’s hours. At the Fort Jefferson model, find the repeated arch bays and the blank spaces where construction stopped. End with **One Ship of Workers, One Ship of Brick**. Read Holder’s recollection beside HABS’s account of who built the walls and how the supplies got there. Keep the visit within the indoor gallery. [1, 5, 8]
+Read the record remotely while the anchor museum is closed. At the Fort Jefferson model, find the repeated arch bays and the blank spaces where construction stopped. End with **One Ship of Workers, One Ship of Brick**. Read Holder’s recollection beside HABS’s account of who built the walls and how the supplies got there. [1, 5, 8]
 
 ## 6. Gaps and conflicts
 
@@ -59,8 +59,8 @@ Reflection only. Hunts disabled. No field or contribution prompt for sensitive g
 
 - Stable site name: Fort Jefferson, Dry Tortugas National Park
 - Historic location: Garden Key, Monroe County, Florida
-- Public anchor: Sails to Rails Museum, 901 Caroline Street, Key West
-- Visitor boundary: Signed street-side museum entrance and staffed indoor gallery
+- Public anchor:
+- Visitor boundary:
 - Latitude:
 - Longitude:
 - Coordinate source:
@@ -71,4 +71,4 @@ Reflection only. Hunts disabled. No field or contribution prompt for sensitive g
 - Archive collection identifier: HABS FL-44
 - Official register listing URL: https://npgallery.nps.gov/AssetDetail/NRIS/70000069
 - Governing specification:
-- Official manager/operator: National Park Service (historic ground); Historic Tours of America / Sails to Rails Museum (public anchor)
+- Official manager/operator: National Park Service (historic ground); Historic Tours of America / Sails to Rails Museum (anchor museum, temporarily closed while relocating)
