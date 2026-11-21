@@ -311,6 +311,39 @@ export async function submitNowPhoto(
   );
 }
 
+// Newly published dossiers can reach readers before the catalog is mirrored
+// into Postgres. A field report can retain the public slug in its text until
+// that mirror catches up. Files offered this way stay in the private bucket.
+export async function submitVisitorUpdate(
+  db: SupabaseClient,
+  userId: string,
+  siteSlug: string,
+  body: string,
+  photo: File | null,
+): Promise<string | null> {
+  const lookup = await db.from("sites").select("slug").eq("slug", siteSlug).maybeSingle();
+  if (lookup.error) return lookup.error.message;
+  const report = lookup.data ? body : `Entry: ${siteSlug}\n${body}`;
+  if (!photo) return submitFieldReport(db, userId, lookup.data ? siteSlug : null, report);
+
+  const path = `${userId}/${siteSlug}/${crypto.randomUUID()}`;
+  const bucket = db.storage.from("submissions");
+  const uploaded = await bucket.upload(path, photo, { upsert: false, contentType: photo.type });
+  if (uploaded.error) return uploaded.error.message;
+
+  const result = lookup.data
+    ? await db.from("photo_submissions").insert({
+        user_id: userId, site_slug: siteSlug, storage_path: path, caption: report,
+      })
+    : await db.from("field_reports").insert({
+        user_id: userId, body: `${report}\nPrivate photo for review: submissions/${path}`,
+      });
+  // Clean up only on a definite database rejection. A dropped connection can
+  // leave the receipt uncertain even after the database has accepted it.
+  if (result.error && /^[0-9A-Z]{5}$/.test(result.error.code)) await bucket.remove([path]);
+  return fail(result.error);
+}
+
 export async function listPhotoSubmissions(
   db: SupabaseClient,
 ): Promise<PhotoSubmission[]> {

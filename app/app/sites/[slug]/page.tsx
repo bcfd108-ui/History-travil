@@ -16,6 +16,7 @@ import {
 } from "@/lib/data";
 import { Md } from "@/lib/md";
 import { entryDescription, entryJsonLd, entryUrl, SITE_NAME } from "@/lib/seo";
+import VisitorUpdate from "@/components/VisitorUpdate";
 import SiteActions from "@/components/SiteActions";
 import ClaimFind from "@/components/ClaimFind";
 import CompleteThePair from "@/components/CompleteThePair";
@@ -270,6 +271,11 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
   if (!site) notFound();
   const isReflection = site.stopType === "reflection";
   const anchor = getVisitableAnchor(site);
+  // Editors opt an individual public place into field checks. A historic point or
+  // an inferred anchor alone never issues an invitation.
+  const publicStop = anchor?.basis === "Public anchor";
+  const accessPrompt = publicStop ? site.locator.extra.find((field) => field.key === "Visitor access check")?.value : undefined;
+  const photoSubject = publicStop ? site.locator.extra.find((field) => field.key === "Visitor photo subject")?.value : undefined;
   const plainTop = getPlainTop(site.slug);
   // Hunt finds tied to this entry join its own candidate finds in the tag
   // panel — same ClaimFind mechanic, the claim recording the find's label
@@ -357,6 +363,8 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
         )}
       </section>
 
+      {accessPrompt && <VisitorUpdate slug={slug} prompt={accessPrompt} photoSubject={photoSubject} />}
+
       {showFinds && (
         <section className="panel" aria-label="Candidate photo finds">
           <h2>Candidate photo finds</h2>
@@ -397,7 +405,7 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
           <Md text={site.thenNow} />
         </section>
       )}
-      {thenNowInvitation(site) && <CompleteThePair slug={site.slug} />}
+      {!accessPrompt && thenNowInvitation(site) && <CompleteThePair slug={site.slug} />}
       {site.stillThere && (
         <section>
           <h2>What&apos;s still there</h2>
@@ -429,7 +437,7 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
         </section>
       )}
 
-      <SiteActions slug={site.slug} title={site.title} />
+      <SiteActions slug={site.slug} title={site.title} publicVisit={publicStop && !isReflection && !accessPrompt} />
 
       {site.photoRecord && (
         <details className="sources">

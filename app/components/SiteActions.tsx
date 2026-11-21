@@ -22,13 +22,18 @@ import { SavingGate } from "./SavingGate";
 export default function SiteActions({
   slug,
   title,
+  publicVisit,
 }: {
   slug: string;
   title: string;
+  publicVisit: boolean;
 }) {
   return (
     <section className="panel" aria-label="Save and note">
       <h2>Save &amp; note</h2>
+      {publicVisit && (
+        <p>Already visited the public stop described above? A dated field report about the entrance, posted hours or a closure helps the next reader. A note is enough.</p>
+      )}
       <SavingGate feature="Plans, notebook, and field reports">
         <LiveActions slug={slug} title={title} />
       </SavingGate>
@@ -152,7 +157,7 @@ function LiveActions({ slug, title }: { slug: string; title: string }) {
 
       <h3>Field report</h3>
       <p className="small">
-        Stood on this ground and found the record wrong, changed, or incomplete? File it here.
+        Have a correction or a link to a current operator notice? Include the date and how you know.
         Reports are stored as candidates and change nothing until a human QC pass reads them.
       </p>
       <textarea
