@@ -6,8 +6,11 @@
   "scripts": {
     "convert": "node scripts/convert.mjs",
     "dev": "next dev",
-    "build": "node scripts/convert.mjs && next build",
-    "start": "next start"
+    "postconvert": "node scripts/photo-coverage.mjs",
+    "build": "npm run convert && node scripts/check-maps.mjs && next build",
+    "start": "next start",
+    "check:maps": "node scripts/check-maps.mjs",
+    "test:maps": "node --test scripts/maps-core.test.mjs"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",

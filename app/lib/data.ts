@@ -4,6 +4,7 @@
 // behind this same interface, so pages never change. See ARCHITECTURE.md.
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
+import { tiesFor, toV1, hasPoint, isPending, eraOf, libraryCounts } from "./maps-core.mjs";
 
 export interface Locator {
   stableName: string;
@@ -39,6 +40,7 @@ export interface Site {
   progression: string;
   gaps: string;
   photoRecord: string;
+  photos: HistoricPhoto[];
   moreSections: { title: string; body: string }[];
   sources: string;
   locator: Locator;
@@ -270,37 +272,28 @@ export function getSite(slug: string): Site | undefined {
 }
 
 // ---------------------------------------------------------------------------
-// HISTORIC PHOTOGRAPHS (owner's ruling, Nov 19, 2026): every entry carries a
-// sourced historical photograph — of the real site or the object, or one like
-// it, labelled representative when it is not the site itself. Public domain or
-// openly licensed only; repository, date and credit print with the image; the
-// pixels are inspected before an image is adopted (a catalog title is not
-// proof of what a photograph shows). Records live in data/historic-photos.json,
-// a hand-maintained sidecar the converter does not generate. An entry with no
-// honestly sourced image simply has no figure — the gap prints in its record.
-// ---------------------------------------------------------------------------
 export interface HistoricPhoto {
+  rowId: string;
+  eraRole: "then" | "now";
+  dateNote?: string;
   src: string;
+  imageUrl: string;
+  width: number;
+  height: number;
   alt: string;
   caption: string;
   credit: string;
+  license: string;
+  licenseUrl: string;
   sourceName: string;
   sourceUrl: string;
-  dateNote?: string;
-  representative?: boolean;
+  year: number | null;
 }
 
-let photosCache: Record<string, HistoricPhoto> | null = null;
-
+let leadPhotos: Map<string, HistoricPhoto> | undefined;
 export function getHistoricPhoto(slug: string): HistoricPhoto | undefined {
-  if (!photosCache) {
-    try {
-      photosCache = load<Record<string, HistoricPhoto>>("historic-photos.json");
-    } catch {
-      photosCache = {};
-    }
-  }
-  return photosCache[slug];
+  leadPhotos ??= new Map(getSites().filter(s => s.photos?.length).map(s => [s.slug, s.photos[0]]));
+  return leadPhotos.get(slug);
 }
 
 // ---------------------------------------------------------------------------
@@ -363,6 +356,7 @@ export function thenNowInvitation(site: Site): boolean {
   // anchor, no invitation — the prompt never sends a reader to ground the
   // record has not named as theirs to stand on.
   if (!getVisitableAnchor(site)) return false;
+  if (site.photos?.some(photo => photo.eraRole === "now")) return false;
   if (!THEN_PHOTO.test(site.photoRecord || "")) return false;
   if (NOW_PHOTO.test(`${site.photoRecord || ""} ${site.thenNow || ""}`)) return false;
   return true;
@@ -484,18 +478,128 @@ export interface HistoricMap {
   dateNote?: string;
 }
 
-let mapsCache: Record<string, HistoricMap> | null = null;
+// THE MAP LIBRARY (Nov 21, 2026): records now live in
+// data/historic-map-library.json — sheets[] and ties[] as filed by the map
+// lane (rules in lib/maps-core.mjs, enforced at build by
+// scripts/check-maps.mjs). Swapping in a newer library version is a
+// one-file change. data/historic-maps.json (v1) is kept only as the frozen
+// migration fixture the build check compares Boone against.
+export interface MapSheet {
+  id: string;
+  title: string;
+  maker: string | null;
+  publisher: string | null;
+  date: string;
+  dateSort: string;
+  type: string;
+  source: {
+    collection?: string | null;
+    itemId?: string | null;
+    sheetFile?: string | null;
+    pageUrl: string;
+    itemJsonUrl?: string | null;
+    metadataUrl?: string | null;
+    /** Non-display source files (GeoTIFF/GeoPDF). Never used as image.src. */
+    sourceFiles?: Record<string, string> | null;
+  };
+  image: {
+    src: string | null;
+    /** v3: "pending-conversion-upload" until a stable display URL is hosted. */
+    status?: string | null;
+    large?: string | null;
+    iiifService?: string | null;
+    iiifInfo?: string | null;
+    master?: string | null;
+    width?: number | null;
+    height?: number | null;
+    host?: string | null;
+    commonsPage?: string | null;
+    displayDerivativeNeeded?: boolean;
+    conversion?: string | null;
+    plannedCommonsFile?: string | null;
+    plannedSrcAfterUpload?: string | null;
+    rule?: string | null;
+    geopdf?: string | null;
+    thumbnail?: string | null;
+  };
+  addedIn?: string | null;
+  credit: string;
+  rights?: string | null;
+  place: { town: string; county?: string | null; state: string };
+  coverage: {
+    bounds: string | Record<string, string> | null;
+    basis: string;
+    description?: string | null;
+  };
+  sheetNumber?: string | null;
+  setSize?: number | null;
+  setNote?: string | null;
+  printedScale?: string | null;
+  printedNorth?: string | null;
+  limitsNote: string;
+  caption?: string | null;
+  alt?: string | null;
+  sourceName?: string | null;
+}
 
-export function getHistoricMap(key: string): HistoricMap | undefined {
-  if (!mapsCache) {
+export interface MapTie {
+  sheetId: string;
+  entrySlug: string;
+  entryKind: "site" | "tour";
+  entryUrl?: string;
+  position: { x: number; y: number } | null;
+  status: "checked" | "no-point-by-rule";
+  caption?: string | null;
+  dateNote?: string | null;
+  basisNote?: string | null;
+  addedIn?: string | null;
+}
+
+export interface MapLibrary {
+  version: number | string;
+  generated?: string;
+  sheets: MapSheet[];
+  ties: MapTie[];
+}
+
+let libraryCache: MapLibrary | null = null;
+
+export function getMapLibrary(): MapLibrary {
+  if (!libraryCache) {
     try {
-      mapsCache = load<Record<string, HistoricMap>>("historic-maps.json");
+      libraryCache = load<MapLibrary>("historic-map-library.json");
     } catch {
-      mapsCache = {};
+      libraryCache = { version: 0, sheets: [], ties: [] };
     }
   }
-  return mapsCache[key];
+  return libraryCache;
 }
+
+export function getMapSheet(id: string): MapSheet | undefined {
+  return getMapLibrary().sheets.find((s) => s.id === id);
+}
+
+/** Every tie on one sheet. */
+export function getTiesForSheet(id: string): MapTie[] {
+  return getMapLibrary().ties.filter((t) => t.sheetId === id);
+}
+
+/** All sheets tied to an entry slug or tour id, oldest sheet first. */
+export function getHistoricMapsFor(key: string): { tie: MapTie; sheet: MapSheet }[] {
+  return tiesFor(getMapLibrary(), key) as { tie: MapTie; sheet: MapSheet }[];
+}
+
+/** One v1-shaped record for a key (first sheet in date order), rebuilt from
+ *  the library by its backCompat mapping. Kept for callers of the old API. */
+export function getHistoricMap(key: string): HistoricMap | undefined {
+  for (const { tie, sheet } of getHistoricMapsFor(key)) {
+    const rec = toV1(tie, sheet);
+    if (rec) return rec as HistoricMap;
+  }
+  return undefined;
+}
+
+export { hasPoint as mapTieHasPoint, isPending as mapSheetPending, eraOf as mapSheetEra, libraryCounts as mapLibraryCounts };
 
 // ---------------------------------------------------------------------------
 // CONNECTED GROUND (owner's direction, Nov 20, 2026): entries link to each

@@ -1,3 +1,4 @@
+import { validateAssignments } from "./photo-assignments.mjs";
 import { createHash } from "node:crypto";
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -10,6 +11,8 @@ export function publishPhotos(sites, appRoot) {
   const read = name => JSON.parse(readFileSync(join(data, name), "utf8"));
   const records = read("historic-photos.json");
   const findings = read("photo-search.json");
+  const ledger = readFileSync(join(data, "photo-desk", "assignments.jsonl"), "utf8").split(/\r?\n/).filter(Boolean).map(line => JSON.parse(line));
+  console.log("Verified photo assignments", validateAssignments(read("photo-desk/targets.json"), sites, ledger, records));
   const slugs = new Set(sites.map(s => s.slug));
   for (const slug of Object.keys(records)) {
     if (!slugs.has(slug)) throw new Error("Photo has no published entry: " + slug);
@@ -47,8 +50,8 @@ export function publishPhotos(sites, appRoot) {
     console.log("PHOTO | " + site.stateCode + " | " + site.slug + " | " + status);
   }
   const csv = cell => '"' + String(cell ?? "").replaceAll('"', '""') + '"';
-  const header = ["Entry", "Town", "State", "Entry URL", "What was searched", "Why photo is needed", "Next desk or field action"];
-  const lines = [header, ...gaps.map(({site, finding}) => [site.title, site.town, site.state, "https://onoldground.com/sites/" + site.slug, finding.searched, finding.reason, finding.lane])];
+  const header = ["Entry ID", "Slug", "Entry", "Town", "State", "Entry URL", "What was searched", "Why photo is needed", "Next desk or field action"];
+  const lines = [header, ...gaps.map(({site, finding}) => [site.id, site.slug, site.title, site.town, site.state, "https://onoldground.com/sites/" + site.slug, finding.searched, finding.reason, finding.lane])];
   const output = join(appRoot, "public", "desk");
   mkdirSync(output, { recursive: true });
   writeFileSync(join(output, "photo-gaps.csv"), lines.map(r => r.map(csv).join(",")).join("\r\n") + "\r\n");

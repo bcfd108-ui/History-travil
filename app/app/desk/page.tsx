@@ -26,6 +26,9 @@ export default function DeskPage() {
         ))}
       </div>
 
+      <h2>Photographs needed</h2>
+      <p><a href="/desk/photo-gaps.csv" download>Download the photo work list (CSV)</a> for the entry, source searches and next action.</p>
+
       <h2>State files</h2>
       <div className="rows">
         {states.map((s) => (

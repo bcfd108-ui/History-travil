@@ -3,8 +3,7 @@ import { catalog, pathName, themeUrl, type Query } from "@/lib/browse";
 import Link from "next/link";
 import {
   getConnectedSites,
-  getHistoricMap,
-  getHistoricPhoto,
+  type HistoricPhoto,
   getHuntFindsForSite,
   getPlainTop,
   getToursForSite,
@@ -19,28 +18,19 @@ import VisitorUpdate from "@/components/VisitorUpdate";
 import SiteActions from "@/components/SiteActions";
 import ClaimFind from "@/components/ClaimFind";
 import CompleteThePair from "@/components/CompleteThePair";
+import MapSheetFigures from "@/components/MapSheetFigure";
 
-// The entry's historical photograph, where one has been honestly sourced
-// (owner's ruling, Nov 19, 2026). Renders nothing when the record has none —
-// the gap stays in the entry's photo record rather than being filled.
-function HistoricPhotoFigure({ slug }: { slug: string }) {
-  const photo = getHistoricPhoto(slug);
-  if (!photo) return null;
+function PhotoFigure({ photo }: { photo: HistoricPhoto }) {
   return (
-    <figure className="historic-photo">
-      <img src={photo.src} alt={photo.alt} loading="lazy" />
+    <figure className="historic-photo" data-photo-source={photo.sourceUrl} data-assignment={photo.rowId}>
+      <img src={photo.src} alt={photo.alt} width={photo.width} height={photo.height} loading="lazy" decoding="async" />
       <figcaption>
         <span className="hp-caption">{photo.caption}</span>
-        {photo.representative && (
-          <span className="badge amber">Representative view — not the site itself</span>
-        )}
         <span className="hp-credit">
-          {photo.credit} ·{" "}
-          <a href={photo.sourceUrl} target="_blank" rel="noreferrer">
-            {photo.sourceName}
-          </a>
+          {photo.eraRole === "then" ? "Then" : "Now"} · {photo.dateNote || photo.year || ""}{(photo.dateNote || photo.year) && " · "}
+          <span data-photo-credit>{photo.credit}</span> · <a href={photo.licenseUrl}>{photo.license}</a>
+          {" · "}<a href={photo.sourceUrl}>{photo.sourceName}</a>
         </span>
-        {photo.dateNote && <span className="hp-note">{photo.dateNote}</span>}
       </figcaption>
     </figure>
   );
@@ -99,29 +89,6 @@ function LocatorCard({ site }: { site: Site }) {
         Blank fields are blank in the source dossier. Nothing is invented to fill them.
       </p>
     </section>
-  );
-}
-
-// The entry's historic map, where one has been honestly sourced from the
-// dossier record (owner's direction, Nov 20, 2026). Same discipline as the
-// historic photograph: renders nothing when the record has none.
-function HistoricMapFigure({ slug }: { slug: string }) {
-  const map = getHistoricMap(slug);
-  if (!map) return null;
-  return (
-    <figure className="historic-photo">
-      <img src={map.src} alt={map.alt} loading="lazy" />
-      <figcaption>
-        <span className="hp-caption">{map.caption}</span>
-        <span className="hp-credit">
-          {map.credit} ·{" "}
-          <a href={map.sourceUrl} target="_blank" rel="noreferrer">
-            {map.sourceName}
-          </a>
-        </span>
-        {map.dateNote && <span className="hp-note">{map.dateNote}</span>}
-      </figcaption>
-    </figure>
   );
 }
 
@@ -310,8 +277,10 @@ export default function SiteArticle({ site, context }: { site: Site; context?: Q
       {site.standfirst && <Md text={site.standfirst} />}
       {site.lead && <Md text={site.lead} />}
 
-      <HistoricPhotoFigure slug={site.slug} />
-      <HistoricMapFigure slug={site.slug} />
+      {[...site.photos].sort((a, b) => (a.year ?? Infinity) - (b.year ?? Infinity)).map(photo => (
+        <PhotoFigure key={photo.sourceUrl} photo={photo} />
+      ))}
+      <MapSheetFigures entryKey={site.slug} />
 
       <AnchorPanel site={site} />
 

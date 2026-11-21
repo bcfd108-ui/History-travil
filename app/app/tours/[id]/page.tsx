@@ -1,28 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getHistoricMap, getSite, getTour, getTours } from "@/lib/data";
-
-// The route's historic map, where one has been honestly sourced (owner's
-// direction, Nov 20, 2026). Renders nothing when none has been verified.
-function TourMapFigure({ id }: { id: string }) {
-  const map = getHistoricMap(id);
-  if (!map) return null;
-  return (
-    <figure className="historic-photo">
-      <img src={map.src} alt={map.alt} loading="lazy" />
-      <figcaption>
-        <span className="hp-caption">{map.caption}</span>
-        <span className="hp-credit">
-          {map.credit} ·{" "}
-          <a href={map.sourceUrl} target="_blank" rel="noreferrer">
-            {map.sourceName}
-          </a>
-        </span>
-        {map.dateNote && <span className="hp-note">{map.dateNote}</span>}
-      </figcaption>
-    </figure>
-  );
-}
+import { getSite, getTour, getTours } from "@/lib/data";
+import MapSheetFigures from "@/components/MapSheetFigure";
 
 export function generateStaticParams() {
   return getTours().map((t) => ({ id: t.id }));
@@ -50,7 +29,7 @@ export default async function TourPage({ params }: { params: Promise<{ id: strin
         <p key={i}>{p}</p>
       ))}
 
-      <TourMapFigure id={tour.id} />
+      <MapSheetFigures entryKey={tour.id} />
 
       <h2>The stops, in order</h2>
       <div className="rows">
