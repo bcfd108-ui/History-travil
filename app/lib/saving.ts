@@ -161,6 +161,8 @@ export async function claimFind(
     findLabel: string;
     photo: File | null;
     claimPoint: { lat: number; lon: number } | null;
+    /** Set when the claim is a hunt find check (the hunt's slug). */
+    huntSlug?: string | null;
   },
 ): Promise<string | null> {
   let photoPath: string | null = null;
@@ -178,6 +180,7 @@ export async function claimFind(
         user_id: userId,
         site_slug: args.siteSlug,
         find_label: args.findLabel,
+        hunt_slug: args.huntSlug ?? null,
         photo_storage_path: photoPath,
         claim_lat: args.claimPoint?.lat ?? null,
         claim_lon: args.claimPoint?.lon ?? null,

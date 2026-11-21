@@ -99,7 +99,7 @@ function ClaimForm({ slug, finds }: { slug: string; finds: string[] }) {
           onChange={(e) => setUseLocation(e.target.checked)}
         />{" "}
         Record where I stood (your device&apos;s position, this once, as the witness to the
-        tag — never a trail, never used for anything else)
+        tag — required to count toward a hunt or badge; without it, this is scrapbook-only)
       </label>
       <p>
         <button type="submit" className="btn" disabled={busy}>

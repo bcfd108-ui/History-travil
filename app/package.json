@@ -6,10 +6,12 @@
   "scripts": {
     "convert": "node scripts/convert.mjs",
     "dev": "next dev",
-    "build": "node scripts/convert.mjs && node scripts/check-maps.mjs && next build",
+    "build": "node scripts/convert.mjs && node scripts/check-maps.mjs && node scripts/check-hunts.mjs && next build",
     "start": "next start",
     "check:maps": "node scripts/check-maps.mjs",
-    "test:maps": "node --test scripts/maps-core.test.mjs"
+    "test:maps": "node --test scripts/maps-core.test.mjs",
+    "check:hunts": "node scripts/check-hunts.mjs",
+    "test:hunts": "node --test scripts/hunts-core.test.mjs"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",
