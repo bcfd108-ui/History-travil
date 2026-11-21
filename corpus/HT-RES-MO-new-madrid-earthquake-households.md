@@ -63,6 +63,8 @@ Quiet witness only. The household and loss account has no photo-tag activity.
 | Field | Verified value |
 |---|---|
 | Stable site name | New Madrid Historical Museum and Mississippi River Observation Deck |
+| Town | New Madrid |
+| Public anchor | New Madrid Historical Museum |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

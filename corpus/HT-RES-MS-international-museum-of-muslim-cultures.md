@@ -61,6 +61,7 @@ If already at the museum’s operator-directed public entrance, share the date a
 |---|---|
 | Stable site name | International Museum of Muslim Cultures |
 | Historic location | Founding exhibition in downtown Jackson, Mississippi |
+| Town | Jackson |
 | Public anchor | Mississippi Arts Center museum, temporary garden-side entrance via Mississippi Museum of Art garden space |
 | Visitor boundary | Operator-signed public garden-side approach and ticketed galleries |
 | Visitor access check | If already at the public entrance, report the date and whether the garden-side museum signage is still posted |

@@ -71,6 +71,7 @@ If you are already at the public Welcome Center, a dated text note saying which 
 | --- | --- |
 | Stable site name | Elvis Presley Birthplace |
 | Historic location | East Tupelo birth house, now within the birthplace grounds [1, 2] |
+| Town | Tupelo |
 | Public anchor | Elvis Presley Birthplace Welcome Center, 306 Elvis Presley Drive, Tupelo [1] |
 | Visitor boundary | Signed park visitor paths and ticketed public interiors when in operation [1] |
 | Visitor access check | If already at the Welcome Center, share the date and which of the three exhibits were open. |

@@ -62,6 +62,7 @@ Reflection only. [1–3]
 | --- | --- |
 | Stable site name | Corinth Civil War Interpretive Center |
 | Historic location | Wartime Corinth, with the separate historic refugee camp and Battery Robinett landscape [1, 3, 6] |
+| Town | Corinth |
 | Public anchor | Corinth Civil War Interpretive Center, 501 West Linden, Corinth [1] |
 | Visitor boundary | Marked museum approach and staffed public interior only [1, 2] |
 | Latitude | |

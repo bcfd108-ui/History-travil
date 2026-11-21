@@ -68,6 +68,7 @@ Visitors already on the signed public approach or in the staffed shelter may sha
 | --- | --- |
 | Stable site name | Highland Park Dentzel Carousel and Shelter Building |
 | Historic location | 1909 site in Highland Park, Meridian, Mississippi |
+| Town | Meridian |
 | Public anchor | Highland Park Dentzel Carousel, 1802 Carousel Drive, Meridian [1] |
 | Visitor boundary | Posted visitor approach and staffed interior public side of the rail [1, 5] |
 | Visitor access check | If already there, share the date and whether the shelter and ride were operating. |

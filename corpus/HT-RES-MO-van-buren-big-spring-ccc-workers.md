@@ -66,6 +66,8 @@ A future voluntary observation of public-path masonry awaits human field verific
 | Field | Verified value |
 |---|---|
 | Stable site name | Big Spring Historic District and Big Spring public approach |
+| Town | Van Buren |
+| Public anchor | Drive to the signed NPS Big Spring parking area on the posted state route 103 approach south of Van Buren |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

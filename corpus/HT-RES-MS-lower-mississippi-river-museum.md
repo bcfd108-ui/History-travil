@@ -62,6 +62,7 @@ Visitors already at the public museum entrance may voluntarily share a dated not
 |---|---|
 | Stable site name | Jesse Brent Lower Mississippi River Museum |
 | Historic location | Mississippi River and Vicksburg and Greenville flood communities, as scoped in each source |
+| Town | Vicksburg |
 | Public anchor | Jesse Brent Lower Mississippi River Museum, 910 Washington Street, Vicksburg |
 | Visitor boundary | Washington Street entry and operator-open indoor or outdoor museum spaces. |
 | Visitor access check | If already at the Washington Street museum entrance, report the date and posted vessel-boarding or model-access notice. |

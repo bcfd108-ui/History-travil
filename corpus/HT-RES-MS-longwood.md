@@ -51,6 +51,7 @@ Quiet reflection. No visitor photo or access-check invitation at this sensitive 
 |---|---|
 | Stable site name | Longwood |
 | Historic location | Natchez, Adams County, Mississippi |
+| Town | Natchez |
 | Public anchor | Longwood guided-tour entrance, 140 Lower Woodville Road |
 | Approach | Drive-up; short walk to tour check-in |
 | Visitor boundary | Ticketed operator-led areas only |

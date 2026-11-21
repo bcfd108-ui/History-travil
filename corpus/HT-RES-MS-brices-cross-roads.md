@@ -62,6 +62,7 @@ Reflection only. [1–3]
 | --- | --- |
 | Stable site name | Brices Cross Roads and Mississippi’s Final Stands Interpretive Center |
 | Historic location | Brices Cross Roads battle landscape, northern Mississippi [3, 4, 8] |
+| Town | Baldwyn |
 | Public anchor | Mississippi’s Final Stands Visitors and Interpretive Center, 607 Grisham Street, Baldwyn [1, 2] |
 | Visitor boundary | Signed museum approach and staffed gallery. Reflection only. [1, 2] |
 | Latitude | |

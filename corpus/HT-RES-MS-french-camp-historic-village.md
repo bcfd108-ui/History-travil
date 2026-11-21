@@ -61,6 +61,7 @@ Historical Choctaw ground carries reflection only. No access-check or photo invi
 | --- | --- |
 | Stable site name | French Camp Historic Village |
 | Historic location | Approximate vicinity of LeFleur's stand, Choctaw country in the early nineteenth century |
+| Town | French Camp |
 | Public anchor | French Camp Historic Village, public visitor parking and visitor grounds, Natchez Trace Parkway milepost 180.7 [1, 5] |
 | Visitor boundary | Posted visitor grounds and staffed public rooms, excluding private, school and closed space [2, 3, 5] |
 | Latitude | |

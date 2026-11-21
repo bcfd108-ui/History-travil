@@ -53,6 +53,7 @@ From the public sidewalk, an optional dated report could establish whether the T
 |---|---|
 | Stable site name | Farish Street Historic District |
 | Historic location | Record Mart and later Diamond Studio, 309 North Farish Street, Jackson |
+| Town | Jackson |
 | Public anchor | Public sidewalk at the Trumpet Records marker, 309 North Farish Street, Jackson |
 | Approach | Public street exterior |
 | Visitor boundary | Public sidewalk at the former site, subject to posted street closures |

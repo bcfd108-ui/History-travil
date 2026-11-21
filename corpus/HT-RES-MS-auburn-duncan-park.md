@@ -53,6 +53,7 @@ Quiet reflection. No visitor photography or scouting request.
 |---|---|
 | Stable site name | Auburn and Duncan Park |
 | Historic location | 400 Duncan Avenue, Natchez, Adams County, Mississippi |
+| Town | Natchez |
 | Public anchor | Duncan Avenue public exterior view at Duncan Park, NPS driving tour site 22 |
 | Approach | Drive-up exterior view on public approach |
 | Visitor boundary | Public avenue and open public park areas only; no museum interior or outbuilding access established |

@@ -64,6 +64,7 @@ Visitors already inside the public gallery may share a dated text observation of
 | --- | --- |
 | Stable site name | Jimmie Rodgers Museum |
 | Historic location | Bristol recording location and Meridian career and commemoration context, distinct from the present museum premises |
+| Town | Meridian |
 | Public anchor | Jimmie Rodgers Museum, 1200 22nd Avenue, Meridian [1] |
 | Visitor boundary | Public approach sidewalk and staffed public gallery during announced hours [1, 6] |
 | Visitor access check | If already at the gallery, share the date and whether the instrument display or its label was visible. |

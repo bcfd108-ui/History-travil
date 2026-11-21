@@ -69,6 +69,7 @@ Reflection only. [2, 9]
 | --- | --- |
 | Stable site name | Lyceum–The Circle Historic District and Civil Rights Monument |
 | Historic location | Lyceum and The Circle, University of Mississippi, Oxford [2, 6] |
+| Town | Oxford |
 | Public anchor | University of Mississippi Civil Rights Monument near the Lyceum, Oxford [2, 9] |
 | Visitor boundary | Posted public exterior pedestrian approach, the Circle and the public monument area [1–3, 9] |
 | Latitude | |

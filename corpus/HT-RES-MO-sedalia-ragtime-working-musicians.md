@@ -69,6 +69,7 @@ A voluntary photo of the commemorative marker might be considered after a sidewa
 | Field | Verified value |
 |---|---|
 | Stable site name | Maple Leaf Park and the Maple Leaf Club memorial, Sedalia |
+| Town | Sedalia |
 | Latitude | 38° 42.638′ N |
 | Longitude | 93° 13.598′ W |
 | Coordinate source and scope | HMdb marker location only, not the club room or a photo stance [9] |

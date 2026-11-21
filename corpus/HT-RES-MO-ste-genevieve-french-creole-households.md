@@ -60,6 +60,8 @@ Quiet witness only. The emancipation and household interpretation remains a read
 | Field | Verified value |
 |---|---|
 | Stable site name | Bauvais-Amoureux House |
+| Town | Ste. Genevieve |
+| Public anchor | Bauvais-Amoureux House |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

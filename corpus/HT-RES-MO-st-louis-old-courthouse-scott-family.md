@@ -72,6 +72,8 @@ Quiet witness only. The courthouse and Scott memorial remain reading and reflect
 | Field | Verified value |
 |---|---|
 | Stable site name | Old St. Louis Courthouse |
+| Town | St. Louis |
+| Public anchor | Old St. Louis Courthouse |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

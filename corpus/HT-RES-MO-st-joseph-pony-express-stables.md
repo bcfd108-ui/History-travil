@@ -66,6 +66,8 @@ Held for field check and authorization. Stable frontage is a possible voluntary 
 | Field | Verified value |
 |---|---|
 | Stable site name | Pony Express Stables, St. Joseph |
+| Town | St. Joseph |
+| Public anchor | Pony Express National Museum |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

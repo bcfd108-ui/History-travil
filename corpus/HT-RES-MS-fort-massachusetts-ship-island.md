@@ -72,6 +72,7 @@ The garrison and incarceration history receives a quiet reading. No game, scored
 | Stable site name | Fort Massachusetts / Fort on Ship Island |
 | Town, county, state | Ship Island, offshore from Gulfport, Harrison County, Mississippi [1, 7, 8] |
 | Historic location | Federal fort on Ship Island, Mississippi Sound [6–8, 11] |
+| Town | Ship Island |
 | Public anchor | NPS public fort entrance on Ship Island during the operating season [1] |
 | Visitor boundary | Staffed fort visitor areas. Mainland ferry terminal is separate. [1–3] |
 | Access / approach | Seasonal passenger ferry, Jones Park, 1022 23rd Avenue, Gulfport, MS 39501. Winter closure in effect November 21. [1, 2] |

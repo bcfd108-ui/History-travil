@@ -68,6 +68,7 @@ A visitor already using the Colmer center may record whether the CCC spur and it
 | Stable site name | Davis Bayou Area / former Magnolia State Park |
 | Town, county, state | Ocean Springs, Jackson County, Mississippi [1, 5] |
 | Historic location | Magnolia State Park at Davis and Stark bayous. The CCC camp and the vacation cabins occupied separate ground. [5, 8] |
+| Town | Ocean Springs |
 | Public anchor | William M. Colmer Visitor Center, 3500 Park Road, Ocean Springs, MS 39564 [1, 2] |
 | Visitor boundary | Staffed public center and signed open interpretation. Historic cabin and original class site have no verified public entrance. [1, 5, 7–9] |
 | Access / approach | Verified open during posted hours. Drive-up center, optional separate hiking trail. Visitor-center phone 228-230-4100. [1, 2, 9] |

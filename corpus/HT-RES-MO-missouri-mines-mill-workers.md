@@ -65,6 +65,8 @@ Held. Existing public museum interpretation is available without participation. 
 | Field | Verified value |
 |---|---|
 | Stable site name | Missouri Mines State Historic Site, Federal mine and mill |
+| Town | Park Hills |
+| Public anchor | Missouri Mines Powerhouse Museum |
 | Latitude | |
 | Longitude | |
 | Coordinate source and scope | |

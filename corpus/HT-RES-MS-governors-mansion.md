@@ -64,6 +64,7 @@ If already on the public Capitol Street sidewalk, a voluntary dated note about a
 |---|---|
 | Stable site name | Mississippi Governor’s Mansion |
 | Historic location | 316 East Capitol Street, Jackson, Hinds County |
+| Town | Jackson |
 | Public anchor | Open public sidewalk on East Capitol Street outside the mansion |
 | Visitor boundary | Outside the fence on the public sidewalk, or on the operator’s confirmed historic-interior tour |
 | Visitor access check | If already on the public sidewalk, report a dated change to public signage or sidewalk access |

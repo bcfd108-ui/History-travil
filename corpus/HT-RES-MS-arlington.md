@@ -60,6 +60,7 @@ Research reading. Visitor observation fields omitted.
 |---|---|
 | Stable site name | Arlington |
 | Historic location | Natchez, Adams County |
+| Town | Natchez |
 | Public anchor | |
 | Visitor boundary | |
 | Latitude | |

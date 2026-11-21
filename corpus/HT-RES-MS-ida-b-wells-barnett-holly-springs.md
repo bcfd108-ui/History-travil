@@ -74,6 +74,7 @@ Reflection reading only. [1–3]
 | --- | --- |
 | Stable site name | Ida B. Wells-Barnett Museum and Rust College |
 | Historic location | Holly Springs, Marshall County, Mississippi. Different family, school and museum locations. [1–7] |
+| Town | Holly Springs |
 | Public anchor | |
 | Visitor boundary | |
 | Latitude | |

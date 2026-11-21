@@ -52,6 +52,7 @@ During a confirmed seasonal public opening, visitors may voluntarily report the 
 |---|---|
 | Stable site name | House on Ellicott Hill (James Moore House) |
 | Historic location | North Canal Street, Natchez, Adams County, Mississippi |
+| Town | Natchez |
 | Public anchor | Scheduled public House on Ellicott Hill tour; upper entrance at Jefferson and Wall streets |
 | Approach | Drive to designated uphill visitor arrival and walk to tour check-in |
 | Visitor boundary | Operator-open seasonal tour area only |

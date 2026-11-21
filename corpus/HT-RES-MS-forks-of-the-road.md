@@ -63,6 +63,7 @@ Quiet witness. No field reporting or photo invitation at the former slave market
 |---|---|
 | Stable site name | Forks of the Road — the Natchez slave market |
 | Historic location | Historic Forks of the Road slave market district, Natchez, Adams County |
+| Town | Natchez |
 | Public anchor | NPS Forks of the Road signed outdoor panel area |
 | Approach | Short walk within posted public exhibit area |
 | Visitor boundary | Designated NPS wayside area and lawful adjacent sidewalk only |

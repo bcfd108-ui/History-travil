@@ -59,6 +59,7 @@ Quiet witness in the museum. This dossier carries no field observation or photo 
 |---|---|
 | Stable site name | Grand Village of the Natchez — museum interpretation |
 | Historic location | Grand Village/Fatherland archaeological site, Natchez, Adams County |
+| Town | Natchez |
 | Public anchor | MDAH Grand Village museum, 400 Jefferson Davis Boulevard |
 | Approach | Signed public museum entrance from operator parking |
 | Visitor boundary | Open staffed museum gallery and signed entrance only |
