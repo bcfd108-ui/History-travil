@@ -48,15 +48,11 @@ The museum is a current public institution. Mentioned buildings and districts el
 
 ## 5. Trip-shaped stop progression
 
-**Start with the institution.** Enter the museum during its published winter opening, following the current visitor areas and signs.
+The public anchor is Sharlot Hall Museum in Prescott — a museum campus with published admission and seasonal hours, and a research service holding manuscripts, oral histories and photographic collections, with archival requests handled separately from museum entry. [1][7]
 
-**Read the worker's voice.** Carry the short Ruffner passage as a compact reference. Do not promise that it appears on a physical panel.
+The preservation worker in this entry is Elisabeth Ruffner, in her own account: an interview with Pam Stevenson, filmed by Bill Leverton on July 21, 2007, in Prescott, published as a Historical League transcript. Ruffner describes continuing as a volunteer adviser and helping people locate references — “And I'm happy to share whatever I know” — and recalls prolonged efforts over the Hassayampa Hotel, including explaining its National Register eligibility to an owner. That hotel account is her retrospective telling, not independent verification of every transaction, and it is not a visitor invitation to the hotel. The interview's original tapes are held by the Arizona Heritage Center Archives in Tempe, not at the Prescott museum. [3]
 
-**Notice the continuing work.** Use the Hall will excerpt and Neely's documented interviewing to connect physical preservation with stewardship of records and voices.
-
-**End with a person helping another person find evidence.** The strongest moment is Ruffner's volunteer-adviser recollection. It changes preservation from a finished rescue into a relationship maintained over time.
-
-This is a proposed interpretive sequence, not a field-verified room map. An archive visit is optional and requires its own arrangements. No street circuit or historic-house extension is included.
+Behind her stands Sharlot Hall's own instruction. Hall's will, written ten years before her 1943 death and quoted in a museum article, directed her successors to maintain the collection, organize it and provide public educational use — preservation framed as an ongoing obligation, with continuing financial needs named. The museum's catalog also carries Hall's papers (SHM MS-12) and further named interview leads. [4][6]
 
 ## 6. Honest gaps and conflicting dates
 

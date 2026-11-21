@@ -44,13 +44,11 @@ The living center is not a historical stage set. Its ongoing community activitie
 
 ## 5. Trip-shaped stop progression
 
-1. **Before travel:** verify the opening day and any holiday or event conflict. Retain the digital reading option.
-2. **Enter only the public exhibit:** orient to the institution's current arrangements rather than following an invented room map.
-3. **Read one family account slowly:** distinguish who owned a business from who describes doing its work. Check whether the displayed material identifies its narrator and source date.
-4. **Bring in Lee's short published memory:** use it as a lens, not a promise that a specific physical panel is present.
-5. **End at the strongest moment:** reconsider the supposedly imperfect lettering as someone's contribution to a family livelihood. The point is not to find the old wall; it is to notice the person whose effort a general history can overlook.
+The public ground is the Tucson Chinese Cultural Center, where grocery-store story boards are exhibited during opening hours; the boards' contents and arrangement were not inspected onsite for this dossier. The center is a living community institution, not a historical stage set. [2]
 
-This sequence is proposed, not field-tested. No driving circuit, historic-store walk or exterior photo-recreation route is supplied. If the interpretation turns to exclusion or neighborhood loss, pause for reflection rather than turning that material into a challenge.
+The grocer's voice in the record is David Lee's. Lee, son of the owners of Alan's Market in Barrio Hollywood — founded in the 1950s — remembers helping his parents as a child: whitewashing the building and painting its lettering. “The imperfect black lettering is my doing.” He also remembers timing his stocking chores to enjoy the walk-in refrigerator's cooling in humid weather. His recollection is published on the center's community history page; no original interview audio, recording date or transcript accession was established. [2]
+
+The photographic record sits elsewhere: the Arizona Historical Society's Soleng Tom photograph collection (PC 193, approximately 1937–1945) documents Chinese-owned businesses. Its finding aid was read for this dossier; the photographs themselves were not. A University of Arizona spotlight on Lim remains an audio lead, listening outstanding. [3][4]
 
 ## 6. Honest gaps and conflicting dates
 

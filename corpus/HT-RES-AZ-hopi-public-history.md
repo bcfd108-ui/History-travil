@@ -39,14 +39,12 @@ An HCPO oral-history project description hosted by Northern Arizona University d
 No claim is made about the present display, condition or public availability of any particular historic photograph, artifact or recording. Hopi-specific accounts are not generalized into a single account for neighboring Nations. Nor does one institutional statement erase the distinct authorities mentioned in that institution's own explanation.
 
 ## 5. Trip-shaped stop progression
-**A remote preparation sequence only. No physical stop is activated.**
 
-1. Begin with the short editor's account, not an outsider's collection of images. Keep the speaker's name, publication and date visible beside the interpretation.
-2. Read the dated newspaper report about archival return as a custody story. Do not extract ceremonial images or follow references to original locations.
-3. Read the public explanation of cultural-preservation responsibilities. Separate learning that a record exists from having permission to reproduce or locate it.
-4. End with the strongest story moment: a record's return can be meaningful precisely because it restores control, not because it opens another attraction.
+This entry's ground is the published record itself. The Hopi Tribe's newspaper, Hopi Tutuveni, publishes online, and the Hopi Cultural Preservation Office publishes its own purpose and limits. Online availability does not establish physical archive access, and no photograph, artifact or recording is claimed to be on public display. [2–4]
 
-If a later independently verified public venue is added, its specific admission and interpretation conditions must be documented first. That future check is not permission to arrive at an administrative office or improvise another stop. This dossier is research, not a test: there are no trivia questions, answer keys or completion requirement.
+In the July 28, 2022 Tutuveni, Managing Editor Romalita Laban explains in her own words why she continues newspaper work in difficult circumstances: it is “my way of giving back to those who came before me.” Her editorial introduced a republication of Stewart B. Koyiyumptewa's 2018 guest editorial about an attempted church apology; it is not a report that Hopi religious leaders accepted that apology. [2]
+
+Custodianship is the other dated act in the record. An April 7, 2015 Tutuveni report describes the March 23 presentation of digitized H. R. Voth photographs to Cultural Preservation Office Director Leigh Kuwanwisiwma, with archivist Stewart Koiyayumptewa coordinating the delivery. The report makes the photographs' contentious history and restricted knowledge explicit: the transfer was an act of stewardship, not a public-release notice. An HCPO oral-history project hosted by Northern Arizona University adds that participants retain copyright in their recordings even when the archive holds them. [3][5]
 
 ## 6. Honest gaps and conflicting dates
 - Current winter public museum admission, holiday exceptions, accessibility, exhibit content and photography conditions are unverified.

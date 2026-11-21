@@ -44,14 +44,11 @@ No surviving classroom, family residence or exact household object associated wi
 
 ## 5. Trip-shaped stop progression
 
-**One museum visit, approximately 45–60 minutes**, an editorial estimate rather than the operator's promised tour duration. A short research companion precedes it; no quiz or answer key.
+The public anchor is the Jerome Historical Society Mine Museum at 200 Main Street, Jerome. Alongside mining history, the museum's community displays include household materials — dishes, milk bottles, newspapers and club-related objects. No artifact belonging to the woman in this entry is established. [1]
 
-1. **Before arrival: a named life.** Present the cataloged teacher and the limits of the unreviewed recordings in a short, standalone entry. This prepares the visitor without requiring a test.
-2. **At the admitted public museum: the household scale.** Use only open public displays to introduce the town beyond production. No specific object is promised until a current display check verifies it.
-3. **Keep source layers visible.** Separate operator display descriptions, archive metadata and original interpretation. Do not imply that the museum is playing Lyons's voice.
-4. **Land on continuity.** Finish with the idea that schooling and household life are work that belongs in an industrial town's history. Let the public exhibition ground that realization without sending visitors into former domestic spaces.
+Mary (Shea) Lyons lived in Jerome from 1925 to 1953 and taught in its schools. Her account survives as a cataloged oral history at Sharlot Hall Museum: an interview with Cecelia Clack recorded December 8, 1977 (audio 113A, Side 1; ACC#2021.068; 20 minutes 19 seconds), covering living in Jerome and teaching in its schools. The catalog marks it digitized, without a transcript, and warns that the recording ends abruptly; the catalog record was read for this dossier, the audio not heard. A second, distinct interview — Virginia Rice, October 31, 1974 (audio 1421–1422; ACC#88.015; 1 hour 37 minutes) — covers family history, schools, library and social life. [3]
 
-**Closed-day mode:** consult the institutional catalog remotely. No exterior hunt or mine-site substitute. A future scavenger find would require a verified publicly visible object and explicit photographic suitability; none is activated here. The research is the product, with game fields deliberately blank.
+The Historical Society also maintains personal papers, photographs, family albums and local records; its research service and permissions process are separate from museum entry. No surviving classroom, family residence or household object of Lyons's has been established — those stay blank here, not excursion targets. [2]
 
 ## 6. Honest gaps and conflicting dates
 

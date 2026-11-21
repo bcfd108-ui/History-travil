@@ -41,15 +41,11 @@ No sewing machine, garment, payroll, union card, personal artifact or current mu
 
 ## 5. Trip-shaped stop progression
 
-**Archive-shaped progression, not a field route.** Suggested 30–45 minutes is an editorial allowance, not an operator duration.
+The surviving object in this entry is a published transcript, readable without any building: Hope Mendoza Schechter's oral history, interviewed by Virginia Espino, session 1, November 19, 2009. No sewing machine, garment, payroll, union card, personal artifact or current museum display is claimed, and historic shop and household locations are deliberately excluded. [1]
 
-1. **Orient:** identify narrator, interviewer and session date before interpreting the recollection. Notice the later export stamp without treating it as a historical date. [1]
-2. **Read the worker passage:** selected PDF pages 12–13, distinguishing what Schechter remembers from what the interviewer proposes. Do not extract employer locations as destinations.
-3. **Read the household passage:** PDF page 4. Keep skill and unpaid family work visible alongside paid employment. Avoid unrelated sensitive family details in the larger transcript.
-4. **Widen carefully:** read the NHM introduction to the 1933 strike as a different historical context, not a prequel whose connection to this person has been proved. [6]
-5. **Strongest closing moment:** return to the worker’s declaration. Ask what changes when the worker, rather than the garment, becomes the subject of the record. Leave with a distinction between testimony and corroboration, not a story of inevitable victory.
+Schechter recalls entering garment employment after leaving school, the low piecework pay, a collective approach to the union, her subsequent dismissal, and then becoming a union organizer herself. Her remembered declaration: “We don't have to put up with this.” The account of retaliation is her retrospective testimony, not an independently adjudicated finding about a named employer. The same session includes household sewing for her mother and sisters — paid industrial work and the unpaid skill that supported a household, in one life. Exact employment years are not established by these passages. [1]
 
-Optional future archive research must be individually arranged under UCLA’s actual rules, not presented as a booked experience. If access is unavailable, remain digital. No workplace substitution, walking route, recreation of a strike or completion stamp is authorized.
+The transcript's selected pages are searchable and readable; the original audio was not heard. A Natural History Museum online story offers a separate accessible interpretation of the same world; it is not proof of an in-gallery garment exhibit. [1,4][6]
 
 ## 6. Honest gaps and conflicting dates
 

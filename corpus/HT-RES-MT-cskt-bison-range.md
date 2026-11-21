@@ -40,15 +40,13 @@ The physical landscape is therefore also a jurisdictional story. “Former Natio
 
 ## 5. Trip-shaped stop progression
 
-**Conditional visitor-center sequence only:**
+The visit begins — and in winter may end — at the Tribal visitor center at 58355 Bison Range Road, Charlo. The Confederated Salish and Kootenai Tribes operate the range, set its hours and rules, and tell its history there. [1][3]
 
-1. Check the operator's current notices before travel. If arrival, weather, or daylight is uncertain, retain the experience as an online reading rather than improvising access.
-2. On lawful arrival, complete the appropriate entry process and confirm the visitor center is open. Do not infer drive clearance from having paid admission.
-3. Begin with the CSKT history of the herd and identify who is speaking in each exhibit: Tribal institution, named elder, researcher, or former federal agency.
-4. Compare the dates for legislation, land transfer, and management. The point is to understand restoration accurately, not complete a timeline quiz.
-5. **End with the strongest moment:** reread Tom McDonald's words about reunification and consider what caring for a herd means beyond viewing it. A successful visit does not depend on seeing an animal.
+That history starts before the federal refuge. In the 1870s Little Falcon Robe, a Ql̓ispé man, brought orphaned bison calves to the reservation with Tribal leaders' approval, and Michel Pablo and Charles Allard carried the herd forward from there. The herd was later dispersed as reservation land was opened to non-Native settlement. [4]
 
-No default driving loop, trail extension, cultural stop, wildlife tracking, or spectacle of herd-management work is added. If the center is closed, no nearby private or reservation location is substituted.
+In 2022 the Tribes resumed management of the range and its herd. Then-Chairman Tom McDonald's statement that March put it plainly: “Our reunification with this specific buffalo herd means more to us than we can express.” The Séliš-Ql̓ispé Culture Committee's 2023 essay, published by PBS with permission, sets the herd inside a continuing relationship of responsibility, with named elders' recollections. [5][6]
+
+Beyond the center, the range is working wildlife habitat, not open walking ground. Visitors stay on designated roads and in designated visitor areas, keep at least 25 yards from bison and other nonpredatory wildlife and 100 yards from bears, wolves and mountain lions, and no sighting is guaranteed. Red Sleep Drive is closed in winter, and the gate closes earlier than the range itself. [1][2]
 
 ## 6. Honest gaps and conflicting dates
 

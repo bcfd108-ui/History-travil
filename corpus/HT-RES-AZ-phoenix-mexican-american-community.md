@@ -40,14 +40,11 @@ No exact songbook, photograph, newspaper issue or personal document has been ord
 
 ## 5. Trip-shaped stop progression
 
-**Current digital sequence: 20–30 minutes, an editorial estimate.** It stands alone without travel.
+This entry's current mode is remote reading. The verified source is an Arizona State University article, Emma Greguska's *A tale of two families* (September 29, 2017); the related archival holdings sit at ASU Library in Tempe, 300 E Orange St., where Special Collections research is by mediated, advance arrangement — not a walk-in exhibition, and no permanent display of this family's objects is established. [1][5–6]
 
-1. **Start with a small object.** Ask what an everyday family object might preserve that a civic monument cannot. Use this as an interpretive question, not a claim about a specific unexamined artifact.
-2. **Read a named memory.** Read the Hinojosa section of [5], marking firsthand childhood recollection separately from the reporter's background narrative.
-3. **Compare the evidence layers.** Read the Franco French section and then the catalog summary [6]. Distinguish remembering an event, inheriting a story and describing an archive. None should silently become another.
-4. **End with preservation as a choice.** The strongest story moment is the decision to let family memory become part of the public record. Ask what is gained, what remains private and whose experience still needs its own voice.
+Diana Hinojosa DeLugan's recollections anchor the piece: a childhood in Phoenix's Las Milpas community, her father Fidencio Garcia Hinojosa's life as a musician, visits among musical families, and citizenship study inside the household. Her summary of her father is the entry's center: “His life was straddling both borders.” Her words are direct family testimony inside a journalist's article, not a complete oral-history transcript. [5]
 
-**Conditional future visit:** one confirmed archival appointment, in the room assigned by ASU. Build its content around the exact items approved for retrieval, not a predetermined artifact list. No second stop, drive time, private-house comparison or outdoor itinerary is implied. No source-reading activity requires entering Phoenix family neighborhoods.
+No songbook, photograph, newspaper issue or personal document from the family has been ordered, handled or inspected as an original, and nothing about a present-day performance or family role is inferred from the 2017 description. What survives into public history here is what the family kept and chose to share. [5–6]
 
 ## 6. Honest gaps and conflicting dates
 

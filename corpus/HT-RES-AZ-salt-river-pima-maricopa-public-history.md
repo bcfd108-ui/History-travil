@@ -38,17 +38,12 @@ The Community-published articles preserve named accounts of representation, buil
 This entry does not substitute the similarly named Gila River institution for Salt River's museum. Related cultural contexts do not erase different governments, institutions or admission conditions. No generalized claim about all O’odham or Piipaash people is made from a single article.
 
 ## 5. Trip-shaped stop progression
-**Proposed interpretive sequence within admitted public space, not a mapped route:**
 
-1. **Before entry:** read the Community's own names and distinctions. Separate the political community from the two peoples' histories and languages.
-2. **At the gallery:** confirm that it is open and follow current staff and posted conditions. Do not seek a back entrance or another Community facility if it is closed.
-3. **Look for attribution:** notice whether public interpretation identifies a speaker, artist, family or institutional author. Do not assign a language or affiliation where a label does not do so.
-4. **Read the building account:** use the 2023 article to consider the labor of preserving memory. Do not attempt to expose or inspect original fabric.
-5. **Strongest story moment:** end with Gardner's recognition of earlier builders' knowledge. History here is also living people recognizing the skill of people before them, not outsiders discovering an anonymous past.
+The public ground is the Huhugam Ki: Museum, 10005 E. Osborn Road, Scottsdale — the Salt River Pima-Maricopa Indian Community's own museum, with a public indoor gallery. The museum also holds collections and archives; those holdings are not all on public display, and their existence does not grant research access. [1]
 
-**Optional question for staff, if welcome:** How does the current gallery keep O’odham and Piipaash accounts distinct while presenting the Community's shared history?
+The Community's own framing governs the visit. Its *The Peoples* page identifies Onk Akimel O'odham and Xalychidom Piipaash as distinct peoples, with different cultures and languages, allied over generations and joined in one federally recognized political community — Salt River People and Piipaash self-identification, not only the externally applied names Pima and Maricopa. [3]
 
-No participant is asked to demonstrate, translate or disclose restricted knowledge. Any accounts of loss are reflection only, without scoring or reenactment. If closed, use the sources in the same sequence as an archive-only session.
+Community voices carry that distinction into print. In a November 2, 2022 *O'odham Action News* report, Cultural Resources Department Director Kelly Washington, describing a collaborative exhibition, linked representation to lived school memories: “We're the indigenous people of this area.” That report concerns an exhibition at a separate Mesa institution, not this museum's building — it is printed here as the Community's published account of its own representation work, readable with or without the trip. [4]
 
 ## 6. Honest gaps and conflicting dates
 - The October 2026 closure and planned November reopening are dated operator notices, not a live reopening receipt. A same-day check remains necessary. [2]

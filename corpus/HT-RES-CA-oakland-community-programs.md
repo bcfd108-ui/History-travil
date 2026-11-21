@@ -42,13 +42,11 @@ Party newspapers are contemporary organizational publications with their own pur
 
 ## 5. Trip-shaped stop progression
 
-1. **Before leaving:** check the building date and exhibition period. Prefer an arrival with time to read rather than the last minutes before closing. Daylight is a planning preference, not an invented outdoor admission restriction.
-2. **Enter the present institution:** orient to the permitted public gallery. Do not treat a research-room door or staff area as part of the tour.
-3. **Read one service claim carefully:** if an appropriate newspaper is actually displayed, distinguish what it says happened from what later scholarship or another record corroborates. Do not require a particular issue to be present.
-4. **Bring in the worker's day:** read the short Jennings excerpt, or use the linked account remotely if personal-device reading is unsuitable. The point is the work before class, not collecting a named-person sighting.
-5. **End with the strongest story moment:** pause over the difference between advocating that children should eat and repeatedly being there to feed them. Ask what kinds of labor disappear when history is remembered only through famous leaders. Keep the ending quiet and unscored.
+The public anchor is the African American Museum and Library at Oakland — museum and library in one institution. Its reference collection is noncirculating, and its research collections are controlled: AAMLO materials are requested in advance, and the reading room requires an appointment and valid photo ID. A newspaper exhibition advertised in the record is time-limited, not a permanent display guarantee. Historical breakfast kitchens, clinics, residences and organizing premises are not visitor stops. [1][7][8]
 
-This is one institutional visit with a narrative arc, not a multi-stop historic-site route. If the exhibition is unavailable, use the sources remotely; do not improvise a hunt for former program buildings.
+Billy X Jennings, interviewed by Pendarvis Harshaw for KQED in 2019, recalled helping with the Oakland breakfast program for roughly three hours before his 9 a.m. Laney College class. His measure of the work: “I was actually doing something to change the conditions.” It is named participant testimony in a reported interview; it does not establish every volunteer's schedule. [4]
+
+Ericka C. Huggins, interviewed by David Cline in Oakland on June 30, 2016, recalled deeper involvement in northern California's community survival programs, including free medical clinics and an ambulance program, and described Party members' service as unpaid and collective. Her account also explicitly discusses Los Angeles and New Haven — not every program she names operated at an Oakland address. The Huggins transcript is available online (AFC 2010/039: CRHP0144); the museum's photograph collection is MS 189. [5][6]
 
 ## 6. Honest gaps and conflicting dates
 

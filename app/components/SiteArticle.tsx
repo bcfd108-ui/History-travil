@@ -3,7 +3,7 @@ import { catalog, pathName, themeUrl, type Query } from "@/lib/browse";
 import Link from "next/link";
 import {
   getConnectedSites,
-  getHistoricPhoto,
+  type HistoricPhoto,
   getHuntFindsForSite,
   getPlainTop,
   getToursForSite,
@@ -20,27 +20,17 @@ import ClaimFind from "@/components/ClaimFind";
 import CompleteThePair from "@/components/CompleteThePair";
 import MapSheetFigures from "@/components/MapSheetFigure";
 
-// The entry's historical photograph, where one has been honestly sourced
-// (owner's ruling, Nov 19, 2026). Renders nothing when the record has none —
-// the gap stays in the entry's photo record rather than being filled.
-function HistoricPhotoFigure({ slug }: { slug: string }) {
-  const photo = getHistoricPhoto(slug);
-  if (!photo) return null;
+function PhotoFigure({ photo }: { photo: HistoricPhoto }) {
   return (
-    <figure className="historic-photo">
-      <img src={photo.src} alt={photo.alt} loading="lazy" />
+    <figure className="historic-photo" data-photo-source={photo.sourceUrl} data-assignment={photo.rowId}>
+      <img src={photo.src} alt={photo.alt} width={photo.width} height={photo.height} loading="lazy" decoding="async" />
       <figcaption>
         <span className="hp-caption">{photo.caption}</span>
-        {photo.representative && (
-          <span className="badge amber">Representative view — not the site itself</span>
-        )}
         <span className="hp-credit">
-          {photo.credit} ·{" "}
-          <a href={photo.sourceUrl} target="_blank" rel="noreferrer">
-            {photo.sourceName}
-          </a>
+          {photo.eraRole === "then" ? "Then" : "Now"} · {photo.dateNote || photo.year || ""}{(photo.dateNote || photo.year) && " · "}
+          <span data-photo-credit>{photo.credit}</span> · <a href={photo.licenseUrl}>{photo.license}</a>
+          {" · "}<a href={photo.sourceUrl}>{photo.sourceName}</a>
         </span>
-        {photo.dateNote && <span className="hp-note">{photo.dateNote}</span>}
       </figcaption>
     </figure>
   );
@@ -223,7 +213,7 @@ export default function SiteArticle({ site, context }: { site: Site; context?: Q
   // an inferred anchor alone never issues an invitation.
   const publicStop = anchor?.basis === "Public anchor";
   const accessPrompt = publicStop ? site.locator.extra.find((field) => field.key === "Visitor access check")?.value : undefined;
-  const photoSubject = publicStop ? site.locator.extra.find((field) => field.key === "Visitor photo subject")?.value : undefined;
+  const photoSubject = publicStop && site.photoEligibility === "PUBLIC GROUND" ? site.locator.extra.find((field) => field.key === "Visitor photo subject")?.value : undefined;
   const plainTop = getPlainTop(site.slug);
   // Hunt finds tied to this entry join its own candidate finds in the tag
   // panel — same ClaimFind mechanic, the claim recording the find's label
@@ -287,7 +277,9 @@ export default function SiteArticle({ site, context }: { site: Site; context?: Q
       {site.standfirst && <Md text={site.standfirst} />}
       {site.lead && <Md text={site.lead} />}
 
-      <HistoricPhotoFigure slug={site.slug} />
+      {[...site.photos].sort((a, b) => (a.year ?? Infinity) - (b.year ?? Infinity)).map(photo => (
+        <PhotoFigure key={photo.sourceUrl} photo={photo} />
+      ))}
       <MapSheetFigures entryKey={site.slug} />
 
       <AnchorPanel site={site} />

@@ -39,14 +39,12 @@ Keep the person ahead of the building. Architecture can make detention visible, 
 **Not included:** former residential or operational areas, archaeological features, burials, closed rooms, trails, historic landings, private premises, staff-only areas, other military sites, or an improvised shortcut between them. Nothing here invites exploration of those places.
 
 ## 5. Trip-shaped stop progression
-**Executable now: a remote reflection sequence, not an island itinerary.**
 
-1. Begin with the name and the difference between event date, interview date and later curatorial publication.
-2. Read the selected account at its source. Note who is speaking and who selected the extract.
-3. Separate three layers: remembered experience, preserved material, and modern exhibition. Do not fill gaps with an imagined conversation or recreated ordeal.
-4. End with the strongest question: what changes when an answer has been decided, but the person waiting has not been told? This is a quiet reflection, not a quiz.
+The venues named by the operator are the Detention Barracks Museum and the Angel Island Immigration Museum; entry to one is not unrestricted admission to every island structure, and no island entrance is cleared in this draft. The published account at the entry's center can be read without crossing the bay, and it is not proof that the narrator's words, belongings or portrait are currently exhibited onsite. [1][7]
 
-A later physical proposal must independently reconcile museum date/hours, a usable outbound and return on the same operator, boarding conditions, weather and an appropriate authorized approach. Stop before travel if those checks do not align. No optional last-minute detour belongs in a ferry-constrained visit.
+Law Shee Low, interviewed October 20, 1988, recalled signing after questioning without understanding that admission had been granted. Back in the barracks she cried, fearing a mistake; only later did someone tell her she could leave. The foundation labels her detention as ten days in 1922. Her words hold the uncertainty: “I was still worried that I would have to go back and wait longer.” The official decision and her knowledge of it were two different things. [7]
+
+The excerpt is published by the Angel Island Immigration Station Foundation, which credits the Judy Yung Oral History Collection and the work of Him Mark Lai, Genny Lim and Judy Yung, and cautions that selected recollections do not represent every detainee. Former residential and operational areas, burials, closed rooms and other island sites are not part of this entry. [7]
 
 ## 6. Honest gaps and conflicting dates
 - Two State Parks pages disagree on museum operating days. No staff confirmation was sought. [1,2]

@@ -34,15 +34,12 @@ A cataloged group photograph identifies **Central Pacific Car Repair Shop employ
 The archives preserve research materials but are not a walk-in extension of museum admission. Camera use requires staff approval; collection handling and duplication are controlled. No document is presumed available in the gallery or on demand. [2]
 
 ## 5. Trip-shaped stop progression
-**One public museum visit with advance or follow-up reading.** Proposed 45–60 minutes for the labor-focused portion is an editorial estimate, not an operator tour schedule.
 
-1. **Before arrival:** check holiday exclusions and the day's public gate. Read the short Walton passage in [3], keeping the original interview gap visible.
-2. **At the museum entrance:** enter only through public admission. Establish which galleries are open; nothing in this dossier requires a particular vehicle interior or a scheduled train.
-3. **Begin with people rather than equipment:** use the cataloged group portrait as a reading aid. Notice what the record names and what it does not. No identity guesses based on appearance.
-4. **Add Walton's account:** contrast a collective nineteenth-century image with an individually attributed twentieth-century recollection. Do not imply they show the same workforce or moment.
-5. **Strongest landing:** ask, “What kinds of skill can a workplace recognize while still refusing to recognize the person who has them?” This is an original reflective question, not a quotation or a claim about every employer.
+The public anchor is the California State Railroad Museum, 125 I Street, Sacramento. No Laura Walton exhibit is verified there; her account is companion reading, not a promised label or audio station. The museum's archives preserve research materials under controlled handling — not a walk-in extension of admission. [1,3]
 
-If the museum is closed, complete the sequence remotely through the historical report and catalog. Do not transfer the visit to the former shops, active railroad property, private ground or a roadside viewing point. No route, drive time or operating demonstration is activated.
+Walton's account reaches this dossier through the Library of Congress-hosted Historic American Engineering Record report on the Southern Pacific Sacramento Shops (HAER No. CA-303), which cites her interview in the museum's Sacramento Shops Oral History Project. She recalled seeking work in the early 1950s and encountering a job that “wasn't open to women”; the report says her railroad-employed husband intervened on her behalf. It also notes her earlier wartime shipyard experience. This is a worker's retrospective testimony quoted and summarized by a historian — not the original transcript or audio — and it supplies no exact job title, interview date or pay rate. [3]
+
+An older image belongs to a different generation: a cataloged group photograph of Central Pacific Car Repair Shop employees, approximately the 1870s, held by the museum's library in the Sacramento Shops Albums (CSRM Negative 1151). The individuals are not named in the checked catalog, and it is not Walton's photograph. [4]
 
 ## 6. Honest gaps and conflicting dates
 - Walton's original interview has not been independently retrieved. The precise evidence chain is HAER report p139 → cited CSRM interview p2. Interview date, full context and consent/reuse terms remain open. [3]

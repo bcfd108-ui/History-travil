@@ -36,15 +36,11 @@ No current display of Osuna’s belongings, a specific historical photograph, a 
 
 ## 5. Trip-shaped stop progression
 
-One indoor anchor, not a chained waterfront itinerary. **Suggested 45–60 minutes is an editorial planning allowance, not an operator duration.**
+The public anchor is the Chicano Park Museum and Cultural Center, 1960 National Avenue, San Diego. The verified evidence for this entry is documentary — a newspaper reproduction, the museum's online cannery interpretation, and the city's interview-summary PDF — and no display of Osuna's belongings, a specific photograph, a timecard or a cannery artifact is promised. [1–5]
 
-1. **Before arrival:** read the short account and distinguish Osuna’s firsthand words from the reporter’s framing. Check that the intended date is an open museum day. [1,4]
-2. **At the public door:** enter only through the operator-identified public entrance during actual opening. Follow admissions and current gallery rules; this draft gives no authority for a group-led program. [2]
-3. **Inside:** encounter the museum’s current interpretation on its own terms. Use this dossier privately as companion reading, without assuming a cannery gallery or asking staff to produce unarranged archival material.
-4. **Story turn:** contrast the family-social recollection with the Riverolls’ account of employment loss. Neither cancels the other. [4–5]
-5. **Strongest ending:** reflect on the difference between remembering an industry and remembering a worker. Ask what evidence would tell us how a household managed both earnings and care. Leave that question open rather than inventing a day in Osuna’s life.
+Eloisa Osuna, a former San Diego cannery worker, was interviewed for Leonel Sanchez's September 26, 2009 Union-Tribune report. The original newspaper URL failed; a reproduction inside a city-hosted historical submission was downloaded and read. Osuna said she had worked for 35 years; the reporter places her start in the 1940s, reports that her mother also worked cleaning tuna, and describes her earnings helping support nine children while her husband worked elsewhere. Her recollection joins the paid work to friendship: “We used to have picnics after work with our families.” It is a journalist-selected firsthand quotation, not a complete recorded oral history. [4]
 
-If the museum is closed, end with digital reading. No substitute trip to the photographed sculpture, a cannery site or a port gate. No field finding, timed challenge, reenactment or completion reward attached to unemployment or hardship.
+The museum's community-history page explicitly incorporates her account into its own telling of the neighborhood's cannery years. The city's four-page Barrio Logan history document adds further community testimony. Archive access, original audio and catalog numbers remain unresolved in this record. [3][5]
 
 ## 6. Honest gaps and conflicting dates
 

@@ -1,6 +1,7 @@
 import type { ReactNode } from "react";
 import { notFound } from "next/navigation";
-import { getToursForSite } from "@/lib/data";
+import Image from "next/image";
+import { getHistoricPhoto, getToursForSite } from "@/lib/data";
 import {
   area,
   byGround,
@@ -107,9 +108,11 @@ export function Entries({ rows, ctx }: { rows: BrowseRow[]; ctx: Query }) {
     <ul className="entry-list">
       {rows.map((r) => {
         const routes = getToursForSite(r.slug);
+        const lead = getHistoricPhoto(r.slug);
         return (
           <li key={r.slug}>
             <a className="entry-link" href={entryUrl(r, ctx)}>
+              {lead && <Image className="entry-lead" src={lead.src} alt={lead.alt} width={lead.width} height={lead.height} sizes="(max-width: 520px) 45vw, 240px" />}
               <strong>{r.title}</strong>
               <span>
                 {[

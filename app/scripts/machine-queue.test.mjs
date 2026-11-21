@@ -10,6 +10,8 @@ import {
   assembleResearchQueue,
   buildQueues,
   parseCheckedDate,
+  parseCsv,
+  photoDocument,
   parseSourceText,
   schemaProblems,
   stableStringify,
@@ -433,10 +435,52 @@ test("verification dates parse and unrecorded sorts first", () => {
   assert.equal(parseCheckedDate("No date here"), null);
 });
 
-test("photo queue stays pending when the gap report is absent", () => {
-  const queues = buildQueues(appRoot);
-  assert.equal(queues.photo.status, PHOTO_PENDING);
-  assert.deepEqual(queues.photo.items, []);
+test("photo queue stays pending when its source is missing", () => {
+  const photo = photoDocument(null, null);
+  assert.equal(photo.status, PHOTO_PENDING);
+  assert.equal(photo.source, null);
+  assert.equal(photo.counts.items, 0);
+  assert.deepEqual(photo.items, []);
+});
+
+test("a quoted photo CSV preserves punctuation, line breaks and blank access cells", () => {
+  const csv = 'Slug,Entry,Note,Access decision\r\na,"Depot, ""east""","Line 1\r\nLine 2",\r\n';
+  const photo = photoDocument(csv, "fixture.csv");
+  assert.deepEqual(photo.items, [{
+    Slug: "a", Entry: 'Depot, "east"', Note: "Line 1\r\nLine 2", "Access decision": "",
+  }]);
+});
+
+test("the generated photo queue mirrors the canonical gap report and its field restrictions", () => {
+  const { photo } = buildQueues(appRoot);
+  assert.equal(photo.status, "ready");
+  assert.equal(photo.source, "app/public/desk/photo-gaps.csv");
+
+  const readReport = name => readFileSync(join(appRoot, "public", "desk", name), "utf8");
+  const [headers, ...rows] = parseCsv(readReport("photo-gaps.csv")).rows;
+  assert.equal(photo.counts.items, rows.length);
+  assert.equal(new Set(photo.items.map(item => item.Slug)).size, rows.length);
+  assert.equal(new Set(photo.items.map(item => item["Entry ID"])).size, rows.length);
+  for (const [index, row] of rows.entries()) {
+    assert.deepEqual(Object.keys(photo.items[index]), headers);
+    assert.deepEqual(Object.values(photo.items[index]), row);
+  }
+
+  const [fieldHeaders, ...fieldRows] = parseCsv(readReport("field-photo-targets.csv")).rows;
+  const options = new Map(photo.items.filter(item =>
+    item["Next desk or field action"].startsWith("Field option — ")
+  ).map(item => [item.Slug, item]));
+  assert.deepEqual(new Set(options.keys()), new Set(fieldRows.map(row => row[fieldHeaders.indexOf("Slug")])));
+  for (const row of fieldRows) {
+    const field = Object.fromEntries(fieldHeaders.map((key, index) => [key, row[index]]));
+    const item = options.get(field.Slug);
+    assert.equal(item["Entry ID"], field["Entry ID"]);
+    assert.equal(item.Gap, field.Gap);
+    assert.equal(item.Eligibility, "PUBLIC GROUND");
+    assert.ok(["none", "then-only"].includes(item.Coverage));
+    assert.ok(field["Public viewpoint or permitted subject"].trim());
+    assert.equal(item["Next desk or field action"], "Field option — " + field["Public viewpoint or permitted subject"]);
+  }
 });
 
 test("the real snapshot queues HAVE-free creators and keeps duplicate sources", () => {

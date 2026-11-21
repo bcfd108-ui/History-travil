@@ -40,17 +40,12 @@ The official cultural demonstration page says winter demonstrations **may** occu
 No historic structure, cultural object, community location or ancestral feature has been selected for physical exploration. The absence of such a route is deliberate: one can listen to a public account without claiming access to its places or practices.
 
 ## 5. Trip-shaped stop progression
-**Proposed indoor interpretation sequence, not a route:**
 
-1. **Before the visit:** read the dated Tribal testimony. Identify its author and purpose before considering the park's presentation.
-2. **At the admitted visitor center:** confirm the theater and relevant public program are open. If not, keep the encounter reading-only rather than searching for a substitute cultural location.
-3. **If the collaborative film is showing:** attend to who identifies themselves and how their affiliation is presented. Do not presume any speaker represents all associated Tribes.
-4. **Afterward:** read the 2026 Tribal announcement as evidence of present agency. A living community's history includes what it is choosing to build, not just what visitors consider picturesque.
-5. **Strongest story moment:** return to the brief water-and-home statement. Ask what changes when a visitor stops treating homeland as scenery and starts listening to its people's own public priorities.
+The physical anchor is the Grand Canyon Visitor Center on the South Rim, 8 South Entrance Road, and its indoor interpretation. The visitor center is a place to encounter the Havasupai Tribe's published accounts; it is not the setting of the statements themselves, and this entry routes no one to Havasupai community or cultural ground.
 
-**Optional question for staff, if welcome:** How does this public program distinguish the contributing communities' own voices from NPS interpretation?
+The Tribe speaks in its own published record. Its June 7, 2022 Senate hearing testimony, under Chairman Thomas Siyuja Sr.'s name, states the homeland relationship in one line: “In our Canyon home, water is life.” The testimony argues for protection of water and cultural continuity. A later Tribal Council announcement on broadband work carries Chairwoman Melinda Yaiva's statement linking connectivity with education, health, safety and cultural revitalization, and names Ophelia Watahomigie-Corliss, the Tribal Broadband Connectivity Program Director, describing nearly eight years of planning behind the first-phase groundbreaking. [3][4]
 
-No personal testimony is demanded from a demonstrator. Accounts of dispossession or harm are reflection only, without points, stamps or competitions tied to suffering. No cultural practice is reenacted or requested.
+The park's cultural demonstration page says winter demonstrations may occur at the visitor center; its detailed schedule concerns April 2026. That establishes no November or winter Havasupai event, and no permission to record any participant. [6]
 
 ## 6. Honest gaps and conflicting dates
 - Current published center hours are fall hours; a full winter and holiday gate remains unresolved. No day-of attendance or physical access was verified. [1,2]

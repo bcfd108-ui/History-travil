@@ -51,8 +51,7 @@
 // Photo queue:
 //   JSON twin of photo-gaps.csv (same row order, same header keys) when that
 //   file is on disk at app/public/desk/photo-gaps.csv or app/data/photo-gaps.csv.
-//   The generator of that CSV is not on main (open PR #3 only) and is not
-//   copied here. With no CSV, status is "pending: gap report not on main".
+//   The photo desk regenerates the canonical report during npm postconvert.
 import { createHash } from "node:crypto";
 import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { join } from "node:path";
@@ -896,7 +895,7 @@ export function verificationDocument(liveEntries, datesBySlug = {}) {
   };
 }
 
-export const PHOTO_PENDING = "pending: gap report not on main";
+export const PHOTO_PENDING = "pending: gap report missing";
 
 export function photoDocument(csvText, source) {
   if (csvText == null) {
@@ -905,7 +904,7 @@ export function photoDocument(csvText, source) {
       phase: 1,
       kind: "photo",
       status: PHOTO_PENDING,
-      note: "photo-gaps.csv is not on main. Its generator is only on open PR #3 (branch photos-every-listing) and is not copied into this phase. This queue reads app/public/desk/photo-gaps.csv or app/data/photo-gaps.csv when one of those files is present.",
+      note: "No photo gap report was found at app/public/desk/photo-gaps.csv or app/data/photo-gaps.csv.",
       source: null,
       items: [],
       counts: { items: 0 },

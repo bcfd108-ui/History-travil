@@ -42,14 +42,12 @@ A decade later, the June 1966 cover featured Ernestine Eckstein, vice president 
 **Not visitor destinations:** residences, historical office sites, worship spaces, medical/care facilities and private social spaces mentioned in archival material. No current resident, visitor or employee is assigned an identity based on association with these places.
 
 ## 5. Trip-shaped stop progression
-**One conditional museum visit, with remote reading as a complete alternative. No neighborhood walk is activated.**
 
-1. Start with source provenance: who spoke, who interviewed, who transcribed, and which institution now provides access.
-2. Read the short organizing passage remotely. Keep the narrator's remembered words distinct from the present writer's interpretation.
-3. If a museum date is confirmed, use its authorized public exhibitions to consider how records become interpretation. Do not expect to retrieve the original interview or collection at the museum desk.
-4. End with the strongest reflection: preserving a community's history requires both keeping evidence and respecting the people represented in it.
+The public anchor is the GLBT Historical Society Museum in San Francisco. The society's archive is a separate door: non-circulating collections reached through a reading-room process, not a browsing warehouse, and a museum ticket grants neither archive entry nor permission to handle original records. This draft does not assert that the transcript below is on display. [1][2]
 
-Where the material addresses exclusion, harassment or loss, the format stays quiet and reflective. No role-play, ranking of suffering or performance of another person's identity. A research-room visit would be a separately prepared appointment, not an automatic next stop.
+Del Martin and Phyllis Lyon, interviewed by Nan Boyd on December 2, 1992 (transcriber Genevieve Maxwell), give a firsthand account of organizational labor. Lyon identifies the Daughters of Bilitis as an organization primarily for lesbians. They discuss work done by people reluctant to join formally, and the anxiety that surrounded membership lists; Lyon's remembered reassurance is three words: “Your name is safe.” Only selected organizing passages were read for this dossier; the original recording and consent paperwork were not inspected. [3]
+
+The transcript is hosted online by the institution for research; its digital collections page distinguishes examination from reuse, and the public supply of the transcript does not authorize broader republication. Residences, historical office sites and private social spaces named in archival material are not visitor destinations. [3,4]
 
 ## 6. Honest gaps and conflicting dates
 - Museum installation closures demonstrate that the regular weekly pattern has exceptions. No selected date was tested in ticket inventory. [1]

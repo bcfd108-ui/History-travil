@@ -8201,6 +8201,42 @@
    "attempts": []
   },
   {
+   "id": "vq_FL-castillo-de-san-marcos",
+   "slug": "FL-castillo-de-san-marcos",
+   "name": "FL-castillo-de-san-marcos",
+   "town": "",
+   "state": "FL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-FL-castillo-de-san-marcos.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_FL-fort-jefferson-dry-tortugas",
+   "slug": "FL-fort-jefferson-dry-tortugas",
+   "name": "FL-fort-jefferson-dry-tortugas",
+   "town": "",
+   "state": "FL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-FL-fort-jefferson-dry-tortugas.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_FL-fort-matanzas",
+   "slug": "FL-fort-matanzas",
+   "name": "FL-fort-matanzas",
+   "town": "",
+   "state": "FL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-FL-fort-matanzas.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_GA-andalusia-farm",
    "slug": "GA-andalusia-farm",
    "name": "GA-andalusia-farm",
@@ -8245,6 +8281,30 @@
    "verifiedOn": "2026-11-21",
    "verifiedOnSource": "corpus-checked-line",
    "corpusFile": "HT-RES-GA-national-infantry-museum.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IL-jane-addams-hull-house-museum",
+   "slug": "IL-jane-addams-hull-house-museum",
+   "name": "Jane Addams Hull-House Museum — the Hull-House settlement",
+   "town": "Chicago",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-jane-addams-hull-house-museum.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IL-pullman-national-historical-park",
+   "slug": "IL-pullman-national-historical-park",
+   "name": "Pullman National Historical Park — the Pullman company town, strike, and porters' ground",
+   "town": "Chicago",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-pullman-national-historical-park.md",
    "queueState": "queued",
    "attempts": []
   },
@@ -8945,6 +9005,30 @@
    "attempts": []
   },
   {
+   "id": "vq_SC-charleston-iaam-gadsdens-wharf",
+   "slug": "SC-charleston-iaam-gadsdens-wharf",
+   "name": "International African American Museum and Gadsden’s Wharf",
+   "town": "",
+   "state": "SC",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-SC-charleston-iaam-gadsdens-wharf.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_SC-fort-sumter-fort-moultrie",
+   "slug": "SC-fort-sumter-fort-moultrie",
+   "name": "Fort Sumter and Fort Moultrie",
+   "town": "",
+   "state": "SC",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-SC-fort-sumter-fort-moultrie.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_TN-big-south-fork-oscar-blevins-farm",
    "slug": "TN-big-south-fork-oscar-blevins-farm",
    "name": "Big South Fork, Tennessee · The unfinished cellar at the Oscar Blevins farm",
@@ -8970,8 +9054,8 @@
   }
  ],
  "counts": {
-  "items": 747,
-  "dated": 508,
+  "items": 754,
+  "dated": 515,
   "unrecorded": 239
  }
 }

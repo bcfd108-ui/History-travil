@@ -37,12 +37,12 @@ The sovereign operator is the authority for its museum. Alliance historical summ
 **Excluded from the experience:** historical grounds, graves, community neighborhoods, working property, unstaffed structures and any feature reached by following an old photograph or map. No promise of surviving interiors or specific displayed objects is made.
 
 ## 5. Trip-shaped stop progression
-1. **Begin with the source label.** Identify speaker, interview date and the difference between a childhood recollection and a wartime document. [3]
-2. **Read the short household-work passage.** Focus on a mother earning money, continuing obligations outside confinement and help exchanged within a community. Do not perform incarceration or assign visitors detainee roles.
-3. **Add the later survivor reflection.** Notice how a person who experienced confinement interprets its significance years later, while keeping opinion distinct from a verified legal account. [4]
-4. **End with a quiet question:** what ordinary choices does a household lose when its members cannot choose where or how to live?
 
-This is a reading sequence, not a geographic itinerary. If a museum visit is independently cleared later, only its authorized public interpretation may supplement it. The strongest moment is recognizing continuing family responsibility under conditions the family did not choose. Participation may be silent; no personal disclosure is required.
+Poston itself is not a stop in this entry: the historical grounds, graves and community neighborhoods are excluded, and no surviving interior or displayed object is promised. What the record holds is two published survivor accounts, readable anywhere. [3,4]
+
+Mas Hashimoto, interviewed by Tom Ikeda in Watsonville on July 30, 2008, remembers his mother's work inside Poston: she was an assistant cook, earning sixteen dollars a month in his recollection, while the family still faced property-tax obligations outside and his brothers sent money back. His summary is plain: “Money was hard to come by.” He also remembers women helping one another learn sewing and make their rooms more livable. The pay figure is his recollection, not a verified payroll record. [3]
+
+Joe Okimoto's reflection, published by Densho on June 4, 2025 as his personal opinion, remembers being three years old when his family was removed — confined first at Santa Anita, then at Poston — and links that childhood fear to his later concern for civil liberties. A museum lead exists on the Colorado River Indian Tribes' own website (the CRIT Museum & Gift Shop, 133 West Riverside Drive, Parker), but its current location and winter exceptions are unresolved in this record, so no trip is activated on it. [1][2][4]
 
 ## 6. Honest gaps and conflicting dates
 - The official museum page prints one address; the National Basketry Organization directory prints another. No relocation date or explanation was verified. The official printed address is retained as a **source locator only**, not an active route. [1,6]

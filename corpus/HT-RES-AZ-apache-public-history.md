@@ -38,15 +38,12 @@ The 2023 NEA article discusses adapting buildings for community needs and distin
 The Tribe's older museum listing was visible in search results but repeatedly timed out on direct retrieval. It is logged as a corroborating lead, not used to assert a particular exhibition, fee or artifact currently on display. [5] No sacred content is reconstructed from search snippets.
 
 ## 5. Trip-shaped stop progression
-**Proposed indoor interpretive progression, conditional on admission; not a mapped route:**
 
-1. Before arriving, read the named public statement and identify whose institution this is. Keep its date visible.
-2. At the admitted museum, establish current visitor conditions and remain within the public space. A closed door is a reason to defer, not seek another entry.
-3. Follow the interpretation actually offered. Attend to named makers, narrators and institutional authors where labels supply them; do not supply identities or ceremonial meanings that labels omit.
-4. Where the interpretation addresses military or boarding-school harm, the game goes quiet. Read and reflect without collecting a proof photograph.
-5. End with the strongest story moment: return to the community's stated purpose for the place. The measure of preservation is not how much a visitor can enter but how the people concerned shape its future.
+The public anchor is the Nohwike' Bágowa Museum at Fort Apache, 104 General Crook Street — the White Mountain Apache Tribe's own museum, in the Tribe's homeland. The museum is run by a foundation the Tribe chartered in 1998 to assist its heritage work; management of the property transferred from the Bureau of Indian Affairs in 2007, and the work since has been returning the place to active community service. [2]
 
-This is research that prepares observation, not trivia. No answer keys, forced questions or completion test are included. No extension onto cultural, school or residential ground is proposed.
+That purpose is stated in the Tribe's own voice. In a May 13, 2021 statement, then-Tribal Chairwoman Gwendena Lee-Gatewood put it this way: “Our community needs and deserves a safe and beautiful place to commemorate our history.” A 2023 National Endowment for the Arts article on the site describes buildings being adapted to community needs, and distinguishes finished work from projects still needing support — a surviving structure here may serve residents rather than visitors. [3][4]
+
+What a visitor encounters is therefore a living Tribal institution, not an open-air fort exhibit: a museum whose interpretation is led by the community whose history it holds. This dossier concerns the White Mountain Apache Tribe specifically; it does not stand in for San Carlos Apache, Fort Sill Apache or any other sovereign community. [2]
 
 ## 6. Honest gaps and conflicting dates
 - Museum winter weekday hours are published; exact holiday closures, temporary restrictions and an accessible arrival/entry assessment are not verified.

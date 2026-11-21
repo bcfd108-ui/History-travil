@@ -38,14 +38,12 @@ The strongest moment is not a reconstructed room. It is the change from a young 
 **Excluded:** burials, archaeological and cultural locations, historical housing footprints, private property, active maintenance/administrative space and any closed building. The draft does not direct visitors around the site to find evidence of the account.
 
 ## 5. Trip-shaped stop progression
-**Conditional public-center sequence; use the same reading order remotely if the gate is closed or uncertain.**
 
-1. Begin with a named person, not a camp statistic. Read the attributed arrival passage before interpreting the institution.
-2. If the visitor center is confirmed open, remain within its authorized public interpretation. Distinguish original building fabric, later restoration and exhibition design. Otherwise stay with the online sources.
-3. Read the later passage about civic voice and preservation. Do not make a visitor perform an interrogation, sign a mock form, choose a loyalty category or simulate confinement.
-4. End with the strongest reflection: public memory was made through people's work; a building's existence should not obscure who demanded that history be heard.
+The visitor center stands in the camp's former auditorium — the present interpretive venue is itself part of the record, not a location invented from a historical map. The National Park Service describes a captioned film and accessible museum exhibits; no claim is made that the excerpts below, a particular portrait or an original personal possession are presently displayed. The public institution address is 5001 Highway 395, Independence. [1][3][7]
 
-The sequence finishes at reflection. It does not continue to a burial monument, cultural site or reconstructed dwelling for emotional effect. No physical route or travel-time promise is supplied.
+Sue Kunitomi Embrey's testimony, interviewed by John Allen on November 6, 2002, carries the arrival. In segment 7 she recalled coming in after dark, without immediate access to her luggage; her brother had prepared the family's bedding; the room was crowded, without partitions — and she set that against what she had learned in school about constitutional rights. [5]
+
+In segment 17 she traces the turn afterward: toward civic participation and toward preserving Manzanar itself, connecting her involvement in the 1969 pilgrimage with increasingly sustained preservation work — “if we really wanted to get our voices heard.” Hers is a retrospective account of a survivor helping to make the public record, not proof that incarceration was beneficial or that one person alone created the national historic site. Burials, archaeological locations, housing footprints and closed buildings are excluded from any visit. [6]
 
 ## 6. Honest gaps and conflicting dates
 - Hours page direct extraction lacked its schedule; indexed hours agree with the older conditions page. That agreement supports the published pattern, not same-day opening. [1,2]

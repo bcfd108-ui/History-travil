@@ -48,13 +48,13 @@ The operator's public oral-history index also lists **Adela Grant**, interviewed
 
 ## 5. Trip-shaped stop progression
 
-1. **Before departure:** check current museum opening and access requirements, especially the explicit holiday closures. Keep the digital alternative available.
-2. **Begin with community:** within the authorized museum galleries, read whatever current material addresses town life. Do not promise a specific panel or object.
-3. **Introduce the source:** identify who is speaking, when the recollection was recorded and the gap between event and interview. Read the short Watson passage privately or with companions without disrupting other visitors.
-4. **Separate evidence types:** distinguish a remembered life from a court document's catalog description. Acknowledge what has not been independently inspected.
-5. **End with the strongest story moment:** pause over the suitcase and the work of helping someone continue living after forced displacement. Ask what a record of expulsion leaves out when it stops at the number of people removed.
+The public anchor is the Bisbee Mining & Historical Museum at 5 Copper Queen Plaza, open daily 10 a.m.–4 p.m. Its Urban Outpost exhibition covers the town and its community; the record does not establish that any particular deportation document is on display. The museum's Shattuck Memorial Research Library holds newspapers, directories, biographical files and photographic reprints for public research. [1][3][4]
 
-This is a proposed museum/digital reading sequence, not a verified room-by-room path. End quietly; there is no completion stamp for suffering and no physical reenactment.
+The deportation itself — the July 12, 1917 expulsion of striking copper workers and other Bisbee residents — is documented at the University of Arizona as an illegal vigilante action, with court evidence and personal recollections in its collections. [5]
+
+The household end of that story survives in Fred Watson's testimony. Watson, a tool nipper, was interviewed by Robert Houston on February 12, 1977, and his account was published in the Journal of Arizona History that summer. He remembered his future wife bringing him a suitcase of his clothes after his displacement, his marriage and work elsewhere, and his eventual return — and that those left behind suffered too. His line for the whole experience: “I'll forget it when I die!” The suitcase is his story's focus, not an artifact in the museum. [6]
+
+The museum's oral-history index also lists Adela Grant, interviewed by Coleen Crowliet, speaking on the deportation — a further household account in the record, indexed but not heard in this pass. [9]
 
 ## 6. Honest gaps and conflicting dates
 

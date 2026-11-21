@@ -49,6 +49,8 @@ export interface Site {
   progression: string;
   gaps: string;
   photoRecord: string;
+  photos: HistoricPhoto[];
+  photoEligibility?: "PUBLIC GROUND" | "ARCHIVAL-ONLY" | "DESK REVIEW";
   moreSections: { title: string; body: string }[];
   sources: string;
   locator: Locator;
@@ -280,37 +282,28 @@ export function getSite(slug: string): Site | undefined {
 }
 
 // ---------------------------------------------------------------------------
-// HISTORIC PHOTOGRAPHS (owner's ruling, Nov 19, 2026): every entry carries a
-// sourced historical photograph — of the real site or the object, or one like
-// it, labelled representative when it is not the site itself. Public domain or
-// openly licensed only; repository, date and credit print with the image; the
-// pixels are inspected before an image is adopted (a catalog title is not
-// proof of what a photograph shows). Records live in data/historic-photos.json,
-// a hand-maintained sidecar the converter does not generate. An entry with no
-// honestly sourced image simply has no figure — the gap prints in its record.
-// ---------------------------------------------------------------------------
 export interface HistoricPhoto {
+  rowId: string;
+  eraRole: "then" | "now";
+  dateNote?: string;
   src: string;
+  imageUrl: string;
+  width: number;
+  height: number;
   alt: string;
   caption: string;
   credit: string;
+  license: string;
+  licenseUrl: string;
   sourceName: string;
   sourceUrl: string;
-  dateNote?: string;
-  representative?: boolean;
+  year: number | null;
 }
 
-let photosCache: Record<string, HistoricPhoto> | null = null;
-
+let leadPhotos: Map<string, HistoricPhoto> | undefined;
 export function getHistoricPhoto(slug: string): HistoricPhoto | undefined {
-  if (!photosCache) {
-    try {
-      photosCache = load<Record<string, HistoricPhoto>>("historic-photos.json");
-    } catch {
-      photosCache = {};
-    }
-  }
-  return photosCache[slug];
+  leadPhotos ??= new Map(getSites().filter(s => s.photos?.length).map(s => [s.slug, s.photos[0]]));
+  return leadPhotos.get(slug);
 }
 
 // ---------------------------------------------------------------------------
@@ -367,12 +360,14 @@ const NOW_PHOTO =
   /(repeat|modern|current|now) (photo|photograph|image)[^.]{0,90}(obtained|taken|made|supplied|published|appears|was made|was taken)/i;
 
 export function thenNowInvitation(site: Site): boolean {
+  if (site.photoEligibility !== "PUBLIC GROUND") return false;
   if (site.stopType === "reflection") return false;
   // The invitation's logic is the access doctrine: the ground is visitable,
   // so a reader can go and take the "now" photo. No derivable visitable
   // anchor, no invitation — the prompt never sends a reader to ground the
   // record has not named as theirs to stand on.
   if (!getVisitableAnchor(site)) return false;
+  if (site.photos?.some(photo => photo.eraRole === "now")) return false;
   if (!THEN_PHOTO.test(site.photoRecord || "")) return false;
   if (NOW_PHOTO.test(`${site.photoRecord || ""} ${site.thenNow || ""}`)) return false;
   return true;

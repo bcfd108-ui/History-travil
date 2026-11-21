@@ -32,12 +32,12 @@ The military supply story also belongs to expansion and conflict on Indigenous h
 **Documented place history:** the Library of Congress hosts **HAER AZ-63, Yuma Crossing**. Its district record is not a public-access map. Sensitive or operational coordinates in source records are not copied here. [5]
 
 ## 5. Trip-shaped stop progression
-1. **Begin with the distinction between line and labor.** Read the source attribution before the brief excerpt: an expedition officer observing work is different from a worker recalling it.
-2. **Enter only the authorized public museum if open.** No river detour is necessary. If closed, use the remote sources.
-3. **Compare periods.** Keep the earlier report separate from the later depot's supply role; do not attach an unverified date or narrator to an exhibit.
-4. **End with the missing names.** Ask whose labor appears in the record without an individual voice, and what further evidence would let those people speak on their own terms.
 
-The strongest moment is recognizing that technical achievement depended on repeated, often incompletely credited work. This is an interpretive proposal, not proof of a particular object's provenance. No physical labor demonstration, crossing simulation or navigation challenge is part of it.
+The public anchor is the museum and visitor center at Colorado River State Historic Park, 201 N. 4th Avenue, Yuma — museum interpretation during a confirmed opening, not a self-guided expedition across the historic district. [1,2]
+
+The contemporary account is Joseph C. Ives's personally authored 1861 report of the river expedition. Around the arrival at Fort Yuma, Ives describes the work that kept steam transport moving: people cutting fuel wood, repair delays, a small settlement with a blacksmith's shop, and the crew's alternating work and rest watches. His judgment, in an excerpt with an explicit omission, is that “the labor ... is by no means small.” Ives names Captain Robinson and Mr. Carroll, but neither speaks for himself in these passages; the report holds no payrolls and no workers' own assessment of conditions. [3]
+
+A more worker-specific record is cataloged at the Yuma County Library: Y-SMS18, box 5, folder 1, holding a published ferryman's diary and Louis J. F. Iaeger's memorandum material. The finding aid was read for this dossier; the folder and diary were not. The Library of Congress hosts the district's HAER record, AZ-63, Yuma Crossing — a documentation record, not a public-access map. [4][5]
 
 ## 6. Honest gaps and conflicting dates
 - A worker-authored diary is cataloged but not yet read. The present draft satisfies the personally authored contemporary-observer branch; **direct worker testimony remains an explicit research gap**. [3,4]

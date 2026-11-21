@@ -38,17 +38,12 @@ The first-person statement remains a reading companion regardless of whether the
 The museum's FAQ states that its library and archives require an appointment. Ordinary gallery admission therefore should not be interpreted as permission to enter collections storage or consult archival originals on demand. No appointment or contact was made. [5]
 
 ## 5. Trip-shaped stop progression
-**Proposed sequence within admitted galleries, not a verified floor plan:**
 
-1. **Start with the name.** Read Schultz's short statement before viewing the exhibition. Establish that the account belongs to a specific artist, with its publisher and limits clearly identified.
-2. **Enter the advertised gallery.** Confirm that *Twilight* is open that day. If an artwork or section is unavailable, omit that step instead of substituting private access.
-3. **Read attribution before interpretation.** Where a publicly offered label names the artist, date and work, attend to those details first. Do not reduce the artist to a regional style label.
-4. **Compare the public narratives.** Notice the difference between a museum explaining a market and an artist explaining why she creates. Do not invent her response to the museum's argument.
-5. **Strongest story moment:** return to the word “unique” in Schultz's statement. The payoff is recognition of a creative person, not decoding a supposedly universal cultural symbol.
+The visitable ground is the Heard Museum in Phoenix, 2301 N. Central Avenue, and its public exhibition galleries. The exhibition this entry follows describes how individual Diné weavers' identities could be overshadowed by trading-post names, and how artists developed their own markets and presentation; Calvin Toney and Florence Riggs are among the Diné artists it names. Collection ownership and exhibition display are different facts — a work in the collection is not necessarily the work on the wall. [2,4]
 
-**Optional on-site question, if staff welcome it:** How does the exhibition distinguish individual artists' voices from the histories of the trading posts through which work circulated?
+One weaver speaks for herself in the record. Marilou Schultz's first-person statement, published by the U.S. Department of State's Art in Embassies program, says she learned weaving from her mother, Martha Gorman Schultz, and wove during her education to support it. Her purpose is in her own words: “I weave because of my love of weaving and the challenge of creating unique weavings.” A Schultz object record, 4951-71, is part of the museum's published collection evidence. [3,4]
 
-No artist is expected to perform, teach or share restricted knowledge for a visitor. If interpretation addresses loss or exploitation, keep the activity reflective and unscored. If closed, follow this sequence with the published sources only.
+The museum's library and archives are a separate door, by appointment; ordinary gallery admission does not include collections storage or archival originals. No private workshop or family location is part of this entry. [5]
 
 ## 6. Honest gaps and conflicting dates
 - The operator's current winter hours and exhibition end date were read, but no day-of visit or gallery inspection occurred. [1,2]

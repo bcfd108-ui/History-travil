@@ -10,7 +10,7 @@ Three JSON files, rebuilt together:
 |---|---|
 | `data/machine/research-queue.json` | Unfilled leads from the current lane sheets, desk sweep lists, and the current county-register controls, in work order. |
 | `data/machine/verification-queue.json` | Every live catalog entry, oldest verified first. |
-| `data/machine/photo-queue.json` | A JSON twin of `photo-gaps.csv` when that file is in the repo. Until then the status is `pending: gap report not on main` and the item list is empty. |
+| `data/machine/photo-queue.json` | All incomplete photo records, in the order written by the photo desk, including archival-only records. |
 
 Each research item has a stable id, a projected slug, a target slug when reconciliation finds a dossier, the name, town, county, postal state, tier, anchor posture as filed, every source reference that collapsed into the item, a queue state, and an `attempts` array. Phase 1 always writes `attempts` as `[]`. The state `working` is reserved for a later worker. This generator does not emit it.
 
@@ -29,18 +29,20 @@ These superseded exports are listed in the manifest and were **not** copied into
 
 The live catalog is the corpus plus `data/sites.json` from `scripts/convert.mjs`. This phase does not change the converter. `data/sites.json` is generated at build time and is not committed. `data/index.json` and `data/stats.json` stay as they were; a local build rewrites them and they should be restored if that rewrite is not itself the change under review.
 
-The photo gap report is `photo-gaps.csv`. Its generator is on open PR #3 (`photos-every-listing`) and is not on main. This phase does not copy that generator and does not touch PR #3. When `public/desk/photo-gaps.csv` or `data/photo-gaps.csv` is present, the photo queue becomes the CSV's rows with the CSV's own keys, in file order.
+The photo desk writes `public/desk/photo-gaps.csv` in the npm `postconvert` step. The queue copies every column and row in file order. A checkout with neither this report nor its `data/photo-gaps.csv` fallback yields an empty, pending photo queue.
+
+Only `public/desk/field-photo-targets.csv` supplies public field options. Each row carries a reviewed viewpoint or permitted subject. Desk-review and archival-only rows stay at the desk. A public-ground record that already has a current image also stays at the desk for its historical image.
 
 ## Regenerate
 
 From `app/`:
 
 ```
-node scripts/convert.mjs
+npm run convert
 npm run queue:build
 ```
 
-`npm run build` runs the converter, the existing map and hunt checks, then `scripts/check-machine-queue.mjs`. The check rebuilds all three queues in memory, validates their shape, and exits 1 with `MACHINE QUEUE CHECK FAILED` if a committed file differs from that rebuild.
+`npm run build` runs conversion and photo coverage, rebuilds navigation, runs the map and hunt checks, then runs `scripts/check-machine-queue.mjs`. The check rebuilds all three queues in memory, validates their shape, and exits 1 with `MACHINE QUEUE CHECK FAILED` if a committed file differs from that rebuild.
 
 `npm run test:queue` runs the queue tests (`node --test`).
 

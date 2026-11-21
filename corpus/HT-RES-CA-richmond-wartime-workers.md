@@ -36,15 +36,12 @@ A captioned NPS portrait shows Soskin in her ranger uniform at the visitor cente
 The center's public presence does not create access rights to neighboring businesses or facilities. If the door is closed, the fallback is remote reading, not a waterfront exploration.
 
 ## 5. Trip-shaped stop progression
-**Single visitor-center visit, reflection rather than a hunt.** Use the operator's1–2-hour allowance if taking in films and exhibits; no additional route or drive-time estimate is proposed. [1]
 
-1. **Before arrival:** confirm holiday and temporary-opening status. Read the limited interview passage with its date and recollection limits visible.
-2. **Enter the designated visitor center:** do not treat the whole historic complex as a museum. Stay in admitted public areas.
-3. **Begin with the familiar image:** consider what kind of paid work a standard wartime picture makes recognizable. This is an original question, not a claim about a specific panel currently displayed.
-4. **Read the clerk's experience beside it:** bring office labor, domestic work and racial separation into the discussion without assigning Soskin tasks or wages she did not report.
-5. **Strongest landing:** ask, “Who becomes invisible when one image is allowed to stand for everyone's contribution?” Let the discussion end quietly. No role-playing segregation or scoring experiences of exclusion.
+The public anchor is the National Park Service Visitor Education Center in the former Oil House, 1414 Harbour Way South, Suite 3000, Richmond, which offers exhibits and films. A particular film schedule or Soskin-specific gallery object was not checked for this dossier; her interview stands as a research transcript whether or not it is exhibited. [1,4]
 
-**Winter/closed-door fallback:** use the public transcript and NPS historical page remotely. Do not seek the original union building, a ship, shoreline, memorial or industrial viewpoint as a substitute. No technical shipbuilding or operational instructions included.
+Betty Reid Soskin was interviewed by Nadine Wilmot in 2002 for the Bancroft Library's Rosie the Riveter World War II American Homefront Oral History Project (issued 2007). In the pages read here, she describes her work in the Black union auxiliary, Local A-36: clerical work and friendships, an office she distinguishes from shipbuilding, and a segregation she understood differently later. Her account sets clerical employment against the domestic day work common among women in her mother's circle — her comparison of constrained opportunities, not a claim about every Black woman's wartime experience, her own wage, or her childcare arrangements. [4]
+
+A captioned NPS portrait shows Soskin in her ranger uniform at this visitor center. It documents her later interpretation work, not her wartime employment. No former union-office interior, household room or shipbuilding artifact is offered as an accessible stop. [5–6]
 
 ## 6. Honest gaps and conflicting dates
 - In the interview, Soskin estimates her A-36 employment as1943–44 rather than offering a firm start date. Preserve that uncertainty; 2002 interview, 2007 publication and wartime events are separate dates. [4]

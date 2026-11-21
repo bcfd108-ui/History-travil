@@ -48,13 +48,11 @@ No visitor entry is proposed for working or dismantled mills, private houses, ti
 
 ## 5. Trip-shaped stop progression
 
-1. **Begin at the public museum's actual entrance.** Check current notices and admission rather than following a historic mill pin.
-2. **Start small.** Read the short worker recollection, with its date and source. Ask what the account notices that a grand industrial photograph might overlook.
-3. **Change scale.** If relevant public labels are available, compare their emphasis with the interview. Do not assume the museum owns or displays a particular tool.
-4. **Add the collective story.** Introduce the later strike as a different episode, with different participants and evidence. Keep this section quiet and noncompetitive.
-5. **Strongest story moment:** finish by holding two truths together: skill and effort built the industry, and its benefits and burdens were not experienced equally. Which voices would be needed to tell that more fully?
+The public anchor is the Clarke Historical Museum in Eureka, under the operator's opening and admission rules. No Rutledge artifact or timber-labor exhibit is verified as currently on display, and no publicly accessible historical workplace is part of this entry. [1,3]
 
-This is a suggested interpretive progression, not a tour booking or activated route. It does not rely on entering ruins or following old logging alignments.
+The worker's account is published by the Forest History Society. P. J. Rutledge, interviewed in Eureka in March 1953 by John Larson, recalled entering woods work at fifteen in 1889. His first job supplied water, repeatedly, through the long working day: “It kept me busy.” He described about eleven hours of work inside a twelve-hour camp-to-operation day. His family had arrived in Eureka in 1883; he joined Dolbeer and Carson in 1898 and later advanced to foreman and superintendent — so his youthful memory comes from a man who later held management authority, not a representative voice for every employee. The transcript was read; the audio was not heard. [4]
+
+A further research lead sits at Cal Poly Humboldt: the Ina and Noel Harris Collection (2011.02), identified by its finding aid but not retrieved in full. Roscoe's society-published labor essay supplies local historical interpretation alongside. [5][6]
 
 ## 6. Honest gaps and conflicting dates
 

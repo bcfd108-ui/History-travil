@@ -30,15 +30,12 @@ The verified physical offering is the operating museum described in its visitor 
 No surviving field structure, original gathering room, historic family house, protest location or original household object was verified for public entry. No current label, audio station or exhibition installation at the Center was inspected. A possible absence in a museum display is an interpretation question, not evidence that a worker’s experience did not occur.
 
 ## 5. Trip-shaped stop progression
-This is a sequence within one authorized public institution, with online reading before or after. It supplies no street walk or external route.
 
-1. **Confirm the museum gate.** Check the chosen date against holiday closures and use the public entrance. Do not assume archive consultation is part of admission.
-2. **Begin with the family voice.** Read the short Garcia passage and its attribution before entering a literature-centered interpretation. Keep remembered speech distinct from independently recorded speech.
-3. **Ask what kind of evidence each display offers.** Where an open exhibit discusses labor, distinguish novel, author biography, historical document and later oral recollection. If no such exhibit is present, retain the comparison as reading rather than inventing a stop.
-4. **Add the catalog’s limit.** A repository description can identify a promising family account without giving permission to invent its unplayed contents.
-5. **End at the strongest story moment:** the movement was not only a public leader on a platform. Families considered what solidarity would cost and what dignity required. That is an interpretive conclusion grounded in the named testimony, not an invitation to reenact a confrontation.
+The verified physical offering is the National Steinbeck Center, 1 Main St, Salinas. No current label, audio station or installation at the Center was inspected for this dossier, and no surviving field structure, gathering room, family house or protest location was verified for public entry. The evidence is published and cataloged, and it stands on its own. [1]
 
-Optional unsent museum question: **Which sources here let farmworkers and their families speak in their own words, and which accounts are literary representations?** No request to identify present residents or private properties is proposed.
+California Humanities' *Pictures from the Field* publishes Robert Garcia's account of Salinas Valley organizing. Garcia recalls initially remaining a foreman while his parents joined the 1970 strike, then changing his position after witnessing the treatment of his father. He credits his mother: “My mom was really the inspiration.” That is Garcia's remembered account, including his recollection of her views — not a separately recorded interview with Guadalupe. [2]
+
+CSUMB's catalog describes a second household view: Simon Salinas's interview by Guadalupe Casco, dated October 11, 2012 (record SalinasSimon_2012_CRP). He recalls growing up as one of twelve children in a migrant-farmworker family, seasonal family life in Texas and California, and connects education with later advocacy. The catalog was read directly; its transcript download returned an error and the video was not watched. [3]
 
 ## 6. Honest gaps and conflicting dates
 - The operator’s current gate is published; live closures, transportation, staffing and individual accessibility needs were not checked.

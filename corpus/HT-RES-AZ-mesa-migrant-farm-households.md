@@ -34,13 +34,12 @@ The distinction matters: treating every agricultural artifact as this family's p
 **Regional comparison, not Mesa proof:** Geta LeSeur's published Arizona PBS interview discusses research with Black agricultural families centered on Randolph. It is useful for resisting a single-family, single-race account of Arizona farm labor, but neither the interview nor the families discussed are silently reassigned to Mesa. [6]
 
 ## 5. Trip-shaped stop progression
-1. **Before arrival, identify who is speaking.** Read the narrator, interview date and descendant-versus-eyewitness distinction. The family account stands on its own as an archive-only experience.
-2. **Enter only the museum's authorized visitor space during confirmed opening.** Do not use an old place-name as a destination or follow a source's reference toward working property.
-3. **Start with the relationship between work and shelter.** Hold the brief account in mind while reading any relevant public interpretation actually available. If nothing directly supports this topic, do not invent a display connection.
-4. **Separate object from attribution.** A generic agricultural object, if displayed, may illustrate a kind of work but cannot establish this family's ownership, use or experience without an item record.
-5. **Land on the household, not the harvest total.** The strongest moment is recognizing that a short work offer could reorganize family life. Leave room for what the grandmother herself might have said; her grandson's story is not her recorded voice.
 
-This is a reflection progression rather than a physical hunt. No crop picking, labor reenactment, tent reconstruction, water-system visit or poverty simulation is proposed. It does not require a visit to any historically named property.
+The public ground for this story is the Mesa Historical Museum, in the Old Lehi School at 2345 N. Horne — a local-history museum, not a former camp or working farm. Its displays rotate, and the record promises no display about the Trimble family or the cotton camps. [1,2]
+
+The Mesa connection itself survives as a published family account. Marshall Trimble, interviewed by Pam Stevenson on November 13, 2013, tells how his paternal family arrived in 1918 and was offered cotton-field work that came with a place to sleep — a tent. His grandmother picked cotton; his grandfather supervised workers. His whole summary of that work is three words: “They picked cotton.” [4]
+
+Trimble was retelling inherited family history, not remembering 1918 himself; his own stated birth year is 1939. The transcript is published by the Historical League, and the original recordings are held by the Arizona Heritage Center Archives in Tempe. The museum's own stored collections are a separate door: archive research there requires a written request and approval in advance. [3,4]
 
 ## 6. Honest gaps and conflicting dates
 - **Firsthand-event gap:** the named narrator directly supplies his family account, but was not alive during the 1918 episode. No interview with the grandmother or grandfather, payroll, tenancy agreement or contemporary camp record was verified.

@@ -42,14 +42,11 @@ The museum today offers regional interpretation rather than verified access to C
 
 ## 5. Trip-shaped stop progression
 
-This is a proposed sequence inside a verified public institution, not an activated route.
+The public anchor is the Kern County Museum, 3801 Chester Avenue, Bakersfield. Its Pioneer Village and Haggard exhibit offer material household context for the period — relocated and interpreted ground, not an untouched historic landscape, and specific interior access is not established. Historic camp footprints, residences, farms and work yards are excluded. [1][4]
 
-1. **Orient at the visitor entrance.** The museum identifies the Aera Energy Gallery as its entry. Check what is actually open; do not improvise around closures. [4]
-2. **Start with the regional overview.** Look for what its current labels say about migration and households. This draft does not promise a dedicated Dust Bowl gallery or Chapin display.
-3. **Consider a household object or structure only if open.** Ask what labor made a dwelling usable: feeding people, cleaning, repairing, sharing space. Do not assign an unidentified object to a migrant family.
-4. **End with the strongest story moment: Chapin's changed mind.** In an appropriate public resting place, read the short interview statement above and reflect on the difference between an arrival account and a later decision to stay. There is no reason to drive to a historic residence to make that turn in the story meaningful.
+The household voice is Imogene Chapin's. On August 1, 1940, at the Arvin FSA Camp, Charles L. Todd and Robert Sonkin recorded her; the State Historical Society of Iowa publishes the three-page transcription. Chapin names Marshall, Arkansas, as her former home and the camp newspaper — the *Tow-Sack Tattler* — as the paper that asked to print one of her verses. The poem moves through repeated disappointments in the search for work, then through food, heat and uncomfortable rest in California. After the reading she says she wants to remain: “I've changed my mind a lot about California since I've been here.” That is spoken interview testimony, not a lyric quotation. The audio endpoint was identified but could not be played in this pass. [2][3]
 
-Allow daylight for outdoor museum movement; no completion time, distance, seating availability or after-hours admission is promised.
+The museum's photograph holdings include regional Dust Bowl migrants; copy inquiries go to its archivist, and no appointment, item retrieval or image license was obtained for this dossier. [5]
 
 ## 6. Honest gaps and conflicting dates
 

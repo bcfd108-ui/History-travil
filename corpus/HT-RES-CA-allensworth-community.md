@@ -51,13 +51,11 @@ Crucially, Allensworth is not only a historical park. The **Allensworth Progress
 
 ## 5. Trip-shaped stop progression
 
-1. **Arrive with time before closing:** use the operator-designated entrance and begin with current on-site information. Ask about available visitor areas only if undertaking an independently authorized visit; no advance inquiry has been sent.
-2. **Orient to preservation:** distinguish surviving material, restoration and reconstruction before interpreting what the landscape seems to show.
-3. **Read the household story:** carry Royal's short recollection into the interpretation. This is a narrative lens, not a direction to locate her relatives' former garden or a private parcel.
-4. **Notice work beyond the founder:** if the day's permitted public path reaches relevant interpretive panels, compare the school and service-business stories. Do not make access to any specific interior a required part of the experience.
-5. **End with the strongest story moment:** reflect on education continuing after the school day, through a family sharing knowledge. The quiet conclusion is not that a vanished ideal has been recovered perfectly, but that people's labor and memories can still complicate the easy label “ghost town.”
+The public ground is Colonel Allensworth State Historic Park — the townsite itself, held as a state park. A visitor-center visit is separate from permission to enter a historic building, and whether a structure is original or reconstructed fabric is a matter for its own label or staff explanation; period furniture alone does not establish uninterrupted survival. The operator's virtual-tour photographs show interiors and exteriors, but seeing a room online does not prove it will be open in person. [2][6]
 
-This is an adaptable visit inside one authorized park, not a turn-by-turn road itinerary. Closed buildings do not justify alternate doors, fence crossings or excursions into the living community. The published transcript and virtual tour provide an archive-only fallback.
+The town's survival story is carried by its residents. In the State Parks-hosted transcript *The Town That Refused to Die*, former resident Alice Royal remembers following her grandmother among the animals and a garden, then learning from her teacher aunt outside classroom hours: “it was teach all the time.” Her text was read; the audio was not heard. [3]
+
+The park's docent manual adds the building work: George Johnson, identified as the carpenter when residents contributed labor to the early schoolhouse; former pupil Henry Singleton's affectionate memory of teacher William Payne, playtime against serious study; and Warren, Maria and Elmer Carter in the family's livery business. These are institutional retellings with embedded named recollections — the underlying Singleton interview was not obtained. [4]
 
 ## 6. Honest gaps and conflicting dates
 
