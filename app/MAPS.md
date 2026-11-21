@@ -4,8 +4,10 @@
 map lane files it: `sheets[]`, `ties[]`, `schemaNotes`, `backCompat`. It is
 v3 today. To move to a newer version, **replace this one file**. A sheet
 whose `image.src` is null or whose `image.status` is
-`pending-conversion-upload` (Ste. Genevieve) is listed as pending conversion
-and is never shown as an image. `source.sourceFiles` (GeoTIFF/GeoPDF) are
+`pending-conversion-upload` is listed as pending conversion and is never
+shown as an image. Ste. Genevieve (`mo-weingarten-usgs-1909`) is set to
+`status: "hosted"` using its Wikimedia Commons upload (repo copy updated
+from the Drive v3 file). `source.sourceFiles` (GeoTIFF/GeoPDF) are
 source files only, never display URLs.
 
 **Rules:** `lib/maps-core.mjs`. **Build check:** `scripts/check-maps.mjs`,
@@ -37,8 +39,8 @@ which runs inside `npm run build`. **Tests:** `npm run test:maps`.
   which are stable holding-institution hosts. Any other host fails the build.
 - If `image.src` is null, the sheet is **pending conversion**. It is listed
   in the library and on its sheet page as pending, and it is never shown as
-  an image. Ste. Genevieve (USGS Weingarten 1909) is in this state until its
-  converted image is hosted and `image.src` is set in the file.
+  an image. Ste. Genevieve (USGS Weingarten 1909) uses `status: "hosted"` with its
+  full-sheet Commons JPEG (`4513×5925`).
 - Where a sheet record has no `caption` or `alt`, the figure prints the
   sheet's own title and date. Nothing is written to fill the gap.
 

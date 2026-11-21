@@ -34,6 +34,7 @@ export function hasPoint(tie) {
  *  library marks it `pending-conversion-upload`. source.sourceFiles (GeoTIFF
  *  etc.) and plannedSrcAfterUpload are never display images. */
 export const PENDING_IMAGE_STATUS = "pending-conversion-upload";
+export const HOSTED_IMAGE_STATUS = "hosted";
 
 export function isPending(sheet) {
   if (!sheet.image) return true;
@@ -67,7 +68,7 @@ export function toV1(tie, sheet) {
     alt: sheet.alt,
     caption: tie.caption ?? sheet.caption,
     credit: sheet.credit,
-    sourceName: sheet.sourceName ?? `Library of Congress — Sanborn Maps Collection, item ${sheet.source.itemId}`,
+    sourceName: sheet.sourceName ?? (sheet.source?.collection?.includes("Sanborn") ? `Library of Congress — Sanborn Maps Collection, item ${sheet.source.itemId}` : sheet.source?.collection || sheet.source?.itemId || "Source record"),
     sourceUrl: sheet.source.pageUrl,
     dateNote: tie.dateNote ?? sheet.limitsNote,
   };
@@ -99,8 +100,14 @@ export function checkLibrary(library, siteSlugs, tourIds, v1) {
     if (!s.place || !s.place.state || !s.place.town) P.push(`${s.id}: missing place.state/town`);
     if (!s.source || !s.source.pageUrl) P.push(`${s.id}: missing source.pageUrl`);
     if (!s.coverage || !s.coverage.basis) P.push(`${s.id}: missing coverage.basis`);
+    if (s.image && s.image.status != null && s.image.status !== PENDING_IMAGE_STATUS && s.image.status !== HOSTED_IMAGE_STATUS) {
+      P.push(`${s.id}: unknown image.status "${s.image.status}"`);
+    }
     if (s.image && s.image.status === PENDING_IMAGE_STATUS && s.image.src) {
       P.push(`${s.id}: image.status is pending-conversion-upload but image.src is set — keep src null until the file is hosted`);
+    }
+    if (s.image && s.image.status === HOSTED_IMAGE_STATUS && !s.image.src) {
+      P.push(`${s.id}: image.status is hosted but image.src is null`);
     }
     const sourceFileUrls = new Set(Object.values((s.source && s.source.sourceFiles) || {}).filter((v) => typeof v === "string" && /^https?:/.test(v)));
     if (s.image && s.image.src && sourceFileUrls.has(s.image.src)) {

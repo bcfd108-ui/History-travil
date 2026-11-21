@@ -33,7 +33,7 @@ function OneSheet({ tie, sheet }: { tie: MapTie; sheet: MapSheet }) {
   const caption = tie.caption ?? sheet.caption ?? sheetLabel(sheet);
   const alt = sheet.alt ?? sheetLabel(sheet);
   const sourceName =
-    sheet.sourceName ?? `Library of Congress — Sanborn Maps Collection, item ${sheet.source.itemId}`;
+    sheet.sourceName ?? (sheet.source?.collection?.includes("Sanborn") ? `Library of Congress — Sanborn Maps Collection, item ${sheet.source.itemId}` : sheet.source?.collection || sheet.source?.itemId || "Source record");
   const dateNote = tie.dateNote ?? sheet.limitsNote;
   const point = mapTieHasPoint(tie) ? tie.position : null;
 

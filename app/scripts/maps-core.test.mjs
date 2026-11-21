@@ -59,12 +59,20 @@ test("pending-conversion-upload with a display src fails", () => {
   assert.ok(checkLibrary(l, sites, tours, v1).some((p) => /pending-conversion-upload but image.src is set/.test(p)));
 });
 
+test("hosted status with null image.src fails", () => {
+  const l = clone();
+  const sg = l.sheets.find((x) => x.id === "mo-weingarten-usgs-1909");
+  sg.image.status = "hosted";
+  sg.image.src = null;
+  assert.ok(checkLibrary(l, sites, tours, v1).some((p) => /image.status is hosted but image.src is null/.test(p)));
+});
+
 test("a source.sourceFiles URL used as image.src fails", () => {
   const l = clone();
   const sg = l.sheets.find((x) => x.id === "mo-weingarten-usgs-1909");
   const geotiff = sg.source.sourceFiles && sg.source.sourceFiles.geotiff;
   assert.ok(geotiff);
-  delete sg.image.status;
+  sg.image.status = "hosted";
   sg.image.displayDerivativeNeeded = false;
   sg.image.src = geotiff;
   assert.ok(checkLibrary(l, sites, tours, v1).some((p) => /must not be a source.sourceFiles URL/.test(p)));

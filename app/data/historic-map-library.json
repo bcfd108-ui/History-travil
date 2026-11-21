@@ -1,6 +1,6 @@
 {
  "version": 3,
- "generated": "2026-11-21 (America/Los_Angeles) — DRAFT for Dash review; not deployed",
+ "generated": "2026-11-21 (America/Los_Angeles) \u2014 DRAFT for Dash review; not deployed",
  "schemaNotes": {
   "position": "x/y are percentages of the FULL image width/height (origin top-left), independent of display size. null = no point.",
   "status": "checked = position fixed from listed reference points AND confirmed by at least two held-out features; no-point-by-rule = the tie stands but no position meets the standard. 'placed' (fixed but not yet checked) is reserved; no tie uses it and the site must not render a point unless status is 'checked'.",
@@ -11,7 +11,7 @@
  "sheets": [
   {
    "id": "ia-boone-1916-s09",
-   "title": "Sanborn Fire Insurance Map from Boone, Boone County, Iowa — sheet 9",
+   "title": "Sanborn Fire Insurance Map from Boone, Boone County, Iowa \u2014 sheet 9",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "April 1916",
@@ -55,12 +55,12 @@
    "limitsNote": "April 1916. This sheet documents the railroad shops at the Boone stop. It does not establish the Lincoln Highway alignment or public access to the historic rail yard.",
    "caption": "Boone's Chicago & North Western roundhouse, turntable, machine shop and adjoining yard, mapped in April 1916.",
    "alt": "1916 fire insurance map showing the curved Chicago and North Western roundhouse around a turntable, the machine shop, and parallel railroad tracks in Boone, Iowa.",
-   "sourceName": "Library of Congress — Sanborn Maps Collection, item sanborn02583_006",
+   "sourceName": "Library of Congress \u2014 Sanborn Maps Collection, item sanborn02583_006",
    "tieCount": 2
   },
   {
    "id": "id-lewiston-1918-s01",
-   "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho — sheet 1 (key map and index)",
+   "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho \u2014 sheet 1 (key map and index)",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "May 1918",
@@ -107,7 +107,7 @@
   },
   {
    "id": "id-lewiston-1918-s04",
-   "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho — sheet 4",
+   "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho \u2014 sheet 4",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "May 1918",
@@ -147,14 +147,14 @@
    "setNote": null,
    "printedScale": "Graphic 'Scale of Feet' bar, lower right.",
    "printedNorth": "Compass rose with north arrow printed lower left; north is toward the top of the sheet.",
-   "limitsNote": "May 1918. This sheet documents building footprints, materials, uses and house numbers on the 400–600 blocks of Main as surveyed for fire insurance. It predates the 1920–21 conversion of 611 Main into the Liberty Theater, and it does not establish what survives today, any building's present use, or public access to any interior.",
+   "limitsNote": "May 1918. This sheet documents building footprints, materials, uses and house numbers on the 400\u2013600 blocks of Main as surveyed for fire insurance. It predates the 1920\u201321 conversion of 611 Main into the Liberty Theater, and it does not establish what survives today, any building's present use, or public access to any interior.",
    "caption": null,
    "alt": null,
    "tieCount": 1
   },
   {
    "id": "id-lewiston-1918-s11",
-   "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho — sheet 11",
+   "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho \u2014 sheet 11",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "May 1918",
@@ -192,8 +192,8 @@
    "sheetNumber": "11",
    "setSize": 30,
    "setNote": null,
-   "printedScale": "Graphic 'Scale of Feet' bar (0–150 ft), bottom centre.",
-   "printedNorth": "Compass rose printed lower left; its north arrow points toward the right edge — this sheet is NOT north-up.",
+   "printedScale": "Graphic 'Scale of Feet' bar (0\u2013150 ft), bottom centre.",
+   "printedNorth": "Compass rose printed lower left; its north arrow points toward the right edge \u2014 this sheet is NOT north-up.",
    "limitsNote": "May 1918. This sheet documents the 1909 Union Depot's footprint, brick construction and room layout (waiting room, ticket office, baggage room) beside the Camas Prairie main track. It does not establish the depot's present use, its interior condition, or any approach to the tracks, which are not public ground.",
    "caption": null,
    "alt": null,
@@ -201,7 +201,7 @@
   },
   {
    "id": "id-lewiston-1918-s26",
-   "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho — sheet 26",
+   "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho \u2014 sheet 26",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "May 1918",
@@ -234,21 +234,21 @@
    "coverage": {
     "bounds": "7th Ave. (north) to 10th Ave. (south); City Park and 5th St. (west) to 7th St. (east); 6th St., 8th Ave. and 9th Ave. between",
     "basis": "as printed",
-    "description": "The Lewiston State Normal School campus — Administration Building, Lewis Hall girls' dormitory, Domestic Science Building, gymnasium — and residential blocks east of 6th St."
+    "description": "The Lewiston State Normal School campus \u2014 Administration Building, Lewis Hall girls' dormitory, Domestic Science Building, gymnasium \u2014 and residential blocks east of 6th St."
    },
    "sheetNumber": "26",
    "setSize": 30,
    "setNote": null,
    "printedScale": "Graphic 'Scale of Feet' bar, lower right.",
    "printedNorth": "Compass rose with north arrow printed at left; north is toward the top of the sheet.",
-   "limitsNote": "May 1918. This sheet documents the Normal School Administration Building as 'being remodeled from fire ruins — from plans' after the 1917 fire. It does not show or establish the clock tower's pre-fire or rebuilt silhouette (towers are not drawn in elevation), the finished 1918–20 reconstruction, or current campus access.",
+   "limitsNote": "May 1918. This sheet documents the Normal School Administration Building as 'being remodeled from fire ruins \u2014 from plans' after the 1917 fire. It does not show or establish the clock tower's pre-fire or rebuilt silhouette (towers are not drawn in elevation), the finished 1918\u201320 reconstruction, or current campus access.",
    "caption": null,
    "alt": null,
    "tieCount": 1
   },
   {
    "id": "id-wallace-1908-s01",
-   "title": "Sanborn Fire Insurance Map from Wallace, Shoshone County, Idaho — sheet 1 (key map, index, and Nine Mile Creek strip)",
+   "title": "Sanborn Fire Insurance Map from Wallace, Shoshone County, Idaho \u2014 sheet 1 (key map, index, and Nine Mile Creek strip)",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "December 1908",
@@ -281,21 +281,21 @@
    "coverage": {
     "bounds": "Key map of the whole mapped town between the mountain slopes; lower panel: the Northern Pacific depot and the County Road/Nine Mile Creek strip east of it",
     "basis": "as printed",
-    "description": "Key map dividing Wallace into sheets 2–7, specials index, water and fire notes; lower panel maps the N.P.R.R. depot, freight house, and warehouses along Nine Mile Creek."
+    "description": "Key map dividing Wallace into sheets 2\u20137, specials index, water and fire notes; lower panel maps the N.P.R.R. depot, freight house, and warehouses along Nine Mile Creek."
    },
    "sheetNumber": "1",
    "setSize": 7,
    "setNote": null,
    "printedScale": "Graphic 'Scale of Feet' bar, lower left.",
    "printedNorth": "North arrow top left on the key map (north up); the lower panel carries its own arrow, rotated.",
-   "limitsNote": "December 1908 — about twenty months before the August 1910 fire. This sheet documents the town plan and the Northern Pacific depot at its 1908 site. It does not establish what burned in 1910, the depot's later move (the depot museum stands on a different spot today), or the Interstate 90 alignment.",
+   "limitsNote": "December 1908 \u2014 about twenty months before the August 1910 fire. This sheet documents the town plan and the Northern Pacific depot at its 1908 site. It does not establish what burned in 1910, the depot's later move (the depot museum stands on a different spot today), or the Interstate 90 alignment.",
    "caption": null,
    "alt": null,
    "tieCount": 2
   },
   {
    "id": "id-wallace-1908-s05",
-   "title": "Sanborn Fire Insurance Map from Wallace, Shoshone County, Idaho — sheet 5",
+   "title": "Sanborn Fire Insurance Map from Wallace, Shoshone County, Idaho \u2014 sheet 5",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "December 1908",
@@ -334,7 +334,7 @@
    "setSize": 7,
    "setNote": null,
    "printedScale": "Graphic 'Scale of Feet' bar, bottom centre-right.",
-   "printedNorth": "Compass rose printed left of centre; north points to the LEFT edge — this sheet is not north-up.",
+   "printedNorth": "Compass rose printed left of centre; north points to the LEFT edge \u2014 this sheet is not north-up.",
    "limitsNote": "December 1908. This sheet documents downtown Wallace's brick and frame buildings, uses and street widths before the 1910 fire. It does not establish which of these buildings survive, the post-2002 cleanup or the 2004 manhole monument, or anything about access.",
    "caption": null,
    "alt": null,
@@ -342,7 +342,7 @@
   },
   {
    "id": "ms-natchez-1910-s10",
-   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi — sheet 10",
+   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi \u2014 sheet 10",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "January 1910",
@@ -375,21 +375,21 @@
    "coverage": {
     "bounds": "Madison St. (north) to Jefferson St. (south); N. Union St. (west) to N. Pine St. and Byrne/Abbott Streets (east); Monroe and High Streets between",
     "basis": "as printed",
-    "description": "Residential and light-industrial blocks north of downtown, the Y. & M.V. R.R. line along Monroe, Union School, St. John's M.E. Church and Zion Hall, and the 600–700 blocks of Jefferson."
+    "description": "Residential and light-industrial blocks north of downtown, the Y. & M.V. R.R. line along Monroe, Union School, St. John's M.E. Church and Zion Hall, and the 600\u2013700 blocks of Jefferson."
    },
    "sheetNumber": "10",
    "setSize": 26,
    "setNote": null,
    "printedScale": "Graphic 'Scale of Feet' bar, bottom centre (title page of the set prints 'Scale 50 ft to an inch').",
    "printedNorth": "Compass rose top right; north points up and slightly left.",
-   "limitsNote": "January 1910. This sheet documents building footprints, materials, heights, uses and house numbers as surveyed for fire insurance. It does not establish who owned or worked in these buildings, the enslaved and free people tied to them, which buildings survive, or public access to any property. On King's Tavern specifically, it records a 2½-story building with brick basement at 613 Jefferson; it does not date the building or support any of the tavern's folklore.",
+   "limitsNote": "January 1910. This sheet documents building footprints, materials, heights, uses and house numbers as surveyed for fire insurance. It does not establish who owned or worked in these buildings, the enslaved and free people tied to them, which buildings survive, or public access to any property. On King's Tavern specifically, it records a 2\u00bd-story building with brick basement at 613 Jefferson; it does not date the building or support any of the tavern's folklore.",
    "caption": null,
    "alt": null,
    "tieCount": 1
   },
   {
    "id": "ms-natchez-1910-s11",
-   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi — sheet 11",
+   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi \u2014 sheet 11",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "January 1910",
@@ -436,7 +436,7 @@
   },
   {
    "id": "ms-natchez-1910-s14",
-   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi — sheet 14",
+   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi \u2014 sheet 14",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "January 1910",
@@ -483,7 +483,7 @@
   },
   {
    "id": "ms-natchez-1910-s16",
-   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi — sheet 16",
+   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi \u2014 sheet 16",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "January 1910",
@@ -530,7 +530,7 @@
   },
   {
    "id": "ms-vicksburg-1913-s10",
-   "title": "Sanborn Fire Insurance Map from Vicksburg, Warren County, Mississippi — sheet 10",
+   "title": "Sanborn Fire Insurance Map from Vicksburg, Warren County, Mississippi \u2014 sheet 10",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "December 1913",
@@ -570,14 +570,14 @@
    "setNote": null,
    "printedScale": "Graphic 'Scale of Feet' bar, bottom right (set title page prints 'Scale 50 ft to an inch').",
    "printedNorth": "Compass rose top left; north points up and slightly left.",
-   "limitsNote": "December 1913. This sheet documents the 1858 courthouse in Court Square — footprint, four porticoes, steam heat from the jail, and a clock-tower elevation note — while it was still the working Warren County Court House. It does not establish the 1863 siege ground, the 1939 move of county offices across Cherry St., or the museum's current hours or access.",
+   "limitsNote": "December 1913. This sheet documents the 1858 courthouse in Court Square \u2014 footprint, four porticoes, steam heat from the jail, and a clock-tower elevation note \u2014 while it was still the working Warren County Court House. It does not establish the 1863 siege ground, the 1939 move of county offices across Cherry St., or the museum's current hours or access.",
    "caption": null,
    "alt": null,
    "tieCount": 1
   },
   {
    "id": "la-new-orleans-1908-v2-s121",
-   "title": "Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana — Vol. 2, sheet 121",
+   "title": "Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana \u2014 Vol. 2, sheet 121",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "1908 (Vol. 2)",
@@ -603,28 +603,28 @@
    "credit": "Sanborn Map Company, 1908 (Vol. 2), sheet 121. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
    "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
    "place": {
-    "town": "New Orleans (Vieux Carré)",
+    "town": "New Orleans (Vieux Carr\u00e9)",
     "county": "Orleans Parish",
     "state": "LA"
    },
    "coverage": {
     "bounds": "Bourbon St. (top) to Decatur St. (bottom); St. Peter St. (left) to Dumaine St. (right); Royal and Chartres Streets, Orleans and St. Ann Streets, and Madison St. between",
     "basis": "as printed",
-    "description": "Jackson Square (block 24) with the Jackson Monument; St. Louis R.C. Cathedral (block 45); the Cabildo front marked 'Court' and 'District Police Station' with the State Arsenal behind (block 43); the Presbytère front marked 'Court' (block 46); the Convent of the Sisters of the Holy Family (block 59); the 600 block of Dumaine."
+    "description": "Jackson Square (block 24) with the Jackson Monument; St. Louis R.C. Cathedral (block 45); the Cabildo front marked 'Court' and 'District Police Station' with the State Arsenal behind (block 43); the Presbyt\u00e8re front marked 'Court' (block 46); the Convent of the Sisters of the Holy Family (block 59); the 600 block of Dumaine."
    },
    "sheetNumber": "121",
    "setSize": null,
-   "setNote": "LOC item sanborn03376_010 is a bound volume (LOC notes: '1908; Vol. 2.', '101 sheet(s).'). Sheet numbers run in the city-wide series (111–206), so set size is not a simple n-of-N. The LOC file list also carries a separate image '0121S' for this sheet that was not inspected; the record uses image 03376_02_1908-0121.",
+   "setNote": "LOC item sanborn03376_010 is a bound volume (LOC notes: '1908; Vol. 2.', '101 sheet(s).'). Sheet numbers run in the city-wide series (111\u2013206), so set size is not a simple n-of-N. The LOC file list also carries a separate image '0121S' for this sheet that was not inspected; the record uses image 03376_02_1908-0121.",
    "printedScale": "Graphic 'Scale of Feet' bar, bottom right.",
-   "printedNorth": "Compass rose bottom left; north points up and to the right — the sheet is drawn on the Quarter's river-oriented grid, not north-up.",
-   "limitsNote": "1908 (volume 2 of the 1908–1909 New Orleans set). This sheet documents footprints, materials, heights and uses around Jackson Square and up to Dumaine St. It does not establish the eighteenth-century fabric or construction dates of any building, the Louisiana State Museum's later use of the Cabildo and Presbytère, or current access, hours or closures (Madame John's Legacy is closed for restoration).",
+   "printedNorth": "Compass rose bottom left; north points up and to the right \u2014 the sheet is drawn on the Quarter's river-oriented grid, not north-up.",
+   "limitsNote": "1908 (volume 2 of the 1908\u20131909 New Orleans set). This sheet documents footprints, materials, heights and uses around Jackson Square and up to Dumaine St. It does not establish the eighteenth-century fabric or construction dates of any building, the Louisiana State Museum's later use of the Cabildo and Presbyt\u00e8re, or current access, hours or closures (Madame John's Legacy is closed for restoration).",
    "caption": null,
    "alt": null,
    "tieCount": 5
   },
   {
    "id": "mo-hannibal-1913-s02",
-   "title": "Sanborn Fire Insurance Map from Hannibal, Marion County, Missouri — sheet 2",
+   "title": "Sanborn Fire Insurance Map from Hannibal, Marion County, Missouri \u2014 sheet 2",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "November 1913",
@@ -663,7 +663,7 @@
    "setSize": 40,
    "setNote": "LOC item sanborn04688_005; the LOC file list starts with an unnumbered title/index image (04688_1913-0000), so printed sheet 2 is LOC file 03 (04688_1913-0002).",
    "printedScale": "Graphic 'Scale of Feet' bar, bottom right (title page prints the set scale).",
-   "printedNorth": "Compass rose top right; north points up and to the left — not north-up.",
+   "printedNorth": "Compass rose top right; north points up and to the left \u2014 not north-up.",
    "limitsNote": "November 1913. This sheet documents the riverfront rail and dock layout and the commercial blocks of North Main, including the 'Old Mark Twain Homestead' label on Hill St. It does not establish the 1840s town Sam Clemens knew, the location of any print shop he worked in, Nipper Park, or current museum access; 415 N. Main itself is not numbered on the sheet (the 400 block's south frontage is a lumber yard in 1913).",
    "caption": null,
    "alt": null,
@@ -671,7 +671,7 @@
   },
   {
    "id": "mo-weingarten-usgs-1909",
-   "title": "Missouri–Illinois, Weingarten Quadrangle (Topography), 15-minute series",
+   "title": "Missouri\u2013Illinois, Weingarten Quadrangle (Topography), 15-minute series",
    "maker": "U.S. Geological Survey, in cooperation with the State of Missouri Bureau of Geology and Mines",
    "publisher": "U.S. Geological Survey",
    "date": "Edition of Apr. 1909",
@@ -690,18 +690,19 @@
     }
    },
    "image": {
-    "src": null,
-    "status": "pending-conversion-upload",
-    "displayDerivativeNeeded": true,
-    "conversion": "Done 2026-11-21: a straight pixel conversion of the full sheet at 4513×5925 px (JPEG q95; lossless PNG master). No warping, cropping or retouching. Not yet hosted at a stable URL.",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/USGS_Weingarten_quadrangle%2C_Missouri-Illinois%2C_1909%2C_1-62500_%28HTMC_scan_325335%29.jpg",
+    "status": "hosted",
+    "displayDerivativeNeeded": false,
+    "conversion": "Done 2026-11-21: a straight pixel conversion of the full sheet at 4513\u00d75925 px (JPEG q95; lossless PNG master). No warping, cropping or retouching. Not yet hosted at a stable URL.",
     "plannedCommonsFile": "File:USGS Weingarten quadrangle, Missouri-Illinois, 1909, 1-62500 (HTMC scan 325335).jpg",
     "plannedSrcAfterUpload": "https://upload.wikimedia.org/wikipedia/commons/3/3e/USGS_Weingarten_quadrangle%2C_Missouri-Illinois%2C_1909%2C_1-62500_%28HTMC_scan_325335%29.jpg",
     "rule": "Keep src null until the file exists on Commons under exactly that name. Then set src to the URL above (check the hash path on the file page) and set status to 'hosted'. Never point src at Drive, a temporary host or the GeoTIFF.",
     "width": 4513,
     "height": 5925,
-    "host": null
+    "host": "Wikimedia Commons (full-sheet conversion of USGS HTMC scan 325335)",
+    "commonsPage": "https://commons.wikimedia.org/wiki/File:USGS_Weingarten_quadrangle,_Missouri-Illinois,_1909,_1-62500_(HTMC_scan_325335).jpg"
    },
-   "credit": "U.S. Geological Survey, Weingarten quadrangle, Missouri–Illinois, 1:62,500, edition of April 1909 (surveyed 1907). Public domain (U.S. Government work).",
+   "credit": "U.S. Geological Survey, Weingarten quadrangle, Missouri\u2013Illinois, 1:62,500, edition of April 1909 (surveyed 1907). Public domain (U.S. Government work).",
    "rights": "Work of the U.S. Government; no copyright. USGS metadata: 'Acknowledgment of the U.S. Geological Survey is expected for products derived from these data.'",
    "place": {
     "town": "Ste. Genevieve",
@@ -710,26 +711,26 @@
    },
    "coverage": {
     "bounds": {
-     "north": "38°00′",
-     "south": "37°45′",
-     "west": "90°15′",
-     "east": "90°00′"
+     "north": "38\u00b000\u2032",
+     "south": "37\u00b045\u2032",
+     "west": "90\u00b015\u2032",
+     "east": "90\u00b000\u2032"
     },
     "basis": "as printed",
-    "description": "15 × 15 minute quadrangle; corner values printed in the collar (37°45′ / 90°00′ read at the south-east corner this pass) and matching USGS metadata. Ste. Genevieve town is in the north-east corner, with the Mississippi River, Moro Island and Brewerville (Illinois)."
+    "description": "15 \u00d7 15 minute quadrangle; corner values printed in the collar (37\u00b045\u2032 / 90\u00b000\u2032 read at the south-east corner this pass) and matching USGS metadata. Ste. Genevieve town is in the north-east corner, with the Mississippi River, Moro Island and Brewerville (Illinois)."
    },
    "sheetNumber": null,
    "setSize": null,
    "printedScale": "1:62,500 ('Scale 1/62500'), contour interval 20 feet",
    "printedNorth": "North-up quadrangle (neatline on meridians and parallels).",
-   "limitsNote": "Edition of April 1909, from a 1907 survey. This quadrangle documents the town grid, roads, rail line, river channel and terrain around Ste. Genevieve at 1:62,500. At this scale buildings are generalized dots and blocks, so it does not locate any single house — including the Bauvais-Amoureux House on St. Mary's Road — and it says nothing about ownership, households or access.",
+   "limitsNote": "Edition of April 1909, from a 1907 survey. This quadrangle documents the town grid, roads, rail line, river channel and terrain around Ste. Genevieve at 1:62,500. At this scale buildings are generalized dots and blocks, so it does not locate any single house \u2014 including the Bauvais-Amoureux House on St. Mary's Road \u2014 and it says nothing about ownership, households or access.",
    "caption": null,
    "alt": null,
    "tieCount": 1
   },
   {
    "id": "ms-natchez-1910-s21",
-   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi — sheet 21",
+   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi \u2014 sheet 21",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "January 1910",
@@ -762,14 +763,14 @@
    "coverage": {
     "bounds": "Main sheet: State St. (top) to Orleans St. and the deep ravine (bottom); S. Rankin St. (left) to beyond S. Pine St. (right), with Washington St. and the start of Homochitto St. Inset (lower right): St. Catherine St., Washington Road, Liberty Road and O'Farrall Ave., with Gold St.",
     "basis": "as printed",
-    "description": "Residential blocks 27–29 and 67 east of Rankin; the inset shows the junction of St. Catherine St., Washington Road and Liberty Road with the Adams Ginning & Mfg. Co. (block 62)."
+    "description": "Residential blocks 27\u201329 and 67 east of Rankin; the inset shows the junction of St. Catherine St., Washington Road and Liberty Road with the Adams Ginning & Mfg. Co. (block 62)."
    },
    "sheetNumber": "21",
    "setSize": 26,
    "setNote": null,
    "printedScale": "Graphic 'Scale of Feet' bar (set title page prints 'Scale 50 ft to an inch').",
    "printedNorth": "Compass rose upper middle (main sheet) and a north arrow in the inset; neither is exactly north-up.",
-   "limitsNote": "January 1910. The inset shows the street junction at the Forks of the Road and the cotton gin that stood there in 1910. It does not show the 1830s–1863 slave market, which had no surviving structure to draw, and it does not establish where the market's pens or buildings stood.",
+   "limitsNote": "January 1910. The inset shows the street junction at the Forks of the Road and the cotton gin that stood there in 1910. It does not show the 1830s\u20131863 slave market, which had no surviving structure to draw, and it does not establish where the market's pens or buildings stood.",
    "caption": null,
    "alt": null,
    "addedIn": "v3",
@@ -777,7 +778,7 @@
   },
   {
    "id": "ms-natchez-1910-s23",
-   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi — sheet 23",
+   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi \u2014 sheet 23",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "January 1910",
@@ -810,7 +811,7 @@
    "coverage": {
     "bounds": "State St. (top) to Foley's Alley and the deep ravine (bottom); S. Wall St. (left) to S. Commerce St. (right); Washington and Orleans Streets and S. Pearl St. between",
     "basis": "as printed",
-    "description": "Blocks 38–41 and 62–64: the Baptist Church and Adams Co. Jail on State; St. Joseph's School (girls) with the Sisters' Residence in block 38; the large brick house at 215 S. Pearl at Washington (block 38)."
+    "description": "Blocks 38\u201341 and 62\u201364: the Baptist Church and Adams Co. Jail on State; St. Joseph's School (girls) with the Sisters' Residence in block 38; the large brick house at 215 S. Pearl at Washington (block 38)."
    },
    "sheetNumber": "23",
    "setSize": 26,
@@ -825,7 +826,7 @@
   },
   {
    "id": "ms-natchez-1910-s24",
-   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi — sheet 24",
+   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi \u2014 sheet 24",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "January 1910",
@@ -858,14 +859,14 @@
    "coverage": {
     "bounds": "State St. (top) to Milburn Ave. (bottom); Silver St. and the Y.&M.V. R.R. (left) to S. Wall St. (right); S. Broadway, S. Canal, Washington, Wenzel and Orleans Streets between",
     "basis": "as printed",
-    "description": "Blocks 45–48 and 61: the Mississippi Central R.R. Terminal (passenger depot) and freight depot on S. Canal; the State St. row of block 45 between Canal and Wall; L. Lowenburg & Co. cotton warehouses."
+    "description": "Blocks 45\u201348 and 61: the Mississippi Central R.R. Terminal (passenger depot) and freight depot on S. Canal; the State St. row of block 45 between Canal and Wall; L. Lowenburg & Co. cotton warehouses."
    },
    "sheetNumber": "24",
    "setSize": 26,
    "setNote": null,
    "printedScale": "Graphic 'Scale of Feet' bar (set title page prints 'Scale 50 ft to an inch').",
    "printedNorth": "Compass rose at upper right; north points up and slightly left.",
-   "limitsNote": "January 1910. This sheet documents the State St. row in block 45, including a 2½-storey brick dwelling numbered 210/212 with its rear dependencies, and the railroad terminal built beside it by 1910. It does not establish William Johnson's 1840s construction, the people who worked on the building, the interior, or current access.",
+   "limitsNote": "January 1910. This sheet documents the State St. row in block 45, including a 2\u00bd-storey brick dwelling numbered 210/212 with its rear dependencies, and the railroad terminal built beside it by 1910. It does not establish William Johnson's 1840s construction, the people who worked on the building, the interior, or current access.",
    "caption": null,
    "alt": null,
    "addedIn": "v3",
@@ -873,7 +874,7 @@
   },
   {
    "id": "ms-natchez-1910-s25",
-   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi — sheet 25",
+   "title": "Sanborn Fire Insurance Map from Natchez, Adams County, Mississippi \u2014 sheet 25",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "January 1910",
@@ -921,7 +922,7 @@
   },
   {
    "id": "ms-vicksburg-1913-s04",
-   "title": "Sanborn Fire Insurance Map from Vicksburg, Warren County, Mississippi — sheet 4",
+   "title": "Sanborn Fire Insurance Map from Vicksburg, Warren County, Mississippi \u2014 sheet 4",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "December 1913",
@@ -969,7 +970,7 @@
   },
   {
    "id": "ms-vicksburg-1913-s05",
-   "title": "Sanborn Fire Insurance Map from Vicksburg, Warren County, Mississippi — sheet 5",
+   "title": "Sanborn Fire Insurance Map from Vicksburg, Warren County, Mississippi \u2014 sheet 5",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "December 1913",
@@ -1017,7 +1018,7 @@
   },
   {
    "id": "la-new-orleans-1908-v2-s118",
-   "title": "Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana — Vol. 2, sheet 118",
+   "title": "Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana \u2014 Vol. 2, sheet 118",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "1908 (Vol. 2)",
@@ -1043,21 +1044,21 @@
    "credit": "Sanborn Map Company, 1908 (Vol. 2), sheet 118. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
    "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
    "place": {
-    "town": "New Orleans (Vieux Carré)",
+    "town": "New Orleans (Vieux Carr\u00e9)",
     "county": "Orleans Parish",
     "state": "LA"
    },
    "coverage": {
     "bounds": "N. Rampart St. (top) to Bourbon St. (bottom); Bienville St. (left) to St. Louis St. (right); Burgundy, Dauphine and Conti Streets between",
     "basis": "as printed",
-    "description": "Blocks 69, 70, 91, 92, 97 and 98: the Dauphine Theatre, Battleship Mfg. Co., Hern Laundry, Troy Laundry; on St. Louis St. in block 70, the 2½-storey brick dwelling numbered 820 with a detached three-storey brick rear building across a courtyard."
+    "description": "Blocks 69, 70, 91, 92, 97 and 98: the Dauphine Theatre, Battleship Mfg. Co., Hern Laundry, Troy Laundry; on St. Louis St. in block 70, the 2\u00bd-storey brick dwelling numbered 820 with a detached three-storey brick rear building across a courtyard."
    },
    "sheetNumber": "118",
    "setSize": null,
    "setNote": "LOC item sanborn03376_010 (Vol. 2) also holds 'S' images. These are uncoloured 'SKELETON' outline sheets bound beside some coloured sheets (for example 0121S). They are not separate surveys and are not used as display images.",
    "printedScale": "Graphic 'Scale of Feet' bar, bottom left.",
    "printedNorth": "Compass rose top left; the sheet is drawn on the Quarter's river-oriented grid, not north-up.",
-   "limitsNote": "1908 (volume 2 of the 1908–1909 New Orleans set). This sheet documents footprints, materials and heights in the four blocks between Rampart, Bourbon, Bienville and St. Louis. It prints no house names. It does not establish the 1831 construction, the enslaved household, the 1870s stable, the later Christian Woman's Exchange use, or current access.",
+   "limitsNote": "1908 (volume 2 of the 1908\u20131909 New Orleans set). This sheet documents footprints, materials and heights in the four blocks between Rampart, Bourbon, Bienville and St. Louis. It prints no house names. It does not establish the 1831 construction, the enslaved household, the 1870s stable, the later Christian Woman's Exchange use, or current access.",
    "caption": null,
    "alt": null,
    "addedIn": "v3",
@@ -1065,7 +1066,7 @@
   },
   {
    "id": "la-new-orleans-1908-v2-s124",
-   "title": "Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana — Vol. 2, sheet 124",
+   "title": "Sanborn Fire Insurance Map from New Orleans, Orleans Parish, Louisiana \u2014 Vol. 2, sheet 124",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "1908 (Vol. 2)",
@@ -1091,21 +1092,21 @@
    "credit": "Sanborn Map Company, 1908 (Vol. 2), sheet 124. Library of Congress, Geography and Map Division, Sanborn Maps Collection. Public domain.",
    "rights": "The Library of Congress states: \"The content of the Library of Congress online Sanborn Maps Collection is in the public domain and is free to use and reuse.\" Credit line as given by LOC: Library of Congress, Geography and Map Division, Sanborn Maps Collection.",
    "place": {
-    "town": "New Orleans (Vieux Carré)",
+    "town": "New Orleans (Vieux Carr\u00e9)",
     "county": "Orleans Parish",
     "state": "LA"
    },
    "coverage": {
     "bounds": "Esplanade Ave. (top, 'See Volume One' beyond) to Ursuline St. (bottom); Royal St. (left) to Decatur St. (right); Barracks St., Hospital St. (now Gov. Nicholls) and Chartres St. between",
     "basis": "as printed",
-    "description": "Blocks 17–19 and 50–52: St. Mary's R.C. Church and the building labelled 'Archbishop R.C.' with a school, in block 19 (Chartres, Hospital, Decatur, Ursuline); Ursuline Sisters' R.C. School and Crescent City Seltzer & Mineral Water Co. in block 50; macaroni and furniture factories on Barracks St."
+    "description": "Blocks 17\u201319 and 50\u201352: St. Mary's R.C. Church and the building labelled 'Archbishop R.C.' with a school, in block 19 (Chartres, Hospital, Decatur, Ursuline); Ursuline Sisters' R.C. School and Crescent City Seltzer & Mineral Water Co. in block 50; macaroni and furniture factories on Barracks St."
    },
    "sheetNumber": "124",
    "setSize": null,
    "setNote": null,
    "printedScale": "Graphic 'Scale of Feet' bar, bottom right.",
    "printedNorth": "Compass rose top left; the sheet is drawn on the Quarter's river-oriented grid, not north-up.",
-   "limitsNote": "1908 (volume 2 of the 1908–1909 New Orleans set). This sheet documents the long brick building labelled 'Archbishop R.C.' and the attached St. Mary's R.C. Church in block 19. It does not establish the building's 1752–53 completion, the Ursulines' century there, the enslaved people attached to the convent, or current museum access.",
+   "limitsNote": "1908 (volume 2 of the 1908\u20131909 New Orleans set). This sheet documents the long brick building labelled 'Archbishop R.C.' and the attached St. Mary's R.C. Church in block 19. It does not establish the building's 1752\u201353 completion, the Ursulines' century there, the enslaved people attached to the convent, or current museum access.",
    "caption": null,
    "alt": null,
    "addedIn": "v3",
@@ -1113,7 +1114,7 @@
   },
   {
    "id": "id-lewiston-1918-s03",
-   "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho — sheet 3",
+   "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho \u2014 sheet 3",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "May 1918",
@@ -1146,7 +1147,7 @@
    "coverage": {
     "bounds": "Oregon Packing Co. and the Camas Prairie R.R. yards (top) to Main St. (bottom); N. 1st St. (left) to N. 4th St. (right); B, C and D Streets between",
     "basis": "as printed",
-    "description": "City Hall with I.F.D. Hose House No. 1, Hotel de France, Hotel Bollinger, Means Blk., 'The Tribune', Red Front Livery, Lewiston Laundry Co.; block 23 between D St. and Main from N. 3rd to N. 4th (301–319 Main)."
+    "description": "City Hall with I.F.D. Hose House No. 1, Hotel de France, Hotel Bollinger, Means Blk., 'The Tribune', Red Front Livery, Lewiston Laundry Co.; block 23 between D St. and Main from N. 3rd to N. 4th (301\u2013319 Main)."
    },
    "sheetNumber": "3",
    "setSize": 30,
@@ -1161,7 +1162,7 @@
   },
   {
    "id": "id-lewiston-1918-s15",
-   "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho — sheet 15",
+   "title": "Sanborn Fire Insurance Map from Lewiston, Nez Perce County, Idaho \u2014 sheet 15",
    "maker": "Sanborn Map Company",
    "publisher": "Sanborn Map Company, New York",
    "date": "May 1918",
@@ -1194,7 +1195,7 @@
    "coverage": {
     "bounds": "Clearwater River (top) to Garfield Public School and the Nez Perce Roller Mills inset (bottom); N. 21st St. (left) to N. 23rd St. (right); Main St. crossing diagonally; Camas Prairie R.R. main line",
     "basis": "as printed",
-    "description": "Pacific Power & Light Co. plant; mostly open blocks 302–305 along Main between 21st and 22nd; East End Mission; dwellings on 22nd and 23rd."
+    "description": "Pacific Power & Light Co. plant; mostly open blocks 302\u2013305 along Main between 21st and 22nd; East End Mission; dwellings on 22nd and 23rd."
    },
    "sheetNumber": "15",
    "setSize": 30,
@@ -1227,7 +1228,7 @@
    "entryUrl": "https://onoldground.com/tours/lincoln-highway-iowa",
    "position": null,
    "status": "no-point-by-rule",
-   "caption": "Boone stop inset — Boone's Chicago & North Western roundhouse, turntable, machine shop and adjoining yard, mapped in April 1916.",
+   "caption": "Boone stop inset \u2014 Boone's Chicago & North Western roundhouse, turntable, machine shop and adjoining yard, mapped in April 1916.",
    "dateNote": "April 1916. This sheet documents the railroad shops at the Boone stop. It does not establish the Lincoln Highway alignment or public access to the historic rail yard.",
    "basisNote": "Migrated unchanged from v1 (key 'lincoln-highway-iowa' is a tour id, not a site slug). A tour route is not a point; the sheet predates and does not show the highway alignment."
   },
@@ -1236,7 +1237,7 @@
    "entrySlug": "lewiston-confluence",
    "position": null,
    "status": "no-point-by-rule",
-   "basisNote": "Key map shows the 1918 Snake–Clearwater confluence, but the entry's ground is the modern Levee Parkway confluence area; the levees and reservoir shoreline post-date the sheet (Lower Granite, 1975), so the entry's position on 1918 ground cannot be fixed to within a street width.",
+   "basisNote": "Key map shows the 1918 Snake\u2013Clearwater confluence, but the entry's ground is the modern Levee Parkway confluence area; the levees and reservoir shoreline post-date the sheet (Lower Granite, 1975), so the entry's position on 1918 ground cannot be fixed to within a street width.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/lewiston-confluence"
   },
@@ -1245,7 +1246,7 @@
    "entrySlug": "lewiston-locomotive-park",
    "position": null,
    "status": "no-point-by-rule",
-   "basisNote": "2102 Main falls in the index range 'Main 2021–2254, sheet 15'; sheet 15 was not sourced this pass and the key map gives no lot-level position. The park itself post-dates 1918.",
+   "basisNote": "2102 Main falls in the index range 'Main 2021\u20132254, sheet 15'; sheet 15 was not sourced this pass and the key map gives no lot-level position. The park itself post-dates 1918.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/lewiston-locomotive-park"
   },
@@ -1281,7 +1282,7 @@
    "entrySlug": "lewiston-main-street",
    "position": null,
    "status": "no-point-by-rule",
-   "basisNote": "611 Main is printed on the north frontage between 609 and 615–617, inside the 600 block bracketed by N. 6th and 7th Streets, and in 1918 it carries the Klaus & Thomas Garage (16 cars). A position at x≈68.0%, y≈80.8% was fixed but NOT kept: the only checks available (adjacent house numbers, the 6th/7th block bracket, index range 'Main 401–649, sheet 4') all depend on the same numbering system, so there is no independent held-out feature proving 1918 '611' is the modern Liberty Theater lot. The entry's '1902 hardware building' history is not visible on the sheet either. Upgrade only with an independent check (e.g., a dated building permit or NR nomination naming the 1918 occupant). Morgan's Alley (301–311 Main) is on sheet 3, not sourced.",
+   "basisNote": "611 Main is printed on the north frontage between 609 and 615\u2013617, inside the 600 block bracketed by N. 6th and 7th Streets, and in 1918 it carries the Klaus & Thomas Garage (16 cars). A position at x\u224868.0%, y\u224880.8% was fixed but NOT kept: the only checks available (adjacent house numbers, the 6th/7th block bracket, index range 'Main 401\u2013649, sheet 4') all depend on the same numbering system, so there is no independent held-out feature proving 1918 '611' is the modern Liberty Theater lot. The entry's '1902 hardware building' history is not visible on the sheet either. Upgrade only with an independent check (e.g., a dated building permit or NR nomination naming the 1918 occupant). Morgan's Alley (301\u2013311 Main) is on sheet 3, not sourced.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/lewiston-main-street"
   },
@@ -1293,7 +1294,7 @@
     "y": 33.0
    },
    "status": "checked",
-   "basisNote": "Placed on the building the sheet itself labels 'UNION DEPOT' at 1233 Main (waiting room centre). Reference points used to fix it: (1) Main St. label and street line; (2) 12th St. at the top of the sheet; (3) the 'Driveway' south of the depot; (4) Camas Prairie R.R. main track; (5) Nez Perce County Court House, labelled across Main; (6) printed house number 1233; (7) block number 224; (8) facing house numbers 1234 and 1302. Held-out checks, not used to fix: (a) the sheet-1 'Specials' index lists 'Union Depot — sheet 11'; (b) the footprint — brick, central waiting room with ticket-office bay toward the track and a baggage room wing — matches the entry's National Register description of the 1909 brick building with waiting spaces and baggage/storage wings. Disagreement: none beyond a street width.",
+   "basisNote": "Placed on the building the sheet itself labels 'UNION DEPOT' at 1233 Main (waiting room centre). Reference points used to fix it: (1) Main St. label and street line; (2) 12th St. at the top of the sheet; (3) the 'Driveway' south of the depot; (4) Camas Prairie R.R. main track; (5) Nez Perce County Court House, labelled across Main; (6) printed house number 1233; (7) block number 224; (8) facing house numbers 1234 and 1302. Held-out checks, not used to fix: (a) the sheet-1 'Specials' index lists 'Union Depot \u2014 sheet 11'; (b) the footprint \u2014 brick, central waiting room with ticket-office bay toward the track and a baggage room wing \u2014 matches the entry's National Register description of the 1909 brick building with waiting spaces and baggage/storage wings. Disagreement: none beyond a street width.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/lewiston-depot"
   },
@@ -1305,7 +1306,7 @@
     "y": 56.0
    },
    "status": "checked",
-   "basisNote": "Placed at the centre of the footprint the sheet labels 'ADMINISTRATION BUILDING … being remodeled from fire ruins — from plans' (block 121, 'Lewiston State Normal School'). Reference points: (1) 7th Ave.; (2) 8th Ave.; (3) 9th Ave.; (4) 10th Ave. (not opened); (5) 6th St.; (6) 7th St.; (7) City Park edge; (8) Lewis Hall girls' dormitory and Domestic Science Bldg. labels; (9) Gymnasium label. Held-out: (a) sheet-1 index lists 'Lewiston State Normal School — sheet 26'; (b) the 'fire ruins' note matches the entry's account of the fire that gutted the Normal School. The point marks the Administration Building, not the tower; the sheet does not draw the tower.",
+   "basisNote": "Placed at the centre of the footprint the sheet labels 'ADMINISTRATION BUILDING \u2026 being remodeled from fire ruins \u2014 from plans' (block 121, 'Lewiston State Normal School'). Reference points: (1) 7th Ave.; (2) 8th Ave.; (3) 9th Ave.; (4) 10th Ave. (not opened); (5) 6th St.; (6) 7th St.; (7) City Park edge; (8) Lewis Hall girls' dormitory and Domestic Science Bldg. labels; (9) Gymnasium label. Held-out: (a) sheet-1 index lists 'Lewiston State Normal School \u2014 sheet 26'; (b) the 'fire ruins' note matches the entry's account of the fire that gutted the Normal School. The point marks the Administration Building, not the tower; the sheet does not draw the tower.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/lewiston-normal-hill"
   },
@@ -1344,7 +1345,7 @@
     "y": 8.3
    },
    "status": "checked",
-   "basisNote": "Placed at the centre of the Bank St. × 6th St. intersection as drawn. Reference points: (1) '6TH' street label and the 6th St. right-of-way; (2) Bank St. label (mid-sheet) and its 75-ft right-of-way; (3) 5th St.; (4) 4th St.; (5) corner house numbers 524 (east) and 525 (west) at the 6th St. corner; (6) 520/521 and 518/519 down the block; (7) White & Bender Co. at the north-east corner; (8) printed street width '75''. Held-out: (a) the sheet-1 key map places the 6th St. crossing of Bank at the corner of blocks 19/20/21, where sheet 5 meets sheet 6 — consistent; (b) the sheet-6 reference '6' printed just north of the intersection. The entry says the cover sits slightly off-centre in the roadway; that offset is far less than a street width.",
+   "basisNote": "Placed at the centre of the Bank St. \u00d7 6th St. intersection as drawn. Reference points: (1) '6TH' street label and the 6th St. right-of-way; (2) Bank St. label (mid-sheet) and its 75-ft right-of-way; (3) 5th St.; (4) 4th St.; (5) corner house numbers 524 (east) and 525 (west) at the 6th St. corner; (6) 520/521 and 518/519 down the block; (7) White & Bender Co. at the north-east corner; (8) printed street width '75''. Held-out: (a) the sheet-1 key map places the 6th St. crossing of Bank at the corner of blocks 19/20/21, where sheet 5 meets sheet 6 \u2014 consistent; (b) the sheet-6 reference '6' printed just north of the intersection. The entry says the cover sits slightly off-centre in the roadway; that offset is far less than a street width.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/ID-wallace-center-of-the-universe-manhole"
   },
@@ -1356,7 +1357,7 @@
     "y": 88.6
    },
    "status": "checked",
-   "basisNote": "Placed at the centre of the main block of the building printed at 613 Jefferson. Reference points: (1) N. Union St. (west edge of the block); (2) N. Rankin St. (east edge); (3) Jefferson St. label; (4) High St. (north); (5) block number 16; (6) frontage numbers 601, 603, 605, 607, 609, 611, 615, 617, 619 along Jefferson. Held-out, not used to fix: (a) the sheet marks this building '2½' stories with 'B.B.' (brick basement), matching the entry's NRHP 71000444 description of a two-and-a-half-story heavy-timber frame building over a brick basement; (b) the set index assigns Jefferson 601–809 to sheet 10. No disagreement beyond a street width.",
+   "basisNote": "Placed at the centre of the main block of the building printed at 613 Jefferson. Reference points: (1) N. Union St. (west edge of the block); (2) N. Rankin St. (east edge); (3) Jefferson St. label; (4) High St. (north); (5) block number 16; (6) frontage numbers 601, 603, 605, 607, 609, 611, 615, 617, 619 along Jefferson. Held-out, not used to fix: (a) the sheet marks this building '2\u00bd' stories with 'B.B.' (brick basement), matching the entry's NRHP 71000444 description of a two-and-a-half-story heavy-timber frame building over a brick basement; (b) the set index assigns Jefferson 601\u2013809 to sheet 10. No disagreement beyond a street width.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/MS-kings-tavern-natchez"
   },
@@ -1368,7 +1369,7 @@
     "y": 51.3
    },
    "status": "checked",
-   "basisNote": "Placed at the centre of the main house in block 74. Reference points: (1) Monroe St. (north side of the block); (2) High St. (south side); (3) N. Commerce St. (east); (4) N. Pearl St. (west); (5) block number 74; (6) house numbers 400 and 402 across High St.; (7) the 1st Methodist Church label on block 15; (8) Madison St. at the top of the sheet. Held-out: (a) the set index assigns High 400–517 to sheet 11, and the north frontage of the 400 block of High is block 74, consistent with 401 High St.; (b) the building is drawn as a large two-story brick dwelling standing alone in the block with a central rooftop element marked '3' (read here as the cupola) and an attached rear wing, matching the entry's description of the house with an attached service wing. The sheet prints no name and no house number on the building itself.",
+   "basisNote": "Placed at the centre of the main house in block 74. Reference points: (1) Monroe St. (north side of the block); (2) High St. (south side); (3) N. Commerce St. (east); (4) N. Pearl St. (west); (5) block number 74; (6) house numbers 400 and 402 across High St.; (7) the 1st Methodist Church label on block 15; (8) Madison St. at the top of the sheet. Held-out: (a) the set index assigns High 400\u2013517 to sheet 11, and the north frontage of the 400 block of High is block 74, consistent with 401 High St.; (b) the building is drawn as a large two-story brick dwelling standing alone in the block with a central rooftop element marked '3' (read here as the cupola) and an attached rear wing, matching the entry's description of the house with an attached service wing. The sheet prints no name and no house number on the building itself.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/MS-stanton-hall"
   },
@@ -1377,7 +1378,7 @@
    "entrySlug": "MS-house-on-ellicott-hill",
    "position": null,
    "status": "no-point-by-rule",
-   "basisNote": "The sheet prints 209–215 N. Canal at the Jefferson corner of block 12, with two separate frame dwellings. The entry itself records that the Garden Club and the architectural history give different Canal St. numbers (211 vs. 215), so which drawn building is the house cannot be fixed by address, and the sheet carries no name. Blank by rule.",
+   "basisNote": "The sheet prints 209\u2013215 N. Canal at the Jefferson corner of block 12, with two separate frame dwellings. The entry itself records that the Garden Club and the architectural history give different Canal St. numbers (211 vs. 215), so which drawn building is the house cannot be fixed by address, and the sheet carries no name. Blank by rule.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/MS-house-on-ellicott-hill"
   },
@@ -1398,7 +1399,7 @@
     "y": 66.0
    },
    "status": "checked",
-   "basisNote": "Placed at the centre of the footprint the sheet labels 'ST. MARY'S R.C. CATHEDRAL'. Reference points: (1) Main St. (north side of block 31); (2) S. Union St. (west); (3) S. Rankin St. (east); (4) State St. (south); (5) frontage numbers 600, 602, 604, 606 on Main; (6) 101 and 103 on S. Union; (7) the Priest's House and 'Cathedral Park' labels; (8) the Cathedral School across Main. Held-out: (a) the set's Specials index lists 'St. Mary's Cath. and School — sheet 16'; (b) the spire is drawn at the Union St. end and the apse at the east end, consistent with a church fronting Union. The name on the sheet settles the building; the 101/107 address question does not affect the point.",
+   "basisNote": "Placed at the centre of the footprint the sheet labels 'ST. MARY'S R.C. CATHEDRAL'. Reference points: (1) Main St. (north side of block 31); (2) S. Union St. (west); (3) S. Rankin St. (east); (4) State St. (south); (5) frontage numbers 600, 602, 604, 606 on Main; (6) 101 and 103 on S. Union; (7) the Priest's House and 'Cathedral Park' labels; (8) the Cathedral School across Main. Held-out: (a) the set's Specials index lists 'St. Mary's Cath. and School \u2014 sheet 16'; (b) the spire is drawn at the Union St. end and the apse at the east end, consistent with a church fronting Union. The name on the sheet settles the building; the 101/107 address question does not affect the point.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/MS-st-mary-basilica-natchez"
   },
@@ -1410,7 +1411,7 @@
     "y": 21.4
    },
    "status": "checked",
-   "basisNote": "Placed at the centre of the building the sheet labels 'COUNTY COURT HOUSE' in block 14. Reference points: (1) W. Jackson St. (north); (2) W. Grove St. (south); (3) N. Monroe St. (west); (4) N. Cherry St. (east); (5) block number 14; (6) the four W.C. octagons at the square's corners; (7) the County Jail across Grove; (8) St. Mary's Church across Cherry. Held-out: (a) the set's Specials index lists 'County Court House and Jail — sheet 10'; (b) the drawn building has a projecting portico on each of its four sides and a 'clock tower' note, matching the 1858 courthouse. The entry's note that county offices moved across Cherry St. in 1939 is consistent with the jail block shown across the street.",
+   "basisNote": "Placed at the centre of the building the sheet labels 'COUNTY COURT HOUSE' in block 14. Reference points: (1) W. Jackson St. (north); (2) W. Grove St. (south); (3) N. Monroe St. (west); (4) N. Cherry St. (east); (5) block number 14; (6) the four W.C. octagons at the square's corners; (7) the County Jail across Grove; (8) St. Mary's Church across Cherry. Held-out: (a) the set's Specials index lists 'County Court House and Jail \u2014 sheet 10'; (b) the drawn building has a projecting portico on each of its four sides and a 'clock tower' note, matching the 1858 courthouse. The entry's note that county offices moved across Cherry St. in 1939 is consistent with the jail block shown across the street.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/MS-old-court-house-museum"
   },
@@ -1422,7 +1423,7 @@
     "y": 57.1
    },
    "status": "checked",
-   "basisNote": "Placed in the Chartres St. front building of block 43, marked 'Court' and 'District Police Station', at the corner of St. Peter. Reference points: (1) Chartres St.; (2) St. Peter St.; (3) Orleans/Exchange Passage line; (4) Jackson Square (block 24) across Chartres; (5) St. Louis Cathedral (block 45) next door; (6) house numbers 701 and 713 on Chartres; (7) the 'State Arsenal' label in the rear of the block; (8) block number 43. Held-out: (a) the entry's own record places the courts in the Cabildo (the Sala Capitular as the state court's courtroom) and an early police station/guardhouse on this site — matching the sheet's 'Court' and 'Police Station' labels; (b) the Cathedral's index listing ('St. Louis Catholic Cathedral — sheet 121') confirms the sheet.",
+   "basisNote": "Placed in the Chartres St. front building of block 43, marked 'Court' and 'District Police Station', at the corner of St. Peter. Reference points: (1) Chartres St.; (2) St. Peter St.; (3) Orleans/Exchange Passage line; (4) Jackson Square (block 24) across Chartres; (5) St. Louis Cathedral (block 45) next door; (6) house numbers 701 and 713 on Chartres; (7) the 'State Arsenal' label in the rear of the block; (8) block number 43. Held-out: (a) the entry's own record places the courts in the Cabildo (the Sala Capitular as the state court's courtroom) and an early police station/guardhouse on this site \u2014 matching the sheet's 'Court' and 'Police Station' labels; (b) the Cathedral's index listing ('St. Louis Catholic Cathedral \u2014 sheet 121') confirms the sheet.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/LA-cabildo"
   },
@@ -1434,7 +1435,7 @@
     "y": 56.9
    },
    "status": "checked",
-   "basisNote": "Placed in the Chartres St. front building of block 46, marked 'Court', at the corner of St. Ann. Reference points: (1) Chartres St.; (2) St. Ann St.; (3) St. Anthony's Alley (St. Anthony St.) separating it from the Cathedral; (4) Royal St.; (5) block number 46; (6) Jackson Square across Chartres; (7) 'Priests House' label inside block 46; (8) Cathedral (block 45). Held-out: (a) the entry records the Presbytère's courthouse life (courts from 1813 and later) — matching the 'Court' label; (b) symmetry with the Cabildo on the other side of the Cathedral, as on the ground.",
+   "basisNote": "Placed in the Chartres St. front building of block 46, marked 'Court', at the corner of St. Ann. Reference points: (1) Chartres St.; (2) St. Ann St.; (3) St. Anthony's Alley (St. Anthony St.) separating it from the Cathedral; (4) Royal St.; (5) block number 46; (6) Jackson Square across Chartres; (7) 'Priests House' label inside block 46; (8) Cathedral (block 45). Held-out: (a) the entry records the Presbyt\u00e8re's courthouse life (courts from 1813 and later) \u2014 matching the 'Court' label; (b) symmetry with the Cabildo on the other side of the Cathedral, as on the ground.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/LA-presbytere"
   },
@@ -1446,7 +1447,7 @@
     "y": 76.8
    },
    "status": "checked",
-   "basisNote": "Placed on the 'Jackson Monument' at the centre of the square (block 24); the Cathedral is drawn and labelled directly inland across Chartres in block 45 (centre ≈ x 32.5%, y 52.7%). Reference points: (1) Chartres St.; (2) Decatur St.; (3) St. Peter St.; (4) St. Ann St.; (5) the square's corner fire hydrants; (6) the 'Granite Block' paving notes on both sides; (7) block number 24; (8) the Cathedral label. Held-out: (a) Specials index 'St. Louis Catholic Cathedral — sheet 121'; (b) the square's printed bounds — Chartres, St. Ann, Decatur and St. Peter — match the entry's own description of the park's bounding streets.",
+   "basisNote": "Placed on the 'Jackson Monument' at the centre of the square (block 24); the Cathedral is drawn and labelled directly inland across Chartres in block 45 (centre \u2248 x 32.5%, y 52.7%). Reference points: (1) Chartres St.; (2) Decatur St.; (3) St. Peter St.; (4) St. Ann St.; (5) the square's corner fire hydrants; (6) the 'Granite Block' paving notes on both sides; (7) block number 24; (8) the Cathedral label. Held-out: (a) Specials index 'St. Louis Catholic Cathedral \u2014 sheet 121'; (b) the square's printed bounds \u2014 Chartres, St. Ann, Decatur and St. Peter \u2014 match the entry's own description of the park's bounding streets.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/LA-jackson-square-st-louis-cathedral"
   },
@@ -1458,7 +1459,7 @@
     "y": 41.6
    },
    "status": "checked",
-   "basisNote": "Placed on the frame dwelling at 628–632 Dumaine (block 47, between Royal and Chartres). Reference points: (1) Dumaine St. label; (2) Royal St.; (3) Chartres St.; (4) St. Ann St.; (5) block number 47; (6) printed Dumaine numbers 600, 610, 612, 618, 622, 624, 628, 630, 632; (7) the 'Macaroni Factory' and 'Wood Yard' labels in the block; (8) 'Cobble Stone' paving note on Dumaine. Held-out: (a) the building is drawn as frame (yellow) marked '1½ B.B.' — one and a half stories over a brick basement — matching the entry's description of a raised cottage with a solid brick basement and brick-between-posts upper story; (b) the sheet's '122' reference across Dumaine confirms the next sheet takes the downriver side, consistent with 632 being on this (block 47) side. Point sits at the 632/630 frontage of the building.",
+   "basisNote": "Placed on the frame dwelling at 628\u2013632 Dumaine (block 47, between Royal and Chartres). Reference points: (1) Dumaine St. label; (2) Royal St.; (3) Chartres St.; (4) St. Ann St.; (5) block number 47; (6) printed Dumaine numbers 600, 610, 612, 618, 622, 624, 628, 630, 632; (7) the 'Macaroni Factory' and 'Wood Yard' labels in the block; (8) 'Cobble Stone' paving note on Dumaine. Held-out: (a) the building is drawn as frame (yellow) marked '1\u00bd B.B.' \u2014 one and a half stories over a brick basement \u2014 matching the entry's description of a raised cottage with a solid brick basement and brick-between-posts upper story; (b) the sheet's '122' reference across Dumaine confirms the next sheet takes the downriver side, consistent with 632 being on this (block 47) side. Point sits at the 632/630 frontage of the building.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/LA-madame-johns-legacy"
   },
@@ -1467,7 +1468,7 @@
    "entrySlug": "LA-french-quarter-vieux-carre",
    "position": null,
    "status": "no-point-by-rule",
-   "basisNote": "District entry (the whole Vieux Carré). This sheet maps one part of it around Jackson Square; an area is not a point.",
+   "basisNote": "District entry (the whole Vieux Carr\u00e9). This sheet maps one part of it around Jackson Square; an area is not a point.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/LA-french-quarter-vieux-carre"
   },
@@ -1507,7 +1508,7 @@
     "y": 25.6
    },
    "status": "checked",
-   "basisNote": "Placed at the centre of the main block of the brick dwelling beside the printed number 215 on S. Pearl St., in block 38 at the corner of Washington St. Reference points: (1) S. Pearl St. label (west); (2) Washington St. label (south); (3) S. Commerce St. label (east); (4) State St. (north); (5) block number 38; (6) S. Pearl frontage numbers 201–215 running south to the corner; (7) Washington frontage numbers 401–411 below the block; (8) St. Joseph's School and Sisters' Residence labels in the north half of the block. Held-out checks, not used to fix the point: (a) the entry describes a brick house, stuccoed to look like brownstone, with an attached service wing; the sheet draws a brick (pink) two-storey dwelling with a two-storey brick wing running back to the north; (b) the entry describes a columned portico on the front; the sheet draws a one-storey frame porch along the S. Pearl St. face. The sheet prints no name on the building. Disagreement: none beyond a street width.",
+   "basisNote": "Placed at the centre of the main block of the brick dwelling beside the printed number 215 on S. Pearl St., in block 38 at the corner of Washington St. Reference points: (1) S. Pearl St. label (west); (2) Washington St. label (south); (3) S. Commerce St. label (east); (4) State St. (north); (5) block number 38; (6) S. Pearl frontage numbers 201\u2013215 running south to the corner; (7) Washington frontage numbers 401\u2013411 below the block; (8) St. Joseph's School and Sisters' Residence labels in the north half of the block. Held-out checks, not used to fix the point: (a) the entry describes a brick house, stuccoed to look like brownstone, with an attached service wing; the sheet draws a brick (pink) two-storey dwelling with a two-storey brick wing running back to the north; (b) the entry describes a columned portico on the front; the sheet draws a one-storey frame porch along the S. Pearl St. face. The sheet prints no name on the building. Disagreement: none beyond a street width.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/MS-magnolia-hall-natchez",
    "addedIn": "v3"
@@ -1520,7 +1521,7 @@
     "y": 6.5
    },
    "status": "checked",
-   "basisNote": "Placed at the centre of the 2½-storey brick dwelling (marked 'D.') on the south side of State St. in block 45, numbered 210 in the upper number series and 212 in the lower one. Reference points: (1) State St. label; (2) S. Canal St. (west end of the block); (3) S. Wall St. (east end); (4) Washington St. (south); (5) block number 45; (6) the printed numbers 210 and 212 over the front; (7) the vacant 210 lot immediately west; (8) the Mississippi Central R.R. Terminal / Passenger Depot west of that lot; (9) the rear dependency numbered 210½. Held-out checks, not used to fix the point: (a) the NPS William Johnson House Cultural Landscape Report says the family sold the west (Lapice) lot to the Eastern Railway in 1906, all but a 10-ft strip next to the house, and that the railway built a freight and passenger depot there by 1910 (its Fig. 2-33 is this 1910 sheet). The sheet shows the depot west of a narrow open lot beside this building. (b) The report says McCallum owned the east lot and shared a wall with Johnson. The sheet shows a second 2½-storey brick house (marked 'Negro Boarding') on the east party wall. (c) The entry describes a three-bay brick front with two dormers; the sheet draws a 2½-storey brick building. The two number series (210/212) are both printed and are not resolved by the sheet; the point rests on the depot and neighbour relationships, not on the number alone. Disagreement: none beyond a street width.",
+   "basisNote": "Placed at the centre of the 2\u00bd-storey brick dwelling (marked 'D.') on the south side of State St. in block 45, numbered 210 in the upper number series and 212 in the lower one. Reference points: (1) State St. label; (2) S. Canal St. (west end of the block); (3) S. Wall St. (east end); (4) Washington St. (south); (5) block number 45; (6) the printed numbers 210 and 212 over the front; (7) the vacant 210 lot immediately west; (8) the Mississippi Central R.R. Terminal / Passenger Depot west of that lot; (9) the rear dependency numbered 210\u00bd. Held-out checks, not used to fix the point: (a) the NPS William Johnson House Cultural Landscape Report says the family sold the west (Lapice) lot to the Eastern Railway in 1906, all but a 10-ft strip next to the house, and that the railway built a freight and passenger depot there by 1910 (its Fig. 2-33 is this 1910 sheet). The sheet shows the depot west of a narrow open lot beside this building. (b) The report says McCallum owned the east lot and shared a wall with Johnson. The sheet shows a second 2\u00bd-storey brick house (marked 'Negro Boarding') on the east party wall. (c) The entry describes a three-bay brick front with two dormers; the sheet draws a 2\u00bd-storey brick building. The two number series (210/212) are both printed and are not resolved by the sheet; the point rests on the depot and neighbour relationships, not on the number alone. Disagreement: none beyond a street width.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/MS-william-johnson-house",
    "addedIn": "v3"
@@ -1553,7 +1554,7 @@
    "entrySlug": "MS-lower-mississippi-river-museum",
    "position": null,
    "status": "no-point-by-rule",
-   "basisNote": "The set index assigns N. Washington St. 700–923 to sheet 4. The entry's museum (910 Washington St.) opened in 2012, and its stories (the 1927 flood, the towboat Mississippi IV) are not on a 1913 sheet. No 1913 feature belongs to the entry, so there is no point. The tie records only what stood along this stretch of Washington St. in 1913.",
+   "basisNote": "The set index assigns N. Washington St. 700\u2013923 to sheet 4. The entry's museum (910 Washington St.) opened in 2012, and its stories (the 1927 flood, the towboat Mississippi IV) are not on a 1913 sheet. No 1913 feature belongs to the entry, so there is no point. The tie records only what stood along this stretch of Washington St. in 1913.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/MS-lower-mississippi-river-museum",
    "addedIn": "v3"
@@ -1566,7 +1567,7 @@
     "y": 49.3
    },
    "status": "checked",
-   "basisNote": "Placed at the centre of the brick front block of the dwelling beside the printed number 1010 (old number 106) on E. 1st St. (First East St.), in block 5. Reference points: (1) N. Cherry St. label (north); (2) N. Adams St. label (south); (3) the E. 1st St. label; (4) block number 5; (5) the printed numbers 1010 (106), 1018 (108), 1020 and 1022 along the same frontage; (6) the facing numbers 1009 and 1011 across the street; (7) Cherry St. numbers 801–807 at the top of the block; (8) block 4 across E. 1st. Held-out checks, not used to fix the point: (a) the set index assigns First E. 1000–1015 to sheet 5; (b) the entry describes an older frame block behind a later brick front. The sheet draws exactly that: a two-storey brick front block facing E. 1st, with a frame block attached behind it to the west and a frame porch on the street face. Disagreement: none beyond a street width.",
+   "basisNote": "Placed at the centre of the brick front block of the dwelling beside the printed number 1010 (old number 106) on E. 1st St. (First East St.), in block 5. Reference points: (1) N. Cherry St. label (north); (2) N. Adams St. label (south); (3) the E. 1st St. label; (4) block number 5; (5) the printed numbers 1010 (106), 1018 (108), 1020 and 1022 along the same frontage; (6) the facing numbers 1009 and 1011 across the street; (7) Cherry St. numbers 801\u2013807 at the top of the block; (8) block 4 across E. 1st. Held-out checks, not used to fix the point: (a) the set index assigns First E. 1000\u20131015 to sheet 5; (b) the entry describes an older frame block behind a later brick front. The sheet draws exactly that: a two-storey brick front block facing E. 1st, with a frame block attached behind it to the west and a frame porch on the street face. Disagreement: none beyond a street width.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/MS-anchuca-victor-wilson-house",
    "addedIn": "v3"
@@ -1579,7 +1580,7 @@
     "y": 79.5
    },
    "status": "checked",
-   "basisNote": "Placed at the centre of the 2½-storey brick dwelling (marked 'D.') beside the printed number 820 on St. Louis St., in block 70. Reference points: (1) St. Louis St. label; (2) Bourbon St. (bottom); (3) Dauphine St. (top of block 70); (4) Conti St. (far side of the block); (5) block number 70; (6) the printed numbers 812, 820, 826, 832 and 836 along St. Louis; (7) the hydrant marked 'OLD' across St. Louis; (8) the Bourbon frontage numbers 405–439. Held-out checks, not used to fix the point: (a) the set index assigns St. Louis 800–1040 (even side) to sheet 118; (b) the entry describes a main house with a separate quarters building across a courtyard behind it. The sheet draws a detached three-storey brick building behind the house on the same lot, across an open yard. The entry describes the house as Federal brick; the sheet draws 2½ storeys in brick. Disagreement: none beyond a street width. The 1870s stable is not identified on the sheet.",
+   "basisNote": "Placed at the centre of the 2\u00bd-storey brick dwelling (marked 'D.') beside the printed number 820 on St. Louis St., in block 70. Reference points: (1) St. Louis St. label; (2) Bourbon St. (bottom); (3) Dauphine St. (top of block 70); (4) Conti St. (far side of the block); (5) block number 70; (6) the printed numbers 812, 820, 826, 832 and 836 along St. Louis; (7) the hydrant marked 'OLD' across St. Louis; (8) the Bourbon frontage numbers 405\u2013439. Held-out checks, not used to fix the point: (a) the set index assigns St. Louis 800\u20131040 (even side) to sheet 118; (b) the entry describes a main house with a separate quarters building across a courtyard behind it. The sheet draws a detached three-storey brick building behind the house on the same lot, across an open yard. The entry describes the house as Federal brick; the sheet draws 2\u00bd storeys in brick. Disagreement: none beyond a street width. The 1870s stable is not identified on the sheet.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/LA-hermann-grima-house",
    "addedIn": "v3"
@@ -1592,7 +1593,7 @@
     "y": 78.6
    },
    "status": "checked",
-   "basisNote": "Placed at the centre of the long brick building the sheet labels 'ARCHBISHOP R.C.' in block 19, set back from Chartres St. Reference points: (1) Chartres St. label; (2) Hospital St. (north); (3) Ursuline St. (south); (4) Decatur St. (east); (5) block number 19; (6) the 'St. Mary's R.C. Church' label; (7) the 'School' and 'Bell Tower' labels; (8) the cobblestone paving notes on Hospital and Ursuline; (9) the Decatur frontage numbers 1101–1141. Held-out checks, not used to fix the point: (a) the entry says the building was the residence of the bishops and archbishops of New Orleans until 1899, with St. Mary's Church (1845) adjoining it as their chapel. The sheet labels the building 'Archbishop R.C.' and draws St. Mary's R.C. Church attached at its north end. (b) The entry gives the convent as about 160 × 48 ft, with two floors and a dormered attic. On the sheet's scale bar (about 5.9 px per ft) the drawn block measures about 134 × 52 ft, marked 2½ storeys. Disagreement: about 26 ft in length, within a street width. The point is on the building's centre, and it does not depend on the length difference.",
+   "basisNote": "Placed at the centre of the long brick building the sheet labels 'ARCHBISHOP R.C.' in block 19, set back from Chartres St. Reference points: (1) Chartres St. label; (2) Hospital St. (north); (3) Ursuline St. (south); (4) Decatur St. (east); (5) block number 19; (6) the 'St. Mary's R.C. Church' label; (7) the 'School' and 'Bell Tower' labels; (8) the cobblestone paving notes on Hospital and Ursuline; (9) the Decatur frontage numbers 1101\u20131141. Held-out checks, not used to fix the point: (a) the entry says the building was the residence of the bishops and archbishops of New Orleans until 1899, with St. Mary's Church (1845) adjoining it as their chapel. The sheet labels the building 'Archbishop R.C.' and draws St. Mary's R.C. Church attached at its north end. (b) The entry gives the convent as about 160 \u00d7 48 ft, with two floors and a dormered attic. On the sheet's scale bar (about 5.9 px per ft) the drawn block measures about 134 \u00d7 52 ft, marked 2\u00bd storeys. Disagreement: about 26 ft in length, within a street width. The point is on the building's centre, and it does not depend on the length difference.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/LA-old-ursuline-convent",
    "addedIn": "v3"
@@ -1602,7 +1603,7 @@
    "entrySlug": "lewiston-main-street",
    "position": null,
    "status": "no-point-by-rule",
-   "basisNote": "Morgan's Alley anchor. The entry gives its own address as a range ('301/311 Main Street, listed as 305'). Over that frontage the sheet shows four separate structures: a two-storey brick at 301; a three-storey brick at 303–307; a one-storey frame bicycle repair shop at 309; and a brick building at 311–313. The sheet alone cannot say which of these footprints are the 1905 Vollmer and Scott building, so a point would be a guess. No point. 'The Tribune' is printed across D St. in block 16 in 1918; the entry says the Tribune was an early upstairs occupant, so by 1918 it had moved. The Liberty Theater (611 Main) stays point-less on sheet 4, as in v2.",
+   "basisNote": "Morgan's Alley anchor. The entry gives its own address as a range ('301/311 Main Street, listed as 305'). Over that frontage the sheet shows four separate structures: a two-storey brick at 301; a three-storey brick at 303\u2013307; a one-storey frame bicycle repair shop at 309; and a brick building at 311\u2013313. The sheet alone cannot say which of these footprints are the 1905 Vollmer and Scott building, so a point would be a guess. No point. 'The Tribune' is printed across D St. in block 16 in 1918; the entry says the Tribune was an early upstairs occupant, so by 1918 it had moved. The Liberty Theater (611 Main) stays point-less on sheet 4, as in v2.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/lewiston-main-street",
    "addedIn": "v3"
@@ -1612,7 +1613,7 @@
    "entrySlug": "lewiston-locomotive-park",
    "position": null,
    "status": "no-point-by-rule",
-   "basisNote": "The set index assigns Main 2021–2254 to sheet 15, which covers the 2100 block of Main (entry address 2102 Main St.). The park and its locomotive came later than this 1918 sheet, and nothing printed here belongs to them. No point.",
+   "basisNote": "The set index assigns Main 2021\u20132254 to sheet 15, which covers the 2100 block of Main (entry address 2102 Main St.). The park and its locomotive came later than this 1918 sheet, and nothing printed here belongs to them. No point.",
    "entryKind": "site",
    "entryUrl": "https://onoldground.com/sites/lewiston-locomotive-park",
    "addedIn": "v3"
@@ -1620,7 +1621,7 @@
  ],
  "backCompat": {
   "v1Shape": "Record<slugOrTourId, {src, alt, caption, credit, sourceName, sourceUrl, dateNote?}>",
-  "mapping": "For each tie: v1[t.entrySlug] = { src: sheet.image.src, alt: sheet.alt, caption: t.caption ?? sheet.caption, credit: sheet.credit, sourceName: sheet.sourceName ?? ('Library of Congress — Sanborn Maps Collection, item ' + sheet.source.itemId), sourceUrl: sheet.source.pageUrl, dateNote: t.dateNote ?? sheet.limitsNote }. Ties whose sheet has image.src null are skipped (no figure).",
+  "mapping": "For each tie: v1[t.entrySlug] = { src: sheet.image.src, alt: sheet.alt, caption: t.caption ?? sheet.caption, credit: sheet.credit, sourceName: sheet.sourceName ?? ('Library of Congress \u2014 Sanborn Maps Collection, item ' + sheet.source.itemId), sourceUrl: sheet.source.pageUrl, dateNote: t.dateNote ?? sheet.limitsNote }. Ties whose sheet has image.src null are skipped (no figure).",
   "booneCheck": "Applying the mapping to the two Boone ties reproduces the v1 records for IA-boone-railroad-shop-workers and lincoln-highway-iowa field-for-field (src, alt, caption, credit, sourceName, sourceUrl, dateNote).",
   "multiSheet": "getHistoricMap(key) returns one record; v2 adds getHistoricMapsFor(slug) returning all ties for the slug sorted by sheet.dateSort ascending."
  },
@@ -1632,7 +1633,7 @@
  "blanks": [
   {
    "entrySlug": "MS-arlington",
-   "reason": "The 1910 Natchez set (sanborn04497_006) does not identify Arlington. The nearest drawn brick dwelling, off Main St. at Arlington Ave. on sheet 20 (block 26), is about half the NRHP's 64 × 87 ft main block and is marked 2 storeys rather than 2½, so it is not taken as Arlington. Not in the specials index."
+   "reason": "The 1910 Natchez set (sanborn04497_006) does not identify Arlington. The nearest drawn brick dwelling, off Main St. at Arlington Ave. on sheet 20 (block 26), is about half the NRHP's 64 \u00d7 87 ft main block and is marked 2 storeys rather than 2\u00bd, so it is not taken as Arlington. Not in the specials index."
   },
   {
    "entrySlug": "MS-auburn-duncan-park",
@@ -1640,7 +1641,7 @@
   },
   {
    "entrySlug": "MS-dunleith-john-roy-lynch",
-   "reason": "The 1910 index covers Homochitto St. 1–14 only (sheet 21); 84 Homochitto lies beyond the drawn blocks. Not in the specials index."
+   "reason": "The 1910 index covers Homochitto St. 1\u201314 only (sheet 21); 84 Homochitto lies beyond the drawn blocks. Not in the specials index."
   },
   {
    "entrySlug": "MS-longwood",
@@ -1656,7 +1657,7 @@
   },
   {
    "entrySlug": "MS-natchez-city-cemetery-turning-angel",
-   "reason": "Outside the 1910 Natchez key map. Only National Cemetery Road 700–739 (sheet 6) and the City Hospital outlier (sheet 20) are drawn on that side."
+   "reason": "Outside the 1910 Natchez key map. Only National Cemetery Road 700\u2013739 (sheet 6) and the City Hospital outlier (sheet 20) are drawn on that side."
   },
   {
    "entrySlug": "MS-mcraven-bobb-house",
@@ -1668,7 +1669,7 @@
   },
   {
    "entrySlug": "LA-charity-hospital-new-orleans",
-   "reason": "The 1908 Vol. 3 index (sanborn03376_011) assigns Tulane Ave. 1500–1632 (even side, entry 1532) to sheet 266. Sheet 266 is not among LOC's online images: the file named 0266 shows printed sheet 268, and the even sheets from there on are filed two numbers high. Re-check if LOC corrects the item."
+   "reason": "The 1908 Vol. 3 index (sanborn03376_011) assigns Tulane Ave. 1500\u20131632 (even side, entry 1532) to sheet 266. Sheet 266 is not among LOC's online images: the file named 0266 shows printed sheet 268, and the even sheets from there on are filed two numbers high. Re-check if LOC corrects the item."
   },
   {
    "entrySlug": "LA-milne-home-gentilly-new-orleans",
