@@ -75,6 +75,8 @@ Answer key:
 | Field | Value |
 |---|---|
 | Stable site name | Brownville’s Missouri River crossings |
+| Town | Brownville |
+| Public anchor | Brownville village sidewalks |
 | Latitude |  |
 | Longitude |  |
 | Coordinate source |  |

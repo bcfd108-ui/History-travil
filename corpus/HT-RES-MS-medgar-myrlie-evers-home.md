@@ -47,6 +47,7 @@ An optional dated access report may concern the staffed public entrance or Myrli
 |---|---|
 | Stable site name | Medgar and Myrlie Evers’s house after the office closed |
 | Historic location | Evers family home in Elraine, formerly 2332 Guynes Street, Jackson |
+| Town | Jackson |
 | Public anchor | National monument ranger entrance or Myrlie’s Garden |
 | Approach | Use National Park Service public entrance and posted hours |
 | Visitor boundary | Ranger-authorized house rooms or public garden; occupied neighboring properties excluded |

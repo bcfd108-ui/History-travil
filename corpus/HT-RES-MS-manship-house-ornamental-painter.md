@@ -48,6 +48,7 @@ Optional access reports concern the staffed public museum only. The private side
 |---|---|
 | Stable site name | Manship House and a painter’s work at the Old Capitol |
 | Historic location | Manship House, East Fortification and North West streets, Jackson |
+| Town | Jackson |
 | Public anchor | Off-site: Old Capitol Museum, 100 South State Street, Jackson |
 | Approach | Use the regular Old Capitol Museum public entrance |
 | Visitor boundary | Old Capitol public galleries only; Manship House closed |

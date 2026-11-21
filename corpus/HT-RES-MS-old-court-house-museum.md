@@ -62,6 +62,7 @@ If already at the public museum entrance, a voluntary dated note about the poste
 |---|---|
 | Stable site name | Old Warren County Court House Museum |
 | Historic location | Old Warren County Courthouse, Vicksburg, Warren County |
+| Town | Vicksburg |
 | Public anchor | Old Court House Museum entrance, 1008 Cherry Street |
 | Visitor boundary | Downtown public sidewalks and open museum galleries via the operator’s staffed entry. |
 | Visitor access check | If already at the staffed entrance, note the date and the posted hours or upper-floor access notice. |

@@ -62,6 +62,7 @@ Reflection only. [1–4]
 | --- | --- |
 | Stable site name | Mount Nebo Missionary Baptist Church and Freedom Summer |
 | Historic location | Mount Nebo Missionary Baptist Church, Philadelphia, Mississippi |
+| Town | Philadelphia |
 | Public anchor | Neshoba County Courthouse Square public perimeter, 401 E. Beacon Street, Philadelphia [3, 4] |
 | Visitor boundary | Existing public perimeter sidewalks of the courthouse block, during daylight when open [3, 4] |
 | Latitude | |

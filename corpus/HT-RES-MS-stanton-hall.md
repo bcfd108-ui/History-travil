@@ -50,6 +50,7 @@ Quiet reflection on enslaved household labor. No game or visitor-photo prompt.
 |---|---|
 | Stable site name | Stanton Hall (Belfast) |
 | Historic location | Natchez, Adams County, Mississippi |
+| Town | Natchez |
 | Public anchor | Stanton Hall guided-tour entrance, 401 High Street |
 | Approach | Short walk from public street to tour entrance |
 | Visitor boundary | Operator-led house areas; separate stable property excluded |

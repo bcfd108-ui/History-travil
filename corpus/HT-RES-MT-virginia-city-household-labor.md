@@ -112,6 +112,7 @@ Find 3 key:
 ## 10. Locator record
 
 - Stable name: Virginia City Depot and Visitor Information Center, seasonal public orientation anchor
+- Town: Virginia City
 - Latitude:
 - Longitude:
 - Coordinate source/scope: No directly printed public-entrance coordinates verified. No private-house or historic-property coordinates copied.

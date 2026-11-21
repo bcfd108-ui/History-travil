@@ -64,6 +64,7 @@ Visitors already at a staffed public entrance may voluntarily share a dated note
 |---|---|
 | Stable site name | Mississippi State Capitol |
 | Historic location | 400 High Street, Jackson, Hinds County |
+| Town | Jackson |
 | Public anchor | Mississippi State Capitol staffed public entry |
 | Visitor boundary | Ground-level signed public entries, open public sidewalks and staff-authorized visitor spaces |
 | Visitor access check | If already at a staffed visitor entrance, note the date and any posted public-hours or entrance changes |

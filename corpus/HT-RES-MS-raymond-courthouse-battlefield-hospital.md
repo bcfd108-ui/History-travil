@@ -56,6 +56,7 @@ Reflection only. No visitor reporting, photography or hunt prompt at the courtho
 |---|---|
 | Stable site name | Raymond Battlefield and Hinds County Courthouse Square |
 | Historic location | May 12 battlefield outside Raymond; courthouse hospital in Raymond, Hinds County |
+| Town | Raymond |
 | Public anchor | Public sidewalk on the courthouse square, 121 West Main Street, Raymond |
 | Approach | Public downtown exterior, reflection only |
 | Visitor boundary | Public sidewalk at the courthouse square |

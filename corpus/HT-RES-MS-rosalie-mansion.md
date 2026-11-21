@@ -51,6 +51,7 @@ Quiet reflection. No access-check, photo or game invitation on this ground.
 |---|---|
 | Stable site name | Rosalie Mansion and Gardens |
 | Historic location | Rosalie Mansion, Natchez, Adams County, Mississippi |
+| Town | Natchez |
 | Public anchor | Docent-led Rosalie Mansion tour, 100 Orleans Street |
 | Approach | Short walk from public arrival to ticketed entrance |
 | Visitor boundary | House and operator-open tour areas; exclude fort, cemetery and shoreline |

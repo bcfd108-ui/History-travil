@@ -60,6 +60,7 @@ Battlefield and loss interpretation is reserved for reflection. Visitor observat
 |---|---|
 | Stable site name | USS Cairo Gunboat and Museum, Vicksburg National Military Park |
 | Historic location | Yazoo River, Mississippi |
+| Town | Vicksburg |
 | Public anchor | |
 | Visitor boundary | |
 | Latitude | |

@@ -70,6 +70,7 @@ If already at the staffed house entrance or on the signed public tour, a dated t
 | --- | --- |
 | Stable site name | Rowan Oak |
 | Historic location | Sheegog and Faulkner residence, Old Taylor Road, Oxford [2, 5] |
+| Town | Oxford |
 | Public anchor | Rowan Oak visitor grounds and staffed house, 916 Old Taylor Road, Oxford [1, 2] |
 | Visitor boundary | Posted grounds, signed public walks and the staffed interior circuit [1, 2] |
 | Visitor access check | If you are at the staffed entrance or on the tour, share the date and whether the writing-room view was open. |

@@ -65,6 +65,7 @@ If you already visited through the staffed museum entrance, a dated text note ab
 | --- | --- |
 | Stable site name | Merrehope |
 | Historic location | 905 31st Avenue, present Martin Luther King Jr. Drive, Meridian [3, 4] |
+| Town | Meridian |
 | Public anchor | Merrehope house museum, 905 Martin Luther King Jr. Drive, Meridian [1, 2] |
 | Visitor boundary | Public approach and staffed house tour route during operator hours [1, 2] |
 | Visitor access check | If you were already on the public tour, share the date and whether its rear-wing room was included. |

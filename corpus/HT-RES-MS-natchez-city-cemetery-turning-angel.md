@@ -49,6 +49,7 @@ No grave-finding or photo request. A visitor may voluntarily report a change to 
 |---|---|
 | Stable site name | Historic Natchez City Cemetery |
 | Historic location | Natchez Drug Company, Main and Union streets, Natchez |
+| Town | Natchez |
 | Public anchor | City Cemetery public entrance and Shelter House |
 | Approach | Check the city’s posted gate hours and consult the cemetery office. |
 | Visitor boundary | Marked public walks, daylight access, yielding to services |

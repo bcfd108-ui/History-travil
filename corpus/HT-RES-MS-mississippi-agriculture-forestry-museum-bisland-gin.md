@@ -52,6 +52,7 @@ At the museum, a dated note about whether the gin exhibit was open, static, or s
 |---|---|
 | Stable site name | Mississippi Agriculture and Forestry Museum |
 | Historic location | Bisland gin, Cannonsburg, Mississippi |
+| Town | Jackson |
 | Public anchor | Museum admissions, 1150 Lakeland Drive, Jackson, Hinds County |
 | Approach | Ticketed public museum |
 | Visitor boundary | Museum visitor areas open that day, including the gin exhibit as signed |

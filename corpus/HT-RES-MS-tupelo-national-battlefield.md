@@ -70,6 +70,7 @@ Reflection only. [1, 2]
 | --- | --- |
 | Stable site name | Tupelo National Battlefield |
 | Historic location | Harrisburg/Tupelo battle landscape, Lee County, Mississippi |
+| Town | Tupelo |
 | Public anchor | NPS Parkway Visitor Center, 2680 Natchez Trace Parkway, Tupelo [1–3] |
 | Visitor boundary | Signed visitor-center approach and staffed public information space [1–3] |
 | Latitude | |

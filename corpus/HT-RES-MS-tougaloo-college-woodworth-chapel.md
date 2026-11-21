@@ -54,6 +54,7 @@ Reflection only. The congregation, students and worship service are outside the 
 |---|---|
 | Stable site name | Tougaloo College — Woodworth Chapel |
 | Historic location | Woodworth Chapel, Tougaloo College, Madison County; 1961 read-in at downtown Jackson municipal library |
+| Town | Tougaloo |
 | Public anchor | Announced community service at Woodworth Chapel, Tougaloo College, 500 West County Line Road |
 | Approach | Attend an announced public service or a college-confirmed hosted visit |
 | Visitor boundary | College-directed arrival and the chapel for the announced service; hosted visits follow the college’s itinerary |

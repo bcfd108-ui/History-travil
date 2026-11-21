@@ -66,6 +66,7 @@ If you were already at the open public entrance, a text note can tell us what yo
 |---|---|
 | Stable site name | William Johnson House — who laid the brick |
 | Historic location | 210 State Street, Natchez, Adams County |
+| Town | Natchez |
 | Public anchor | NPS William Johnson House ground-floor visitor center |
 | Approach | Short walk on lawful State Street sidewalk to signed NPS entrance |
 | Visitor boundary | Public State Street entrance and open ground-floor exhibits. Upstairs closed. |

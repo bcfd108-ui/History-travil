@@ -47,6 +47,7 @@ A voluntary dated check may confirm ordinary tour entry or stair access with sta
 |---|---|
 | Stable site name | McRaven and the brickmaker’s house |
 | Historic location | Bobb House, Vicksburg, Warren County |
+| Town | Vicksburg |
 | Public anchor | 1445 Harrison Street, McRaven Tour Home |
 | Approach | Operator’s entry for the guided history tour |
 | Visitor boundary | Private property outside admitted tour spaces |

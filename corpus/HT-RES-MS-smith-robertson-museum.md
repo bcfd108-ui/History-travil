@@ -62,6 +62,7 @@ If already at the museum’s lawful public entrance, a dated note about the post
 |---|---|
 | Stable site name | Smith Robertson Museum and Cultural Center |
 | Historic location | Smith Robertson School, Bloom Street, Jackson, Hinds County |
+| Town | Jackson |
 | Public anchor | Public Bloom Street sidewalk at 528 Bloom Street and staffed museum entrance when open |
 | Visitor boundary | Open public sidewalk and staff-directed museum galleries |
 | Visitor access check | If already there, report the date, posted hours and posted public entrance number |

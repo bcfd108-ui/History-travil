@@ -108,6 +108,7 @@ Onsite question if an interpreter is available: **Which current exhibit or publi
 ## 10. Locator record
 
 - Stable name: Montana Heritage Center — Montana suffrage museum/archive research anchor
+- Town: Helena
 - Latitude:
 - Longitude:
 - Coordinate source:

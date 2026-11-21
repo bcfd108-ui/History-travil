@@ -51,6 +51,7 @@ Quiet reflection. No visitor photo prompt, repeat-view location or game element.
 |---|---|
 | Stable site name | Monmouth Historic Inn and Gardens |
 | Historic location | Natchez, Adams County, Mississippi |
+| Town | Natchez |
 | Public anchor | Front desk for public main-house tour, 1358 John A. Quitman Boulevard |
 | Approach | Drive-up and short walk to visitor check-in |
 | Visitor boundary | Front desk and rooms opened by the tour guide; no personal parcels or hotel rooms |

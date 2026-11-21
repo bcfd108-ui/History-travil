@@ -61,6 +61,7 @@ From the staffed entrance or an open paved trail segment, a dated text observati
 | --- | --- |
 | Stable site name | Mississippi Petrified Forest |
 | Historic location | Forest Hill Formation fossil-log deposit near Flora, Madison County |
+| Town | Flora |
 | Public anchor | Mississippi Petrified Forest ticket entrance, 124 Forest Park Road, Flora [1, 3] |
 | Visitor boundary | Staffed visitor entrance and museum, open posted paved nature trail [1, 2] |
 | Visitor access check | If you are already at the staffed entrance or on the open trail, share the date and any temporary closure or trail-surface notice you saw. |
