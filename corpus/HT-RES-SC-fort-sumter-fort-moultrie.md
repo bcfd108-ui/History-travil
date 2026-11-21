@@ -6,7 +6,7 @@
 
 In December 1860, Major Robert Anderson moved the federal garrison from Fort Moultrie to Fort Sumter. U.S. engineer John G. Foster reported on December 27 that he remained briefly at Moultrie with a guard and was told to disable equipment before departing. He described going into Charleston the following day on financial business for the engineering work. At the moment secession had become an armed crisis, the records still contain ordinary obligations: wages, equipment and men to move. [5]
 
-The NPS exhibit puts slavery and secession at the center of the conflict. The April dispatches show how that national crisis looked from inside one fort. Anderson reported burned quarters, falling provisions and a magazine inaccessible because of fire and heat. From the steamship Baltic on April 18 he wrote, “Having defended Fort Sumter for thirty-four hours,” before explaining why he accepted evacuation terms. The words state the commander’s accounting of events. They do not by themselves give the whole human cost of the outbreak of war. [3, 5]
+The NPS exhibit puts slavery and secession at the center of the conflict. The April dispatches show how that national crisis looked from inside one fort. Anderson reported burned quarters, falling provisions and a magazine inaccessible because of fire and heat. From the steamship Baltic on April 18 he wrote, “Having defended Fort Sumter for thirty four hours,” before explaining why he accepted evacuation terms. The words state the commander’s accounting of events. They do not by themselves give the whole human cost of the outbreak of war. [3, 5, 10–12]
 
 Four years later a photograph recorded the flag ceremony inside the same fort. Read the crowd in that frame alongside the official dispatch. A military work, a place under bombardment and a place chosen to stage public memory are all visible in records connected to the same walls. [5, 6]
 
@@ -26,7 +26,7 @@ At the exhibit on the causes of the war, read the first line of Anderson’s dis
 
 ## 6. Evidence limits and disagreements
 
-The April 18 dispatch as printed in the federal compilation calls the 14th “Saturday.” Anderson’s April 19 letter separately places the bombardment on April 12–13 and the withdrawal on April 14. The Library of Congress chronology places the surrender on April 13. Keep the distinction between the April 13 surrender and April 14 evacuation. The 1880 federal volume is a published transcription, and the underlying dispatch manuscript was not inspected. The present display status of the garrison flag was not independently verified. [5, 7–8]
+The National Archives’ scan of the received April 18 telegram shows mounted message strips and reads “Sunday afternoon the fourteenth inst.” The 1880 Official Records transcription, printed page 12, also says Sunday. Anderson’s April 19 letter separately dates the bombardment April 12–13 and withdrawal April 14. The LOC chronology and National Archives summary place surrender on April 13. The surrender and physical evacuation were separate events. The unexamined sending-side draft, if one survives, is distinct from the received copy inspected here. The current garrison flag display has yet to verify. [5, 7–8, 10–12]
 
 ## 7. Historic photograph
 
@@ -50,6 +50,10 @@ Reflection entry. Hunts disabled. No Photo Point or field invitation.
 8. https://guides.loc.gov/chronicling-america-fort-sumter — chronology and contemporary newspaper source trail.
 9. https://tile.loc.gov/storage-services/service/pnp/cwpb/02400/02478v.jpg — exact image inspected.
 
+10. https://www.archives.gov/milestone-documents/telegram-announcing-the-surrender-of-fort-sumter — National Archives description and transcript of Anderson’s received telegram, RG 94, April 18, 1861.
+11. https://catalog.archives.gov/id/594525 — National Archives catalog item 594525.
+12. https://www.archives.gov/files/milestone-documents/images/doc-030-big.jpg — received telegram scan inspected.
+
 ## 10. Structured locator
 
 - Stable site name: Fort Sumter and Fort Moultrie National Historical Park
@@ -63,7 +67,7 @@ Reflection entry. Hunts disabled. No Photo Point or field invitation.
 - National Register reference:
 - HMdb marker ID:
 - Archives West ARK:
-- Archive collection identifier: Library of Congress item 2018671038
+- Archive collection identifier: Library of Congress item 2018671038; National Archives RG 94, item 594525
 - Official register listing URL:
 - Governing specification:
 - Official manager/operator: National Park Service

@@ -1,4 +1,4 @@
-**Trip gate — Operator rechecked November 21, 2026. Access hold. Research Desk reading. The entry's public anchor, the Sails to Rails Museum at 901 Caroline Street, Key West, is temporarily closed while the operator relocates it; the operator posts the closure and no reopening date. Until a lawful public anchor is verified, this entry routes no visit. The island fort, shore, ferries and dock remain outside this reflection visit. [1]**
+**Trip gate — Operator rechecked November 21, 2026. Research Desk reading only. Sails to Rails Museum is temporarily closed while relocating. The operator posts no reopening date. A currently accessible public anchor for this entry has yet to verify. [1, 10, 13]**
 
 ## 2. Story
 
@@ -12,24 +12,24 @@ Army custody outlasted the fort’s usefulness as designed. The Union garrison h
 
 ## 3. Then and now
 
-HABS documents an immense brick perimeter, six bastions, repeated casemate arches and an adjoining moat. The NPS cultural landscape inventory distinguishes historic fabric, ruins and later service infrastructure. The Key West museum is a separate building with an interpretive model. Read the model for the shape and scale of the fort. Read HABS and the landscape inventory for surviving material and for later changes. [1, 5–6]
+HABS documents an immense brick perimeter, six bastions, repeated casemate arches and an adjoining moat. The NPS cultural landscape inventory distinguishes historic fabric, ruins and later service infrastructure. A former Key West exhibit used a scale model to show the wall and arches. Its present public access is on hold. Read the HABS survey and landscape inventory remotely for surviving material and later changes. [2, 5–6, 13]
 
 ## 4. Surviving features and boundaries
 
 | Feature | Access class for this entry |
 |---|---|
-| Sails to Rails Fort Jefferson diorama and signed entrance | Held. Museum temporarily closed while relocating; no public access verified. |
-| Brick perimeter, bastions, casemates, cisterns and interior ruins | Historical fabric for desk reflection. Outside this visit. |
-| Historic seaport waterfront, Garden Key, moat and docks | Outside this progression. |
+| Former Sails to Rails Fort Jefferson diorama | Hold. The operator has closed the museum while relocating. |
+| Brick perimeter, bastions, casemates, cisterns and interior ruins | Historical fabric for desk reflection. |
+| Historic seaport waterfront, Garden Key, moat and docks | Restricted from routing in this entry. |
 
-## 5. Public progression
+## 5. Remote reading progression
 
-Read the record remotely while the anchor museum is closed. At the Fort Jefferson model, find the repeated arch bays and the blank spaces where construction stopped. End with **One Ship of Workers, One Ship of Brick**. Read Holder’s recollection beside HABS’s account of who built the walls and how the supplies got there. [1, 5, 8]
+Use the HABS description of the six bastions and repeated brick arches. Compare the landscape inventory's treatment of fabric and later changes, then end with **One Ship of Workers, One Ship of Brick**. Holder’s recollection sets a shipment of labor beside a shipment of bricks. They reached an island where the people building the fort depended on the same uncertain supply chain as its garrison and prisoners. [5–8]
 
 ## 6. Gaps and conflicts
 
 - HABS credits changes in weapons and foundation settlement among the reasons the fort did not reach its designed form. NPS adds logistical and structural decisions, including reducing the load on the second level. Formal Army abandonment in 1874 and the period in which work tapered represent different milestones. [5, 7]
-- The seaport’s older free Fort Jefferson Museum listing and the current Sails to Rails admission page both describe a model at 901 Caroline Street. Use the current operator’s hours and admission. Treat the NPS Bight and concession pages as evidence of the exhibit’s interpretation, with no independent assertion of a second currently free room. NOAA directly says its Eco-Discovery Center is temporarily closed for roof evaluation, superseding the hours shown on the NPS park page. [1–4, 9–10]
+- One operator page still contains legacy hours and ticket text beside an explicit temporary closure notice. Both current operator pages announce the museum’s relocation. The older seaport and NPS Bight descriptions document past interpretation. An independently accessible alternative exhibit remains unverified. NOAA gives a separate temporary closure for its Eco-Discovery Center, superseding the older NPS hours. [1–4, 9–10, 13]
 - Named laborers’ primary records and confirmed independent coordinate pairs remain open. The official Fort Jefferson listing describes island historic ground. It supplies no locator for the current museum. [5–6, 11]
 
 ## 7. Historical photo records
@@ -54,6 +54,7 @@ Reflection only. Hunts disabled. No field or contribution prompt for sensitive g
 10. https://sanctuaries.noaa.gov/florida-keys/visit/visitor-center.html
 11. https://npgallery.nps.gov/AssetDetail/NRIS/70000069
 12. https://www.loc.gov/pictures/item/fl0132.color.582372c/
+13. https://www.historictours.com/key-west/sails-to-rails-museum
 
 ## 10. Structured locator
 
@@ -71,4 +72,4 @@ Reflection only. Hunts disabled. No field or contribution prompt for sensitive g
 - Archive collection identifier: HABS FL-44
 - Official register listing URL: https://npgallery.nps.gov/AssetDetail/NRIS/70000069
 - Governing specification:
-- Official manager/operator: National Park Service (historic ground); Historic Tours of America / Sails to Rails Museum (anchor museum, temporarily closed while relocating)
+- Official manager/operator: National Park Service (historic ground); Historic Tours of America / Sails to Rails Museum (former public anchor, closed while relocating)
