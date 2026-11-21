@@ -260,3 +260,24 @@ form input[type="email"], form input[type="text"] { min-width: min(320px, 100%);
 .photo-card-m { display: block; color: var(--rivet); font-size: 0.88rem; padding: 0 14px 13px; }
 .linkrow { margin: 30px 0 6px; font-size: 1.02rem; }
 .linkrow a { font-weight: bold; }
+
+.hunt-count { color: var(--slate); margin: .35rem 0 1.6rem; }
+.hunt-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(min(100%,16rem),1fr)); gap: 1rem; }
+.hunt-grid h3 { font-size: 1rem; font-weight: normal; margin: .25rem 0 .55rem; }
+.hunt-card { padding: 1.1rem; background: var(--cream); border: 1px solid var(--line); border-top: 4px solid var(--steel); margin-bottom: .8rem; }
+.hunt-card h4 { font-size: 1.35rem; line-height: 1.25; margin: 1rem 0 .4rem; }
+.hunt-card p { margin: .4rem 0; }
+.hunt-insignia { display: inline-flex; flex-wrap: wrap; align-items: stretch; font-family: system-ui,sans-serif; font-size: .8rem; font-weight: 650; }
+.hunt-insignia span,.hunt-insignia small { padding: .3rem .55rem; }
+.hunt-insignia span { background: var(--slate); color: var(--cream); }
+.hunt-insignia small { background: var(--amber); color: var(--charcoal); font-size: inherit; }
+.hunt-progress { color: var(--slate); font-size: .94rem; }
+.hunt-rules { margin-top: 1.5rem; max-width: 47rem; }
+.hunt-rules summary,.hunt-finds summary { cursor: pointer; color: var(--slate); padding: .55rem 0; font-weight: bold; }
+.hunt-finds { padding-inline-start: 1.9rem; max-width: 49rem; }
+.hunt-finds li::marker { font-weight: bold; color: var(--slate); }
+.hunt-finds li { scroll-margin-top: 1rem; }
+.hunt-finds h2 { border: 0; padding: 0; margin: 0; }
+.hunt-finds form { margin-top: 1rem; display: grid; gap: .65rem; justify-items: start; }
+.hunt-finds input { max-width: 100%; }
+.hunt-pending { color: var(--muted); font-style: italic; }

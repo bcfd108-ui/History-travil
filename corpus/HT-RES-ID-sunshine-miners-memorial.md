@@ -40,12 +40,7 @@ The underground count is 173 in the Congressional Record, the Bureau of Mines tr
 Modern project photo: **blank**. Photo point: **blank**. No photograph was field-matched for this entry.
 
 ## 8. Candidate finds
-Dormant, non-scored ideas only:
-- Compare the memorial's names with the disaster count the record prints. Key: **blank**.
-- Note the poem by former Governor Phil Batt on the boulder. Key: **blank**.
-- Identify the sculptor's own history as a former Sunshine miner, from the record. Key: **blank**.
-
-This entry's ground carries a find of the Mining Country Hunt; the hunt tie lives in the hunt record, not in this section. Nothing here is scored from the research text.
+Reflection only. This disaster memorial is for quiet witness.
 
 ## 9. Source list
 [1] Congressional Record, 50th Anniversary of the Sunshine Mine Fire (2022): https://www.congress.gov/congressional-record/volume-168/issue-69/senate-section/article/S2187-3

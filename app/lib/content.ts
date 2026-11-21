@@ -63,7 +63,7 @@ export const DESK_GUIDES: DeskDoc[] = [
 
 **Reflection ground is never part of the game.** No finds, no tags, no scoring on loss ground — ever.
 
-**Activation is the owner's word.** The founding hunts stand activated on the owner's ruling, on the strength of the research record — no field check gates a hunt, and no find is represented as field-verified. A tag is witnessed by the player's own presence, and by their photo or position only when they choose to give them. Candidate finds shown on entries in this edition are labelled exactly that: from the research record, candidates until the owner activates them.`,
+**Activation is the owner's word.** The founding hunts stand activated on the owner's ruling, on the strength of the research record — no field check gates a hunt, and no find is represented as field-verified. When you check a hunt find, your device records your location once. Any photo you add stays in your own scrapbook. Candidate finds shown on entries in this edition are labelled exactly that: from the research record, candidates until the owner activates them.`,
   },
 ];
 

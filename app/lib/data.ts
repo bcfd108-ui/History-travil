@@ -592,122 +592,20 @@ export function getConnectedSites(site: Site, limit = 4): ConnectedSite[] {
 }
 
 // ---------------------------------------------------------------------------
-// HUNTS (Stage 1 of the game layer, Nov 20, 2026): the three founding hunts
-// with their find lists recovered verbatim from the original app's record
-// (the Nov 18, 2026 app's FINDS / FINDS2 / FINDS3 lists, identical in the
-// later app seed data). Records live in data/hunts.json, a hand-maintained
-// sidecar the converter does not generate — same pattern as tours.json.
-//
-// ACTIVATION (owner's ruling, Nov 20, 2026): every hunt and every find in
-// this file is ACTIVE status — activated on the owner's word alone, with
-// no field check: the owner cannot be the feet for the whole catalog, and
-// activation no longer waits on one. The finds rest on the research
-// record; nothing here claims a find was field-verified. A tag is
-// witnessed by the player's own presence, and by their photo or position
-// only when the player chooses to give them at tag time. The hunts are
-// unscored (the Desk guide "the-game-law" states the rule). The original
-// app's quiz fields (question / options / answer key) are deliberately
-// NOT carried — this edition's game law has no question gates and no
-// answer keys; the tag is the visit itself, claimed through the entry
-// page's existing ClaimFind panel, and hunt progress derives from those
-// claims (see HuntProgress).
-//
-// A find names its ground (groundName / place, from the original app's own
-// site entries) and ties to a catalog entry only where this edition's
-// catalog actually has one for that ground (entrySlug). Where it does not,
-// entrySlug is null and the find is carried untied — listed on its hunt
-// page on its own text, like an unlinked tour stop — until the entry
-// exists. An untied find is NOT taggable (owner's ruling, Nov 20, 2026:
-// the hunts must have catalog entries — tagging happens only from a
-// catalog entry's page) and does not count toward its hunt's badge total;
-// the moment an entrySlug is set, it joins the hunt's progress
-// automatically. No tie is invented to fill the gap.
-//
-// Reflection ground is never part of a hunt: getHuntFindsForSite and
-// huntFindsForRender both drop any find tied to a reflection entry, so the
-// rule holds in code wherever finds are rendered, whatever the data says.
-// ---------------------------------------------------------------------------
-export interface HuntFind {
-  n: number;
-  /** Catalog entry this find is tagged on, or null when this edition's
-   *  catalog has no entry for the find's ground yet (carried untied). */
-  entrySlug: string | null;
-  /** The original app's site id for this find's ground. */
-  appSite: string;
-  /** The find's ground as the original app's own entry names it. */
-  groundName: string;
-  place: string;
-  /** The find's name — the label a claim records when it is tagged. */
-  label: string;
-  task: string;
-  hint?: string;
-  status: "active";
-  sourceNote: string;
-}
-
-export interface Hunt {
-  slug: string;
-  name: string;
-  ground: string;
-  about: string;
-  /** The stamp-book badge this hunt's completion records, and its theme. */
-  badge: string;
-  badgeTheme: string;
-  tier: string;
-  status: "active";
-  finds: HuntFind[];
-  /** Reading in this edition's catalog behind the hunt (not finds). */
-  related: { slug: string; label: string }[];
-}
+// Resolve the curated ground against this build's converted dossiers once.
+// Index, detail, catalog links and server-side check-ins share this result.
+import { resolveHunts, type Hunt, type HuntSeed } from "./hunts";
+export type { Hunt, HuntFind } from "./hunts";
 
 let huntsCache: Hunt[] | null = null;
-
 export function getHunts(): Hunt[] {
-  if (!huntsCache) {
-    try {
-      huntsCache = load<Hunt[]>("hunts.json");
-    } catch {
-      huntsCache = [];
-    }
-  }
-  return huntsCache;
+  return huntsCache ??= resolveHunts(load<HuntSeed[]>("hunts.json"), getSites(), getVisitableAnchor);
 }
-
-export function getHunt(slug: string): Hunt | undefined {
-  return getHunts().find((h) => h.slug === slug);
+export function getHunt(slug: string) {
+  return getHunts().find(h => h.slug === slug);
 }
-
-/** True when a slug names a reflection entry in the catalog. */
-function isReflectionSlug(slug: string): boolean {
-  const s = getSite(slug);
-  return !!s && s.stopType === "reflection";
-}
-
-/**
- * The finds of a hunt as they may be rendered: any find tied to a
- * reflection entry is dropped — reflection ground is never part of a hunt,
- * enforced here so no rendering path can surface one.
- */
-export function huntFindsForRender(hunt: Hunt): HuntFind[] {
-  return hunt.finds.filter((f) => !f.entrySlug || !isReflectionSlug(f.entrySlug));
-}
-
-/**
- * Hunt finds tied to one catalog entry — the finds that entry's ClaimFind
- * panel can offer. Reflection entries return none, whatever the data says:
- * the game goes quiet on reflection ground by design.
- */
-export function getHuntFindsForSite(
-  siteSlug: string,
-): { hunt: Hunt; find: HuntFind }[] {
-  if (isReflectionSlug(siteSlug)) return [];
-  const out: { hunt: Hunt; find: HuntFind }[] = [];
-  for (const hunt of getHunts()) {
-    for (const find of hunt.finds) {
-      if (find.entrySlug === siteSlug) out.push({ hunt, find });
-    }
-  }
-  return out;
+export function getHuntFindsForSite(slug: string) {
+  return getHunts().flatMap(hunt => hunt.finds.filter(f => f.entrySlug === slug).map(find => ({ hunt, find })));
 }
 
 // ---------------------------------------------------------------------------

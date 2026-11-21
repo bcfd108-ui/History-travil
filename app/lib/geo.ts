@@ -35,7 +35,7 @@ export function formatDistance(km: number): string {
  * the player declines, the browser has no geolocation, or the read fails —
  * callers treat null as "no location", never as an error worth blocking on.
  */
-export function getPositionOnce(): Promise<LatLon | null> {
+export function getPositionOnce(options?: PositionOptions): Promise<LatLon | null> {
   return new Promise((resolve) => {
     if (typeof navigator === "undefined" || !("geolocation" in navigator)) {
       resolve(null);
@@ -44,7 +44,7 @@ export function getPositionOnce(): Promise<LatLon | null> {
     navigator.geolocation.getCurrentPosition(
       (pos) => resolve({ lat: pos.coords.latitude, lon: pos.coords.longitude }),
       () => resolve(null),
-      { enableHighAccuracy: false, timeout: 15000, maximumAge: 60000 },
+      options ?? { enableHighAccuracy: false, timeout: 15000, maximumAge: 60000 },
     );
   });
 }

@@ -277,17 +277,8 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
   const accessPrompt = publicStop ? site.locator.extra.find((field) => field.key === "Visitor access check")?.value : undefined;
   const photoSubject = publicStop ? site.locator.extra.find((field) => field.key === "Visitor photo subject")?.value : undefined;
   const plainTop = getPlainTop(site.slug);
-  // Hunt finds tied to this entry join its own candidate finds in the tag
-  // panel — same ClaimFind mechanic, the claim recording the find's label
-  // exactly as the hunt names it (hunt progress derives from those claims).
-  // getHuntFindsForSite returns none for reflection entries, and the panel
-  // never renders on reflection ground.
-  const huntFinds = isReflection ? [] : getHuntFindsForSite(site.slug);
-  const panelFinds = [
-    ...site.candidateFinds,
-    ...huntFinds.map((hf) => hf.find.label).filter((l) => !site.candidateFinds.includes(l)),
-  ];
-  const showFinds = !isReflection && !!anchor && panelFinds.length > 0;
+  const huntFinds = getHuntFindsForSite(site.slug);
+  const showFinds = !isReflection && !!anchor && site.candidateFinds.length > 0;
 
   return (
     <article>
@@ -365,6 +356,11 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
 
       {accessPrompt && <VisitorUpdate slug={slug} prompt={accessPrompt} photoSubject={photoSubject} />}
 
+      {huntFinds.length > 0 && <section className="panel"><h2>Hunt finds</h2>
+        <ul>{huntFinds.map(({ hunt, find }) => <li key={hunt.slug + "/" + find.id}>
+          <Link href={"/hunts/" + hunt.slug + "#" + find.id}>{find.ground}</Link> · {hunt.name}
+        </li>)}</ul>
+      </section>}
       {showFinds && (
         <section className="panel" aria-label="Candidate photo finds">
           <h2>Candidate photo finds</h2>
@@ -376,20 +372,13 @@ export default async function SitePage({ params }: { params: Promise<{ slug: str
             {site.candidateFinds.map((c, i) => (
               <li key={i}>{c}</li>
             ))}
-            {huntFinds.map((hf) => (
-              <li key={`hunt-${hf.hunt.slug}-${hf.find.n}`}>
-                {hf.find.label} —{" "}
-                {hf.hunt.status === "active" ? "a find of the active hunt " : "a candidate find of "}
-                <Link href={`/hunts/${hf.hunt.slug}`}>{hf.hunt.name}</Link>
-              </li>
-            ))}
           </ul>
           <h3>Tag a find</h3>
           <p className="small">
             Stood on this ground and found one? Tag it — and add a photo if you like. The claim is your own
             scrapbook record — it does not activate the find, and nothing is scored.
           </p>
-          <ClaimFind slug={site.slug} finds={panelFinds} />
+          <ClaimFind slug={site.slug} finds={site.candidateFinds} />
         </section>
       )}
 
