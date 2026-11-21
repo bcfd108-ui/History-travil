@@ -42,14 +42,11 @@ No current exhibit inventory was physically checked. The worker story can be rea
 
 ## 5. Trip-shaped stop progression
 
-**Single-institution sequence, not a road route.** Allow a provisional 40–60 minutes inside the museum if open; this is a planning estimate, not an operator tour duration.
+The public anchor is the Navajo County Historical Society Museum, in the historic courthouse at 100 East Arizona Street, Holbrook. The society's research resources include newspapers, biographies, scrapbooks and original documents; no specific Lewis-family holding was identified. [1,3]
 
-1. **Before arriving:** read the short Lewis quotation and its source limitations. Separate family recollection, later interpretation and archival evidence.
-2. **At the public museum door:** enter only during its actual opening and use the areas currently admitted to visitors. Follow staff restrictions and current photography rules.
-3. **In public local-history displays:** consider how the town served travelers. Use only material actually present; do not invent a required motel artifact or send a visitor searching through storage.
-4. **Strongest story landing:** return to Lewis's preservation motive. A destination may be remembered for its shape, while its continuation depends on people's repeated work. The human decision, rather than a novelty-room photograph, closes the entry.
+The roadside business in this entry is the Wigwam Motel, still family-operated. Clifton Lewis — son of Chester Lewis, and with Paul and Elinor one of the children involved in the motel's later restoration — explained the family's decision in a September 29, 2026 Arizona's Family report: “Many people are grateful that we have preserved it, and that was our main reason in opening it.” The statement is Clifton's own explanation of preservation, given in a short published interview, not a 1950s account. [4][5]
 
-If the institution is closed, retain a remote research encounter. No motel detour, historical road trace, trackside alternative or outdoor after-dark finish is supplied. There is no quiz, answer key or compulsory photograph.
+The motel itself is a working business, not a museum stop: its guest spaces and grounds are not public find locations. The worker story — a family returning to a roadside business and putting the work back into it — can be read in full before any museum visit, and no current exhibit inventory was physically checked for this dossier. [5,6]
 
 ## 6. Honest gaps and conflicting dates
 
