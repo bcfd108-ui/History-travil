@@ -2,8 +2,11 @@
 
 **Data:** `data/historic-map-library.json` is the library file exactly as the
 map lane files it: `sheets[]`, `ties[]`, `schemaNotes`, `backCompat`. It is
-v2 today. To move to a newer version, **replace this one file**. No code
-changes are needed, as long as the shape stays the same.
+v3 today. To move to a newer version, **replace this one file**. A sheet
+whose `image.src` is null or whose `image.status` is
+`pending-conversion-upload` (Ste. Genevieve) is listed as pending conversion
+and is never shown as an image. `source.sourceFiles` (GeoTIFF/GeoPDF) are
+source files only, never display URLs.
 
 **Rules:** `lib/maps-core.mjs`. **Build check:** `scripts/check-maps.mjs`,
 which runs inside `npm run build`. **Tests:** `npm run test:maps`.

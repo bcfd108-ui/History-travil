@@ -50,3 +50,22 @@ test("status 'placed' is not renderable", () => {
   l.ties[0].status = "placed";
   assert.ok(checkLibrary(l, sites, tours, v1).some((p) => /not renderable/.test(p)));
 });
+
+test("pending-conversion-upload with a display src fails", () => {
+  const l = clone();
+  const sg = l.sheets.find((x) => x.id === "mo-weingarten-usgs-1909");
+  sg.image.src = "https://upload.wikimedia.org/wikipedia/commons/x.jpg";
+  sg.image.status = "pending-conversion-upload";
+  assert.ok(checkLibrary(l, sites, tours, v1).some((p) => /pending-conversion-upload but image.src is set/.test(p)));
+});
+
+test("a source.sourceFiles URL used as image.src fails", () => {
+  const l = clone();
+  const sg = l.sheets.find((x) => x.id === "mo-weingarten-usgs-1909");
+  const geotiff = sg.source.sourceFiles && sg.source.sourceFiles.geotiff;
+  assert.ok(geotiff);
+  delete sg.image.status;
+  sg.image.displayDerivativeNeeded = false;
+  sg.image.src = geotiff;
+  assert.ok(checkLibrary(l, sites, tours, v1).some((p) => /must not be a source.sourceFiles URL/.test(p)));
+});

@@ -178,8 +178,15 @@ export default async function SheetPage({ params }: { params: Promise<{ id: stri
         <Field k="Sheet file" v={s.source.sheetFile} />
         <Field k="Rights" v={s.rights} />
         <Field k="Image host" v={s.image.host} />
+        <Field k="Image status" v={s.image.status} />
         <Field k="Master file" v={s.image.master ? "Full-resolution master" : null} href={s.image.master} />
         <Field k="Commons page" v={s.image.commonsPage ? "Wikimedia Commons" : null} href={s.image.commonsPage} />
+        {s.source.sourceFiles &&
+          Object.entries(s.source.sourceFiles)
+            .filter(([, v]) => typeof v === "string" && v.startsWith("http"))
+            .map(([k, v]) => (
+              <Field key={k} k={`Source file (${k}, not for display)`} v={k} href={v} />
+            ))}
       </dl>
     </article>
   );

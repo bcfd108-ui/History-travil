@@ -30,8 +30,15 @@ export function hasPoint(tie) {
   return tie.status === "checked" && !!tie.position;
 }
 
+/** A sheet is pending conversion when it has no display src, or when the
+ *  library marks it `pending-conversion-upload`. source.sourceFiles (GeoTIFF
+ *  etc.) and plannedSrcAfterUpload are never display images. */
+export const PENDING_IMAGE_STATUS = "pending-conversion-upload";
+
 export function isPending(sheet) {
-  return !sheet.image || !sheet.image.src;
+  if (!sheet.image) return true;
+  if (sheet.image.status === PENDING_IMAGE_STATUS) return true;
+  return !sheet.image.src;
 }
 
 /** Era label from dateSort ("1916-04" → "1910s"). */
@@ -92,8 +99,15 @@ export function checkLibrary(library, siteSlugs, tourIds, v1) {
     if (!s.place || !s.place.state || !s.place.town) P.push(`${s.id}: missing place.state/town`);
     if (!s.source || !s.source.pageUrl) P.push(`${s.id}: missing source.pageUrl`);
     if (!s.coverage || !s.coverage.basis) P.push(`${s.id}: missing coverage.basis`);
+    if (s.image && s.image.status === PENDING_IMAGE_STATUS && s.image.src) {
+      P.push(`${s.id}: image.status is pending-conversion-upload but image.src is set — keep src null until the file is hosted`);
+    }
+    const sourceFileUrls = new Set(Object.values((s.source && s.source.sourceFiles) || {}).filter((v) => typeof v === "string" && /^https?:/.test(v)));
+    if (s.image && s.image.src && sourceFileUrls.has(s.image.src)) {
+      P.push(`${s.id}: image.src must not be a source.sourceFiles URL (GeoTIFF/GeoPDF/thumbnail are not display images)`);
+    }
     if (isPending(s)) {
-      if (!(s.image && s.image.displayDerivativeNeeded)) P.push(`${s.id}: image.src is null but displayDerivativeNeeded is not set`);
+      if (!(s.image && (s.image.displayDerivativeNeeded || s.image.status === PENDING_IMAGE_STATUS))) P.push(`${s.id}: image.src is null but neither displayDerivativeNeeded nor status pending-conversion-upload is set`);
     } else {
       let host = "";
       try {

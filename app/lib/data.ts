@@ -506,9 +506,13 @@ export interface MapSheet {
     pageUrl: string;
     itemJsonUrl?: string | null;
     metadataUrl?: string | null;
+    /** Non-display source files (GeoTIFF/GeoPDF). Never used as image.src. */
+    sourceFiles?: Record<string, string> | null;
   };
   image: {
     src: string | null;
+    /** v3: "pending-conversion-upload" until a stable display URL is hosted. */
+    status?: string | null;
     large?: string | null;
     iiifService?: string | null;
     iiifInfo?: string | null;
@@ -518,9 +522,14 @@ export interface MapSheet {
     host?: string | null;
     commonsPage?: string | null;
     displayDerivativeNeeded?: boolean;
+    conversion?: string | null;
+    plannedCommonsFile?: string | null;
+    plannedSrcAfterUpload?: string | null;
+    rule?: string | null;
     geopdf?: string | null;
     thumbnail?: string | null;
   };
+  addedIn?: string | null;
   credit: string;
   rights?: string | null;
   place: { town: string; county?: string | null; state: string };
@@ -550,6 +559,7 @@ export interface MapTie {
   caption?: string | null;
   dateNote?: string | null;
   basisNote?: string | null;
+  addedIn?: string | null;
 }
 
 export interface MapLibrary {
