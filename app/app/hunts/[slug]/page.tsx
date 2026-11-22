@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getHunts, getResolvedHunt, huntFindsForRender } from "@/lib/data";
 import { CheckFind, HuntProgressPanel } from "@/components/HuntProgress";
 import { HuntBadge } from "@/components/HuntBadge";
+import { findAnchor } from "@/lib/hunt-start.mjs";
 
 export const dynamicParams = false;
 
@@ -21,7 +22,7 @@ export default async function HuntPage({ params }: { params: Promise<{ slug: str
   const hunt = getResolvedHunt(slug);
   if (!hunt) notFound();
   const finds = huntFindsForRender(hunt);
-  const refs = finds.map((f) => ({ n: f.n, label: f.label, tiedSlug: f.tie.slug }));
+  const refs = finds.map((f) => ({ n: f.n, label: f.label, tiedSlug: f.tie.slug, status: f.status }));
 
   return (
     <article className="hunts-page">
@@ -62,14 +63,14 @@ export default async function HuntPage({ params }: { params: Promise<{ slug: str
         no questions and no answer keys.
       </p>
 
-      <HuntProgressPanel badge={hunt.badge} finds={refs} />
+      <HuntProgressPanel slug={hunt.slug} name={hunt.name} active={hunt.status === "active"} badge={hunt.badge} finds={refs} />
 
-      <h2>The finds</h2>
+      <h2 id="finds" tabIndex={-1}>The finds</h2>
       <div className="find-list">
         {finds.map((f) => {
           const tied = f.tie.status === "tied" && f.tie.slug;
           return (
-            <section key={f.n} className={`find-card${tied ? "" : " untied"}`} aria-label={`Find ${f.n}`}>
+            <section key={f.n} id={findAnchor(f.n)} tabIndex={-1} className={`find-card${tied ? "" : " untied"}`} aria-label={`Find ${f.n}`}>
               <p className="find-n">Find {f.n}</p>
               <h3>{f.label}</h3>
               <p className="small">
