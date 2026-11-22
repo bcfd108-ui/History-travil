@@ -1,6 +1,7 @@
 {
-  "provider": "xai",
-  "model": "grok-4",
+  "secretName": "MACHINE_RESEARCH_OPENROUTER_KEY",
+  "provider": "openrouter",
+  "model": "nvidia/nemotron-3.5-super-vl:free",
   "perRunCap": 2,
   "schedule": "0 */2 * * *"
 }

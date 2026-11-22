@@ -86,9 +86,13 @@ Phase 1 has no workflows. There is nothing to disable. Later phases must name th
 
 ## Phase 2 — The research worker
 
-The worker is `.github/workflows/machine-research.yml`. It reads `machine/worker.config.json` for the provider, the model, the per-run cap, and the schedule. The schedule in that file is the cron. `scripts/check-machine-worker.mjs` fails the build if the workflow cron drifts.
+The desk owns `.github/workflows/machine-research.yml`; this patch does not add or enable it. The worker reads `machine/worker.config.json` for the provider, model, per-run cap, and schedule. The only accepted research route is OpenRouter's `nvidia/nemotron-3.5-super-vl:free`; the worker requests a zero input/output price limit and disables provider fallback. It does not use an automatic router, a paid model, or a backup credential. Free capacity can be exhausted or withdrawn; a failure stops the run rather than spending money.
 
-The key is the GitHub secret `MACHINE_RESEARCH_KEY`. The owner sets it under Settings → Secrets and variables → Actions. The workflow reads that name and no other. An empty secret is a clean stop: the run says the key is unset, files no issue, and opens no pull request.
+`npm run check:worker` fails if the actual workflow is missing or its cron and secret mapping disagree with the worker. While the workflow is held by the desk, run `npm run check:worker -- --workflow /path/to/machine-research.yml` to check a copy explicitly. A test fixture can exercise this checker; it is not workflow installation or release evidence.
+
+The config field `secretName` names the one inference credential, the GitHub Actions secret `MACHINE_RESEARCH_OPENROUTER_KEY` (Settings → Secrets and variables → Actions). The workflow maps it to the same-named environment variable. The repository's own GitHub token remains separate for GitHub operations. `MACHINE_BUILDER_KEY` is reserved for separate builder work: it is not configured, consumed, or exposed by this research runtime or workflow. An empty research secret is a clean stop: no provider request, issue, or pull request.
+
+Send only public research material. This provider change does not add source acquisition, independent evidence verification, or publication authority.
 
 The worker reads open pull requests whose head branch starts with `machine/research-run-` before it researches. Lead ids already named in those run reports are skipped, and the drafted dossiers count as filed ground for the variant check. That is what stops the two-hour schedule from filing the same lead again while a draft is still waiting. A run that cannot read those pull requests stops and files an issue. It does not guess.
 

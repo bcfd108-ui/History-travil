@@ -1,5 +1,7 @@
 import assert from "node:assert/strict";
-import { readFileSync } from "node:fs";
+import { mkdtempSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
+import { tmpdir } from "node:os";
+import { spawnSync } from "node:child_process";
 import { dirname, join } from "node:path";
 import test from "node:test";
 import { fileURLToPath } from "node:url";
@@ -7,6 +9,8 @@ import { leadId } from "../lib/machine-queue.mjs";
 import {
   SECRET_NAME,
   assertRunBranch,
+  completeWithProvider,
+  configProblems,
   dossierSlug,
   entryFromDossier,
   groundFromOpenRuns,
@@ -90,11 +94,109 @@ ${sources}
 
 const readingLead = () => item({ name: "Fixture Reading Yard", town: "Fixture", state: "WY", anchorPosture: "NONE" });
 
-test("config schedule is the workflow cron", () => {
-  const workflow = readFileSync(join(repoRoot, ".github", "workflows", "machine-research.yml"), "utf8");
-  assert.equal(workflowCron(workflow), config.schedule);
+const pinned = "nvidia/nemotron-3.5-super-vl:free";
+const researchSecret = "MACHINE_RESEARCH_OPENROUTER_KEY";
+const workflowFixture = [
+  "on:", "  schedule:", '    - cron: "0 */2 * * *"', "jobs:",
+  "  research:", "    steps:", "      - run: node app/scripts/machine-research.mjs",
+  "        env:", "          " + researchSecret + ": " + "${{ secrets." + researchSecret + " }}",
+  "          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}", "",
+].join("\n");
+const runChecker = (args = [], app = appRoot) => spawnSync(process.execPath, [join(app, "scripts", "check-machine-worker.mjs"), ...args], { encoding: "utf8", cwd: repoRoot });
+
+test("config specifies the sole OpenRouter free model, secret and workflow cadence", () => {
+  assert.equal(SECRET_NAME, researchSecret);
+  assert.equal(config.provider, "openrouter");
+  assert.equal(config.model, pinned);
+  assert.equal(config.secretName, researchSecret);
+  assert.equal(workflowCron(workflowFixture), config.schedule);
   assert.equal(config.perRunCap, 2);
   assert.equal(config.schedule, "0 */2 * * *");
+  for (const patch of [{ provider: "xai" }, { secretName: "MACHINE_BUILDER_KEY" }, { secretName: "" }, { model: pinned.replace(":free", "") }, { model: "openrouter/free" }, { model: "other/model:free" }, { fallback: "other/model" }]) {
+    assert.notEqual(configProblems({ ...config, ...patch }).length, 0);
+  }
+});
+
+test("adapter sends one pinned, zero-price OpenRouter request with no fallback", async () => {
+  const requests = [];
+  const reply = await completeWithProvider({ provider: "openrouter", model: pinned, key: "fixture-key", prompt: "fixture prompt", fetchImpl: async (url, opts) => {
+    requests.push({ url, opts });
+    return { ok: true, json: async () => ({ choices: [{ message: { content: "fixture output" } }] }) };
+  } });
+  assert.equal(reply, "fixture output");
+  assert.equal(requests.length, 1);
+  const [{ url, opts }] = requests;
+  assert.equal(url, "https://openrouter.ai/api/v1/chat/completions");
+  assert.equal(opts.headers.Authorization, "Bearer fixture-key");
+  assert.equal(opts.redirect, "error");
+  const body = JSON.parse(opts.body);
+  assert.equal(body.model, pinned);
+  assert.deepEqual(body.provider, { allow_fallbacks: false, max_price: { prompt: 0, completion: 0 } });
+  assert.equal(Object.hasOwn(body, "models"), false);
+  assert.equal(Object.hasOwn(body, "route"), false);
+});
+
+test("adapter rejects a paid, router, alternate-free or incorrect-provider request before fetch", async () => {
+  let calls = 0;
+  const fetchImpl = async () => { calls++; throw new Error("unexpected fetch"); };
+  for (const [provider, model] of [["openrouter", pinned.replace(":free", "")], ["openrouter", "openrouter/free"], ["openrouter", "other/model:free"], ["xai", pinned]]) {
+    await assert.rejects(completeWithProvider({ provider, model, key: "fixture-key", prompt: "fixture", fetchImpl }), /approved free research route/);
+  }
+  assert.equal(calls, 0);
+});
+
+test("adapter does not fallback on quota failure or leak provider response body", async () => {
+  let calls = 0;
+  await assert.rejects(completeWithProvider({ provider: "openrouter", model: pinned, key: "fixture-key", prompt: "fixture", fetchImpl: async () => {
+    calls++;
+    return { ok: false, status: 429, json: async () => { throw new Error("untrusted reply"); } };
+  } }), { message: "research provider returned 429" });
+  assert.equal(calls, 1);
+});
+
+test("worker checker requires workflow by default and validates desk-held copies by explicit path", () => {
+  const temp = mkdtempSync(join(tmpdir(), "machine-worker-contract-"));
+  try {
+    const app = join(temp, "app");
+    for (const dir of ["scripts", "lib", "machine"]) mkdirSync(join(app, dir), { recursive: true });
+    for (const file of ["scripts/check-machine-worker.mjs", "scripts/machine-research.mjs", "lib/machine-worker.mjs", "lib/machine-queue.mjs", "machine/worker.config.json", "package.json"]) {
+      writeFileSync(join(app, file), readFileSync(join(appRoot, file)));
+    }
+    const missing = runChecker([], app);
+    assert.equal(missing.status, 1);
+    assert.match(missing.stderr, /research workflow missing/);
+    const file = join(temp, "desk-held.yml");
+    writeFileSync(file, workflowFixture);
+    const good = runChecker(["--workflow", file], app);
+    assert.equal(good.status, 0, good.stderr);
+    for (const [bad, message] of [
+      [workflowFixture + "# MACHINE_BUILDER_KEY", /MACHINE_BUILDER_KEY.*forbidden/],
+      [workflowFixture + "          OTHER: ${{ secrets.OTHER_AI_KEY }}", /unapproved workflow secret/],
+      [workflowFixture + "          DUP: ${{ secrets." + researchSecret + " }}", /exactly one/],
+      [workflowFixture.replace("0 */2 * * *", "0 */3 * * *"), /workflow cron/],
+    ]) {
+      writeFileSync(file, bad);
+      const result = runChecker(["--workflow", file], app);
+      assert.equal(result.status, 1);
+      assert.match(result.stderr, message);
+    }
+    writeFileSync(file, workflowFixture);
+    const notRuntime = join(app, "scripts", "irrelevant.test.mjs");
+    writeFileSync(notRuntime, "// MACHINE_BUILDER_KEY");
+    assert.equal(runChecker(["--workflow", file], app).status, 0);
+    for (const target of ["scripts/helper.mjs", "lib/helper.ts", "machine/extra.config.json", "package.json"]) {
+      const path = join(app, target);
+      const original = target === "package.json" ? readFileSync(path, "utf8") : null;
+      writeFileSync(path, '"MACHINE_BUILDER_KEY"');
+      const result = runChecker(["--workflow", file], app);
+      assert.equal(result.status, 1);
+      assert.match(result.stderr, /MACHINE_BUILDER_KEY.*forbidden/);
+      if (original === null) rmSync(path);
+      else writeFileSync(path, original);
+    }
+  } finally {
+    rmSync(temp, { recursive: true, force: true });
+  }
 });
 
 test("a missing key exits clean and does not research", async () => {

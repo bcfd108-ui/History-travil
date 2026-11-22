@@ -1,9 +1,9 @@
 // Phase 2 research worker. Pure checks live here. The script in
 // scripts/machine-research.mjs does the I/O. No key is read in this file.
 //
-// Cap, schedule, provider, and model come from app/machine/worker.config.json.
-// They are not constants in this file. The GitHub Actions cron is checked
-// against that same schedule; it is not a second source of truth.
+// Cap and schedule come from app/machine/worker.config.json. Its provider
+// and model declare the selected route, validated against the free-only boundary.
+// The GitHub Actions cron is checked against the same schedule.
 import { readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -11,7 +11,9 @@ import { normId, normName, parseCheckedDate, validateResearch } from "./machine-
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 
-export const SECRET_NAME = "MACHINE_RESEARCH_KEY";
+export const SECRET_NAME = "MACHINE_RESEARCH_OPENROUTER_KEY";
+const FREE_PROVIDER = "openrouter";
+const FREE_MODEL = "nvidia/nemotron-3.5-super-vl:free";
 export const RUN_BRANCH_PREFIX = "machine/research-run-";
 export const WORKFLOW_PATH = ".github/workflows/machine-research.yml";
 
@@ -58,9 +60,12 @@ export function loadWorkerConfig(appRoot = join(HERE, "..")) {
 
 export function configProblems(config) {
   const problems = [];
-  if (!config || typeof config !== "object") return ["worker config is missing"];
-  if (typeof config.provider !== "string" || !config.provider.trim()) problems.push("provider is missing");
-  if (typeof config.model !== "string" || !config.model.trim()) problems.push("model is missing");
+  if (!config || typeof config !== "object" || Array.isArray(config)) return ["worker config is missing"];
+  if (config.provider !== FREE_PROVIDER) problems.push("provider must be openrouter");
+  if (config.model !== FREE_MODEL) problems.push(`model must be ${FREE_MODEL}`);
+  if (config.secretName !== SECRET_NAME) problems.push(`secretName must be ${SECRET_NAME}`);
+  const allowed = new Set(["provider", "model", "secretName", "perRunCap", "schedule"]);
+  if (Object.keys(config).some((key) => !allowed.has(key))) problems.push("worker config contains unsupported fields");
   if (!Number.isInteger(config.perRunCap) || config.perRunCap < 1) problems.push("perRunCap must be a positive integer");
   if (typeof config.schedule !== "string" || !/^\S+(?:\s+\S+){4}$/.test(config.schedule)) problems.push("schedule must be a five-field cron");
   return problems;
@@ -474,7 +479,7 @@ export async function runResearch({
   const slugs = new Set(existingSlugs);
   const held = new Set(skipIds || []);
   if (!String(key || "").trim()) {
-    const summary = `No research key is configured. Secret ${SECRET_NAME} is unset. Nothing was researched. No pull request was opened.`;
+    const summary = `No research key is configured. Secret ${config?.secretName === SECRET_NAME ? config.secretName : SECRET_NAME} is unset. Nothing was researched. No pull request was opened.`;
     return { exitCode: 0, openedPr: false, issueFiled: false, summary, report };
   }
   let queue;
@@ -561,15 +566,17 @@ export async function runResearch({
   return { exitCode: 0, openedPr: true, issueFiled: false, summary: body, report, branch };
 }
 
-const XAI_URL = "https://api.x.ai/v1/chat/completions";
+const OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions";
 
 export async function completeWithProvider({ provider, model, key, prompt, fetchImpl = globalThis.fetch }) {
-  if (provider !== "xai") throw new Error(`research provider ${provider} is not wired`);
-  const response = await fetchImpl(XAI_URL, {
+  if (provider !== FREE_PROVIDER || model !== FREE_MODEL) throw new Error("only the approved free research route is allowed");
+  const response = await fetchImpl(OPENROUTER_URL, {
     method: "POST",
+    redirect: "error",
     headers: { Authorization: `Bearer ${key}`, "Content-Type": "application/json" },
     body: JSON.stringify({
       model,
+      provider: { allow_fallbacks: false, max_price: { prompt: 0, completion: 0 } },
       temperature: 0,
       messages: [
         { role: "system", content: "You write one catalog dossier from free sources. You do not publish it. You invent nothing." },

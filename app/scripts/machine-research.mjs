@@ -1,12 +1,11 @@
 // One research run. Reads the queue, writes drafts, opens one pull request.
-// A missing MACHINE_RESEARCH_KEY exits clean. A broken queue files an issue
+// A missing MACHINE_RESEARCH_OPENROUTER_KEY exits clean. A broken queue files an issue
 // and stops. This process never merges and never pushes to main.
 import { appendFileSync, existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { spawnSync } from "node:child_process";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import {
-  SECRET_NAME,
   assertRunBranch,
   completeWithProvider,
   entryFromDossier,
@@ -48,7 +47,7 @@ function writeSummary(text) {
 
 function redact(text) {
   let out = String(text || "");
-  for (const secret of [process.env.GH_TOKEN, process.env.GITHUB_TOKEN, process.env[SECRET_NAME]]) {
+  for (const secret of [process.env.GH_TOKEN, process.env.GITHUB_TOKEN, process.env[config.secretName]]) {
     if (secret && secret.length > 4) out = out.split(secret).join("[redacted]");
   }
   return out.replace(/Bearer\s+\S+/gi, "Bearer [redacted]");
@@ -110,7 +109,15 @@ async function openPr({ branch, title, body, files }) {
   if (pr.status !== 0) throw new Error(redact((pr.stderr || "could not open the pull request").trim()));
 }
 
-const key = process.env[SECRET_NAME] || "";
+let config;
+try {
+  config = loadWorkerConfig(appRoot);
+} catch {
+  // Invalid config cannot choose a credential or initiate a GitHub/provider call.
+  console.error("Research worker config is invalid. Nothing was researched.");
+  process.exit(1);
+}
+const key = process.env[config.secretName] || "";
 let openGround = { entries: [], slugs: [], skipIds: [], problems: [] };
 if (String(key).trim()) {
   try {
@@ -140,7 +147,7 @@ const queueText = readFileSync(join(appRoot, "data", "machine", "research-queue.
 const ground = loadGround();
 try {
   const result = await runResearch({
-    config: loadWorkerConfig(appRoot),
+    config,
     key,
     queueText,
     entries: [...ground.entries, ...openGround.entries],
