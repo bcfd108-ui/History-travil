@@ -1,7 +1,7 @@
 {
   "generatedFrom": "corpus dossiers (~/workspace/history-travel/corpus + home-bench root)",
-  "filesSeen": 788,
-  "sitesConverted": 781,
+  "filesSeen": 798,
+  "sitesConverted": 791,
   "perState": {
     "AL": 10,
     "AZ": 24,
@@ -27,6 +27,7 @@
     "ND": 24,
     "OK": 24,
     "OR": 25,
+    "PA": 10,
     "SC": 2,
     "SD": 20,
     "TN": 2,
@@ -35,37 +36,37 @@
     "WA": 25,
     "WY": 24
   },
-  "withCoordinates": 94,
+  "withCoordinates": 97,
   "coordinateKinds": {
-    "locatorFields": 84,
+    "locatorFields": 87,
     "printedPair": 10
   },
-  "withAnyLocatorId": 597,
-  "withNrhp": 312,
+  "withAnyLocatorId": 606,
+  "withNrhp": 321,
   "withHmdb": 82,
-  "blankCoordinates": 687,
-  "reflection": 285,
-  "view": 496,
+  "blankCoordinates": 694,
+  "reflection": 286,
+  "view": 505,
   "reflectionSignals": {
-    "slug": 46,
+    "slug": 47,
     "candSec": 192,
-    "preamble": 128,
+    "preamble": 129,
     "gate": 74
   },
   "formatVariants": {
     "boldSection1": 305,
     "altLocatorScheme": 14
   },
-  "sec8ApparatusSeen": 284,
-  "sec8BulletsSeen": 441,
+  "sec8ApparatusSeen": 293,
+  "sec8BulletsSeen": 468,
   "sec8QuestionPromptsDropped": 11,
   "sec8FieldLinesDropped": 51,
   "candidateFindsSurfaced": 19,
   "sitesWithCandidates": 8,
-  "townsRecorded": 625,
+  "townsRecorded": 635,
   "emptyAccess": 4,
   "emptyStory": 0,
-  "unmappedSectionsCarried": 192,
+  "unmappedSectionsCarried": 193,
   "collisions": [
     "bayhorse: corpus (R02) vs corpus",
     "cataldo-mission: corpus (R02) vs corpus",

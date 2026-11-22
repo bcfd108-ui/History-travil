@@ -13548,1806 +13548,6 @@
    "attempts": []
   },
   {
-   "id": "lq_0229da9a3d09c31f",
-   "projectedSlug": "pa-logan-inn",
-   "targetSlug": null,
-   "name": "Logan Inn",
-   "town": "New Hope",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 496,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_044bb8f11dd6ff68",
-   "projectedSlug": "pa-belmont-mansion-and-underground-railroad-museum",
-   "targetSlug": null,
-   "name": "Belmont Mansion & Underground Railroad Museum",
-   "town": "Philadelphia (Fairmount Park)",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum in public park",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 29,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0595169d379c2300",
-   "projectedSlug": "pa-marian-anderson-house",
-   "targetSlug": null,
-   "name": "Marian Anderson House",
-   "town": "Philadelphia",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum (NHL) — singer's home; 1939 Lincoln Memorial concert ground told from here",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 27,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0ae88363b4eb1a65",
-   "projectedSlug": "pa-old-jail-museum",
-   "targetSlug": null,
-   "name": "Old Jail Museum",
-   "town": "Jim Thorpe",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "prison — anchor: museum open to the public. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 494,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_10744c2460e347b6",
-   "projectedSlug": "pa-cashtown-inn",
-   "targetSlug": null,
-   "name": "Cashtown Inn",
-   "town": "Cashtown",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 487,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_11be0e0d4daa63d3",
-   "projectedSlug": "pa-delaware-canal-state-park-and-new-hope",
-   "targetSlug": null,
-   "name": "Delaware Canal State Park & New Hope",
-   "town": "",
-   "county": "Bucks",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State park towpath and public canal town — last towpath canal in continuous state care",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 78,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_13ef32a843a8201d",
-   "projectedSlug": "pa-conrad-weiser-homestead",
-   "targetSlug": null,
-   "name": "Conrad Weiser Homestead",
-   "town": "Womelsdorf",
-   "county": "Berks",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State historic site — interpreter's home; Haudenosaunee diplomacy ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 49,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_14ab697fdddacf0c",
-   "projectedSlug": "pa-inn-at-jim-thorpe",
-   "targetSlug": null,
-   "name": "Inn at Jim Thorpe",
-   "town": "Jim Thorpe",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 495,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_14f2d01e964438f1",
-   "projectedSlug": "pa-steamtown-national-historic-site",
-   "targetSlug": null,
-   "name": "Steamtown National Historic Site",
-   "town": "Scranton",
-   "county": "Lackawanna",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "National park unit — working steam roundhouse, Lackawanna Railroad yards",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 71,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1cd595e2ff8668e8",
-   "projectedSlug": "pa-colonial-york-and-york-county-history-center",
-   "targetSlug": null,
-   "name": "Colonial York & York County History Center",
-   "town": "York",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum complex — Articles of Confederation adopted here (1777)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 51,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_2c3b0c4e8a0f4db8",
-   "projectedSlug": "pa-national-civil-war-museum",
-   "targetSlug": null,
-   "name": "National Civil War Museum",
-   "town": "Harrisburg",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum (Reservoir Park)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 61,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_2e361918f52cf225",
-   "projectedSlug": "pa-old-allegheny-county-jail",
-   "targetSlug": null,
-   "name": "Old Allegheny County Jail",
-   "town": "Pittsburgh",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "prison — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 497,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_30e6a49b4ee5be7f",
-   "projectedSlug": "pa-hill-view-manor",
-   "targetSlug": null,
-   "name": "Hill View Manor",
-   "town": "New Castle",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "other — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 485,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_33d7f9896ea83fc9",
-   "projectedSlug": "pa-pennsbury-manor",
-   "targetSlug": null,
-   "name": "Pennsbury Manor",
-   "town": "Falls Township",
-   "county": "Bucks",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State historic site — Penn's reconstructed country estate",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 35,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_35401de88251c53d",
-   "projectedSlug": "pa-william-c-goodridge-freedom-center-and-underground-railroad-museum",
-   "targetSlug": null,
-   "name": "William C. Goodridge Freedom Center & Underground Railroad Museum",
-   "town": "York",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum — Black businessman and UGRR conductor's home",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 50,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_35e4afb375c567c7",
-   "projectedSlug": "pa-erie-maritime-museum-and-u-s-brig-niagara",
-   "targetSlug": null,
-   "name": "Erie Maritime Museum & U.S. Brig Niagara ★",
-   "town": "Erie",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum and sailing brig — War of 1812, Perry's Lake Erie fleet",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 104,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3924fd6eb8ab4b84",
-   "projectedSlug": "pa-hotel-bethlehem",
-   "targetSlug": null,
-   "name": "Hotel Bethlehem",
-   "town": "Bethlehem",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 498,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_39dbcf635e6c2bfe",
-   "projectedSlug": "pa-eastern-state-penitentiary",
-   "targetSlug": null,
-   "name": "Eastern State Penitentiary ★",
-   "town": "Philadelphia",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum — world's first penitentiary (1829), radial solitary-confinement model exported worldwide",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 24,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    },
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 489,
-     "dialect": "desk-sweep-4",
-     "role": "listed"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3b69f5ab34ae2756",
-   "projectedSlug": "pa-pennsylvania-state-capitol-and-state-museum-of-pennsylvania",
-   "targetSlug": null,
-   "name": "Pennsylvania State Capitol & State Museum of Pennsylvania",
-   "town": "Harrisburg",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Public building tours and state museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 60,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3e5a40135ea50da6",
-   "projectedSlug": "pa-the-hershey-story-and-milton-hersheys-industrial-town",
-   "targetSlug": null,
-   "name": "The Hershey Story & Milton Hershey's industrial town",
-   "town": "Hershey",
-   "county": "Dauphin",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum — chocolate company town, model industrial paternalism",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 64,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_41b53e52749e3b69",
-   "projectedSlug": "pa-drake-well-museum-and-park",
-   "targetSlug": null,
-   "name": "Drake Well Museum & Park",
-   "town": "Titusville",
-   "county": "Venango",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State museum — 1859 first commercial oil well; Oil Creek valley ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 105,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_46ceb5f9c9f9558f",
-   "projectedSlug": "pa-pennhurst-state-school-and-hospital",
-   "targetSlug": null,
-   "name": "Pennhurst State School & Hospital ★",
-   "town": "Spring City",
-   "county": "Chester",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Private campus, ticketed daytime history tours and the Pennhurst Museum of disability history; seasonal haunted attraction on the same ground — researcher holds the dignity line and separates the two",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 25,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5647c80de7b67ace",
-   "projectedSlug": "pa-landis-valley-village-and-farm-museum",
-   "targetSlug": null,
-   "name": "Landis Valley Village & Farm Museum",
-   "town": "Lancaster",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State museum — Pennsylvania German farm life",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 44,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_59b8911dd837eca7",
-   "projectedSlug": "pa-pennhurst",
-   "targetSlug": null,
-   "name": "Pennhurst",
-   "town": "Spring City",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "asylum — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 484,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5a34480341cb04ee",
-   "projectedSlug": "pa-lest-we-forget-slavery-museum",
-   "targetSlug": null,
-   "name": "Lest We Forget Slavery Museum",
-   "town": "Philadelphia",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum — slavery artifacts collection",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 30,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5e851e13a50ae997",
-   "projectedSlug": "pa-brandywine-battlefield-park",
-   "targetSlug": null,
-   "name": "Brandywine Battlefield Park",
-   "town": "Chadds Ford",
-   "county": "Delaware",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State park — largest land battle of the Revolution (1777)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 37,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_60a4d719a754469b",
-   "projectedSlug": "pa-gettysburg-academy",
-   "targetSlug": null,
-   "name": "Gettysburg Academy",
-   "town": "Gettysburg",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "other — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 492,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_64be37055a4bedca",
-   "projectedSlug": "pa-hans-herr-house",
-   "targetSlug": null,
-   "name": "Hans Herr House",
-   "town": "Willow Street",
-   "county": "Lancaster",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum — oldest Mennonite meetinghouse/home in the Western Hemisphere (1719)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 47,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_66e7825a46ac2544",
-   "projectedSlug": "pa-fort-pitt-museum-and-point-state-park",
-   "targetSlug": null,
-   "name": "Fort Pitt Museum & Point State Park ★",
-   "town": "Pittsburgh",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State park museum — Forks of the Ohio, French and Indian War ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 87,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6bd7fd3fe9120301",
-   "projectedSlug": "pa-west-overton-village",
-   "targetSlug": null,
-   "name": "West Overton Village",
-   "town": "",
-   "county": "Westmoreland",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum — Mennonite village, whiskey and coke industry, Henry Clay Frick birthplace",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 95,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6eff308961b33c49",
-   "projectedSlug": "pa-fort-leboeuf-museum-and-washington-statue",
-   "targetSlug": null,
-   "name": "Fort LeBoeuf Museum & Washington statue",
-   "town": "Waterford",
-   "county": "Erie",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum — French fort ground; young George Washington's 1753 mission",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 107,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6fddbd48795f8a73",
-   "projectedSlug": "pa-cathedral-of-learning-nationality-rooms",
-   "targetSlug": null,
-   "name": "Cathedral of Learning Nationality Rooms",
-   "town": "Pittsburgh (Oakland)",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "University public tours — immigrant communities' classrooms, immigration in stone",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 91,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7231546b45bf558d",
-   "projectedSlug": "pa-pennsylvania-military-museum",
-   "targetSlug": null,
-   "name": "Pennsylvania Military Museum ★",
-   "town": "Boalsburg",
-   "county": "Centre",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State museum — 28th Division shrine ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 65,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_742970018fe7d43f",
-   "projectedSlug": "pa-elfreths-alley",
-   "targetSlug": null,
-   "name": "Elfreth's Alley",
-   "town": "Philadelphia",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Public street and museum houses — oldest continuously inhabited residential street",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 32,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_769515faa6b8ff8a",
-   "projectedSlug": "pa-pioneer-tunnel-coal-mine",
-   "targetSlug": null,
-   "name": "Pioneer Tunnel Coal Mine",
-   "town": "Ashland",
-   "county": "Schuylkill",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Mine tour — anthracite labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 75,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_85c22f77ac016543",
-   "projectedSlug": "pa-grand-midway-hotel",
-   "targetSlug": null,
-   "name": "Grand Midway Hotel",
-   "town": "Windber",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 493,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_876987b8bae0c6fb",
-   "projectedSlug": "pa-independence-national-historical-park",
-   "targetSlug": null,
-   "name": "Independence National Historical Park",
-   "town": "Philadelphia",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "National park unit — Independence Hall, Liberty Bell, Congress Hall (founding ground)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 23,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_886e2b6c40e32a92",
-   "projectedSlug": "pa-penn-treaty-park-shackamaxon",
-   "targetSlug": null,
-   "name": "Penn Treaty Park (Shackamaxon)",
-   "town": "Philadelphia",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Public park — Lenape–Penn treaty ground on the Delaware",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 31,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8872d7c6184f572f",
-   "projectedSlug": "pa-bushy-run-battlefield",
-   "targetSlug": null,
-   "name": "Bushy Run Battlefield",
-   "town": "",
-   "county": "Westmoreland",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State historic site — Pontiac's War battle (1763), Indigenous nations' ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 94,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8a5996f4d719231b",
-   "projectedSlug": "pa-hotel-conneaut",
-   "targetSlug": null,
-   "name": "Hotel Conneaut",
-   "town": "Conneaut Lake",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 500,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_991837ed6f4130da",
-   "projectedSlug": "pa-flight-93-national-memorial",
-   "targetSlug": null,
-   "name": "Flight 93 National Memorial",
-   "town": "",
-   "county": "Somerset",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "National park unit — September 11, 2001 ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 96,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9a7eacce59afb102",
-   "projectedSlug": "pa-gettysburg-national-military-park-and-eisenhower-nhs",
-   "targetSlug": null,
-   "name": "Gettysburg National Military Park & Eisenhower NHS ★",
-   "town": "Gettysburg",
-   "county": "Adams",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "National park units — 1863 battle, Soldiers' National Cemetery and the Address; Eisenhower farm adjoining",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 58,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9af1a24f88f4999c",
-   "projectedSlug": "pa-johnson-house-historic-site",
-   "targetSlug": null,
-   "name": "Johnson House Historic Site",
-   "town": "Germantown",
-   "county": "Philadelphia",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum — documented Underground Railroad station, 1855 abolitionist meeting ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 28,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9d7e29370682ce51",
-   "projectedSlug": "pa-carlisle-indian-school-and-carlisle-barracks",
-   "targetSlug": null,
-   "name": "Carlisle Indian School & Carlisle Barracks ★",
-   "town": "Carlisle",
-   "county": "Cumberland",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Anchor: U.S. Army Heritage & Education Center (public museum) plus the school grounds and cemetery on the active post (public portions; new Carlisle Indian School National Monument) — first off-reservation federal boarding school, 1879–1918; Indigenous ground, reflection posture",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 59,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9f77847268eee9b5",
-   "projectedSlug": "pa-betsy-ross-house",
-   "targetSlug": null,
-   "name": "Betsy Ross House",
-   "town": "Philadelphia",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "house — anchor: museum open to the public. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 499,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a000d14b844bdc24",
-   "projectedSlug": "pa-scranton-iron-furnaces",
-   "targetSlug": null,
-   "name": "Scranton Iron Furnaces",
-   "town": "Scranton",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State historic site — Lackawanna iron stacks",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 76,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a06246564d919815",
-   "projectedSlug": "pa-columns-museum",
-   "targetSlug": null,
-   "name": "Columns Museum",
-   "town": "Milford",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "house — anchor: museum open to the public. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 491,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a0bf306a48126512",
-   "projectedSlug": "pa-senator-john-heinz-history-center",
-   "targetSlug": null,
-   "name": "Senator John Heinz History Center",
-   "town": "Pittsburgh",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum — Western Pennsylvania regional history, Smithsonian affiliate",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 88,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a162ae08b6e8ef79",
-   "projectedSlug": "pa-fort-mifflin",
-   "targetSlug": null,
-   "name": "Fort Mifflin ★",
-   "town": "Philadelphia (Delaware River)",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum fort — 1777 siege ground, later Civil War prison",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 34,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a43d087838064c97",
-   "projectedSlug": "pa-fort-necessity-national-battlefield-and-jumonville-glen",
-   "targetSlug": null,
-   "name": "Fort Necessity National Battlefield & Jumonville Glen ★",
-   "town": "",
-   "county": "Fayette",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "National park unit — opening ground of the French and Indian War (1754)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 93,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a66921c61f656c08",
-   "projectedSlug": "pa-anthracite-heritage-museum-and-lackawanna-coal-mine-tour",
-   "targetSlug": null,
-   "name": "Anthracite Heritage Museum & Lackawanna Coal Mine Tour",
-   "town": "Scranton",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State museum and guided mine tour — coal, immigrant labor",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 72,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_aabb0fb471a71434",
-   "projectedSlug": "pa-battle-of-homestead-site-and-bost-building",
-   "targetSlug": null,
-   "name": "Battle of Homestead site & Bost Building",
-   "town": "Homestead",
-   "county": "Allegheny",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Rivers of Steel / museum — 1892 Homestead Strike ground, Pinkerton battle at the Pump House",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 90,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b06f5650827782c2",
-   "projectedSlug": "pa-allegheny-portage-railroad-nhs-and-horseshoe-curve",
-   "targetSlug": null,
-   "name": "Allegheny Portage Railroad NHS & Horseshoe Curve",
-   "town": "",
-   "county": "Blair/Cambria",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "National park unit and visitor site — canal-era portage over the Alleghenies, rail industry",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 98,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b93d4774b70ce789",
-   "projectedSlug": "pa-cornplanter-tract-and-kinzua-dam-ground",
-   "targetSlug": null,
-   "name": "Cornplanter Tract & Kinzua Dam ground",
-   "town": "",
-   "county": "Warren",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Seneca leader Cornplanter's grant, flooded by Kinzua Dam (1965) in breach of the 1794 treaty — the ground is under the Allegheny Reservoir; no public Seneca anchor, do not route without Seneca Nation guidance",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 108,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c205b032c70ab46e",
-   "projectedSlug": "pa-daniel-boone-homestead",
-   "targetSlug": null,
-   "name": "Daniel Boone Homestead",
-   "town": "Oley Township",
-   "county": "Berks",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Historic site — Boone family frontier farm",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 48,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c2774cf9f4c4ab4b",
-   "projectedSlug": "pa-johnstown-flood-national-memorial-and-johnstown-flood-museum",
-   "targetSlug": null,
-   "name": "Johnstown Flood National Memorial & Johnstown Flood Museum",
-   "town": "Johnstown",
-   "county": "Cambria",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "National park unit and museum — 1889 dam failure, 2,209 dead; Cambria Iron works ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 97,
-     "dialect": "desk-sweep-4",
-     "role": "dead"
-    }
-   ],
-   "queueState": "checked-dead",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c803e9ff7a566a68",
-   "projectedSlug": "pa-carrie-furnaces",
-   "targetSlug": null,
-   "name": "Carrie Furnaces",
-   "town": "Rankin/Swissvale",
-   "county": "Allegheny",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Rivers of Steel tours — surviving blast furnaces, steel labor and immigrant work",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 89,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c8bb44e31ee05d24",
-   "projectedSlug": "pa-eckley-miners-village",
-   "targetSlug": null,
-   "name": "Eckley Miners' Village",
-   "town": "near Hazleton",
-   "county": "Luzerne",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State historic site — preserved anthracite patch town",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 73,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cd5c4af234d30868",
-   "projectedSlug": "pa-cornwall-iron-furnace",
-   "targetSlug": null,
-   "name": "Cornwall Iron Furnace",
-   "town": "Cornwall",
-   "county": "Lebanon",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State historic site — best-preserved charcoal cold-blast furnace in the U.S.",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 45,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d0b510044b82cc43",
-   "projectedSlug": "pa-allegheny-county-courthouse-and-jail",
-   "targetSlug": null,
-   "name": "Allegheny County Courthouse & Jail",
-   "town": "Pittsburgh",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Public building — Richardson Romanesque jail and courthouse (exterior and public interiors; working jail history, not a prison museum)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 92,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d47bfcca4cc65284",
-   "projectedSlug": "pa-farnsworth-house-inn",
-   "targetSlug": null,
-   "name": "Farnsworth House Inn",
-   "town": "Gettysburg",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 483,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d48ad7a391dfdeff",
-   "projectedSlug": "pa-ephrata-cloister",
-   "targetSlug": null,
-   "name": "Ephrata Cloister",
-   "town": "Ephrata",
-   "county": "Lancaster",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State historic site — German Pietist communal settlement, early printing and music",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 43,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d85deb5bceebe854",
-   "projectedSlug": "pa-hopewell-furnace-national-historic-site",
-   "targetSlug": null,
-   "name": "Hopewell Furnace National Historic Site",
-   "town": "near Elverson",
-   "county": "Berks",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "National park unit — iron plantation village, Mark Bird's furnace",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 46,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d8d83d4567d0055d",
-   "projectedSlug": "pa-fort-augusta-and-hunter-house-museum",
-   "targetSlug": null,
-   "name": "Fort Augusta & Hunter House Museum",
-   "town": "Sunbury",
-   "county": "Northumberland",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum — largest British provincial fort in PA; Shikellamy's Shamokin ground beneath",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 52,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d9aff8fe45a49bf2",
-   "projectedSlug": "pa-gettysburg-battlefield",
-   "targetSlug": null,
-   "name": "Gettysburg Battlefield",
-   "town": "Gettysburg",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "battlefield — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 486,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e084bb2978ae75e2",
-   "projectedSlug": "pa-pine-grove-furnace-state-park",
-   "targetSlug": null,
-   "name": "Pine Grove Furnace State Park",
-   "town": "",
-   "county": "Cumberland",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State park — ironmaster's mansion, iron furnace stack, Appalachian Trail Museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 63,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e4754dbf20f9d5c8",
-   "projectedSlug": "pa-jennie-wade-house",
-   "targetSlug": null,
-   "name": "Jennie Wade House",
-   "town": "Gettysburg",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 488,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e78b57d61efb4649",
-   "projectedSlug": "pa-centralia",
-   "targetSlug": null,
-   "name": "Centralia",
-   "town": "",
-   "county": "Columbia",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Mine fire burning since 1962; town condemned and mostly demolished, covered Graffiti Highway — public roads pass through but no lawful anchor and ground is unstable; weird-spot flag",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 79,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e9bc389adff5af22",
-   "projectedSlug": "pa-meadowcroft-rockshelter-and-historic-village",
-   "targetSlug": null,
-   "name": "Meadowcroft Rockshelter & Historic Village",
-   "town": "Avella",
-   "county": "Washington",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Museum (Heinz History Center) — evidence of human habitation ~19,000 years old, among the oldest documented in North America; Monongahela village reconstruction",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 86,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ed2f17558b5a962f",
-   "projectedSlug": "pa-valley-forge-national-historical-park",
-   "targetSlug": null,
-   "name": "Valley Forge National Historical Park ★",
-   "town": "",
-   "county": "Montgomery/Chester",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "National park unit — 1777–78 Continental Army encampment",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 36,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ef484d916986aac3",
-   "projectedSlug": "pa-fort-hunter-mansion-and-park",
-   "targetSlug": null,
-   "name": "Fort Hunter Mansion & Park",
-   "town": "Harrisburg",
-   "county": "Dauphin",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "County park museum — French and Indian War supply depot ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 62,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ef6bbb9c1f2ba45e",
-   "projectedSlug": "pa-pithole-city-site",
-   "targetSlug": null,
-   "name": "Pithole City site",
-   "town": "",
-   "county": "Venango",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State historic site — oil boomtown that rose and vanished in ~500 days; public grounds near Drake Well",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 106,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f51e049bcc1ba986",
-   "projectedSlug": "pa-lattimer-massacre-site",
-   "targetSlug": null,
-   "name": "Lattimer Massacre site",
-   "town": "near Hazleton",
-   "county": "Luzerne",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "1897 sheriff's posse killing of 19 striking immigrant miners; state marker on private roadside ground only — labor flag",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 80,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f86ac0d58d366fbd",
-   "projectedSlug": "pa-bartrams-garden",
-   "targetSlug": null,
-   "name": "Bartram's Garden",
-   "town": "Philadelphia",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Public garden and house — oldest surviving botanical garden, on Lenape ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 33,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fa2c8479d2e0d2a8",
-   "projectedSlug": "pa-no-9-coal-mine-and-museum",
-   "targetSlug": null,
-   "name": "No. 9 Coal Mine & Museum",
-   "town": "Lansford",
-   "county": "Carbon",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Mine tour and museum — oldest continuously operated anthracite mine ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 74,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fcea56244e7fa989",
-   "projectedSlug": "pa-mother-bethel-ame-church",
-   "targetSlug": null,
-   "name": "Mother Bethel AME Church",
-   "town": "Philadelphia",
-   "county": "",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "Church museum — founding AME congregation, Richard Allen ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 26,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fe29e5408c0d81e1",
-   "projectedSlug": "pa-cresson-sanatorium",
-   "targetSlug": null,
-   "name": "Cresson Sanatorium",
-   "town": "Cresson",
-   "county": "Pennsylvania",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "hospital — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 490,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fea91a6a4eee26f2",
-   "projectedSlug": "pa-washington-crossing-historic-park",
-   "targetSlug": null,
-   "name": "Washington Crossing Historic Park ★",
-   "town": "",
-   "county": "Bucks",
-   "state": "PA",
-   "tier": null,
-   "anchorPosture": "State park — 1776 Delaware crossing ground, museum and Thompson-Neely House",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 77,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
    "id": "lq_009a7329906103f8",
    "projectedSlug": "ny-george-eastman-museum",
    "targetSlug": null,
@@ -168910,6 +167110,1806 @@
    "attempts": []
   },
   {
+   "id": "lq_0229da9a3d09c31f",
+   "projectedSlug": "pa-logan-inn",
+   "targetSlug": null,
+   "name": "Logan Inn",
+   "town": "New Hope",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 496,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_044bb8f11dd6ff68",
+   "projectedSlug": "pa-belmont-mansion-and-underground-railroad-museum",
+   "targetSlug": null,
+   "name": "Belmont Mansion & Underground Railroad Museum",
+   "town": "Philadelphia (Fairmount Park)",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum in public park",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 29,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0595169d379c2300",
+   "projectedSlug": "pa-marian-anderson-house",
+   "targetSlug": null,
+   "name": "Marian Anderson House",
+   "town": "Philadelphia",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum (NHL) — singer's home; 1939 Lincoln Memorial concert ground told from here",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 27,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0ae88363b4eb1a65",
+   "projectedSlug": "pa-old-jail-museum",
+   "targetSlug": null,
+   "name": "Old Jail Museum",
+   "town": "Jim Thorpe",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "prison — anchor: museum open to the public. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 494,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_10744c2460e347b6",
+   "projectedSlug": "pa-cashtown-inn",
+   "targetSlug": null,
+   "name": "Cashtown Inn",
+   "town": "Cashtown",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 487,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_11be0e0d4daa63d3",
+   "projectedSlug": "pa-delaware-canal-state-park-and-new-hope",
+   "targetSlug": null,
+   "name": "Delaware Canal State Park & New Hope",
+   "town": "",
+   "county": "Bucks",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State park towpath and public canal town — last towpath canal in continuous state care",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 78,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_13ef32a843a8201d",
+   "projectedSlug": "pa-conrad-weiser-homestead",
+   "targetSlug": null,
+   "name": "Conrad Weiser Homestead",
+   "town": "Womelsdorf",
+   "county": "Berks",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State historic site — interpreter's home; Haudenosaunee diplomacy ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 49,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_14ab697fdddacf0c",
+   "projectedSlug": "pa-inn-at-jim-thorpe",
+   "targetSlug": null,
+   "name": "Inn at Jim Thorpe",
+   "town": "Jim Thorpe",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 495,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_14f2d01e964438f1",
+   "projectedSlug": "pa-steamtown-national-historic-site",
+   "targetSlug": null,
+   "name": "Steamtown National Historic Site",
+   "town": "Scranton",
+   "county": "Lackawanna",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "National park unit — working steam roundhouse, Lackawanna Railroad yards",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 71,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1cd595e2ff8668e8",
+   "projectedSlug": "pa-colonial-york-and-york-county-history-center",
+   "targetSlug": null,
+   "name": "Colonial York & York County History Center",
+   "town": "York",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum complex — Articles of Confederation adopted here (1777)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 51,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_2c3b0c4e8a0f4db8",
+   "projectedSlug": "pa-national-civil-war-museum",
+   "targetSlug": null,
+   "name": "National Civil War Museum",
+   "town": "Harrisburg",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum (Reservoir Park)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 61,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_2e361918f52cf225",
+   "projectedSlug": "pa-old-allegheny-county-jail",
+   "targetSlug": null,
+   "name": "Old Allegheny County Jail",
+   "town": "Pittsburgh",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "prison — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 497,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_30e6a49b4ee5be7f",
+   "projectedSlug": "pa-hill-view-manor",
+   "targetSlug": null,
+   "name": "Hill View Manor",
+   "town": "New Castle",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "other — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 485,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_33d7f9896ea83fc9",
+   "projectedSlug": "pa-pennsbury-manor",
+   "targetSlug": null,
+   "name": "Pennsbury Manor",
+   "town": "Falls Township",
+   "county": "Bucks",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State historic site — Penn's reconstructed country estate",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 35,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_35401de88251c53d",
+   "projectedSlug": "pa-william-c-goodridge-freedom-center-and-underground-railroad-museum",
+   "targetSlug": null,
+   "name": "William C. Goodridge Freedom Center & Underground Railroad Museum",
+   "town": "York",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum — Black businessman and UGRR conductor's home",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 50,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_35e4afb375c567c7",
+   "projectedSlug": "pa-erie-maritime-museum-and-u-s-brig-niagara",
+   "targetSlug": null,
+   "name": "Erie Maritime Museum & U.S. Brig Niagara ★",
+   "town": "Erie",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum and sailing brig — War of 1812, Perry's Lake Erie fleet",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 104,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3924fd6eb8ab4b84",
+   "projectedSlug": "pa-hotel-bethlehem",
+   "targetSlug": null,
+   "name": "Hotel Bethlehem",
+   "town": "Bethlehem",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 498,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_39dbcf635e6c2bfe",
+   "projectedSlug": "pa-eastern-state-penitentiary",
+   "targetSlug": null,
+   "name": "Eastern State Penitentiary ★",
+   "town": "Philadelphia",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum — world's first penitentiary (1829), radial solitary-confinement model exported worldwide",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 24,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    },
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 489,
+     "dialect": "desk-sweep-4",
+     "role": "listed"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3b69f5ab34ae2756",
+   "projectedSlug": "pa-pennsylvania-state-capitol-and-state-museum-of-pennsylvania",
+   "targetSlug": null,
+   "name": "Pennsylvania State Capitol & State Museum of Pennsylvania",
+   "town": "Harrisburg",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Public building tours and state museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 60,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3e5a40135ea50da6",
+   "projectedSlug": "pa-the-hershey-story-and-milton-hersheys-industrial-town",
+   "targetSlug": null,
+   "name": "The Hershey Story & Milton Hershey's industrial town",
+   "town": "Hershey",
+   "county": "Dauphin",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum — chocolate company town, model industrial paternalism",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 64,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_41b53e52749e3b69",
+   "projectedSlug": "pa-drake-well-museum-and-park",
+   "targetSlug": null,
+   "name": "Drake Well Museum & Park",
+   "town": "Titusville",
+   "county": "Venango",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State museum — 1859 first commercial oil well; Oil Creek valley ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 105,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_46ceb5f9c9f9558f",
+   "projectedSlug": "pa-pennhurst-state-school-and-hospital",
+   "targetSlug": null,
+   "name": "Pennhurst State School & Hospital ★",
+   "town": "Spring City",
+   "county": "Chester",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Private campus, ticketed daytime history tours and the Pennhurst Museum of disability history; seasonal haunted attraction on the same ground — researcher holds the dignity line and separates the two",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 25,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5647c80de7b67ace",
+   "projectedSlug": "pa-landis-valley-village-and-farm-museum",
+   "targetSlug": null,
+   "name": "Landis Valley Village & Farm Museum",
+   "town": "Lancaster",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State museum — Pennsylvania German farm life",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 44,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_59b8911dd837eca7",
+   "projectedSlug": "pa-pennhurst",
+   "targetSlug": null,
+   "name": "Pennhurst",
+   "town": "Spring City",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "asylum — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 484,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5a34480341cb04ee",
+   "projectedSlug": "pa-lest-we-forget-slavery-museum",
+   "targetSlug": null,
+   "name": "Lest We Forget Slavery Museum",
+   "town": "Philadelphia",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum — slavery artifacts collection",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 30,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5e851e13a50ae997",
+   "projectedSlug": "pa-brandywine-battlefield-park",
+   "targetSlug": null,
+   "name": "Brandywine Battlefield Park",
+   "town": "Chadds Ford",
+   "county": "Delaware",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State park — largest land battle of the Revolution (1777)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 37,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_60a4d719a754469b",
+   "projectedSlug": "pa-gettysburg-academy",
+   "targetSlug": null,
+   "name": "Gettysburg Academy",
+   "town": "Gettysburg",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "other — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 492,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_64be37055a4bedca",
+   "projectedSlug": "pa-hans-herr-house",
+   "targetSlug": null,
+   "name": "Hans Herr House",
+   "town": "Willow Street",
+   "county": "Lancaster",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum — oldest Mennonite meetinghouse/home in the Western Hemisphere (1719)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 47,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_66e7825a46ac2544",
+   "projectedSlug": "pa-fort-pitt-museum-and-point-state-park",
+   "targetSlug": null,
+   "name": "Fort Pitt Museum & Point State Park ★",
+   "town": "Pittsburgh",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State park museum — Forks of the Ohio, French and Indian War ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 87,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6bd7fd3fe9120301",
+   "projectedSlug": "pa-west-overton-village",
+   "targetSlug": null,
+   "name": "West Overton Village",
+   "town": "",
+   "county": "Westmoreland",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum — Mennonite village, whiskey and coke industry, Henry Clay Frick birthplace",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 95,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6eff308961b33c49",
+   "projectedSlug": "pa-fort-leboeuf-museum-and-washington-statue",
+   "targetSlug": null,
+   "name": "Fort LeBoeuf Museum & Washington statue",
+   "town": "Waterford",
+   "county": "Erie",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum — French fort ground; young George Washington's 1753 mission",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 107,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6fddbd48795f8a73",
+   "projectedSlug": "pa-cathedral-of-learning-nationality-rooms",
+   "targetSlug": null,
+   "name": "Cathedral of Learning Nationality Rooms",
+   "town": "Pittsburgh (Oakland)",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "University public tours — immigrant communities' classrooms, immigration in stone",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 91,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7231546b45bf558d",
+   "projectedSlug": "pa-pennsylvania-military-museum",
+   "targetSlug": null,
+   "name": "Pennsylvania Military Museum ★",
+   "town": "Boalsburg",
+   "county": "Centre",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State museum — 28th Division shrine ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 65,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_742970018fe7d43f",
+   "projectedSlug": "pa-elfreths-alley",
+   "targetSlug": null,
+   "name": "Elfreth's Alley",
+   "town": "Philadelphia",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Public street and museum houses — oldest continuously inhabited residential street",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 32,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_769515faa6b8ff8a",
+   "projectedSlug": "pa-pioneer-tunnel-coal-mine",
+   "targetSlug": null,
+   "name": "Pioneer Tunnel Coal Mine",
+   "town": "Ashland",
+   "county": "Schuylkill",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Mine tour — anthracite labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 75,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_85c22f77ac016543",
+   "projectedSlug": "pa-grand-midway-hotel",
+   "targetSlug": null,
+   "name": "Grand Midway Hotel",
+   "town": "Windber",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 493,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_876987b8bae0c6fb",
+   "projectedSlug": "pa-independence-national-historical-park",
+   "targetSlug": null,
+   "name": "Independence National Historical Park",
+   "town": "Philadelphia",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "National park unit — Independence Hall, Liberty Bell, Congress Hall (founding ground)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 23,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_886e2b6c40e32a92",
+   "projectedSlug": "pa-penn-treaty-park-shackamaxon",
+   "targetSlug": null,
+   "name": "Penn Treaty Park (Shackamaxon)",
+   "town": "Philadelphia",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Public park — Lenape–Penn treaty ground on the Delaware",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 31,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8872d7c6184f572f",
+   "projectedSlug": "pa-bushy-run-battlefield",
+   "targetSlug": null,
+   "name": "Bushy Run Battlefield",
+   "town": "",
+   "county": "Westmoreland",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State historic site — Pontiac's War battle (1763), Indigenous nations' ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 94,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8a5996f4d719231b",
+   "projectedSlug": "pa-hotel-conneaut",
+   "targetSlug": null,
+   "name": "Hotel Conneaut",
+   "town": "Conneaut Lake",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 500,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_991837ed6f4130da",
+   "projectedSlug": "pa-flight-93-national-memorial",
+   "targetSlug": "PA-flight-93-national-memorial-reflection",
+   "name": "Flight 93 National Memorial",
+   "town": "",
+   "county": "Somerset",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "National park unit — September 11, 2001 ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 96,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_9a7eacce59afb102",
+   "projectedSlug": "pa-gettysburg-national-military-park-and-eisenhower-nhs",
+   "targetSlug": null,
+   "name": "Gettysburg National Military Park & Eisenhower NHS ★",
+   "town": "Gettysburg",
+   "county": "Adams",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "National park units — 1863 battle, Soldiers' National Cemetery and the Address; Eisenhower farm adjoining",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 58,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_9af1a24f88f4999c",
+   "projectedSlug": "pa-johnson-house-historic-site",
+   "targetSlug": null,
+   "name": "Johnson House Historic Site",
+   "town": "Germantown",
+   "county": "Philadelphia",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum — documented Underground Railroad station, 1855 abolitionist meeting ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 28,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_9d7e29370682ce51",
+   "projectedSlug": "pa-carlisle-indian-school-and-carlisle-barracks",
+   "targetSlug": null,
+   "name": "Carlisle Indian School & Carlisle Barracks ★",
+   "town": "Carlisle",
+   "county": "Cumberland",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Anchor: U.S. Army Heritage & Education Center (public museum) plus the school grounds and cemetery on the active post (public portions; new Carlisle Indian School National Monument) — first off-reservation federal boarding school, 1879–1918; Indigenous ground, reflection posture",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 59,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_9f77847268eee9b5",
+   "projectedSlug": "pa-betsy-ross-house",
+   "targetSlug": null,
+   "name": "Betsy Ross House",
+   "town": "Philadelphia",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "house — anchor: museum open to the public. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 499,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a000d14b844bdc24",
+   "projectedSlug": "pa-scranton-iron-furnaces",
+   "targetSlug": null,
+   "name": "Scranton Iron Furnaces",
+   "town": "Scranton",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State historic site — Lackawanna iron stacks",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 76,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a06246564d919815",
+   "projectedSlug": "pa-columns-museum",
+   "targetSlug": null,
+   "name": "Columns Museum",
+   "town": "Milford",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "house — anchor: museum open to the public. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 491,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a0bf306a48126512",
+   "projectedSlug": "pa-senator-john-heinz-history-center",
+   "targetSlug": null,
+   "name": "Senator John Heinz History Center",
+   "town": "Pittsburgh",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum — Western Pennsylvania regional history, Smithsonian affiliate",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 88,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a162ae08b6e8ef79",
+   "projectedSlug": "pa-fort-mifflin",
+   "targetSlug": null,
+   "name": "Fort Mifflin ★",
+   "town": "Philadelphia (Delaware River)",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum fort — 1777 siege ground, later Civil War prison",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 34,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a43d087838064c97",
+   "projectedSlug": "pa-fort-necessity-national-battlefield-and-jumonville-glen",
+   "targetSlug": null,
+   "name": "Fort Necessity National Battlefield & Jumonville Glen ★",
+   "town": "",
+   "county": "Fayette",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "National park unit — opening ground of the French and Indian War (1754)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 93,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a66921c61f656c08",
+   "projectedSlug": "pa-anthracite-heritage-museum-and-lackawanna-coal-mine-tour",
+   "targetSlug": null,
+   "name": "Anthracite Heritage Museum & Lackawanna Coal Mine Tour",
+   "town": "Scranton",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State museum and guided mine tour — coal, immigrant labor",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 72,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_aabb0fb471a71434",
+   "projectedSlug": "pa-battle-of-homestead-site-and-bost-building",
+   "targetSlug": null,
+   "name": "Battle of Homestead site & Bost Building",
+   "town": "Homestead",
+   "county": "Allegheny",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Rivers of Steel / museum — 1892 Homestead Strike ground, Pinkerton battle at the Pump House",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 90,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b06f5650827782c2",
+   "projectedSlug": "pa-allegheny-portage-railroad-nhs-and-horseshoe-curve",
+   "targetSlug": null,
+   "name": "Allegheny Portage Railroad NHS & Horseshoe Curve",
+   "town": "",
+   "county": "Blair/Cambria",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "National park unit and visitor site — canal-era portage over the Alleghenies, rail industry",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 98,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b93d4774b70ce789",
+   "projectedSlug": "pa-cornplanter-tract-and-kinzua-dam-ground",
+   "targetSlug": null,
+   "name": "Cornplanter Tract & Kinzua Dam ground",
+   "town": "",
+   "county": "Warren",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Seneca leader Cornplanter's grant, flooded by Kinzua Dam (1965) in breach of the 1794 treaty — the ground is under the Allegheny Reservoir; no public Seneca anchor, do not route without Seneca Nation guidance",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 108,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c205b032c70ab46e",
+   "projectedSlug": "pa-daniel-boone-homestead",
+   "targetSlug": null,
+   "name": "Daniel Boone Homestead",
+   "town": "Oley Township",
+   "county": "Berks",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Historic site — Boone family frontier farm",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 48,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c2774cf9f4c4ab4b",
+   "projectedSlug": "pa-johnstown-flood-national-memorial-and-johnstown-flood-museum",
+   "targetSlug": null,
+   "name": "Johnstown Flood National Memorial & Johnstown Flood Museum",
+   "town": "Johnstown",
+   "county": "Cambria",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "National park unit and museum — 1889 dam failure, 2,209 dead; Cambria Iron works ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 97,
+     "dialect": "desk-sweep-4",
+     "role": "dead"
+    }
+   ],
+   "queueState": "checked-dead",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c803e9ff7a566a68",
+   "projectedSlug": "pa-carrie-furnaces",
+   "targetSlug": null,
+   "name": "Carrie Furnaces",
+   "town": "Rankin/Swissvale",
+   "county": "Allegheny",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Rivers of Steel tours — surviving blast furnaces, steel labor and immigrant work",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 89,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c8bb44e31ee05d24",
+   "projectedSlug": "pa-eckley-miners-village",
+   "targetSlug": null,
+   "name": "Eckley Miners' Village",
+   "town": "near Hazleton",
+   "county": "Luzerne",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State historic site — preserved anthracite patch town",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 73,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cd5c4af234d30868",
+   "projectedSlug": "pa-cornwall-iron-furnace",
+   "targetSlug": null,
+   "name": "Cornwall Iron Furnace",
+   "town": "Cornwall",
+   "county": "Lebanon",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State historic site — best-preserved charcoal cold-blast furnace in the U.S.",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 45,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d0b510044b82cc43",
+   "projectedSlug": "pa-allegheny-county-courthouse-and-jail",
+   "targetSlug": null,
+   "name": "Allegheny County Courthouse & Jail",
+   "town": "Pittsburgh",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Public building — Richardson Romanesque jail and courthouse (exterior and public interiors; working jail history, not a prison museum)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 92,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d47bfcca4cc65284",
+   "projectedSlug": "pa-farnsworth-house-inn",
+   "targetSlug": null,
+   "name": "Farnsworth House Inn",
+   "town": "Gettysburg",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 483,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d48ad7a391dfdeff",
+   "projectedSlug": "pa-ephrata-cloister",
+   "targetSlug": null,
+   "name": "Ephrata Cloister",
+   "town": "Ephrata",
+   "county": "Lancaster",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State historic site — German Pietist communal settlement, early printing and music",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 43,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d85deb5bceebe854",
+   "projectedSlug": "pa-hopewell-furnace-national-historic-site",
+   "targetSlug": null,
+   "name": "Hopewell Furnace National Historic Site",
+   "town": "near Elverson",
+   "county": "Berks",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "National park unit — iron plantation village, Mark Bird's furnace",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 46,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d8d83d4567d0055d",
+   "projectedSlug": "pa-fort-augusta-and-hunter-house-museum",
+   "targetSlug": null,
+   "name": "Fort Augusta & Hunter House Museum",
+   "town": "Sunbury",
+   "county": "Northumberland",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum — largest British provincial fort in PA; Shikellamy's Shamokin ground beneath",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 52,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d9aff8fe45a49bf2",
+   "projectedSlug": "pa-gettysburg-battlefield",
+   "targetSlug": null,
+   "name": "Gettysburg Battlefield",
+   "town": "Gettysburg",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "battlefield — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 486,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e084bb2978ae75e2",
+   "projectedSlug": "pa-pine-grove-furnace-state-park",
+   "targetSlug": null,
+   "name": "Pine Grove Furnace State Park",
+   "town": "",
+   "county": "Cumberland",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State park — ironmaster's mansion, iron furnace stack, Appalachian Trail Museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 63,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e4754dbf20f9d5c8",
+   "projectedSlug": "pa-jennie-wade-house",
+   "targetSlug": null,
+   "name": "Jennie Wade House",
+   "town": "Gettysburg",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 488,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e78b57d61efb4649",
+   "projectedSlug": "pa-centralia",
+   "targetSlug": null,
+   "name": "Centralia",
+   "town": "",
+   "county": "Columbia",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Mine fire burning since 1962; town condemned and mostly demolished, covered Graffiti Highway — public roads pass through but no lawful anchor and ground is unstable; weird-spot flag",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 79,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e9bc389adff5af22",
+   "projectedSlug": "pa-meadowcroft-rockshelter-and-historic-village",
+   "targetSlug": null,
+   "name": "Meadowcroft Rockshelter & Historic Village",
+   "town": "Avella",
+   "county": "Washington",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Museum (Heinz History Center) — evidence of human habitation ~19,000 years old, among the oldest documented in North America; Monongahela village reconstruction",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 86,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ed2f17558b5a962f",
+   "projectedSlug": "pa-valley-forge-national-historical-park",
+   "targetSlug": null,
+   "name": "Valley Forge National Historical Park ★",
+   "town": "",
+   "county": "Montgomery/Chester",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "National park unit — 1777–78 Continental Army encampment",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 36,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ef484d916986aac3",
+   "projectedSlug": "pa-fort-hunter-mansion-and-park",
+   "targetSlug": null,
+   "name": "Fort Hunter Mansion & Park",
+   "town": "Harrisburg",
+   "county": "Dauphin",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "County park museum — French and Indian War supply depot ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 62,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ef6bbb9c1f2ba45e",
+   "projectedSlug": "pa-pithole-city-site",
+   "targetSlug": null,
+   "name": "Pithole City site",
+   "town": "",
+   "county": "Venango",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State historic site — oil boomtown that rose and vanished in ~500 days; public grounds near Drake Well",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 106,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f51e049bcc1ba986",
+   "projectedSlug": "pa-lattimer-massacre-site",
+   "targetSlug": null,
+   "name": "Lattimer Massacre site",
+   "town": "near Hazleton",
+   "county": "Luzerne",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "1897 sheriff's posse killing of 19 striking immigrant miners; state marker on private roadside ground only — labor flag",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 80,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f86ac0d58d366fbd",
+   "projectedSlug": "pa-bartrams-garden",
+   "targetSlug": null,
+   "name": "Bartram's Garden",
+   "town": "Philadelphia",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Public garden and house — oldest surviving botanical garden, on Lenape ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 33,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fa2c8479d2e0d2a8",
+   "projectedSlug": "pa-no-9-coal-mine-and-museum",
+   "targetSlug": null,
+   "name": "No. 9 Coal Mine & Museum",
+   "town": "Lansford",
+   "county": "Carbon",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Mine tour and museum — oldest continuously operated anthracite mine ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 74,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fcea56244e7fa989",
+   "projectedSlug": "pa-mother-bethel-ame-church",
+   "targetSlug": null,
+   "name": "Mother Bethel AME Church",
+   "town": "Philadelphia",
+   "county": "",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "Church museum — founding AME congregation, Richard Allen ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 26,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fe29e5408c0d81e1",
+   "projectedSlug": "pa-cresson-sanatorium",
+   "targetSlug": null,
+   "name": "Cresson Sanatorium",
+   "town": "Cresson",
+   "county": "Pennsylvania",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "hospital — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 490,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fea91a6a4eee26f2",
+   "projectedSlug": "pa-washington-crossing-historic-park",
+   "targetSlug": null,
+   "name": "Washington Crossing Historic Park ★",
+   "town": "",
+   "county": "Bucks",
+   "state": "PA",
+   "tier": null,
+   "anchorPosture": "State park — 1776 Delaware crossing ground, museum and Thompson-Neely House",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 77,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
    "id": "lq_31d28624ca7a1e8d",
    "projectedSlug": "ar-macarthur-museum-of-arkansas-military-history",
    "targetSlug": null,
@@ -179646,8 +179646,8 @@
   "byQueueState": {
    "checked-dead": 23,
    "held": 27,
-   "published": 41,
-   "queued": 6939
+   "published": 42,
+   "queued": 6938
   },
   "byState": {
    "AK": 121,

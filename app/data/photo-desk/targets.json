@@ -1,6 +1,6 @@
 {
- "commit": "c5065b28eac2ab482955914347e30f6429a5c0b1",
- "catalogCount": 781,
+ "commit": "6b1ef3f0f8b52e83068bae1a37fde2e664939062",
+ "catalogCount": 791,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -34293,6 +34293,465 @@
      {
       "key": "Release state",
       "value": "local research draft for QC; no upload, outreach, booking, approval or route activation."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-PA-flight-93-national-memorial-reflection",
+   "slug": "PA-flight-93-national-memorial-reflection",
+   "title": "Flight 93: a common field and forty names",
+   "town": "Stoystown (Stonycreek Township, Somerset County; Shanksville vicinity)",
+   "state": "Pennsylvania",
+   "stateCode": "PA",
+   "coordinates": {
+    "lat": 40.0606002807617,
+    "lon": -78.8945999145508
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "reflection",
+   "subject": "Flight 93: a common field and forty names",
+   "stableName": "Flight 93 National Memorial",
+   "address": "",
+   "locator": {
+    "stableName": "Flight 93 National Memorial",
+    "address": "",
+    "latitude": "40.0606002807617",
+    "longitude": "-78.8945999145508",
+    "coordinateSource": "National Park Service, NPGallery asset record for \"Tower of Voices\" (Asset ID ebb5855d-0fe3-427f-898a-2d7aef482e20), which carries this point under Locations: Flight 93 National Memorial, Somerset County, Pennsylvania. [11]",
+    "nrhp": "04000272 — listed on designation as a national park system unit; the NPS Record of Decision dates the automatic listing November 8, 2002. [9][10]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://catalog.archives.gov/medialz/electronic-records/rg-079/NPS_PA/04000272.pdf",
+    "operator": "National Park Service (Flight 93 National Memorial, park code FLNI)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Stoystown (Stonycreek Township, Somerset County; Shanksville vicinity)"
+     },
+     {
+      "key": "Printed public institutional locator",
+      "value": "**6424 Lincoln Highway, Stoystown, PA 15563** — the Visitor Center address as the National Park Service lists it. [1] The memorial entrance is on US Route 30 / Lincoln Highway."
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The memorial's own public ground only — Visitor Center, Flight Path Overlook, Allée, Memorial Plaza, Wall of Names, and Tower of Voices, during published hours. The crash site and debris field are closed to visitors and media; the Ceremonial Gate opens only on September 11 for family members. [3][4]"
+     },
+     {
+      "key": "Status",
+      "value": "research draft; reflection entry only; published with its gaps printed; no activation of any kind from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-PA-allegheny-portage-railroad",
+   "slug": "PA-allegheny-portage-railroad",
+   "title": "HT-RES-PA-allegheny-portage-railroad — Canal boats hauled over a mountain on rails, ten stair-steps at a time",
+   "town": "Gallitzin / Cresson vicinity (summit level, Blair and Cambria counties)",
+   "state": "Pennsylvania",
+   "stateCode": "PA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-PA-allegheny-portage-railroad — Canal boats hauled over a mountain on rails, ten stair-steps at a time",
+   "stableName": "Allegheny Portage Railroad National Historic Site",
+   "address": "",
+   "locator": {
+    "stableName": "Allegheny Portage Railroad National Historic Site",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates printed. No primary source consulted for this draft — NPS site accounts, the 1957 NPS survey form, or the HAER record — carries latitude or longitude for the site.",
+    "nrhp": "66000648 (as noted in the HAER PA-239 record)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HAER PA-239 (Library of Congress HAER PA,7-CRES.V,1-)",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/e4e4046f-538d-4ef1-9062-21214399cb52/",
+    "operator": "National Park Service, U.S. Department of the Interior",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Gallitzin / Cresson vicinity (summit level, Blair and Cambria counties)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Summit Level Visitor Center, Allegheny Portage Railroad National Historic Site, off U.S. Route 22 at the Gallitzin exit, about 12 miles west of Altoona"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is to NPS park ground — visitor center, Lemon House, Engine House No. 6 Exhibit Shelter, the Incline 6 trace and trails, and the Skew Arch Bridge as preserved between the lanes of old U.S. Route 22. The Staple Bend Tunnel is a separate unit of the site, visited on its own approach."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-PA-centralia",
+   "slug": "PA-centralia",
+   "title": "HT-RES-PA-centralia — An empty street grid, a hilltop church, and a fire still burning underneath",
+   "town": "Centralia (Columbia County)",
+   "state": "Pennsylvania",
+   "stateCode": "PA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-PA-centralia — An empty street grid, a hilltop church, and a fire still burning underneath",
+   "stableName": "Centralia — Centralia Mine Fire, Borough of Centralia",
+   "address": "",
+   "locator": {
+    "stableName": "Centralia — Centralia Mine Fire, Borough of Centralia",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are carried in the primary sources checked, and none print. Secondary sources publish coordinates for Centralia, but under this entry's rule a coordinate prints only when a primary source carries it.",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "None — no site operator. The fire is monitored by the Pennsylvania Department of Environmental Protection (yearly on-site monitoring, per its chronology).",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Centralia (Columbia County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The traveled public roadways of the borough grid, maintained per jurisdiction (DEP FAQ) — no visitor facility exists"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "DEP strongly discourages visiting the immediate area and does not provide directions or recommend touring. Lawful standing, as the sources carry it, is the traveled public roadways and the cemetery ground described by the DEP as barren of coal; the church ground is the congregation's; the buried Route 61 section is private; condemned, posted, and residents' ground is off limits. No directions into the fire area are given."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Pennsylvania seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-PA-drake-well-titusville",
+   "slug": "PA-drake-well-titusville",
+   "title": "HT-RES-PA-drake-well-titusville — A man in a top hat beside the wooden tower that struck oil",
+   "town": "Titusville",
+   "state": "Pennsylvania",
+   "stateCode": "PA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-PA-drake-well-titusville — A man in a top hat beside the wooden tower that struck oil",
+   "stableName": "Drake Well — National Register listing: Drake Oil Well",
+   "address": "202 Museum Lane, Titusville, PA 16354",
+   "locator": {
+    "stableName": "Drake Well — National Register listing: Drake Oil Well",
+    "address": "202 Museum Lane, Titusville, PA 16354",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No latitude/longitude is carried in the primary records checked, and none prints. The National Register nomination carries a UTM reference only — Zone 17, Easting 611840, Northing 4607210 — printed here in its own form rather than converted.",
+    "nrhp": "66000695 — Drake Oil Well",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress item 2010649522; reproduction number LC-USZ62-11724",
+    "registerUrl": "https://npgallery.nps.gov/pdfhost/docs/NRHP/Text/66000695.pdf",
+    "operator": "Pennsylvania Historical and Museum Commission (Drake Well Museum and Park)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Titusville (site in Cherrytree Township, Venango County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Drake Well Museum and Park, at the reconstructed well on its original site beside Oil Creek"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the museum visit — museum building and grounds at 202 Museum Lane, including the reconstructed well house on the original site. Admission as stated in §1; no hours are stated in the operator's record checked and none are printed."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Pennsylvania seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-PA-fort-necessity",
+   "slug": "PA-fort-necessity",
+   "title": "HT-RES-PA-fort-necessity — A 53-foot circle of sticks alone in a wide green meadow",
+   "town": "Farmington (Uniontown vicinity, per the National Register record)",
+   "state": "Pennsylvania",
+   "stateCode": "PA",
+   "coordinates": {
+    "lat": 39.810001373291,
+    "lon": -79.5886993408203
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-PA-fort-necessity — A 53-foot circle of sticks alone in a wide green meadow",
+   "stableName": "Fort Necessity National Battlefield",
+   "address": "1 Washington Parkway, Farmington, PA (address as the NPS Fort Necessity article carries it)",
+   "locator": {
+    "stableName": "Fort Necessity National Battlefield",
+    "address": "1 Washington Parkway, Farmington, PA (address as the NPS Fort Necessity article carries it)",
+    "latitude": "39.810001373291",
+    "longitude": "-79.5886993408203",
+    "coordinateSource": "Coordinates carried by the NPS's own NPGallery photograph record for this entry's first photo (asset a94cc839-3f6f-4dd6-80cf-b05bea335cd7, \"The Great Meadows,\" Fort Necessity National Battlefield, Fayette County). They scope to that NPS photograph's recorded location in the Great Meadows unit; they are not a surveyed fort entrance or photo point, and no NRHP nomination coordinate was consulted.",
+    "nrhp": "66000664 — listed October 15, 1966 (date published in the NPS National Register record)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "NPGallery asset a94cc839-3f6f-4dd6-80cf-b05bea335cd7 (NPS photograph record for the first photo)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000664",
+    "operator": "National Park Service",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Farmington (Uniontown vicinity, per the National Register record)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Fort Necessity/National Road Interpretive and Education Center, main unit on U.S. Route 40, 11 miles east of Uniontown (location line as the National Register record carries it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The main unit — visitor center, reconstructed fort, Great Meadows, and Mount Washington Tavern — is the core visit; Braddock's Grave and Jumonville Glen are separate units of the same park, at the distances the NPS states."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-PA-gettysburg-national-military-park",
+   "slug": "PA-gettysburg-national-military-park",
+   "title": "HT-RES-PA-gettysburg-national-military-park — The rocky hill above the grass, photographed in the year it was fought over",
+   "town": "Gettysburg",
+   "state": "Pennsylvania",
+   "stateCode": "PA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-PA-gettysburg-national-military-park — The rocky hill above the grass, photographed in the year it was fought over",
+   "stableName": "Gettysburg National Military Park",
+   "address": "1195 Baltimore Pike, Gettysburg, PA 17325",
+   "locator": {
+    "stableName": "Gettysburg National Military Park",
+    "address": "1195 Baltimore Pike, Gettysburg, PA 17325",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The NPS National Register record consulted for this entry (NRIS 66000642) carries no latitude/longitude, and no NRHP nomination or NPS source consulted carries a park coordinate; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "66000642 — listed October 15, 1966 (date published in the NPS National Register record)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "LC-DIG-cwpb-01656 (Library of Congress reproduction number for the first photograph's left-half negative)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000642",
+    "operator": "National Park Service",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Gettysburg"
+     },
+     {
+      "key": "Public anchor",
+      "value": "National Park Service Museum and Visitor Center, 1195 Baltimore Pike, Gettysburg, PA 17325 (address as the NPS park page carries it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The battlefield and National Cemetery are the visit; the NPS fees page states park grounds are open 30 minutes before sunrise to 30 minutes after sunset, and the film, Cyclorama, and museum inside the visitor center are separately ticketed."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-PA-horseshoe-curve",
+   "slug": "PA-horseshoe-curve",
+   "title": "HT-RES-PA-horseshoe-curve — Four tracks bending around a point of rock that would not move",
+   "town": "Altoona",
+   "state": "Pennsylvania",
+   "stateCode": "PA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-PA-horseshoe-curve — Four tracks bending around a point of rock that would not move",
+   "stableName": "Horseshoe Curve",
+   "address": "5 miles west of Altoona, on State Route 193 (as the NHL nomination carries it)",
+   "locator": {
+    "stableName": "Horseshoe Curve",
+    "address": "5 miles west of Altoona, on State Route 193 (as the NHL nomination carries it)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates printed. The NHL nomination marks the location \"not for publication\" and carries no latitude or longitude; no primary source consulted for this draft carries coordinates for the Curve.",
+    "nrhp": "66000647 — designated a National Historic Landmark and listed November 13, 1966",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress LC-USZ62-133107 (pan 6a09300)",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/5d4ea886-9f9b-49b7-a0a5-cecad5cee5dc",
+    "operator": "Visitor facilities — Railroaders Memorial Museum, Altoona; the railroad — Norfolk Southern Railway (Pittsburgh Line)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Altoona"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Horseshoe Curve visitor center and trackside observation area, at the apex of the Curve, five miles west of Altoona"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is to the visitor center and the designated trackside observation area at the apex only. The Curve is an active Norfolk Southern main line; the tracks and right-of-way are not visitor ground."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-PA-independence-hall",
+   "slug": "PA-independence-hall",
+   "title": "HT-RES-PA-independence-hall — The room on Chestnut Street where two documents were debated and signed",
+   "town": "Philadelphia",
+   "state": "Pennsylvania",
+   "stateCode": "PA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-PA-independence-hall — The room on Chestnut Street where two documents were debated and signed",
+   "stableName": "Independence Hall — National Register listing: Independence National Historical Park",
+   "address": "500 Chestnut Street, Philadelphia, PA (as carried in the HABS record title)",
+   "locator": {
+    "stableName": "Independence Hall — National Register listing: Independence National Historical Park",
+    "address": "500 Chestnut Street, Philadelphia, PA (as carried in the HABS record title)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No primary source consulted in this pass carries a single verified point for the building; the fields stay blank rather than borrow a point from a secondary listing.",
+    "nrhp": "66000683 — Independence National Historical Park, listed October 15, 1966",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS PA-1430 (Library of Congress item pa0939)",
+    "registerUrl": "https://npgallery.nps.gov/pdfhost/docs/NRHP/Text/66000683.pdf",
+    "operator": "National Park Service, Independence National Historical Park",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Philadelphia"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Independence Hall, Chestnut Street between Fifth and Sixth Streets, Philadelphia — centerpiece of Independence National Historical Park"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The record's visit is to the building and its Assembly Room as presented by the operator; the operator sources consulted state no hours or fees, and none are printed."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-PA-johnstown-flood-national-memorial",
+   "slug": "PA-johnstown-flood-national-memorial",
+   "title": "HT-RES-PA-johnstown-flood-national-memorial — The failure of the South Fork Dam, May 31, 1889",
+   "town": "South Fork",
+   "state": "Pennsylvania",
+   "stateCode": "PA",
+   "coordinates": {
+    "lat": 40.3461990356445,
+    "lon": -78.774299621582
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-PA-johnstown-flood-national-memorial — The failure of the South Fork Dam, May 31, 1889",
+   "stableName": "Johnstown Flood National Memorial",
+   "address": "733 Lake Road, South Fork, PA 15956",
+   "locator": {
+    "stableName": "Johnstown Flood National Memorial",
+    "address": "733 Lake Road, South Fork, PA 15956",
+    "latitude": "40.3461990356445",
+    "longitude": "-78.774299621582",
+    "coordinateSource": "National Park Service, NPGallery asset record for \"The remains of the South Fork Dam\" (Asset ID c0f7e7d8-b688-4a3c-9487-72ad97dd8a8e, park code JOFL), which carries this point under Locations: Johnstown Flood National Memorial, Cambria County, Pennsylvania. A memorial-level location point carried by an NPS photograph record — not a surveyed dam, entrance, or photo point.",
+    "nrhp": "66000656 — listed October 15, 1966",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000656",
+    "operator": "National Park Service (Johnstown Flood National Memorial, park code JOFL)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "South Fork"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Johnstown Flood National Memorial Visitor Center, 733 Lake Road, South Fork, PA 15956 — at the dam site, about ten miles northeast of Johnstown"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Park grounds and trails as the National Park Service presents them, daily from sunrise to sunset; visitor center during its published hours (closed Wednesdays and Thursdays). Interior access to the Unger House and clubhouse was not established in this pass and is not promised here."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-PA-valley-forge",
+   "slug": "PA-valley-forge",
+   "title": "HT-RES-PA-valley-forge — The stone house at the edge of a log city of twelve thousand",
+   "town": "Valley Forge (Upper Merion Township / King of Prussia vicinity, Montgomery County)",
+   "state": "Pennsylvania",
+   "stateCode": "PA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-PA-valley-forge — The stone house at the edge of a log city of twelve thousand",
+   "stableName": "Valley Forge National Historical Park — National Register listing: Valley Forge State Park (National Historic Landmark district); anchor building: Washington's Headquarters (Isaac Potts House), separately listed",
+   "address": "Valley Creek Road, near junction of PA 252 and PA 23 (as carried in the National Register asset record for Washington's Headquarters)",
+   "locator": {
+    "stableName": "Valley Forge National Historical Park — National Register listing: Valley Forge State Park (National Historic Landmark district); anchor building: Washington's Headquarters (Isaac Potts House), separately listed",
+    "address": "Valley Creek Road, near junction of PA 252 and PA 23 (as carried in the National Register asset record for Washington's Headquarters)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No primary source consulted in this pass carries a single verified point for the park as scoped here — the nominations are district- and property-scale records — so the fields stay blank.",
+    "nrhp": "66000657 — Valley Forge (Valley Forge State Park), National Historic Landmark district; Washington's Headquarters separately listed as 73001655",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS PA-1171 (Library of Congress item pa0636, Isaac Potts House)",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/66000657_text",
+    "operator": "National Park Service, Valley Forge National Historical Park",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Valley Forge (Upper Merion Township / King of Prussia vicinity, Montgomery County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Washington's Headquarters (Isaac Potts House), Valley Forge National Historical Park — HABS addendum locates the house 0.1 mile north of State Route 23, just south of the Schuylkill River"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The record's visit is to the park ground and, seasonally, the headquarters house as the operator presents them; the operator sources consulted state no park hours or fees, and none are printed."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; no route or hunt activation from this page."
      }
     ]
    }

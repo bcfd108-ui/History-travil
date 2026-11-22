@@ -9375,11 +9375,131 @@
    "corpusFile": "HT-RES-IL-starved-rock-fort-st-louis.md",
    "queueState": "queued",
    "attempts": []
+  },
+  {
+   "id": "vq_PA-allegheny-portage-railroad",
+   "slug": "PA-allegheny-portage-railroad",
+   "name": "HT-RES-PA-allegheny-portage-railroad — Canal boats hauled over a mountain on rails, ten stair-steps at a time",
+   "town": "Gallitzin / Cresson vicinity (summit level, Blair and Cambria counties)",
+   "state": "PA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-PA-allegheny-portage-railroad.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_PA-centralia",
+   "slug": "PA-centralia",
+   "name": "HT-RES-PA-centralia — An empty street grid, a hilltop church, and a fire still burning underneath",
+   "town": "Centralia (Columbia County)",
+   "state": "PA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-PA-centralia.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_PA-drake-well-titusville",
+   "slug": "PA-drake-well-titusville",
+   "name": "HT-RES-PA-drake-well-titusville — A man in a top hat beside the wooden tower that struck oil",
+   "town": "Titusville",
+   "state": "PA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-PA-drake-well-titusville.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_PA-flight-93-national-memorial-reflection",
+   "slug": "PA-flight-93-national-memorial-reflection",
+   "name": "Flight 93: a common field and forty names",
+   "town": "Stoystown (Stonycreek Township, Somerset County; Shanksville vicinity)",
+   "state": "PA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-PA-flight-93-national-memorial-reflection.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_PA-fort-necessity",
+   "slug": "PA-fort-necessity",
+   "name": "HT-RES-PA-fort-necessity — A 53-foot circle of sticks alone in a wide green meadow",
+   "town": "Farmington (Uniontown vicinity, per the National Register record)",
+   "state": "PA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-PA-fort-necessity.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_PA-gettysburg-national-military-park",
+   "slug": "PA-gettysburg-national-military-park",
+   "name": "HT-RES-PA-gettysburg-national-military-park — The rocky hill above the grass, photographed in the year it was fought over",
+   "town": "Gettysburg",
+   "state": "PA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-PA-gettysburg-national-military-park.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_PA-horseshoe-curve",
+   "slug": "PA-horseshoe-curve",
+   "name": "HT-RES-PA-horseshoe-curve — Four tracks bending around a point of rock that would not move",
+   "town": "Altoona",
+   "state": "PA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-PA-horseshoe-curve.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_PA-independence-hall",
+   "slug": "PA-independence-hall",
+   "name": "HT-RES-PA-independence-hall — The room on Chestnut Street where two documents were debated and signed",
+   "town": "Philadelphia",
+   "state": "PA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-PA-independence-hall.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_PA-johnstown-flood-national-memorial",
+   "slug": "PA-johnstown-flood-national-memorial",
+   "name": "HT-RES-PA-johnstown-flood-national-memorial — The failure of the South Fork Dam, May 31, 1889",
+   "town": "South Fork",
+   "state": "PA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-PA-johnstown-flood-national-memorial.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_PA-valley-forge",
+   "slug": "PA-valley-forge",
+   "name": "HT-RES-PA-valley-forge — The stone house at the edge of a log city of twelve thousand",
+   "town": "Valley Forge (Upper Merion Township / King of Prussia vicinity, Montgomery County)",
+   "state": "PA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-PA-valley-forge.md",
+   "queueState": "queued",
+   "attempts": []
   }
  ],
  "counts": {
-  "items": 781,
-  "dated": 540,
+  "items": 791,
+  "dated": 550,
   "unrecorded": 241
  }
 }

@@ -1,5 +1,6 @@
 import { archiveGap, coverageFor, photoEligibility } from "./photo-eligibility.mjs";
 import { validateAssignments } from "./photo-assignments.mjs";
+import { hasApprovedPhotoLicense } from "./photo-license.mjs";
 import { createHash } from "node:crypto";
 import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { join, dirname } from "node:path";
@@ -33,7 +34,7 @@ export function publishPhotos(sites, appRoot) {
       for (const key of ["imageUrl", "sourceUrl", "licenseUrl"]) {
         if (new URL(photo[key]).protocol !== "https:") fail("invalid " + key);
       }
-      if (!/^(Public domain\b|CC0\b|CC BY(?:-SA)? [1-4]\.0\b|CC BY(?:-SA)? 2\.5\b)/i.test(photo.license)) fail("unverified free license");
+      if (!hasApprovedPhotoLicense(site.slug, photo)) fail("unverified free license");
       if (photo.year !== null && (!Number.isInteger(photo.year) || photo.year < 1820 || photo.year > new Date().getUTCFullYear())) fail("invalid photo year");
       if (photo.representative || photo.medium !== "photograph" || urls.has(photo.imageUrl)) fail("invalid or duplicate photographic record");
       urls.add(photo.imageUrl);
