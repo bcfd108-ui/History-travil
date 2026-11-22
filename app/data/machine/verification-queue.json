@@ -8321,6 +8321,18 @@
    "attempts": []
   },
   {
+   "id": "vq_IL-bishop-hill-state-historic-site",
+   "slug": "IL-bishop-hill-state-historic-site",
+   "name": "Bishop Hill State Historic Site — the Swedish Pietist colony of 1846, its church, hotel and Krans paintings",
+   "town": "Bishop Hill, Henry County",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-bishop-hill-state-historic-site.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_IL-black-hawk-state-historic-site",
    "slug": "IL-black-hawk-state-historic-site",
    "name": "Black Hawk State Historic Site — Saukenuk, the CCC lodge, and the bluff above the Rock River",
@@ -8437,6 +8449,18 @@
    "verifiedOn": "2026-11-21",
    "verifiedOnSource": "corpus-checked-line",
    "corpusFile": "HT-RES-IL-john-deere-historic-site.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IL-john-hossack-house",
+   "slug": "IL-john-hossack-house",
+   "name": "John Hossack House — the Ottawa Underground Railroad station and the Jim Gray rescue of 1859",
+   "town": "Ottawa, LaSalle County",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-john-hossack-house.md",
    "queueState": "queued",
    "attempts": []
   },
@@ -9330,8 +9354,8 @@
   }
  ],
  "counts": {
-  "items": 777,
-  "dated": 536,
+  "items": 779,
+  "dated": 538,
   "unrecorded": 241
  }
 }
