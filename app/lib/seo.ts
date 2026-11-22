@@ -103,7 +103,9 @@ export function entryJsonLd(site: Site) {
     url: entryUrl(site),
     address,
   };
-  if (site.coordinates) {
+  // The Camp Santanoni dossier's sole point identifies DEC's trailhead,
+  // five miles from the camp. Do not mark it as the camp's entity-level geo.
+  if (site.coordinates && site.slug !== "NY-camp-santanoni") {
     ld.geo = {
       "@type": "GeoCoordinates",
       latitude: site.coordinates.lat,

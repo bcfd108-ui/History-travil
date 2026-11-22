@@ -19,6 +19,7 @@ const PRIORITY = {
 // more specific than a town heading, or an unrelated reading room would
 // otherwise be mistaken for the subject. These are not visitor directions.
 const EXACT_LEADS = {
+  "NY-camp-santanoni": "Camp Santanoni", // DEC historic area and NRIS 86002955; not the trailhead
   "CO-denver-chicano-education": "Denver Chicano education", // stable subject clause
   "CO-denver-disability-rights-history": "Denver disability rights", // stable subject clause
   "CO-denver-japantown-community": "Denver Japanese community", // stable subject clause

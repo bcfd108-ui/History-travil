@@ -13548,1869 +13548,6 @@
    "attempts": []
   },
   {
-   "id": "lq_009a7329906103f8",
-   "projectedSlug": "ny-george-eastman-museum",
-   "targetSlug": null,
-   "name": "George Eastman Museum",
-   "town": "Rochester",
-   "county": "Monroe",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum — Kodak industry, photography, immigrant industrial labor",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 199,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_02e86da51ebd7329",
-   "projectedSlug": "ny-susan-b-anthony-museum-and-house",
-   "targetSlug": null,
-   "name": "Susan B. Anthony Museum & House",
-   "town": "Rochester",
-   "county": "Monroe",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum — Anthony's home and 1872 arrest-for-voting ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 197,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0347a570a7d1c8b3",
-   "projectedSlug": "ny-iroquois-museum",
-   "targetSlug": null,
-   "name": "Iroquois Museum",
-   "town": "Howes Cave",
-   "county": "Schoharie",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum — Haudenosaunee art and history, built in the form of a longhouse",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 167,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0369914003c107bc",
-   "projectedSlug": "ny-corning-museum-of-glass",
-   "targetSlug": null,
-   "name": "Corning Museum of Glass",
-   "town": "Corning",
-   "county": "Steuben",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum — glass industry, immigrant glassworkers, Steuben ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 183,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0976aade8a161c1a",
-   "projectedSlug": "ny-herkimer-four-corners",
-   "targetSlug": null,
-   "name": "Herkimer Four Corners",
-   "town": "Herkimer",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "prison — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 513,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0b63c84f9c01034b",
-   "projectedSlug": "ny-tarrytown-music-hall",
-   "targetSlug": null,
-   "name": "Tarrytown Music Hall",
-   "town": "Tarrytown",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "theater — anchor: ticketed tours / ghost tours run here. Source: ghosttourexplorer.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 526,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0d7141a2eed61751",
-   "projectedSlug": "ny-schuyler-mansion-state-historic-site",
-   "targetSlug": null,
-   "name": "Schuyler Mansion State Historic Site",
-   "town": "Albany",
-   "county": "",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "State historic site — Philip Schuyler's home; enslaved household members documented",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 164,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1462da7116a4fc31",
-   "projectedSlug": "ny-crown-point-state-historic-site",
-   "targetSlug": null,
-   "name": "Crown Point State Historic Site ★",
-   "town": "",
-   "county": "Essex",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "State historic site — French Fort St. Frédéric and British fort ruins, Champlain shore",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 162,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_19edc7f8909758cd",
-   "projectedSlug": "ny-womens-rights-national-historical-park",
-   "targetSlug": null,
-   "name": "Women's Rights National Historical Park",
-   "town": "Seneca Falls",
-   "county": "Seneca",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "National park unit — 1848 convention ground (Wesleyan Chapel), Stanton and M'Clintock houses",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 173,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_28cfe4cab5f78f2b",
-   "projectedSlug": "ny-utica-state-hospital-old-main",
-   "targetSlug": null,
-   "name": "Utica State Hospital — Old Main ★",
-   "town": "Utica",
-   "county": "Oneida",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "1843 Greek Revival asylum, among the oldest in the nation; state records center on the ground, tours rare and irregular — asylum flag, verify any public program",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 185,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_2c356202db0af6a6",
-   "projectedSlug": "ny-joseph-lloyd-manor",
-   "targetSlug": null,
-   "name": "Joseph Lloyd Manor",
-   "town": "Lloyd Harbor",
-   "county": "Suffolk",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum (Preservation Long Island) — enslaved people at the manor; Jupiter Hammon, first published Black poet in America, enslaved here",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 139,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_308b64232e8c5133",
-   "projectedSlug": "ny-walt-whitman-birthplace-state-historic-site",
-   "targetSlug": null,
-   "name": "Walt Whitman Birthplace State Historic Site",
-   "town": "Huntington",
-   "county": "Suffolk",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "State historic site and interpretive center",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 137,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3329b416085e130e",
-   "projectedSlug": "ny-fort-william-henry",
-   "targetSlug": null,
-   "name": "Fort William Henry",
-   "town": "Lake George",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "military — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 512,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_33501d2da1302b32",
-   "projectedSlug": "ny-shinnecock-nation-cultural-center-and-museum",
-   "targetSlug": null,
-   "name": "Shinnecock Nation Cultural Center & Museum",
-   "town": "Southampton",
-   "county": "Suffolk",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Tribal museum — Shinnecock Indigenous history on their own ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 138,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_34a6a13861881e7a",
-   "projectedSlug": "ny-sagamore-hill-national-historic-site",
-   "targetSlug": null,
-   "name": "Sagamore Hill National Historic Site",
-   "town": "Oyster Bay",
-   "county": "Nassau",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "National park unit — Theodore Roosevelt's home, Summer White House",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 136,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_366ade51fac9d2fd",
-   "projectedSlug": "ny-historic-huguenot-street",
-   "targetSlug": null,
-   "name": "Historic Huguenot Street",
-   "town": "New Paltz",
-   "county": "Ulster",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum district (NHL) — French Huguenot stone houses, among the oldest streets in America; enslaved people held here too",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 149,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_36afb4f996e7be46",
-   "projectedSlug": "ny-saranac-laboratory-museum-and-the-trudeau-sanatorium-story",
-   "targetSlug": null,
-   "name": "Saranac Laboratory Museum & the Trudeau sanatorium story ★",
-   "town": "Saranac Lake",
-   "county": "Franklin",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum — 1894 Trudeau laboratory, tuberculosis cure cottages across the village; the sanatorium grounds themselves are private (American Management Association), the museum and village cure cottages are the anchor",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 208,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_39149397cb0cd33d",
-   "projectedSlug": "ny-home-of-franklin-d-roosevelt-nhs-and-presidential-library",
-   "targetSlug": null,
-   "name": "Home of Franklin D. Roosevelt NHS & Presidential Library",
-   "town": "Hyde Park",
-   "county": "Dutchess",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "National park unit and presidential library",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 150,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3aa047a73c720d77",
-   "projectedSlug": "ny-fort-ontario-state-historic-site-and-safe-haven-museum",
-   "targetSlug": null,
-   "name": "Fort Ontario State Historic Site & Safe Haven Museum ★",
-   "town": "Oswego",
-   "county": "Oswego",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "State historic site and museum — star fort from the French and Indian War through WWII; in 1944–46 the fort sheltered 982 Holocaust refugees, the only refugee shelter in the United States",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 211,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3c5b3a4d1341d642",
-   "projectedSlug": "ny-saratoga-national-historical-park",
-   "targetSlug": null,
-   "name": "Saratoga National Historical Park ★",
-   "town": "Stillwater",
-   "county": "Saratoga",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "National park unit — 1777 battles, turning point of the Revolution; Schuyler House and Saratoga Monument units",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 160,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3dc5c09f95dbeeb3",
-   "projectedSlug": "ny-old-fort-niagara",
-   "targetSlug": null,
-   "name": "Old Fort Niagara ★",
-   "town": "Youngstown",
-   "county": "Niagara",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "State park museum (NHL) — French Castle (1726), three nations' flags over the Niagara mouth",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 191,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_44818ced11bd0c4e",
-   "projectedSlug": "ny-hart-island",
-   "targetSlug": null,
-   "name": "Hart Island",
-   "town": "Bronx (Long Island Sound)",
-   "county": "",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "City potter's field — over a million burials including Civil War dead and epidemic dead; access controlled, visits limited to scheduled public tours — flag, verify current Parks program",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 130,
-     "dialect": "desk-sweep-4",
-     "role": "dead"
-    }
-   ],
-   "queueState": "checked-dead",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_47a6187f98537858",
-   "projectedSlug": "ny-raynham-hall",
-   "targetSlug": null,
-   "name": "Raynham Hall",
-   "town": "Oyster Bay",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "house — anchor: museum open to the public. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 516,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_49cd0f6933c1f754",
-   "projectedSlug": "ny-landmark-theatre",
-   "targetSlug": null,
-   "name": "Landmark Theatre",
-   "town": "Syracuse",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 515,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4c56581632709c36",
-   "projectedSlug": "ny-eleanor-roosevelt-national-historic-site-val-kill",
-   "targetSlug": null,
-   "name": "Eleanor Roosevelt National Historic Site (Val-Kill)",
-   "town": "Hyde Park",
-   "county": "Dutchess",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "National park unit — the only National Historic Site dedicated to a First Lady; women's and human-rights ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 151,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4def5d82184f10bd",
-   "projectedSlug": "ny-shanley-hotel",
-   "targetSlug": null,
-   "name": "Shanley Hotel",
-   "town": "Napanoch",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 509,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_57d610479876b9e4",
-   "projectedSlug": "ny-oneida-community-mansion-house",
-   "targetSlug": null,
-   "name": "Oneida Community Mansion House",
-   "town": "Oneida",
-   "county": "Madison",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum — 1848 utopian community, radical religion, gender and labor experiment",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 180,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_57faedccb525db67",
-   "projectedSlug": "ny-lockport-locks-and-erie-canal-discovery-center",
-   "targetSlug": null,
-   "name": "Lockport Locks & Erie Canal Discovery Center",
-   "town": "Lockport",
-   "county": "Niagara",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum and working locks — the Flight of Five, canal engineering and labor",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 200,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_592ca04db25cfc8c",
-   "projectedSlug": "ny-old-dutch-church",
-   "targetSlug": null,
-   "name": "Old Dutch Church",
-   "town": "Sleepy Hollow",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "cemetery — anchor: ticketed tours / ghost tours run here. Source: worldurbanlegend.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 525,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5b924c7520431f59",
-   "projectedSlug": "ny-harlem-schomburg-center-apollo-theater-and-strivers-row",
-   "targetSlug": null,
-   "name": "Harlem: Schomburg Center, Apollo Theater & Strivers' Row",
-   "town": "Manhattan (Harlem)",
-   "county": "",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Public research center, theater tours, public historic district — Black cultural capital",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 129,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5cb1578178e04fa1",
-   "projectedSlug": "ny-canfield-casino",
-   "targetSlug": null,
-   "name": "Canfield Casino",
-   "town": "Saratoga Springs",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "other — anchor: museum open to the public. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 517,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5f6579db20735365",
-   "projectedSlug": "ny-bannerman-castle-pollepel-island",
-   "targetSlug": null,
-   "name": "Bannerman Castle, Pollepel Island ★",
-   "town": "Hudson River",
-   "county": "Dutchess",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Seasonal boat and kayak tours — Francis Bannerman's military-surplus arsenal castle (1901), the valley's great weird fortress",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 147,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_605c7d3f0ffd0982",
-   "projectedSlug": "ny-museum-of-chinese-in-america",
-   "targetSlug": null,
-   "name": "Museum of Chinese in America",
-   "town": "Manhattan (Chinatown)",
-   "county": "",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum — Chinese exclusion-era community ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 128,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_609530bea3d502dd",
-   "projectedSlug": "ny-michigan-street-baptist-church",
-   "targetSlug": null,
-   "name": "Michigan Street Baptist Church",
-   "town": "Buffalo",
-   "county": "Erie",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Tours — abolitionist and Underground Railroad congregation, Niagara Movement ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 194,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_625a2739433e3305",
-   "projectedSlug": "ny-hinsdale-house",
-   "targetSlug": null,
-   "name": "Hinsdale House",
-   "town": "Hinsdale",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 511,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_65281dd7219be848",
-   "projectedSlug": "ny-gerrit-smith-estate-and-national-abolition-hall-of-fame",
-   "targetSlug": null,
-   "name": "Gerrit Smith Estate & National Abolition Hall of Fame",
-   "town": "Peterboro",
-   "county": "Madison",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum (NHL) — abolitionist land-reform ground; Smith gave land grants to 3,000 Black New Yorkers",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 179,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_68035a78f279bf1a",
-   "projectedSlug": "ny-utica-state-hospital",
-   "targetSlug": null,
-   "name": "Utica State Hospital",
-   "town": "Utica",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "asylum — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 522,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6a3fd0db84c5e3c4",
-   "projectedSlug": "ny-fort-stanwix-national-monument",
-   "targetSlug": null,
-   "name": "Fort Stanwix National Monument ★",
-   "town": "Rome",
-   "county": "Oneida",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "National park unit — reconstructed star fort, 1768 Treaty of Fort Stanwix ground with the Haudenosaunee",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 181,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6d51ea36bec012bc",
-   "projectedSlug": "ny-morris-jumel-mansion",
-   "targetSlug": null,
-   "name": "Morris-Jumel Mansion",
-   "town": "New York City",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "house — anchor: museum open to the public. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 507,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_712795b903d7d20f",
-   "projectedSlug": "ny-lower-east-side-tenement-museum",
-   "targetSlug": null,
-   "name": "Lower East Side Tenement Museum",
-   "town": "Manhattan",
-   "county": "",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum (NPS affiliated) — immigrant tenement households, 97 Orchard Street",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 121,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_72651dba193361c2",
-   "projectedSlug": "ny-forest-park-cemetery",
-   "targetSlug": null,
-   "name": "Forest Park Cemetery",
-   "town": "Brunswick",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "cemetery — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 523,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7504378e0f5b1c27",
-   "projectedSlug": "ny-frederick-douglass-public-sites",
-   "targetSlug": null,
-   "name": "Frederick Douglass public sites",
-   "town": "Rochester",
-   "county": "Monroe",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Public sites — Douglass monument (Highland Park), Mt. Hope Cemetery graves of Douglass and Anthony, North Star office ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 198,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_766157c1a2693a33",
-   "projectedSlug": "ny-washingtons-headquarters-shs-and-new-windsor-cantonment-purple-heart-hall-of-hon",
-   "targetSlug": null,
-   "name": "Washington's Headquarters SHS & New Windsor Cantonment / Purple Heart Hall of Honor ★",
-   "town": "Newburgh / New Windsor",
-   "county": "Orange",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "State historic sites — Washington's longest headquarters; final Continental cantonment and Badge of Military Merit (Purple Heart) ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 146,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7a49186af6111b2e",
-   "projectedSlug": "ny-triangle-shirtwaist-factory-site-brown-building",
-   "targetSlug": null,
-   "name": "Triangle Shirtwaist Factory site (Brown Building)",
-   "town": "Manhattan (Greenwich Village)",
-   "county": "",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Public exterior and memorial — 1911 fire, 146 garment workers, mostly immigrant women; labor and women's history",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 127,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_868d9d10288dcd13",
-   "projectedSlug": "ny-johnson-hall-state-historic-site",
-   "targetSlug": null,
-   "name": "Johnson Hall State Historic Site",
-   "town": "Johnstown",
-   "county": "Fulton",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "State historic site — Sir William Johnson's baronial hall; Mohawk diplomacy and dispossession ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 166,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_86fc512e7b3271fe",
-   "projectedSlug": "ny-new-york-state-museum-and-state-capitol",
-   "targetSlug": null,
-   "name": "New York State Museum & State Capitol",
-   "town": "Albany",
-   "county": "",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Public museum and building tours — includes Haudenosaunee longhouse and 9/11 exhibitions",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 163,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8879e23196237916",
-   "projectedSlug": "ny-ganondagan-state-historic-site",
-   "targetSlug": null,
-   "name": "Ganondagan State Historic Site",
-   "town": "Victor",
-   "county": "Ontario",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "State historic site — 17th-century Seneca town of ~4,500, destroyed 1687; Seneca Art & Culture Center",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 176,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8a2a22156d292bf4",
-   "projectedSlug": "ny-merchants-house-museum",
-   "targetSlug": null,
-   "name": "Merchant's House Museum",
-   "town": "New York City",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "house — anchor: museum open to the public. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 510,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8c3c4ac491868005",
-   "projectedSlug": "ny-weeksville-heritage-center",
-   "targetSlug": null,
-   "name": "Weeksville Heritage Center",
-   "town": "Brooklyn",
-   "county": "",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum — free Black community founded 1838, James Weeks ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 124,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8cac2cfcc289740e",
-   "projectedSlug": "ny-olana-state-historic-site",
-   "targetSlug": null,
-   "name": "Olana State Historic Site",
-   "town": "Hudson",
-   "county": "Columbia",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "State historic site — Frederic Church's Persian-inspired house and designed landscape",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 152,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8cc6cf4bfb7cc797",
-   "projectedSlug": "ny-sackets-harbor-battlefield-state-historic-site",
-   "targetSlug": null,
-   "name": "Sackets Harbor Battlefield State Historic Site ★",
-   "town": "",
-   "county": "Jefferson",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "State historic site — War of 1812 naval base and two battles on Lake Ontario",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 210,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8e14e39b26a11cc0",
-   "projectedSlug": "ny-rolling-hills-asylum",
-   "targetSlug": null,
-   "name": "Rolling Hills Asylum",
-   "town": "East Bethany",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "asylum — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 508,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_957f644f8ff53391",
-   "projectedSlug": "ny-william-h-seward-house-museum",
-   "targetSlug": null,
-   "name": "William H. Seward House Museum",
-   "town": "Auburn",
-   "county": "Cayuga",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum — Secretary of State's home, documented Underground Railroad shelter in the basement",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 175,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_961912263d388336",
-   "projectedSlug": "ny-fort-ticonderoga",
-   "targetSlug": null,
-   "name": "Fort Ticonderoga ★",
-   "town": "",
-   "county": "Essex",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum (NHL) — French and Indian War and Revolutionary fortress on Lake Champlain",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 161,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_98398e935fe22314",
-   "projectedSlug": "ny-historic-palmyra",
-   "targetSlug": null,
-   "name": "Historic Palmyra",
-   "town": "Palmyra",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "other — anchor: museum open to the public. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 514,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9c05167807b0c079",
-   "projectedSlug": "ny-seneca-village-site",
-   "targetSlug": null,
-   "name": "Seneca Village site",
-   "town": "Central Park",
-   "county": "Manhattan",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Public park with interpretive signage — Black landowning community razed for the park (1857)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 123,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a0fdb2f38ac66060",
-   "projectedSlug": "ny-harriet-tubman-national-historical-park",
-   "targetSlug": null,
-   "name": "Harriet Tubman National Historical Park",
-   "town": "Auburn",
-   "county": "Cayuga",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "National park unit — Tubman's home, farm and AME Zion church ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 174,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a47d8e333190364c",
-   "projectedSlug": "ny-federal-hall-national-memorial",
-   "targetSlug": null,
-   "name": "Federal Hall National Memorial",
-   "town": "Manhattan",
-   "county": "",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "National park unit — first Capitol, Washington's inauguration, Bill of Rights ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 126,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a49a20e5ffa4774c",
-   "projectedSlug": "ny-harbor-group-statue-of-liberty-ellis-island-and-governors-island",
-   "targetSlug": null,
-   "name": "Harbor group: Statue of Liberty, Ellis Island & Governors Island ★",
-   "town": "New York Harbor",
-   "county": "",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "National park units by ferry — immigration station (12 million arrivals); Governors Island adds Fort Jay and Castle Williams, a Civil War prison fort ★",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 120,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ab494812d7170bdd",
-   "projectedSlug": "ny-theodore-roosevelt-inaugural-national-historic-site",
-   "targetSlug": null,
-   "name": "Theodore Roosevelt Inaugural National Historic Site",
-   "town": "Buffalo",
-   "county": "Erie",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "National park unit — 1901 inauguration after McKinley's assassination",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 193,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b4f91c4d673242d6",
-   "projectedSlug": "ny-ellis-island",
-   "targetSlug": null,
-   "name": "Ellis Island",
-   "town": "New York City",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "hospital — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 518,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b649dfc996ff5e63",
-   "projectedSlug": "ny-matilda-joslyn-gage-house",
-   "targetSlug": null,
-   "name": "Matilda Joslyn Gage House",
-   "town": "Fayetteville",
-   "county": "Onondaga",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum — suffragist and abolitionist's home, documented UGRR station",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 178,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b7ea3229fa45ba10",
-   "projectedSlug": "ny-oriskany-and-newtown-battlefield-state-historic-sites",
-   "targetSlug": null,
-   "name": "Oriskany & Newtown Battlefield State Historic Sites ★",
-   "town": "",
-   "county": "Oneida/Chemung",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "State historic sites — 1777 Oriskany (Oneida allies beside Herkimer) and 1779 Newtown, the Sullivan Expedition's campaign against Haudenosaunee towns; Indigenous ground, reflection posture",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 182,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b7f111137482c361",
-   "projectedSlug": "ny-erie-canal-museum",
-   "targetSlug": null,
-   "name": "Erie Canal Museum",
-   "town": "Syracuse",
-   "county": "Onondaga",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum in the 1850 Weighlock Building — canal industry and labor; Syracuse salt carried on the same water",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 177,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b7f7f4a9d5f2a422",
-   "projectedSlug": "ny-sing-sing-prison-ossining",
-   "targetSlug": null,
-   "name": "Sing Sing Prison, Ossining ★",
-   "town": "",
-   "county": "Westchester",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Anchor: Sing Sing Prison Museum — exhibits and walking tours running; visitor center in the Olive Opera House opening for the prison's 2026 bicentennial, verify schedule at research time. The prison itself is active — no access. \"Up the river\" ground, 1825",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 154,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c2cb6566d58fbc12",
-   "projectedSlug": "ny-willard-state-hospital-willard-asylum",
-   "targetSlug": null,
-   "name": "Willard State Hospital (Willard Asylum) ★",
-   "town": "Ovid",
-   "county": "Seneca",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "1869 Kirkbride-plan asylum; the famous patient-suitcases story is told at the Museum of disABILITY History's former exhibits — the campus is now a state drug-treatment facility, no public access; asylum flag",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 184,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cd6c5e41d1ef2505",
-   "projectedSlug": "ny-adirondack-experience",
-   "targetSlug": null,
-   "name": "Adirondack Experience",
-   "town": "Blue Mountain Lake",
-   "county": "Hamilton",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum — logging industry, guides, Indigenous presence, great-camp era (the region's great camps, Sagamore among them, are told from here)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 209,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d4fa584c4f52f890",
-   "projectedSlug": "ny-philipsburg-manor",
-   "targetSlug": null,
-   "name": "Philipsburg Manor",
-   "town": "Sleepy Hollow",
-   "county": "Westchester",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum (Historic Hudson Valley) — Dutch manor mill and farm worked by enslaved Africans",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 153,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d68bffada8ac2aba",
-   "projectedSlug": "ny-west-point-museum-and-u-s-military-academy",
-   "targetSlug": null,
-   "name": "West Point Museum & U.S. Military Academy ★",
-   "town": "West Point",
-   "county": "Orange",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum and academy tours (ID required) — oldest continuously occupied U.S. military post",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 145,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d6fbf55b2229fd48",
-   "projectedSlug": "ny-richardson-olmsted-campus-buffalo-state-asylum",
-   "targetSlug": null,
-   "name": "Richardson Olmsted Campus (Buffalo State Asylum) ★",
-   "town": "Buffalo",
-   "county": "Erie",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Public tours, hotel and architecture center — H.H. Richardson's Kirkbride asylum (1880) in Olmsted grounds; the campus itself refuses ghost tours, a dignity model for the sweep",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 192,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d8b2e959ef351909",
-   "projectedSlug": "ny-john-brown-farm-state-historic-site",
-   "targetSlug": null,
-   "name": "John Brown Farm State Historic Site",
-   "town": "Lake Placid",
-   "county": "Essex",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "State historic site — abolitionist's home and grave; Timbuctoo Black settlement experiment ground in the same township story",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 207,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_dd4cb0269fc26ea6",
-   "projectedSlug": "ny-african-burial-ground-national-monument",
-   "targetSlug": null,
-   "name": "African Burial Ground National Monument",
-   "town": "Manhattan",
-   "county": "",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "National park unit — 17th–18th-century African burial ground, free and enslaved New Yorkers",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 122,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e21a4cd80dae84ce",
-   "projectedSlug": "ny-hotel-chelsea",
-   "targetSlug": null,
-   "name": "Hotel Chelsea",
-   "town": "New York City",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 519,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e31affd3a3ba5083",
-   "projectedSlug": "ny-niagara-falls-underground-railroad-heritage-center",
-   "targetSlug": null,
-   "name": "Niagara Falls Underground Railroad Heritage Center",
-   "town": "Niagara Falls",
-   "county": "Niagara",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum at the Amtrak station — freedom seekers' last stop before Canada, Suspension Bridge ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 196,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e7e925852f258493",
-   "projectedSlug": "ny-lily-dale-assembly",
-   "targetSlug": null,
-   "name": "Lily Dale Assembly",
-   "town": "",
-   "county": "Chautauqua",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Public seasonal grounds — world's largest Spiritualist community (1879), women's voices in religion; weird-spot flag",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 201,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ef2336020dc37094",
-   "projectedSlug": "ny-stonewall-national-monument",
-   "targetSlug": null,
-   "name": "Stonewall National Monument",
-   "town": "Manhattan (Greenwich Village)",
-   "county": "",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "National park unit — 1969 uprising ground, LGBTQ civil rights",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 125,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f4f70eef8bd51439",
-   "projectedSlug": "ny-mid-orange-correctional",
-   "targetSlug": null,
-   "name": "Mid-Orange Correctional",
-   "town": "Warwick",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "prison — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 521,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f62634d66f72a4f0",
-   "projectedSlug": "ny-sleepy-hollow-cemetery",
-   "targetSlug": null,
-   "name": "Sleepy Hollow Cemetery",
-   "town": "Sleepy Hollow",
-   "county": "New York",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "cemetery — anchor: ticketed tours / ghost tours run here. Source: travelersuniverse.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 524,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fb0f4b0483df3f8a",
-   "projectedSlug": "ny-stephen-and-harriet-myers-residence-underground-railroad-education-center",
-   "targetSlug": null,
-   "name": "Stephen & Harriet Myers Residence / Underground Railroad Education Center",
-   "town": "Albany",
-   "county": "",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum — Black abolitionist headquarters of Albany's UGRR Vigilance Committee",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 165,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fd91a23cf108fe53",
-   "projectedSlug": "ny-senate-house-state-historic-site",
-   "targetSlug": null,
-   "name": "Senate House State Historic Site",
-   "town": "Kingston",
-   "county": "Ulster",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "State historic site — first New York State Senate met here (1777)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 148,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fe2fcb7666eaa21d",
-   "projectedSlug": "ny-buffalo-naval-and-military-park",
-   "targetSlug": null,
-   "name": "Buffalo Naval & Military Park ★",
-   "town": "Buffalo",
-   "county": "Erie",
-   "state": "NY",
-   "tier": null,
-   "anchorPosture": "Museum ships — USS The Sullivans, USS Little Rock, USS Croaker on the Buffalo River",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "PA-NY-NJ-first-sweep.md",
-     "row": 195,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
    "id": "lq_000f54ec088f1308",
    "projectedSlug": "nj-clara-barton-schoolhouse",
    "targetSlug": null,
@@ -168910,6 +167047,1869 @@
    "attempts": []
   },
   {
+   "id": "lq_009a7329906103f8",
+   "projectedSlug": "ny-george-eastman-museum",
+   "targetSlug": null,
+   "name": "George Eastman Museum",
+   "town": "Rochester",
+   "county": "Monroe",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum — Kodak industry, photography, immigrant industrial labor",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 199,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_02e86da51ebd7329",
+   "projectedSlug": "ny-susan-b-anthony-museum-and-house",
+   "targetSlug": null,
+   "name": "Susan B. Anthony Museum & House",
+   "town": "Rochester",
+   "county": "Monroe",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum — Anthony's home and 1872 arrest-for-voting ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 197,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0347a570a7d1c8b3",
+   "projectedSlug": "ny-iroquois-museum",
+   "targetSlug": null,
+   "name": "Iroquois Museum",
+   "town": "Howes Cave",
+   "county": "Schoharie",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum — Haudenosaunee art and history, built in the form of a longhouse",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 167,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0369914003c107bc",
+   "projectedSlug": "ny-corning-museum-of-glass",
+   "targetSlug": null,
+   "name": "Corning Museum of Glass",
+   "town": "Corning",
+   "county": "Steuben",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum — glass industry, immigrant glassworkers, Steuben ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 183,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0976aade8a161c1a",
+   "projectedSlug": "ny-herkimer-four-corners",
+   "targetSlug": null,
+   "name": "Herkimer Four Corners",
+   "town": "Herkimer",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "prison — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 513,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0b63c84f9c01034b",
+   "projectedSlug": "ny-tarrytown-music-hall",
+   "targetSlug": null,
+   "name": "Tarrytown Music Hall",
+   "town": "Tarrytown",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "theater — anchor: ticketed tours / ghost tours run here. Source: ghosttourexplorer.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 526,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0d7141a2eed61751",
+   "projectedSlug": "ny-schuyler-mansion-state-historic-site",
+   "targetSlug": null,
+   "name": "Schuyler Mansion State Historic Site",
+   "town": "Albany",
+   "county": "",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "State historic site — Philip Schuyler's home; enslaved household members documented",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 164,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1462da7116a4fc31",
+   "projectedSlug": "ny-crown-point-state-historic-site",
+   "targetSlug": null,
+   "name": "Crown Point State Historic Site ★",
+   "town": "",
+   "county": "Essex",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "State historic site — French Fort St. Frédéric and British fort ruins, Champlain shore",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 162,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_19edc7f8909758cd",
+   "projectedSlug": "ny-womens-rights-national-historical-park",
+   "targetSlug": "NY-womens-rights-seneca-falls",
+   "name": "Women's Rights National Historical Park",
+   "town": "Seneca Falls",
+   "county": "Seneca",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "National park unit — 1848 convention ground (Wesleyan Chapel), Stanton and M'Clintock houses",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 173,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_28cfe4cab5f78f2b",
+   "projectedSlug": "ny-utica-state-hospital-old-main",
+   "targetSlug": null,
+   "name": "Utica State Hospital — Old Main ★",
+   "town": "Utica",
+   "county": "Oneida",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "1843 Greek Revival asylum, among the oldest in the nation; state records center on the ground, tours rare and irregular — asylum flag, verify any public program",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 185,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_2c356202db0af6a6",
+   "projectedSlug": "ny-joseph-lloyd-manor",
+   "targetSlug": null,
+   "name": "Joseph Lloyd Manor",
+   "town": "Lloyd Harbor",
+   "county": "Suffolk",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum (Preservation Long Island) — enslaved people at the manor; Jupiter Hammon, first published Black poet in America, enslaved here",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 139,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_308b64232e8c5133",
+   "projectedSlug": "ny-walt-whitman-birthplace-state-historic-site",
+   "targetSlug": null,
+   "name": "Walt Whitman Birthplace State Historic Site",
+   "town": "Huntington",
+   "county": "Suffolk",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "State historic site and interpretive center",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 137,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3329b416085e130e",
+   "projectedSlug": "ny-fort-william-henry",
+   "targetSlug": null,
+   "name": "Fort William Henry",
+   "town": "Lake George",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "military — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 512,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_33501d2da1302b32",
+   "projectedSlug": "ny-shinnecock-nation-cultural-center-and-museum",
+   "targetSlug": null,
+   "name": "Shinnecock Nation Cultural Center & Museum",
+   "town": "Southampton",
+   "county": "Suffolk",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Tribal museum — Shinnecock Indigenous history on their own ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 138,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_34a6a13861881e7a",
+   "projectedSlug": "ny-sagamore-hill-national-historic-site",
+   "targetSlug": null,
+   "name": "Sagamore Hill National Historic Site",
+   "town": "Oyster Bay",
+   "county": "Nassau",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "National park unit — Theodore Roosevelt's home, Summer White House",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 136,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_366ade51fac9d2fd",
+   "projectedSlug": "ny-historic-huguenot-street",
+   "targetSlug": null,
+   "name": "Historic Huguenot Street",
+   "town": "New Paltz",
+   "county": "Ulster",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum district (NHL) — French Huguenot stone houses, among the oldest streets in America; enslaved people held here too",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 149,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_36afb4f996e7be46",
+   "projectedSlug": "ny-saranac-laboratory-museum-and-the-trudeau-sanatorium-story",
+   "targetSlug": null,
+   "name": "Saranac Laboratory Museum & the Trudeau sanatorium story ★",
+   "town": "Saranac Lake",
+   "county": "Franklin",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum — 1894 Trudeau laboratory, tuberculosis cure cottages across the village; the sanatorium grounds themselves are private (American Management Association), the museum and village cure cottages are the anchor",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 208,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_39149397cb0cd33d",
+   "projectedSlug": "ny-home-of-franklin-d-roosevelt-nhs-and-presidential-library",
+   "targetSlug": null,
+   "name": "Home of Franklin D. Roosevelt NHS & Presidential Library",
+   "town": "Hyde Park",
+   "county": "Dutchess",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "National park unit and presidential library",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 150,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3aa047a73c720d77",
+   "projectedSlug": "ny-fort-ontario-state-historic-site-and-safe-haven-museum",
+   "targetSlug": null,
+   "name": "Fort Ontario State Historic Site & Safe Haven Museum ★",
+   "town": "Oswego",
+   "county": "Oswego",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "State historic site and museum — star fort from the French and Indian War through WWII; in 1944–46 the fort sheltered 982 Holocaust refugees, the only refugee shelter in the United States",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 211,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3c5b3a4d1341d642",
+   "projectedSlug": "ny-saratoga-national-historical-park",
+   "targetSlug": "NY-saratoga-battlefield",
+   "name": "Saratoga National Historical Park ★",
+   "town": "Stillwater",
+   "county": "Saratoga",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "National park unit — 1777 battles, turning point of the Revolution; Schuyler House and Saratoga Monument units",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 160,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_3dc5c09f95dbeeb3",
+   "projectedSlug": "ny-old-fort-niagara",
+   "targetSlug": null,
+   "name": "Old Fort Niagara ★",
+   "town": "Youngstown",
+   "county": "Niagara",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "State park museum (NHL) — French Castle (1726), three nations' flags over the Niagara mouth",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 191,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_44818ced11bd0c4e",
+   "projectedSlug": "ny-hart-island",
+   "targetSlug": null,
+   "name": "Hart Island",
+   "town": "Bronx (Long Island Sound)",
+   "county": "",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "City potter's field — over a million burials including Civil War dead and epidemic dead; access controlled, visits limited to scheduled public tours — flag, verify current Parks program",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 130,
+     "dialect": "desk-sweep-4",
+     "role": "dead"
+    }
+   ],
+   "queueState": "checked-dead",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_47a6187f98537858",
+   "projectedSlug": "ny-raynham-hall",
+   "targetSlug": null,
+   "name": "Raynham Hall",
+   "town": "Oyster Bay",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "house — anchor: museum open to the public. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 516,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_49cd0f6933c1f754",
+   "projectedSlug": "ny-landmark-theatre",
+   "targetSlug": null,
+   "name": "Landmark Theatre",
+   "town": "Syracuse",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 515,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4c56581632709c36",
+   "projectedSlug": "ny-eleanor-roosevelt-national-historic-site-val-kill",
+   "targetSlug": null,
+   "name": "Eleanor Roosevelt National Historic Site (Val-Kill)",
+   "town": "Hyde Park",
+   "county": "Dutchess",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "National park unit — the only National Historic Site dedicated to a First Lady; women's and human-rights ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 151,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4def5d82184f10bd",
+   "projectedSlug": "ny-shanley-hotel",
+   "targetSlug": null,
+   "name": "Shanley Hotel",
+   "town": "Napanoch",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 509,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_57d610479876b9e4",
+   "projectedSlug": "ny-oneida-community-mansion-house",
+   "targetSlug": null,
+   "name": "Oneida Community Mansion House",
+   "town": "Oneida",
+   "county": "Madison",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum — 1848 utopian community, radical religion, gender and labor experiment",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 180,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_57faedccb525db67",
+   "projectedSlug": "ny-lockport-locks-and-erie-canal-discovery-center",
+   "targetSlug": null,
+   "name": "Lockport Locks & Erie Canal Discovery Center",
+   "town": "Lockport",
+   "county": "Niagara",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum and working locks — the Flight of Five, canal engineering and labor",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 200,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_592ca04db25cfc8c",
+   "projectedSlug": "ny-old-dutch-church",
+   "targetSlug": null,
+   "name": "Old Dutch Church",
+   "town": "Sleepy Hollow",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "cemetery — anchor: ticketed tours / ghost tours run here. Source: worldurbanlegend.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 525,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5b924c7520431f59",
+   "projectedSlug": "ny-harlem-schomburg-center-apollo-theater-and-strivers-row",
+   "targetSlug": null,
+   "name": "Harlem: Schomburg Center, Apollo Theater & Strivers' Row",
+   "town": "Manhattan (Harlem)",
+   "county": "",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Public research center, theater tours, public historic district — Black cultural capital",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 129,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5cb1578178e04fa1",
+   "projectedSlug": "ny-canfield-casino",
+   "targetSlug": null,
+   "name": "Canfield Casino",
+   "town": "Saratoga Springs",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "other — anchor: museum open to the public. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 517,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5f6579db20735365",
+   "projectedSlug": "ny-bannerman-castle-pollepel-island",
+   "targetSlug": null,
+   "name": "Bannerman Castle, Pollepel Island ★",
+   "town": "Hudson River",
+   "county": "Dutchess",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Seasonal boat and kayak tours — Francis Bannerman's military-surplus arsenal castle (1901), the valley's great weird fortress",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 147,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_605c7d3f0ffd0982",
+   "projectedSlug": "ny-museum-of-chinese-in-america",
+   "targetSlug": null,
+   "name": "Museum of Chinese in America",
+   "town": "Manhattan (Chinatown)",
+   "county": "",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum — Chinese exclusion-era community ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 128,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_609530bea3d502dd",
+   "projectedSlug": "ny-michigan-street-baptist-church",
+   "targetSlug": null,
+   "name": "Michigan Street Baptist Church",
+   "town": "Buffalo",
+   "county": "Erie",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Tours — abolitionist and Underground Railroad congregation, Niagara Movement ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 194,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_625a2739433e3305",
+   "projectedSlug": "ny-hinsdale-house",
+   "targetSlug": null,
+   "name": "Hinsdale House",
+   "town": "Hinsdale",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 511,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_65281dd7219be848",
+   "projectedSlug": "ny-gerrit-smith-estate-and-national-abolition-hall-of-fame",
+   "targetSlug": null,
+   "name": "Gerrit Smith Estate & National Abolition Hall of Fame",
+   "town": "Peterboro",
+   "county": "Madison",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum (NHL) — abolitionist land-reform ground; Smith gave land grants to 3,000 Black New Yorkers",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 179,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_68035a78f279bf1a",
+   "projectedSlug": "ny-utica-state-hospital",
+   "targetSlug": null,
+   "name": "Utica State Hospital",
+   "town": "Utica",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "asylum — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 522,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6a3fd0db84c5e3c4",
+   "projectedSlug": "ny-fort-stanwix-national-monument",
+   "targetSlug": null,
+   "name": "Fort Stanwix National Monument ★",
+   "town": "Rome",
+   "county": "Oneida",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "National park unit — reconstructed star fort, 1768 Treaty of Fort Stanwix ground with the Haudenosaunee",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 181,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6d51ea36bec012bc",
+   "projectedSlug": "ny-morris-jumel-mansion",
+   "targetSlug": null,
+   "name": "Morris-Jumel Mansion",
+   "town": "New York City",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "house — anchor: museum open to the public. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 507,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_712795b903d7d20f",
+   "projectedSlug": "ny-lower-east-side-tenement-museum",
+   "targetSlug": null,
+   "name": "Lower East Side Tenement Museum",
+   "town": "Manhattan",
+   "county": "",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum (NPS affiliated) — immigrant tenement households, 97 Orchard Street",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 121,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_72651dba193361c2",
+   "projectedSlug": "ny-forest-park-cemetery",
+   "targetSlug": null,
+   "name": "Forest Park Cemetery",
+   "town": "Brunswick",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "cemetery — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 523,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7504378e0f5b1c27",
+   "projectedSlug": "ny-frederick-douglass-public-sites",
+   "targetSlug": null,
+   "name": "Frederick Douglass public sites",
+   "town": "Rochester",
+   "county": "Monroe",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Public sites — Douglass monument (Highland Park), Mt. Hope Cemetery graves of Douglass and Anthony, North Star office ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 198,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_766157c1a2693a33",
+   "projectedSlug": "ny-washingtons-headquarters-shs-and-new-windsor-cantonment-purple-heart-hall-of-hon",
+   "targetSlug": null,
+   "name": "Washington's Headquarters SHS & New Windsor Cantonment / Purple Heart Hall of Honor ★",
+   "town": "Newburgh / New Windsor",
+   "county": "Orange",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "State historic sites — Washington's longest headquarters; final Continental cantonment and Badge of Military Merit (Purple Heart) ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 146,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7a49186af6111b2e",
+   "projectedSlug": "ny-triangle-shirtwaist-factory-site-brown-building",
+   "targetSlug": null,
+   "name": "Triangle Shirtwaist Factory site (Brown Building)",
+   "town": "Manhattan (Greenwich Village)",
+   "county": "",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Public exterior and memorial — 1911 fire, 146 garment workers, mostly immigrant women; labor and women's history",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 127,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_868d9d10288dcd13",
+   "projectedSlug": "ny-johnson-hall-state-historic-site",
+   "targetSlug": null,
+   "name": "Johnson Hall State Historic Site",
+   "town": "Johnstown",
+   "county": "Fulton",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "State historic site — Sir William Johnson's baronial hall; Mohawk diplomacy and dispossession ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 166,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_86fc512e7b3271fe",
+   "projectedSlug": "ny-new-york-state-museum-and-state-capitol",
+   "targetSlug": null,
+   "name": "New York State Museum & State Capitol",
+   "town": "Albany",
+   "county": "",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Public museum and building tours — includes Haudenosaunee longhouse and 9/11 exhibitions",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 163,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8879e23196237916",
+   "projectedSlug": "ny-ganondagan-state-historic-site",
+   "targetSlug": null,
+   "name": "Ganondagan State Historic Site",
+   "town": "Victor",
+   "county": "Ontario",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "State historic site — 17th-century Seneca town of ~4,500, destroyed 1687; Seneca Art & Culture Center",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 176,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8a2a22156d292bf4",
+   "projectedSlug": "ny-merchants-house-museum",
+   "targetSlug": null,
+   "name": "Merchant's House Museum",
+   "town": "New York City",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "house — anchor: museum open to the public. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 510,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8c3c4ac491868005",
+   "projectedSlug": "ny-weeksville-heritage-center",
+   "targetSlug": null,
+   "name": "Weeksville Heritage Center",
+   "town": "Brooklyn",
+   "county": "",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum — free Black community founded 1838, James Weeks ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 124,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8cac2cfcc289740e",
+   "projectedSlug": "ny-olana-state-historic-site",
+   "targetSlug": null,
+   "name": "Olana State Historic Site",
+   "town": "Hudson",
+   "county": "Columbia",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "State historic site — Frederic Church's Persian-inspired house and designed landscape",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 152,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8cc6cf4bfb7cc797",
+   "projectedSlug": "ny-sackets-harbor-battlefield-state-historic-site",
+   "targetSlug": null,
+   "name": "Sackets Harbor Battlefield State Historic Site ★",
+   "town": "",
+   "county": "Jefferson",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "State historic site — War of 1812 naval base and two battles on Lake Ontario",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 210,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8e14e39b26a11cc0",
+   "projectedSlug": "ny-rolling-hills-asylum",
+   "targetSlug": null,
+   "name": "Rolling Hills Asylum",
+   "town": "East Bethany",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "asylum — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 508,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_957f644f8ff53391",
+   "projectedSlug": "ny-william-h-seward-house-museum",
+   "targetSlug": null,
+   "name": "William H. Seward House Museum",
+   "town": "Auburn",
+   "county": "Cayuga",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum — Secretary of State's home, documented Underground Railroad shelter in the basement",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 175,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_961912263d388336",
+   "projectedSlug": "ny-fort-ticonderoga",
+   "targetSlug": "NY-fort-ticonderoga",
+   "name": "Fort Ticonderoga ★",
+   "town": "",
+   "county": "Essex",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum (NHL) — French and Indian War and Revolutionary fortress on Lake Champlain",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 161,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_98398e935fe22314",
+   "projectedSlug": "ny-historic-palmyra",
+   "targetSlug": null,
+   "name": "Historic Palmyra",
+   "town": "Palmyra",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "other — anchor: museum open to the public. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 514,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_9c05167807b0c079",
+   "projectedSlug": "ny-seneca-village-site",
+   "targetSlug": null,
+   "name": "Seneca Village site",
+   "town": "Central Park",
+   "county": "Manhattan",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Public park with interpretive signage — Black landowning community razed for the park (1857)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 123,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a0fdb2f38ac66060",
+   "projectedSlug": "ny-harriet-tubman-national-historical-park",
+   "targetSlug": null,
+   "name": "Harriet Tubman National Historical Park",
+   "town": "Auburn",
+   "county": "Cayuga",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "National park unit — Tubman's home, farm and AME Zion church ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 174,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a47d8e333190364c",
+   "projectedSlug": "ny-federal-hall-national-memorial",
+   "targetSlug": null,
+   "name": "Federal Hall National Memorial",
+   "town": "Manhattan",
+   "county": "",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "National park unit — first Capitol, Washington's inauguration, Bill of Rights ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 126,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a49a20e5ffa4774c",
+   "projectedSlug": "ny-harbor-group-statue-of-liberty-ellis-island-and-governors-island",
+   "targetSlug": null,
+   "name": "Harbor group: Statue of Liberty, Ellis Island & Governors Island ★",
+   "town": "New York Harbor",
+   "county": "",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "National park units by ferry — immigration station (12 million arrivals); Governors Island adds Fort Jay and Castle Williams, a Civil War prison fort ★",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 120,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ab494812d7170bdd",
+   "projectedSlug": "ny-theodore-roosevelt-inaugural-national-historic-site",
+   "targetSlug": null,
+   "name": "Theodore Roosevelt Inaugural National Historic Site",
+   "town": "Buffalo",
+   "county": "Erie",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "National park unit — 1901 inauguration after McKinley's assassination",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 193,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b4f91c4d673242d6",
+   "projectedSlug": "ny-ellis-island",
+   "targetSlug": null,
+   "name": "Ellis Island",
+   "town": "New York City",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "hospital — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 518,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b649dfc996ff5e63",
+   "projectedSlug": "ny-matilda-joslyn-gage-house",
+   "targetSlug": null,
+   "name": "Matilda Joslyn Gage House",
+   "town": "Fayetteville",
+   "county": "Onondaga",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum — suffragist and abolitionist's home, documented UGRR station",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 178,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b7ea3229fa45ba10",
+   "projectedSlug": "ny-oriskany-and-newtown-battlefield-state-historic-sites",
+   "targetSlug": null,
+   "name": "Oriskany & Newtown Battlefield State Historic Sites ★",
+   "town": "",
+   "county": "Oneida/Chemung",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "State historic sites — 1777 Oriskany (Oneida allies beside Herkimer) and 1779 Newtown, the Sullivan Expedition's campaign against Haudenosaunee towns; Indigenous ground, reflection posture",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 182,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b7f111137482c361",
+   "projectedSlug": "ny-erie-canal-museum",
+   "targetSlug": null,
+   "name": "Erie Canal Museum",
+   "town": "Syracuse",
+   "county": "Onondaga",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum in the 1850 Weighlock Building — canal industry and labor; Syracuse salt carried on the same water",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 177,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b7f7f4a9d5f2a422",
+   "projectedSlug": "ny-sing-sing-prison-ossining",
+   "targetSlug": null,
+   "name": "Sing Sing Prison, Ossining ★",
+   "town": "",
+   "county": "Westchester",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Anchor: Sing Sing Prison Museum — exhibits and walking tours running; visitor center in the Olive Opera House opening for the prison's 2026 bicentennial, verify schedule at research time. The prison itself is active — no access. \"Up the river\" ground, 1825",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 154,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c2cb6566d58fbc12",
+   "projectedSlug": "ny-willard-state-hospital-willard-asylum",
+   "targetSlug": null,
+   "name": "Willard State Hospital (Willard Asylum) ★",
+   "town": "Ovid",
+   "county": "Seneca",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "1869 Kirkbride-plan asylum; the famous patient-suitcases story is told at the Museum of disABILITY History's former exhibits — the campus is now a state drug-treatment facility, no public access; asylum flag",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 184,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cd6c5e41d1ef2505",
+   "projectedSlug": "ny-adirondack-experience",
+   "targetSlug": null,
+   "name": "Adirondack Experience",
+   "town": "Blue Mountain Lake",
+   "county": "Hamilton",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum — logging industry, guides, Indigenous presence, great-camp era (the region's great camps, Sagamore among them, are told from here)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 209,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d4fa584c4f52f890",
+   "projectedSlug": "ny-philipsburg-manor",
+   "targetSlug": null,
+   "name": "Philipsburg Manor",
+   "town": "Sleepy Hollow",
+   "county": "Westchester",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum (Historic Hudson Valley) — Dutch manor mill and farm worked by enslaved Africans",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 153,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d68bffada8ac2aba",
+   "projectedSlug": "ny-west-point-museum-and-u-s-military-academy",
+   "targetSlug": null,
+   "name": "West Point Museum & U.S. Military Academy ★",
+   "town": "West Point",
+   "county": "Orange",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum and academy tours (ID required) — oldest continuously occupied U.S. military post",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 145,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d6fbf55b2229fd48",
+   "projectedSlug": "ny-richardson-olmsted-campus-buffalo-state-asylum",
+   "targetSlug": null,
+   "name": "Richardson Olmsted Campus (Buffalo State Asylum) ★",
+   "town": "Buffalo",
+   "county": "Erie",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Public tours, hotel and architecture center — H.H. Richardson's Kirkbride asylum (1880) in Olmsted grounds; the campus itself refuses ghost tours, a dignity model for the sweep",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 192,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d8b2e959ef351909",
+   "projectedSlug": "ny-john-brown-farm-state-historic-site",
+   "targetSlug": null,
+   "name": "John Brown Farm State Historic Site",
+   "town": "Lake Placid",
+   "county": "Essex",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "State historic site — abolitionist's home and grave; Timbuctoo Black settlement experiment ground in the same township story",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 207,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_dd4cb0269fc26ea6",
+   "projectedSlug": "ny-african-burial-ground-national-monument",
+   "targetSlug": null,
+   "name": "African Burial Ground National Monument",
+   "town": "Manhattan",
+   "county": "",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "National park unit — 17th–18th-century African burial ground, free and enslaved New Yorkers",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 122,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e21a4cd80dae84ce",
+   "projectedSlug": "ny-hotel-chelsea",
+   "targetSlug": null,
+   "name": "Hotel Chelsea",
+   "town": "New York City",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 519,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e31affd3a3ba5083",
+   "projectedSlug": "ny-niagara-falls-underground-railroad-heritage-center",
+   "targetSlug": null,
+   "name": "Niagara Falls Underground Railroad Heritage Center",
+   "town": "Niagara Falls",
+   "county": "Niagara",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum at the Amtrak station — freedom seekers' last stop before Canada, Suspension Bridge ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 196,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e7e925852f258493",
+   "projectedSlug": "ny-lily-dale-assembly",
+   "targetSlug": null,
+   "name": "Lily Dale Assembly",
+   "town": "",
+   "county": "Chautauqua",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Public seasonal grounds — world's largest Spiritualist community (1879), women's voices in religion; weird-spot flag",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 201,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ef2336020dc37094",
+   "projectedSlug": "ny-stonewall-national-monument",
+   "targetSlug": null,
+   "name": "Stonewall National Monument",
+   "town": "Manhattan (Greenwich Village)",
+   "county": "",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "National park unit — 1969 uprising ground, LGBTQ civil rights",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 125,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f4f70eef8bd51439",
+   "projectedSlug": "ny-mid-orange-correctional",
+   "targetSlug": null,
+   "name": "Mid-Orange Correctional",
+   "town": "Warwick",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "prison — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 521,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f62634d66f72a4f0",
+   "projectedSlug": "ny-sleepy-hollow-cemetery",
+   "targetSlug": null,
+   "name": "Sleepy Hollow Cemetery",
+   "town": "Sleepy Hollow",
+   "county": "New York",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "cemetery — anchor: ticketed tours / ghost tours run here. Source: travelersuniverse.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 524,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fb0f4b0483df3f8a",
+   "projectedSlug": "ny-stephen-and-harriet-myers-residence-underground-railroad-education-center",
+   "targetSlug": null,
+   "name": "Stephen & Harriet Myers Residence / Underground Railroad Education Center",
+   "town": "Albany",
+   "county": "",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum — Black abolitionist headquarters of Albany's UGRR Vigilance Committee",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 165,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fd91a23cf108fe53",
+   "projectedSlug": "ny-senate-house-state-historic-site",
+   "targetSlug": null,
+   "name": "Senate House State Historic Site",
+   "town": "Kingston",
+   "county": "Ulster",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "State historic site — first New York State Senate met here (1777)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 148,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fe2fcb7666eaa21d",
+   "projectedSlug": "ny-buffalo-naval-and-military-park",
+   "targetSlug": null,
+   "name": "Buffalo Naval & Military Park ★",
+   "town": "Buffalo",
+   "county": "Erie",
+   "state": "NY",
+   "tier": null,
+   "anchorPosture": "Museum ships — USS The Sullivans, USS Little Rock, USS Croaker on the Buffalo River",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "PA-NY-NJ-first-sweep.md",
+     "row": 195,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
    "id": "lq_31d28624ca7a1e8d",
    "projectedSlug": "ar-macarthur-museum-of-arkansas-military-history",
    "targetSlug": null,
@@ -179646,8 +179646,8 @@
   "byQueueState": {
    "checked-dead": 23,
    "held": 27,
-   "published": 42,
-   "queued": 6938
+   "published": 45,
+   "queued": 6935
   },
   "byState": {
    "AK": 121,

@@ -5613,5 +5613,85 @@
    "status": "DESK REVIEW",
    "basis": "No separately verified photo-taking viewpoint advanced in this wave."
   }
+ },
+ "NY-ellis-island": {
+  "searched": "NY Seed 001: desk-reviewed source record | https://www.loc.gov/pictures/item/ny1604.photos.118038p",
+  "reason": "First photograph verified; no new field photography approved by this wave.",
+  "groundReview": {
+   "status": "DESK REVIEW",
+   "basis": "No separately verified photo-taking viewpoint advanced in this wave."
+  }
+ },
+ "NY-erie-canal-lockport": {
+  "searched": "NY Seed 001: desk-reviewed source record | https://www.loc.gov/pictures/item/ny1209.photos.222526p/",
+  "reason": "First photograph verified; no new field photography approved by this wave.",
+  "groundReview": {
+   "status": "DESK REVIEW",
+   "basis": "No separately verified photo-taking viewpoint advanced in this wave."
+  }
+ },
+ "NY-womens-rights-seneca-falls": {
+  "searched": "NY Seed 001: desk-reviewed source record | https://npgallery.nps.gov/AssetDetail/c0d297f3-b933-4ff5-a704-6a920ec8a9e7",
+  "reason": "First photograph verified; no new field photography approved by this wave.",
+  "groundReview": {
+   "status": "DESK REVIEW",
+   "basis": "No separately verified photo-taking viewpoint advanced in this wave."
+  }
+ },
+ "NY-saratoga-battlefield": {
+  "searched": "NY Seed 001: desk-reviewed source record | https://npgallery.nps.gov/AssetDetail/a3ffc30d-9e26-44a7-8d69-87b8b8957f3b",
+  "reason": "First photograph verified; no new field photography approved by this wave.",
+  "groundReview": {
+   "status": "DESK REVIEW",
+   "basis": "No separately verified photo-taking viewpoint advanced in this wave."
+  }
+ },
+ "NY-fort-ticonderoga": {
+  "searched": "NY Seed 001: desk-reviewed source record | https://www.loc.gov/pictures/item/ny0211.photos.116499p/",
+  "reason": "First photograph verified; no new field photography approved by this wave.",
+  "groundReview": {
+   "status": "DESK REVIEW",
+   "basis": "No separately verified photo-taking viewpoint advanced in this wave."
+  }
+ },
+ "NY-west-point": {
+  "searched": "NY Seed 001: desk-reviewed source record | https://www.loc.gov/pictures/item/ny1393.photos.121425p/",
+  "reason": "First photograph verified; no new field photography approved by this wave.",
+  "groundReview": {
+   "status": "DESK REVIEW",
+   "basis": "No separately verified photo-taking viewpoint advanced in this wave."
+  }
+ },
+ "NY-fdr-hyde-park": {
+  "searched": "NY Seed 001: desk-reviewed source record | https://www.loc.gov/pictures/item/ny1240.photos.115840p/",
+  "reason": "First photograph verified; no new field photography approved by this wave.",
+  "groundReview": {
+   "status": "DESK REVIEW",
+   "basis": "No separately verified photo-taking viewpoint advanced in this wave."
+  }
+ },
+ "NY-camp-santanoni": {
+  "searched": "NY Seed 001: desk-reviewed source record | https://commons.wikimedia.org/wiki/File:Santanoni_Preserve_-_Main_Lodge.jpg",
+  "reason": "First photograph verified; no new field photography approved by this wave.",
+  "groundReview": {
+   "status": "DESK REVIEW",
+   "basis": "No separately verified photo-taking viewpoint advanced in this wave."
+  }
+ },
+ "NY-niagara-reservation": {
+  "searched": "NY Seed 001: desk-reviewed source record | https://www.loc.gov/pictures/item/2016794140/",
+  "reason": "First photograph verified; no new field photography approved by this wave.",
+  "groundReview": {
+   "status": "DESK REVIEW",
+   "basis": "No separately verified photo-taking viewpoint advanced in this wave."
+  }
+ },
+ "NY-sleepy-hollow-sunnyside": {
+  "searched": "NY Seed 001: desk-reviewed source record | https://www.loc.gov/pictures/item/ny0876.photos.124862p",
+  "reason": "First photograph verified; no new field photography approved by this wave.",
+  "groundReview": {
+   "status": "DESK REVIEW",
+   "basis": "No separately verified photo-taking viewpoint advanced in this wave."
+  }
  }
 }

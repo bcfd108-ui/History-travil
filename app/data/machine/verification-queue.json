@@ -9377,6 +9377,126 @@
    "attempts": []
   },
   {
+   "id": "vq_NY-camp-santanoni",
+   "slug": "NY-camp-santanoni",
+   "name": "HT-RES-NY-camp-santanoni — Five miles of carriage road between the gate and the lake",
+   "town": "Newcomb",
+   "state": "NY",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NY-camp-santanoni.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NY-ellis-island",
+   "slug": "NY-ellis-island",
+   "name": "HT-RES-NY-ellis-island — The fireproof hall in the harbor, rebuilt after the wooden station burned",
+   "town": "New York",
+   "state": "NY",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NY-ellis-island.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NY-erie-canal-lockport",
+   "slug": "NY-erie-canal-lockport",
+   "name": "HT-RES-NY-erie-canal-lockport — Five stone steps up the escarpment, and the two concrete locks that replaced their twins",
+   "town": "Lockport",
+   "state": "NY",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NY-erie-canal-lockport.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NY-fdr-hyde-park",
+   "slug": "NY-fdr-hyde-park",
+   "name": "HT-RES-NY-fdr-hyde-park — The house that kept growing until it held a presidency",
+   "town": "Hyde Park",
+   "state": "NY",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NY-fdr-hyde-park.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NY-fort-ticonderoga",
+   "slug": "NY-fort-ticonderoga",
+   "name": "HT-RES-NY-fort-ticonderoga — Stone bastions above the narrows where two lakes meet",
+   "town": "Ticonderoga",
+   "state": "NY",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NY-fort-ticonderoga.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NY-niagara-reservation",
+   "slug": "NY-niagara-reservation",
+   "name": "HT-RES-NY-niagara-reservation — The falls fenced off, bought back, and wired for power",
+   "town": "Niagara Falls",
+   "state": "NY",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NY-niagara-reservation.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NY-saratoga-battlefield",
+   "slug": "NY-saratoga-battlefield",
+   "name": "HT-RES-NY-saratoga-battlefield — Two autumn battles on the same farm clearings, and an army surrendered whole",
+   "town": "Stillwater",
+   "state": "NY",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NY-saratoga-battlefield.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NY-sleepy-hollow-sunnyside",
+   "slug": "NY-sleepy-hollow-sunnyside",
+   "name": "HT-RES-NY-sleepy-hollow-sunnyside — The cottage its author invented twice, and the stone church his horseman rides home to",
+   "town": "Irvington",
+   "state": "NY",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NY-sleepy-hollow-sunnyside.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NY-west-point",
+   "slug": "NY-west-point",
+   "name": "HT-RES-NY-west-point — The plain above the river bend, held since 1778 and never taken",
+   "town": "West Point",
+   "state": "NY",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NY-west-point.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NY-womens-rights-seneca-falls",
+   "slug": "NY-womens-rights-seneca-falls",
+   "name": "HT-RES-NY-womens-rights-seneca-falls — Five days' notice, a brick chapel, and a declaration signed in pencil-light",
+   "town": "Seneca Falls",
+   "state": "NY",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NY-womens-rights-seneca-falls.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_PA-allegheny-portage-railroad",
    "slug": "PA-allegheny-portage-railroad",
    "name": "HT-RES-PA-allegheny-portage-railroad — Canal boats hauled over a mountain on rails, ten stair-steps at a time",
@@ -9498,8 +9618,8 @@
   }
  ],
  "counts": {
-  "items": 791,
-  "dated": 550,
+  "items": 801,
+  "dated": 560,
   "unrecorded": 241
  }
 }
