@@ -1252,8 +1252,8 @@
   }
  },
  "MS-monmouth-viola-vessels-brannick": {
-  "searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Monmouth Historic Inn and Gardens Natchez Mississippi photograph; Archive search — Monmouth Historic Inn and Gardens Natchez Mississippi historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Monmouth Historic Inn and Gardens (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AMount_Locust.jpg | https://commons.wikimedia.org/wiki/File%3AView_on_Natchez.jpg | https://www.loc.gov/pictures/item/ms0206/ | https://tile.loc.gov/storage-services/master/pnp/habshaer/ms/ms0200/ms0206/data/ms0206data.pdf",
-  "reason": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
+  "searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Monmouth Historic Inn and Gardens Natchez Mississippi photograph; Archive search — Monmouth Historic Inn and Gardens Natchez Mississippi historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Monmouth Historic Inn and Gardens (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AMount_Locust.jpg | https://commons.wikimedia.org/wiki/File%3AView_on_Natchez.jpg | https://www.loc.gov/pictures/item/ms0206/ | https://tile.loc.gov/storage-services/master/pnp/habshaer/ms/ms0200/ms0206/data/ms0206data.pdf | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/ms0206/",
+  "reason": "First THEN photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
   "groundReview": {
    "status": "DESK REVIEW"
   }
@@ -3441,8 +3441,8 @@
   }
  },
  "MS-stanton-hall": {
-  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Stanton_Hall,_Natchez,_MS_IMG_6989.JPG",
-  "reason": "HOLD 6160751b48 — Individual subject and location evidence require desk sign-off. Compare the source item with “Stanton Hall — the Natchez tradespeople behind the painted oak” before releasing this image.",
+  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Stanton_Hall,_Natchez,_MS_IMG_6989.JPG | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/ms0007/",
+  "reason": "First THEN photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
   "groundReview": {
    "status": "DESK REVIEW"
   }
@@ -4408,8 +4408,8 @@
   }
  },
  "MS-melrose-estate": {
-  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Melrose-Natchez-MS.jpg",
-  "reason": "HOLD 39ed1d0932 — Individual subject and location evidence require desk sign-off. Compare the source item with “Melrose Estate — the work behind the house” before releasing this image.",
+  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Melrose-Natchez-MS.jpg | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/2017892886/",
+  "reason": "First THEN photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
   "groundReview": {
    "status": "DESK REVIEW"
   }
@@ -4438,8 +4438,8 @@
   }
  },
  "MS-old-court-house-museum": {
-  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Old_Court_House_Museum_in_Vicksburg,_Mississippi.jpg",
-  "reason": "HOLD 2057d36a4e — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “Old Warren County Courthouse and the hands behind its white walls” before releasing this image.",
+  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Old_Court_House_Museum_in_Vicksburg,_Mississippi.jpg | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/2017879525/",
+  "reason": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
   "groundReview": {
    "status": "DESK REVIEW"
   }
@@ -4532,8 +4532,8 @@
   }
  },
  "MS-rosalie-mansion": {
-  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Rosalie_(Natchez,_Mississippi).JPG",
-  "reason": "HOLD 0ede95b20f — Individual subject and location evidence require desk sign-off. Compare the source item with “Rosalie Mansion — the work between the kitchen and the table” before releasing this image.",
+  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Rosalie_(Natchez,_Mississippi).JPG | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/ms0005/",
+  "reason": "First THEN photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
   "groundReview": {
    "status": "DESK REVIEW"
   }
@@ -4618,8 +4618,8 @@
   }
  },
  "MS-vicksburg-uss-cairo": {
-  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:U.S._Cairo_in_Vicksburg,_Mississippi.jpg",
-  "reason": "HOLD 0d5c314acd — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “USS Cairo and the crew that left a working gunboat behind” before releasing this image.",
+  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:U.S._Cairo_in_Vicksburg,_Mississippi.jpg | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/2017879515/",
+  "reason": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
   "groundReview": {
    "status": "ARCHIVAL-ONLY",
    "basis": "The dossier provides no current, ordinary public viewpoint of this subject."
@@ -4840,8 +4840,8 @@
   }
  },
  "MS-longwood": {
-  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Longwood,_Natchez,_Adams_County,_Mississippi_LCCN2017892883.jpg",
-  "reason": "HOLD 09eb767933 — Individual subject and location evidence require desk sign-off. Compare the source item with “Longwood — who finished the rooms beneath the unfinished house” before releasing this image.",
+  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Longwood,_Natchez,_Adams_County,_Mississippi_LCCN2017892883.jpg | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/ms0123/",
+  "reason": "First THEN photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
   "groundReview": {
    "status": "DESK REVIEW"
   }
@@ -5519,5 +5519,19 @@
    "status": "DESK REVIEW"
   },
   "reason": "First THEN photo verified in this batch. Opposite-era comparison is secondary and has not been verified."
+ },
+ "NC-greensboro-sit-ins-woolworth": {
+  "searched": "Dossier photo record and exact photographed subject checked. | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/2017880626/",
+  "groundReview": {
+   "status": "DESK REVIEW"
+  },
+  "reason": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified."
+ },
+ "NC-fort-raleigh-freedmens-colony": {
+  "searched": "Dossier photo record and exact photographed subject checked. | Additional item opened and pixels reviewed: https://www.nps.gov/npgallery/GetAsset/34F8025C-1DD8-B71C-0779-6FF6959F87DA",
+  "groundReview": {
+   "status": "DESK REVIEW"
+  },
+  "reason": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified."
  }
 }

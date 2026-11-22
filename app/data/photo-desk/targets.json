@@ -1,6 +1,6 @@
 {
- "commit": "853f2b171e6cf6f3bbb589b702518cd2cfbed101",
- "catalogCount": 779,
+ "commit": "c5065b28eac2ab482955914347e30f6429a5c0b1",
+ "catalogCount": 781,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -10921,6 +10921,59 @@
    }
   },
   {
+   "id": "HT-IL-lincoln-home-national-historic-site",
+   "slug": "IL-lincoln-home-national-historic-site",
+   "title": "Lincoln Home National Historic Site, Springfield",
+   "town": "Springfield",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Lincoln Home National Historic Site, Springfield",
+   "stableName": "Lincoln Home National Historic Site",
+   "address": "",
+   "locator": {
+    "stableName": "Lincoln Home National Historic Site",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "71000076 [7]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Frederick Hill Meserve Selected Photographs, Illinois History and Lincoln Collections, University of Illinois at Urbana-Champaign Library — Meserve Lincoln Photograph No. 16, inspected record only [12]",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Springfield"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Lincoln Home National Historic Site Visitor Center, 426 S. 7th St., Springfield, IL 62701"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/71000076"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": "Established by Public Law 92-128 (85 Stat. 347), 1971 [5]"
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "National Park Service, Lincoln Home National Historic Site [5]"
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-IL-old-joliet-prison",
    "slug": "IL-old-joliet-prison",
    "title": "Old Joliet Prison — the Illinois State Penitentiary at Joliet, 1858–2002",
@@ -11134,6 +11187,59 @@
      {
       "key": "Official manager or operator",
       "value": "Young America's Foundation (since December 2020 gift from the Ronald Reagan Boyhood Home Foundation); NOT a National Park Service unit [5, 8]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-starved-rock-fort-st-louis",
+   "slug": "IL-starved-rock-fort-st-louis",
+   "title": "Starved Rock and the site of Fort St. Louis / Le Rocher",
+   "town": "Vicinity of Utica; lodge at Oglesby",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Starved Rock and the site of Fort St. Louis / Le Rocher",
+   "stableName": "Starved Rock — site of Fort St. Louis / Le Rocher",
+   "address": "",
+   "locator": {
+    "stableName": "Starved Rock — site of Fort St. Louis / Le Rocher",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "Lodge GPS only, not the summit: 41.3191202, −88.996302, Starved Rock Lodge, One Lodge Lane, Oglesby, IL 61348 [8]. Summit coordinates left blank — see Gaps and conflicts.",
+    "nrhp": "66000325, Starved Rock (11-Ls-12), site of Fort St. Louis / Le Rocher [2, 3, 9]; related but separate: 85002702, Starved Rock Lodge and Cabins [7]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Archaeological site 11-Ls-12 [3, 9]",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Vicinity of Utica; lodge at Oglesby"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Starved Rock State Park Visitor Center, PO Box 509, Utica, IL 61373; phone 815-667-4726; open 9 a.m.–4 p.m. daily except listed state holidays [1]"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/66000325"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "Illinois Department of Natural Resources, Starved Rock State Park [1]"
      }
     ]
    }
