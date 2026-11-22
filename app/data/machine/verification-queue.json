@@ -8309,6 +8309,18 @@
    "attempts": []
   },
   {
+   "id": "vq_IL-apple-river-fort",
+   "slug": "IL-apple-river-fort",
+   "name": "Apple River Fort State Historic Site — the lead-country fort Black Hawk attacked on a Sunday afternoon",
+   "town": "Elizabeth",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-apple-river-fort.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_IL-black-metropolis-bronzeville",
    "slug": "IL-black-metropolis-bronzeville",
    "name": "Black Metropolis–Bronzeville — the Great Migration's city within a city, and the Bronzeville Walk of Fame",
@@ -8449,6 +8461,18 @@
    "verifiedOn": "2026-11-21",
    "verifiedOnSource": "corpus-checked-line",
    "corpusFile": "HT-RES-IL-us-grant-home.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IL-washburne-house",
+   "slug": "IL-washburne-house",
+   "name": "Washburne House State Historic Site — the Galena library where Grant learned he was president",
+   "town": "Galena",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-washburne-house.md",
    "queueState": "queued",
    "attempts": []
   },
@@ -9258,8 +9282,8 @@
   }
  ],
  "counts": {
-  "items": 771,
-  "dated": 530,
+  "items": 773,
+  "dated": 532,
   "unrecorded": 241
  }
 }
