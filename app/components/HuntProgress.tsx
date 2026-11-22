@@ -1,7 +1,7 @@
 "use client";
 // Hunt progress for a signed-in player, derived from their own check-ins —
-// nothing is stored for a hunt itself. Signed out (or saving not connected)
-// these components render nothing but the read-only tab.
+// nothing is stored for a hunt itself. Signed out, the navigation renders
+// first-clue or read-only links; it never creates progress.
 //
 // Ruling 4: only check-ins that captured location at the tap (finite
 // claim_lat/claim_lon) advance hunt progress and badges. A visit without
@@ -10,12 +10,14 @@
 //
 // Only TIED finds count. An untied find ("catalog entry in preparation")
 // is never checkable and never part of the badge or completion math.
+import Link from "next/link";
 import { useEffect, useState } from "react";
 import { useAccount } from "@/lib/account";
 import { createClient } from "@/lib/supabase/client";
 import { claimFind, listCheckins, type Checkin } from "@/lib/saving";
 import { getPositionOnce } from "@/lib/geo";
 import { checkedFindKeys, computeHuntProgress } from "@/lib/hunts-core.mjs";
+import { findAnchor, huntStart } from "@/lib/hunt-start.mjs";
 
 export interface FindRef {
   n: number;
@@ -23,13 +25,15 @@ export interface FindRef {
   tiedSlug: string | null;
 }
 
+type HuntStartRef = FindRef & { status: string };
+
 const key = (slug: string, label: string) => `${slug}::${label}`;
 const CHECKIN_EVENT = "oog:checkin";
 
 function useCheckins() {
   const { configured, user } = useAccount();
-  const [checkins, setCheckins] = useState<Checkin[] | null>(null);
-  const [err, setErr] = useState<string | null>(null);
+  const userId = user?.id;
+  const [receipt, setReceipt] = useState<{ userId: string; rows: Checkin[] | null; err: string | null } | null>(null);
   const [version, setVersion] = useState(0);
   useEffect(() => {
     const bump = () => setVersion((v) => v + 1);
@@ -37,65 +41,100 @@ function useCheckins() {
     return () => window.removeEventListener(CHECKIN_EVENT, bump);
   }, []);
   useEffect(() => {
-    if (!configured || !user) return;
+    if (!configured || !userId) return;
     const db = createClient();
     if (!db) return;
     let alive = true;
     listCheckins(db)
-      .then((rows) => alive && setCheckins(rows))
-      .catch((e) => alive && setErr(e instanceof Error ? e.message : String(e)));
+      .then((rows) => alive && setReceipt({ userId, rows, err: null }))
+      .catch((e) => alive && setReceipt({ userId, rows: null, err: e instanceof Error ? e.message : String(e) }));
     return () => {
       alive = false;
     };
-  }, [configured, user, version]);
-  return { configured, user, checkins, err };
+  }, [configured, userId, version]);
+  // Never derive a resume target from the previous signed-in account.
+  const current = receipt?.userId === userId ? receipt : null;
+  return { user, checkins: current?.rows ?? null, err: current?.err ?? null };
 }
 
-/** Completion line on a hunt card — signed-in players only. */
-export function HuntCardProgress({ finds, badge }: { finds: FindRef[]; badge: string }) {
-  const { user, checkins } = useCheckins();
-  if (!user || !checkins) return null;
-  const p = computeHuntProgress(finds, checkins);
-  if (p.tied === 0) return null;
+type HuntNavigationProps = {
+  finds: HuntStartRef[];
+  badge: string;
+  slug: string;
+  name: string;
+  active: boolean;
+};
+
+function StartLink({ finds, name, slug, active, checkins, local = false }:
+  Omit<HuntNavigationProps, "badge"> & { checkins: Checkin[] | null; local?: boolean }) {
+  const target = huntStart(finds, checkins, active);
+  const label = target.kind === "resume" ? `Continue at Find ${target.find?.n}`
+    : target.kind === "start" ? "Read the first clue"
+    : target.kind === "complete" ? "Review the finds" : "Read the hunt";
+  const hash = target.find ? `#${findAnchor(target.find.n)}` : "#finds";
   return (
-    <p className="hunt-progress">
-      {p.complete ? (
-        <strong>Complete — {badge} earned</strong>
+    <p className="hc-open">
+      {local ? (
+        <a href={hash}>{label} →</a>
       ) : (
-        <>
-          Your finds: <strong>{p.done} of {p.tied}</strong>
-        </>
+        <Link href={`/hunts/${slug}${hash}`} aria-label={`${label}: ${name}`}>{label} →</Link>
       )}
     </p>
   );
 }
 
-/** Progress panel on a hunt's page — signed-in players only. */
-export function HuntProgressPanel({ finds, badge }: { finds: FindRef[]; badge: string }) {
-  const { user, checkins, err } = useCheckins();
-  if (!user) return null;
-  if (err) return <p className="form-error">{err}</p>;
-  if (!checkins) return <p className="small">Checking your finds…</p>;
-  const p = computeHuntProgress(finds, checkins);
+/** Server-rendered start link; existing check-ins can update it to Continue. */
+export function HuntCardProgress(props: HuntNavigationProps) {
+  const { finds, badge } = props;
+  const { user, checkins } = useCheckins();
+  const mine = user ? checkins : null;
+  const p = mine ? computeHuntProgress(finds, mine) : null;
   return (
-    <section className="panel" aria-label="Your progress on this hunt">
-      <h2>Your progress</h2>
-      {p.tied === 0 ? (
-        <p>No find in this hunt can be checked yet — each one is waiting on its catalog entry.</p>
-      ) : (
-        <>
-          <div className="meter" aria-hidden="true">
-            <span style={{ width: `${(100 * p.done) / p.tied}%` }} />
-          </div>
-          <p>
-            <strong>
-              {p.done} of {p.tied} finds checked.
-            </strong>{" "}
-            {p.complete ? `Hunt complete — the badge ${badge} is in your stamp book.` : `Check them all to earn ${badge}.`}
-          </p>
-        </>
+    <>
+      {p && p.tied > 0 && (
+        <p className="hunt-progress">
+          {p.complete ? (
+            <strong>Complete — {badge} earned</strong>
+          ) : (
+            <>Your finds: <strong>{p.done} of {p.tied}</strong></>
+          )}
+        </p>
       )}
-    </section>
+      <StartLink {...props} checkins={mine} />
+    </>
+  );
+}
+
+/** Keep the detail-page start link available even when saving is unavailable. */
+export function HuntProgressPanel(props: HuntNavigationProps) {
+  const { finds, badge } = props;
+  const { user, checkins, err } = useCheckins();
+  const mine = user ? checkins : null;
+  const p = mine ? computeHuntProgress(finds, mine) : null;
+  return (
+    <>
+      <StartLink {...props} checkins={mine} local />
+      {user && err && <p className="form-error">{err}</p>}
+      {user && !err && !p && <p className="small">Checking your finds…</p>}
+      {p && (
+        <section className="panel" aria-label="Your progress on this hunt">
+          <h2>Your progress</h2>
+          {p.tied === 0 ? (
+            <p>No find in this hunt can be checked yet — each one is waiting on its catalog entry.</p>
+          ) : (
+            <>
+              <div className="meter" aria-hidden="true">
+                <span style={{ width: `${(100 * p.done) / p.tied}%` }} />
+              </div>
+              <p>
+                <strong>{p.done} of {p.tied} finds checked.</strong>{" "}
+                {p.complete ? `Hunt complete — the badge ${badge} is in your stamp book.` : `Check them all to earn ${badge}.`}
+              </p>
+            </>
+          )}
+        </section>
+      )}
+    </>
   );
 }
 

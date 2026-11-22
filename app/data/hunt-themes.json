@@ -4,5 +4,6 @@
  {"id":"mining","label":"Mining","mark":"M","stage":"founding"},
  {"id":"lighthouse","label":"Lighthouses","mark":"L","stage":"stage-2"},
  {"id":"railroad","label":"Railroad","mark":"R","stage":"stage-2"},
- {"id":"logging-fire","label":"Logging and fire","mark":"LF","stage":"stage-2"}
+ {"id":"logging-fire","label":"Logging and fire","mark":"LF","stage":"stage-2"},
+ {"id":"canal-work","label":"Canals and waterworks","mark":"C","stage":"stage-2"}
 ]

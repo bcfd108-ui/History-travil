@@ -1,7 +1,8 @@
 import Link from "next/link";
-import { getResolvedHunts, getTierTable, type ResolvedHunt } from "@/lib/data";
+import { getResolvedHunts, getTierTable, huntFindsForRender, type ResolvedHunt } from "@/lib/data";
 import { HuntCardProgress } from "@/components/HuntProgress";
 import { HuntBadge } from "@/components/HuntBadge";
+import { huntStart } from "@/lib/hunt-start.mjs";
 
 export const metadata = { title: "Hunts — On Old Ground" };
 
@@ -24,6 +25,9 @@ function group<T>(items: T[], keyOf: (t: T) => string): [string, T[]][] {
 }
 
 function HuntCard({ h }: { h: ResolvedHunt }) {
+  const finds = huntFindsForRender(h).map((f) => ({ ...f, tiedSlug: f.tie.slug }));
+  const active = h.status === "active";
+  const first = huntStart(finds, null, active).find;
   return (
     <div className="hunt-card">
       <div className="hc-head">
@@ -51,13 +55,19 @@ function HuntCard({ h }: { h: ResolvedHunt }) {
           <dd>{h.difficulty.n ? `Tier ${h.difficulty.n} — ${h.difficulty.name}` : h.difficulty.name}</dd>
         </div>
       </dl>
+      {first && (
+        <details className="find-hint hc-clue">
+          <summary>Preview the first clue</summary>
+          <p><strong>{first.label}</strong><br />{first.task}</p>
+        </details>
+      )}
       <HuntCardProgress
+        slug={h.slug}
+        name={h.name}
+        active={active}
         badge={h.badge}
-        finds={h.findsResolved.map((f) => ({ n: f.n, label: f.label, tiedSlug: f.tie.slug }))}
+        finds={finds.map(({ n, label, tiedSlug, status }) => ({ n, label, tiedSlug, status }))}
       />
-      <p className="hc-open">
-        <Link href={`/hunts/${h.slug}`}>Open the hunt →</Link>
-      </p>
     </div>
   );
 }
