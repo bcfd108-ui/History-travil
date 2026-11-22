@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import SiteArticle from "@/components/SiteArticle";
-import { getSite, getSites } from "@/lib/data";
+import { getPublicTitle, getSite, getSites } from "@/lib/data";
 import { entryDescription, entryUrl, SITE_NAME } from "@/lib/seo";
 
 export const dynamicParams = false;
@@ -13,7 +13,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const site = getSite(slug);
   if (!site) return { title: SITE_NAME };
-  const title = `${site.title} — ${SITE_NAME}`;
+  const title = `${getPublicTitle(site.slug).name} — ${SITE_NAME}`;
   const description = entryDescription(site);
   return {
     title,

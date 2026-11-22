@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { getStates, getSites, getHistoricPhoto, getTours } from "@/lib/data";
+import { getStates, getSites, getHistoricPhoto, getPublicTitle, getTours } from "@/lib/data";
 import { IndexLink, SearchBox, ThemeLinks } from "@/components/Browse";
 import { catalog, stateUrl } from "@/lib/browse";
 
@@ -57,7 +57,7 @@ export default function Home() {
                 href={"/sites/" + site.slug}
               >
                 <Image src={photo!.src} alt={photo!.alt} width={photo!.width} height={photo!.height} sizes="(max-width: 520px) 90vw, 320px" />
-                <span className="photo-card-t">{site.title}</span>
+                <span className="photo-card-t">{getPublicTitle(site.slug).name}</span>
                 <span className="photo-card-m">
                   {[site.town, site.state].filter(Boolean).join(" · ")}
                 </span>
