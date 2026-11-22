@@ -3082,6 +3082,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-IL-lincoln-home-national-historic-site",
+   "Slug": "IL-lincoln-home-national-historic-site",
+   "Entry": "Lincoln Home National Historic Site, Springfield",
+   "Town": "Springfield",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-lincoln-home-national-historic-site",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-IL-old-joliet-prison",
    "Slug": "IL-old-joliet-prison",
    "Entry": "Old Joliet Prison — the Illinois State Penitentiary at Joliet, 1858–2002",
@@ -3139,6 +3154,21 @@
    "Coverage": "none",
    "Eligibility": "DESK REVIEW",
    "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-IL-starved-rock-fort-st-louis",
+   "Slug": "IL-starved-rock-fort-st-louis",
+   "Entry": "Starved Rock and the site of Fort St. Louis / Le Rocher",
+   "Town": "Vicinity of Utica; lodge at Oglesby",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-starved-rock-fort-st-louis",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -5161,7 +5191,7 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Arlington,_Natchez,_Adams_County,_Mississippi_LCCN2017892857.jpg",
    "Why photo is needed": "HOLD a6d848f685 — Individual subject and location evidence require desk sign-off. Compare the source item with “Arlington, the Natchez house whose library survived the fire” before releasing this image.",
    "Next desk or field action": "Desk — archival period photograph only",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "ARCHIVAL-ONLY",
    "Gap": "no lawful ground photo — not a field task",
    "Access decision": "The dossier provides no current, ordinary public viewpoint of this subject."
@@ -5191,9 +5221,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Auburn,_Auburn_Boulevard,_Duncan_Memorial_Park,_Natchez_vicinity_(Adams_County,_Mississippi).jpg",
    "Why photo is needed": "HOLD 3aa28462f6 — Individual subject and location evidence require desk sign-off. Compare the source item with “Auburn and Duncan Park — a builder’s letter and the house it describes” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -5236,9 +5266,9 @@
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "New entry on the updated catalog.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -5281,9 +5311,9 @@
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "New entry on the updated catalog.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -5356,9 +5386,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Brices-cross-roads-NBS.jpg",
    "Why photo is needed": "HOLD 0aac1cda2f — Individual subject and location evidence require desk sign-off. Compare the source item with “Brices Cross Roads and the infantry that held a retreat together” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -5401,7 +5431,7 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Champion Hill Battlefield  Mississippi photograph; Archive search — Champion Hill Battlefield  Mississippi historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Champion Hill Battlefield (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AChampion_Hill_Battlefield_Mississippi.jpg | https://commons.wikimedia.org/wiki/File%3ABattle_of_Champion%27s_Hill%2C_Mississippi_%2810473896793%29.jpg | https://egrove.olemiss.edu/keat_ciwar/24/ | https://home.nps.gov/articles/000/preserving-family-history-on-a-civil-war-battlefield.htm",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — archival period photograph only",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "ARCHIVAL-ONLY",
    "Gap": "no lawful ground photo — not a field task",
    "Access decision": "The dossier provides no current, ordinary public viewpoint of this subject."
@@ -5491,9 +5521,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Dunleith,_Homochito_Street,_Natchez_(Adams_County,_Mississippi).jpg",
    "Why photo is needed": "HOLD 67e9d0be41 — Individual subject and location evidence require desk sign-off. Compare the source item with “Dunleith — John Roy Lynch and the family a sale brought to Natchez” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -5806,9 +5836,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:House_on_Ellicott_Hill_in_Natchez,_Mississippi_2017.jpg",
    "Why photo is needed": "HOLD 7ca260c81e — Individual subject and location evidence require desk sign-off. Compare the source item with “House on Ellicott Hill — a flag over a camp, then a merchant’s house” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -5911,9 +5941,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:King%27s_Tavern,_Natchez_MS,_2018_Haunted.jpg",
    "Why photo is needed": "HOLD 54eab7ce9c — Individual subject and location evidence require desk sign-off. Compare the source item with “King's Tavern, Natchez — 1789/1799 Spanish-era tavern documented apart from chimney-skeleton folklore” before releasing this image.",
    "Next desk or field action": "Field option — Jefferson Street public sidewalk opposite 613 Jefferson Street, exterior only.",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "PUBLIC GROUND",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -5938,12 +5968,12 @@
    "Town": "Natchez",
    "State": "Mississippi",
    "Entry URL": "https://onoldground.com/sites/MS-longwood",
-   "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Longwood,_Natchez,_Adams_County,_Mississippi_LCCN2017892883.jpg",
-   "Why photo is needed": "HOLD 09eb767933 — Individual subject and location evidence require desk sign-off. Compare the source item with “Longwood — who finished the rooms beneath the unfinished house” before releasing this image.",
+   "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Longwood,_Natchez,_Adams_County,_Mississippi_LCCN2017892883.jpg | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/ms0123/",
+   "Why photo is needed": "First THEN photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -5971,9 +6001,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Magnolia_Hall_(Natchez,_Mississippi).jpg",
    "Why photo is needed": "HOLD 2568cc64af — Individual subject and location evidence require desk sign-off. Compare the source item with “Magnolia Hall — the brownstone finish the paint concealed” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -6028,12 +6058,12 @@
    "Town": "Natchez",
    "State": "Mississippi",
    "Entry URL": "https://onoldground.com/sites/MS-melrose-estate",
-   "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Melrose-Natchez-MS.jpg",
-   "Why photo is needed": "HOLD 39ed1d0932 — Individual subject and location evidence require desk sign-off. Compare the source item with “Melrose Estate — the work behind the house” before releasing this image.",
+   "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Melrose-Natchez-MS.jpg | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/2017892886/",
+   "Why photo is needed": "First THEN photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -6091,9 +6121,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Mississippi_Governor%27s_Mansion,_Jackson,_Mississippi_(3931984825).jpg",
    "Why photo is needed": "HOLD c2f751bf4b — Individual subject and location evidence require desk sign-off. Compare the source item with “Mississippi Governor’s Mansion and the work of keeping a public house” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -6121,9 +6151,9 @@
    "What was searched": "Dossier source opened — https://da.mdah.ms.gov/series/shc/s0317/detail/4438; Commons file search — site:commons.wikimedia.org/wiki/File: Mississippi State Capitol Jackson Mississippi photograph; Archive search — Mississippi State Capitol Jackson Mississippi historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Mississippi State Capitol (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AMississippi_State_Capitol.jpg | https://commons.wikimedia.org/wiki/File%3AAmericana_Mississippi_-_State_Capitol_at_Jackson.jpg | https://home.nps.gov/subjects/nationalhistoriclandmarks/upload/Capitols_NHLs_Resource_Guide_Final.pdf | https://scholarsjunction.msstate.edu/mss-lampton-images-ms-state-house/7/",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -6163,12 +6193,12 @@
    "Town": "Natchez",
    "State": "Mississippi",
    "Entry URL": "https://onoldground.com/sites/MS-monmouth-viola-vessels-brannick",
-   "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Monmouth Historic Inn and Gardens Natchez Mississippi photograph; Archive search — Monmouth Historic Inn and Gardens Natchez Mississippi historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Monmouth Historic Inn and Gardens (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AMount_Locust.jpg | https://commons.wikimedia.org/wiki/File%3AView_on_Natchez.jpg | https://www.loc.gov/pictures/item/ms0206/ | https://tile.loc.gov/storage-services/master/pnp/habshaer/ms/ms0200/ms0206/data/ms0206data.pdf",
-   "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
+   "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Monmouth Historic Inn and Gardens Natchez Mississippi photograph; Archive search — Monmouth Historic Inn and Gardens Natchez Mississippi historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Monmouth Historic Inn and Gardens (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AMount_Locust.jpg | https://commons.wikimedia.org/wiki/File%3AView_on_Natchez.jpg | https://www.loc.gov/pictures/item/ms0206/ | https://tile.loc.gov/storage-services/master/pnp/habshaer/ms/ms0200/ms0206/data/ms0206data.pdf | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/ms0206/",
+   "Why photo is needed": "First THEN photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -6196,9 +6226,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Mount_Locust.jpg",
    "Why photo is needed": "HOLD 619ec60d99 — Individual subject and location evidence require desk sign-off. Compare the source item with “Mount Locust, the travelers’ stand where Paris Martin was enslaved” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -6301,9 +6331,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Mississippi_Old_Capitol.jpg",
    "Why photo is needed": "HOLD f4f6a560bd — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “Old Capitol Museum and the room that elected Hiram Revels” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -6328,12 +6358,12 @@
    "Town": "Vicksburg",
    "State": "Mississippi",
    "Entry URL": "https://onoldground.com/sites/MS-old-court-house-museum",
-   "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Old_Court_House_Museum_in_Vicksburg,_Mississippi.jpg",
-   "Why photo is needed": "HOLD 2057d36a4e — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “Old Warren County Courthouse and the hands behind its white walls” before releasing this image.",
+   "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Old_Court_House_Museum_in_Vicksburg,_Mississippi.jpg | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/2017879525/",
+   "Why photo is needed": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -6403,12 +6433,12 @@
    "Town": "Natchez",
    "State": "Mississippi",
    "Entry URL": "https://onoldground.com/sites/MS-rosalie-mansion",
-   "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Rosalie_(Natchez,_Mississippi).JPG",
-   "Why photo is needed": "HOLD 0ede95b20f — Individual subject and location evidence require desk sign-off. Compare the source item with “Rosalie Mansion — the work between the kitchen and the table” before releasing this image.",
+   "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Rosalie_(Natchez,_Mississippi).JPG | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/ms0005/",
+   "Why photo is needed": "First THEN photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -6436,9 +6466,9 @@
    "What was searched": "Dossier source unavailable — https://www.loc.gov/item/2017880826/; Commons file search — site:commons.wikimedia.org/wiki/File: Rowan Oak Oxford Mississippi photograph; Archive search — Rowan Oak Oxford Mississippi historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Rowan Oak (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3ARowan_Oak%2C_Oxford%2C_Mississippi.jpg | https://commons.wikimedia.org/wiki/File%3ARowan_Oak.JPG | https://www.loc.gov/item/2017880826/ | https://loc.gov/pictures/item/ms0259/",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Field option — Street-facing exterior from the open visitor approach, when the operator permits photography.",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "PUBLIC GROUND",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -6493,12 +6523,12 @@
    "Town": "Natchez",
    "State": "Mississippi",
    "Entry URL": "https://onoldground.com/sites/MS-stanton-hall",
-   "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Stanton_Hall,_Natchez,_MS_IMG_6989.JPG",
-   "Why photo is needed": "HOLD 6160751b48 — Individual subject and location evidence require desk sign-off. Compare the source item with “Stanton Hall — the Natchez tradespeople behind the painted oak” before releasing this image.",
+   "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Stanton_Hall,_Natchez,_MS_IMG_6989.JPG | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/ms0007/",
+   "Why photo is needed": "First THEN photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -6526,9 +6556,9 @@
    "What was searched": "Dossier source opened — https://npgallery.nps.gov/NRHP/GetAsset/NRHP/66000068_photos; Commons file search — site:commons.wikimedia.org/wiki/File: Tupelo National Battlefield Tupelo Mississippi photograph; Archive search — Tupelo National Battlefield Tupelo Mississippi historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Tupelo National Battlefield (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3ATupelo_Battlefield_Mississippi.jpg | https://commons.wikimedia.org/wiki/File:Tupelo_Battlefield_Mississippi.jpg | https://www.nps.gov/media/photo/gallery.htm?id=F969827F-FB72-4AA5-B7B6-D313E99C3EE4 | https://npgallery.nps.gov/NRHP/GetAsset/NRHP/66000068_photos",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -6646,9 +6676,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:The_Lyceum.jpg",
    "Why photo is needed": "HOLD cb0111a56f — Individual subject and location evidence require desk sign-off. Compare the source item with “The Lyceum, the Circle and James Meredith's reason for enrolling” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -6733,10 +6763,10 @@
    "Town": "Vicksburg",
    "State": "Mississippi",
    "Entry URL": "https://onoldground.com/sites/MS-vicksburg-uss-cairo",
-   "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:U.S._Cairo_in_Vicksburg,_Mississippi.jpg",
-   "Why photo is needed": "HOLD 0d5c314acd — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “USS Cairo and the crew that left a working gunboat behind” before releasing this image.",
+   "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:U.S._Cairo_in_Vicksburg,_Mississippi.jpg | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/2017879515/",
+   "Why photo is needed": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
    "Next desk or field action": "Desk — archival period photograph only",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "ARCHIVAL-ONLY",
    "Gap": "no lawful ground photo — not a field task",
    "Access decision": "The dossier provides no current, ordinary public viewpoint of this subject."
@@ -6766,9 +6796,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:William_Johnson_Museum_(3612495050).jpg",
    "Why photo is needed": "HOLD 0486ba91f3 — Individual subject and location evidence require desk sign-off. Compare the source item with “William Johnson House — who laid the brick” before releasing this image.",
    "Next desk or field action": "Field option — the State Street public entrance sign",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "PUBLIC GROUND",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -6781,9 +6811,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:MS_Windsor_Ruins.JPG",
    "Why photo is needed": "HOLD 58dfd05374 — Individual subject and location evidence require desk sign-off. Compare the source item with “Windsor Ruins, the people who raised the columns and the men who left” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -8593,12 +8623,12 @@
    "Town": "",
    "State": "North Carolina",
    "Entry URL": "https://onoldground.com/sites/NC-fort-raleigh-freedmens-colony",
-   "What was searched": "Awaiting first desk search",
-   "Why photo is needed": "Photo research pending.",
+   "What was searched": "Dossier photo record and exact photographed subject checked. | Additional item opened and pixels reviewed: https://www.nps.gov/npgallery/GetAsset/34F8025C-1DD8-B71C-0779-6FF6959F87DA",
+   "Why photo is needed": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -8608,12 +8638,12 @@
    "Town": "",
    "State": "North Carolina",
    "Entry URL": "https://onoldground.com/sites/NC-greensboro-sit-ins-woolworth",
-   "What was searched": "Awaiting first desk search",
-   "Why photo is needed": "Photo research pending.",
+   "What was searched": "Dossier photo record and exact photographed subject checked. | Additional item opened and pixels reviewed: https://www.loc.gov/pictures/item/2017880626/",
+   "Why photo is needed": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -11633,6 +11663,6 @@
   }
  ],
  "counts": {
-  "items": 775
+  "items": 777
  }
 }

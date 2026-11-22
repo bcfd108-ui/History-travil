@@ -1,7 +1,7 @@
 {
   "generatedFrom": "corpus dossiers (~/workspace/history-travel/corpus + home-bench root)",
-  "filesSeen": 786,
-  "sitesConverted": 779,
+  "filesSeen": 788,
+  "sitesConverted": 781,
   "perState": {
     "AL": 10,
     "AZ": 24,
@@ -11,7 +11,7 @@
     "FL": 3,
     "GA": 4,
     "ID": 82,
-    "IL": 20,
+    "IL": 22,
     "IA": 24,
     "KS": 32,
     "KY": 7,
@@ -40,20 +40,20 @@
     "locatorFields": 84,
     "printedPair": 10
   },
-  "withAnyLocatorId": 595,
-  "withNrhp": 310,
+  "withAnyLocatorId": 597,
+  "withNrhp": 312,
   "withHmdb": 82,
-  "blankCoordinates": 685,
-  "reflection": 283,
+  "blankCoordinates": 687,
+  "reflection": 285,
   "view": 496,
   "reflectionSignals": {
     "slug": 46,
-    "candSec": 190,
+    "candSec": 192,
     "preamble": 128,
     "gate": 74
   },
   "formatVariants": {
-    "boldSection1": 303,
+    "boldSection1": 305,
     "altLocatorScheme": 14
   },
   "sec8ApparatusSeen": 284,
@@ -62,7 +62,7 @@
   "sec8FieldLinesDropped": 51,
   "candidateFindsSurfaced": 19,
   "sitesWithCandidates": 8,
-  "townsRecorded": 623,
+  "townsRecorded": 625,
   "emptyAccess": 4,
   "emptyStory": 0,
   "unmappedSectionsCarried": 192,

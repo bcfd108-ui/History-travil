@@ -9351,11 +9351,35 @@
    "corpusFile": "HT-RES-TN-great-smoky-mountains-cades-cove.md",
    "queueState": "queued",
    "attempts": []
+  },
+  {
+   "id": "vq_IL-lincoln-home-national-historic-site",
+   "slug": "IL-lincoln-home-national-historic-site",
+   "name": "Lincoln Home National Historic Site, Springfield",
+   "town": "Springfield",
+   "state": "IL",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-lincoln-home-national-historic-site.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IL-starved-rock-fort-st-louis",
+   "slug": "IL-starved-rock-fort-st-louis",
+   "name": "Starved Rock and the site of Fort St. Louis / Le Rocher",
+   "town": "Vicinity of Utica; lodge at Oglesby",
+   "state": "IL",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-starved-rock-fort-st-louis.md",
+   "queueState": "queued",
+   "attempts": []
   }
  ],
  "counts": {
-  "items": 779,
-  "dated": 538,
+  "items": 781,
+  "dated": 540,
   "unrecorded": 241
  }
 }

@@ -167210,7 +167210,7 @@
   {
    "id": "lq_0c6899e8be2f4628",
    "projectedSlug": "il-lincoln-home-national-historic-site",
-   "targetSlug": null,
+   "targetSlug": "IL-lincoln-home-national-historic-site",
    "name": "Lincoln Home National Historic Site",
    "town": "Springfield",
    "county": "Sangamon",
@@ -167226,8 +167226,8 @@
      "role": "lead"
     }
    ],
-   "queueState": "queued",
-   "reconcile": null,
+   "queueState": "published",
+   "reconcile": "published",
    "attempts": []
   },
   {
@@ -179646,8 +179646,8 @@
   "byQueueState": {
    "checked-dead": 23,
    "held": 27,
-   "published": 40,
-   "queued": 6940
+   "published": 41,
+   "queued": 6939
   },
   "byState": {
    "AK": 121,
