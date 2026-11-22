@@ -44,20 +44,20 @@
   "withNrhp": 308,
   "withHmdb": 81,
   "blankCoordinates": 685,
-  "reflection": 280,
-  "view": 497,
+  "reflection": 281,
+  "view": 496,
   "reflectionSignals": {
     "slug": 46,
-    "candSec": 187,
+    "candSec": 188,
     "preamble": 128,
-    "gate": 73
+    "gate": 74
   },
   "formatVariants": {
     "boldSection1": 301,
     "altLocatorScheme": 14
   },
-  "sec8ApparatusSeen": 285,
-  "sec8BulletsSeen": 443,
+  "sec8ApparatusSeen": 284,
+  "sec8BulletsSeen": 441,
   "sec8QuestionPromptsDropped": 11,
   "sec8FieldLinesDropped": 51,
   "candidateFindsSurfaced": 19,

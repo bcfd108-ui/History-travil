@@ -5,7 +5,7 @@ Built from the original app's Nine Mile record; standalone Idaho entry, no route
 Two cobblestone monuments that exist because Pulaski pressed the Forest Service for twelve years to properly mark his dead men's graves.
 
 ## 1. Trip gate
-The visit is to Nine Mile Cemetery, outside Wallace, Idaho — the two cobblestone monuments and the five names from the tunnel. The record pairs it with the Pulaski Tunnel Trail the same day: the trail in the morning, the names in the afternoon. The record names no hours, fees, or parking specifics for the cemetery, and none are printed here. This is a cemetery visit, not a tour stop.
+The visit is to Nine Mile Cemetery, outside Wallace, Idaho — the two cobblestone monuments and the five names from the tunnel. The record pairs it with the Pulaski Tunnel Trail the same day: the trail in the morning, the names in the afternoon. The record names no hours, fees, or parking specifics for the cemetery, and none are printed here. This is a cemetery visit, not a tour stop — reflection ground, for quiet witness only.
 
 ## 2. The story
 The five men who died in the Nicholson adit were carried out on packhorses. Their names are on a monument at Nine Mile Cemetery outside Wallace: **an unidentified man, William Learmouth, Richard Woods, Joe Ferro, and August Berger**.
@@ -42,7 +42,7 @@ Dormant, non-scored ideas only:
 - Compare the monument's five names with the tunnel record's count of the dead. Key: **blank**.
 - Note the two cobblestone monuments' 1921 date, from the record. Key: **blank**.
 
-This entry's ground carries a find of the Pulaski Hunt; the hunt tie lives in the hunt record, not in this section. Nothing here is scored from the research text.
+Quiet witness only. This ground carries no find, and nothing here is scored. Reading and planning are free and available without an account, location sharing or contribution.
 
 ## 9. Source list
 [1] Forest History Society — The 1910 Fires: https://foresthistory.org/the-big-blowup-centennial-anniversary-is-this-weekend/
