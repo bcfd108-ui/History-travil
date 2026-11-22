@@ -415,8 +415,8 @@
   }
  },
  "ID-boise-assay-office": {
-  "searched": "Commons file search — site:commons.wikimedia.org/wiki/File: U.S Boise Idaho photograph; Archive search — U.S Boise Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — U.S (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3ABOISEidaho.jpg | https://commons.wikimedia.org/wiki/File%3ABoise_Idaho_aerial_view.jpg | https://digitalcommons.cwu.edu/edward_nolan/470/ | https://objects.lib.uidaho.edu/etd/pdf/May_idaho_0089N_11391.pdf | https://commons.wikimedia.org/wiki/File:Old_U.S._Assay_Office_(4).jpg",
-  "reason": "HOLD 90b141de7f — Individual subject and location evidence require desk sign-off. Compare the source item with “Boise U.S. Assay Office” before releasing this image.",
+  "searched": "Commons file search — site:commons.wikimedia.org/wiki/File: U.S Boise Idaho photograph; Archive search — U.S Boise Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — U.S (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3ABOISEidaho.jpg | https://commons.wikimedia.org/wiki/File%3ABoise_Idaho_aerial_view.jpg | https://digitalcommons.cwu.edu/edward_nolan/470/ | https://objects.lib.uidaho.edu/etd/pdf/May_idaho_0089N_11391.pdf | https://commons.wikimedia.org/wiki/File:Old_U.S._Assay_Office_(4).jpg | Additional item opened and pixels reviewed: https://commons.wikimedia.org/wiki/File:Boise_Assay_Office_Front.jpg",
+  "reason": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
   "groundReview": {
    "status": "PUBLIC GROUND",
    "viewpoint": "Main Street public sidewalk outside the Boise Assay Office.",
@@ -609,8 +609,8 @@
   }
  },
  "lewiston-confluence": {
-  "searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Lewiston Levee Parkway Lewiston Idaho photograph; Archive search — Lewiston Levee Parkway Lewiston Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Lewiston Levee Parkway (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AViewpoint_on_U.S._95_north_of_Lewiston%2C_Idaho.jpg | https://commons.wikimedia.org/wiki/File%3ALewiston_and_Clarkston.jpg | https://www.lib.uidaho.edu/digital/ott/items/ott1667.html | https://www.lib.uidaho.edu/mcbeth/images/lewiston.htm | https://commons.wikimedia.org/wiki/File:Lewiston_and_Clarkston.jpg",
-  "reason": "HOLD 4edafdffd5 — Individual subject and location evidence require desk sign-off. Compare the source item with “Lewiston confluence: two rivers, continuing homeland, altered waterfront” before releasing this image.",
+  "searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Lewiston Levee Parkway Lewiston Idaho photograph; Archive search — Lewiston Levee Parkway Lewiston Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Lewiston Levee Parkway (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AViewpoint_on_U.S._95_north_of_Lewiston%2C_Idaho.jpg | https://commons.wikimedia.org/wiki/File%3ALewiston_and_Clarkston.jpg | https://www.lib.uidaho.edu/digital/ott/items/ott1667.html | https://www.lib.uidaho.edu/mcbeth/images/lewiston.htm | https://commons.wikimedia.org/wiki/File:Lewiston_and_Clarkston.jpg | Additional item opened and pixels reviewed: https://commons.wikimedia.org/wiki/File:Confluence_of_Clearwater_and_Snake_rivers_-_Lewiston,_Idaho_(21116852016).jpg",
+  "reason": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
   "groundReview": {
    "status": "PUBLIC GROUND",
    "viewpoint": "Signed public Lewiston Levee Parkway confluence area.",
@@ -650,15 +650,15 @@
   }
  },
  "lewiston-normal-hill": {
-  "searched": "Dossier source opened — https://www.lcsc.edu/visit/campus-map-directions; Commons file search — site:commons.wikimedia.org/wiki/File: Reid Centennial Hall Lewiston Idaho photograph; Archive search — Reid Centennial Hall Lewiston Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Reid Centennial Hall (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3ACentennial_Amphitheater%2C_College_of_Idaho.jpg | https://commons.wikimedia.org/wiki/File:Centennial_Amphitheater,_College_of_Idaho.jpg | https://www.lcsc.edu/media/e05lvbqa/tree-campus-app-2024-final.pdf | https://digital.lib.uidaho.edu/search",
-  "reason": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
+  "searched": "Dossier source opened — https://www.lcsc.edu/visit/campus-map-directions; Commons file search — site:commons.wikimedia.org/wiki/File: Reid Centennial Hall Lewiston Idaho photograph; Archive search — Reid Centennial Hall Lewiston Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Reid Centennial Hall (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3ACentennial_Amphitheater%2C_College_of_Idaho.jpg | https://commons.wikimedia.org/wiki/File:Centennial_Amphitheater,_College_of_Idaho.jpg | https://www.lcsc.edu/media/e05lvbqa/tree-campus-app-2024-final.pdf | https://digital.lib.uidaho.edu/search | Additional item opened and pixels reviewed: https://commons.wikimedia.org/wiki/File:LC_State_Clock_Tower.jpg",
+  "reason": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
   "groundReview": {
    "status": "DESK REVIEW"
   }
  },
  "ID-paris-tabernacle": {
-  "searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Paris Tabernacle Paris Idaho photograph; Archive search — Paris Tabernacle Paris Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Paris Tabernacle (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AParis%2C_Idaho_tabernacle.jpg | https://commons.wikimedia.org/wiki/File%3AParis_Idaho_Tabernacle_Stand.JPG | https://archives.lib.byu.edu/repositories/ltpsc/archival_objects/ff9a6335634e6ba7e402962601b60d72 | https://net.lib.byu.edu/inventories/UPB_MSSP661_series3_sub2.pdf | https://commons.wikimedia.org/wiki/File:Paris_Idaho_Tabernacle_Stand.JPG",
-  "reason": "HOLD fb33f1b8cd — Individual subject and location evidence require desk sign-off. Compare the source item with “Paris Tabernacle / Bear Lake Stake Tabernacle” before releasing this image.",
+  "searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Paris Tabernacle Paris Idaho photograph; Archive search — Paris Tabernacle Paris Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Paris Tabernacle (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AParis%2C_Idaho_tabernacle.jpg | https://commons.wikimedia.org/wiki/File%3AParis_Idaho_Tabernacle_Stand.JPG | https://archives.lib.byu.edu/repositories/ltpsc/archival_objects/ff9a6335634e6ba7e402962601b60d72 | https://net.lib.byu.edu/inventories/UPB_MSSP661_series3_sub2.pdf | https://commons.wikimedia.org/wiki/File:Paris_Idaho_Tabernacle_Stand.JPG | Additional item opened and pixels reviewed: https://commons.wikimedia.org/wiki/File:Bear_Lake_Stake_Tabernacle,_Paris,_Idaho_(129262712).jpg",
+  "reason": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
   "groundReview": {
    "status": "DESK REVIEW"
   }
@@ -3707,8 +3707,8 @@
   }
  },
  "lewiston-main-street": {
-  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Idaho_Grocery_Warehouse_and_Annex_-_Lewiston_Idaho.jpg",
-  "reason": "HOLD 86d22f6757 — Individual subject and location evidence require desk sign-off. Compare the source item with “Lewiston Main Street: a working downtown, not a frozen set” before releasing this image.",
+  "searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Idaho_Grocery_Warehouse_and_Annex_-_Lewiston_Idaho.jpg | Additional item opened and pixels reviewed: https://www.lib.uidaho.edu/digital/cities/items/cities358.html",
+  "reason": "First THEN photo verified in this batch. Opposite-era comparison is secondary and has not been verified.",
   "groundReview": {
    "status": "PUBLIC GROUND",
    "viewpoint": "Public Main Street sidewalk at the Liberty Theater, 611 Main Street.",
@@ -5484,5 +5484,40 @@
   "groundReview": {
    "status": "DESK REVIEW"
   }
+ },
+ "NC-spencer-shops-nc-transportation-museum": {
+  "searched": "Dossier photo record and exact photographed subject checked. | Additional item opened and pixels reviewed: https://commons.wikimedia.org/wiki/File:Spencer_Shops_roundtable.jpg",
+  "groundReview": {
+   "status": "DESK REVIEW"
+  },
+  "reason": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified."
+ },
+ "NC-cape-hatteras-lighthouse-graveyard-of-the-atlantic-museum": {
+  "searched": "Dossier photo record and exact photographed subject checked. | Additional item opened and pixels reviewed: https://www.fws.gov/media/lighthouse-cape-hatteras-national-seashore",
+  "groundReview": {
+   "status": "DESK REVIEW"
+  },
+  "reason": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified."
+ },
+ "NC-biltmore-estate": {
+  "searched": "Dossier photo record and exact photographed subject checked. | Additional item opened and pixels reviewed: https://www.loc.gov/item/2016801997/",
+  "groundReview": {
+   "status": "DESK REVIEW"
+  },
+  "reason": "First THEN photo verified in this batch. Opposite-era comparison is secondary and has not been verified."
+ },
+ "NC-reed-gold-mine": {
+  "searched": "Dossier photo record and exact photographed subject checked. | Additional item opened and pixels reviewed: https://commons.wikimedia.org/wiki/File:Entrance_to_an_underground_mine_at_the_Reed_Gold_Mine.jpg",
+  "groundReview": {
+   "status": "DESK REVIEW"
+  },
+  "reason": "First NOW photo verified in this batch. Opposite-era comparison is secondary and has not been verified."
+ },
+ "NC-wright-brothers-national-memorial": {
+  "searched": "Dossier photo record and exact photographed subject checked. | Additional item opened and pixels reviewed: https://www.loc.gov/item/00652085/",
+  "groundReview": {
+   "status": "DESK REVIEW"
+  },
+  "reason": "First THEN photo verified in this batch. Opposite-era comparison is secondary and has not been verified."
  }
 }

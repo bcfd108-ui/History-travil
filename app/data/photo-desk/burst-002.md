@@ -1,0 +1,16 @@
+# Burst 2 · First photographs, Idaho
+Desk candidate only. Nov 22 Pacific. Frozen source main: `853f2b171e6cf6f3bbb589b702518cd2cfbed101`. Current catalog before this patch: 779 entries, 46 with a photo, 733 without. Candidate: 51 entries with a photo, 728 without, 56 photographs, no removal or change to any existing image. The 775-row gap report includes 47 single-era entries, not 775 entries with no photo. First photos outrank filling pairs.
+
+| Slug | Evidence and display role | Scope |
+|---|---|---|
+| `lewiston-confluence` | NOW, July 17 2015, Roger Peterson / Forest Service Northern Region, [Flickr 21116852016 via Commons](https://commons.wikimedia.org/wiki/File:Confluence_of_Clearwater_and_Snake_rivers_-_Lewiston,_Idaho_(21116852016).jpg), U.S. federal work. | Elevated image contains the actual junction, not a verified visitor camera point. |
+| `lewiston-main-street` | THEN, 1888, photographer unrecorded, [University of Idaho Library item 5-007-4f](https://www.lib.uidaho.edu/digital/cities/items/cities358.html), Public Domain Mark. | The actual downtown street, west-facing; no claim that the frame shows the later Liberty Theater. |
+| `lewiston-normal-hill` | NOW, Jan 3 2024, Lewis-Clark State College, [Commons item 148629290](https://commons.wikimedia.org/wiki/File:LC_State_Clock_Tower.jpg), CC BY-SA 4.0. | Clock tower over Reid Centennial Hall, identifiable by clock and sign. No historical cupola or indoor-access claim. |
+| `ID-boise-assay-office` | NOW, June 27 2018, Wyatt Perry, [Boise Assay Office Front.jpg](https://commons.wikimedia.org/wiki/File:Boise_Assay_Office_Front.jpg), CC BY-SA 4.0. | Stone Assay Office front at 210 Main Street; not a different Boise landmark. |
+| `ID-paris-tabernacle` | NOW, April 15 2006, Ken Lund, [Flickr 129262712 via Commons](https://commons.wikimedia.org/wiki/File:Bear_Lake_Stake_Tabernacle,_Paris,_Idaho_(129262712).jpg), CC BY-SA 2.0. | Actual tabernacle exterior. The year is shown; not a claim about current visiting conditions. |
+
+All five full frames inspected, uncropped 1,200 px maximum WebP display copies, exact slug and frozen/current ID-title-town-state match. The assignment ledger retains item IDs, cited rights, hash and matching keys. Its `APPROVED` status is the local candidate/pipeline qualification required to build; Dash acceptance and public deployment are still separate.
+
+**Not adopted:** Locomotive Park holiday lights file showed a light decoration, not the identifiable Engine 92. Archive items Strawn0467/0469 identify the exact engine but did not supply reuse clearance; keep field option on verified park path and do not use a different numbered engine. Lewiston Depot already has one photo and is not counted in first-photo work. Deferred substantiated second-era candidates for Normal Hill and Paris; no repeat Photo Point, access, collection or hunt changed.
+
+**Verification:** `npm run convert`, 19/19 focused photo and eligibility tests, regenerated photo/gap outputs, queue check, and full `npm run build` passed. Signed-out prerendered HTML for all five exact pages contains the expected local WebP, assignment ID, visible credit and linked license. Existing photo records unchanged. Riverside still absent from the field sheet. Original 45 field targets → candidate 43 from two NOW first photos; no new field invitation added. No public deployment or push.
