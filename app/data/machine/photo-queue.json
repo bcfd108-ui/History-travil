@@ -2872,6 +2872,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-IL-apple-river-fort",
+   "Slug": "IL-apple-river-fort",
+   "Entry": "Apple River Fort State Historic Site — the lead-country fort Black Hawk attacked on a Sunday afternoon",
+   "Town": "Elizabeth",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-apple-river-fort",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "none",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-IL-black-metropolis-bronzeville",
    "Slug": "IL-black-metropolis-bronzeville",
    "Entry": "Black Metropolis–Bronzeville — the Great Migration's city within a city, and the Bronzeville Walk of Fame",
@@ -3043,6 +3058,21 @@
    "Town": "Galena",
    "State": "Illinois",
    "Entry URL": "https://onoldground.com/sites/IL-us-grant-home",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "none",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-IL-washburne-house",
+   "Slug": "IL-washburne-house",
+   "Entry": "Washburne House State Historic Site — the Galena library where Grant learned he was president",
+   "Town": "Galena",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-washburne-house",
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "Photo research pending.",
    "Next desk or field action": "Desk — verify missing era and rights",
@@ -11513,6 +11543,6 @@
   }
  ],
  "counts": {
-  "items": 767
+  "items": 769
  }
 }
