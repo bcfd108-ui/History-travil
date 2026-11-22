@@ -316,6 +316,7 @@ export interface HistoricPhoto {
   credit: string;
   license: string;
   licenseUrl: string;
+  modificationNote?: string;
   sourceName: string;
   sourceUrl: string;
   year: number | null;
@@ -323,7 +324,12 @@ export interface HistoricPhoto {
 
 let leadPhotos: Map<string, HistoricPhoto> | undefined;
 export function getHistoricPhoto(slug: string): HistoricPhoto | undefined {
-  leadPhotos ??= new Map(getSites().filter(s => s.photos?.length).map(s => [s.slug, s.photos[0]]));
+  // Browse and home lead tiles have no attribution block. License-bound
+  // photos remain available only in their fully credited article figure.
+  leadPhotos ??= new Map(getSites().flatMap((site) => {
+    const photo = site.photos?.find((candidate) => candidate.license !== "Free Art License 1.3");
+    return photo ? [[site.slug, photo]] : [];
+  }));
   return leadPhotos.get(slug);
 }
 
