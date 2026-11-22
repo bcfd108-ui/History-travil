@@ -2887,6 +2887,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-IL-bishop-hill-state-historic-site",
+   "Slug": "IL-bishop-hill-state-historic-site",
+   "Entry": "Bishop Hill State Historic Site — the Swedish Pietist colony of 1846, its church, hotel and Krans paintings",
+   "Town": "Bishop Hill, Henry County",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-bishop-hill-state-historic-site",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "none",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-IL-black-hawk-state-historic-site",
    "Slug": "IL-black-hawk-state-historic-site",
    "Entry": "Black Hawk State Historic Site — Saukenuk, the CCC lodge, and the bluff above the Rock River",
@@ -3028,6 +3043,21 @@
    "Town": "Grand Detour (Dixon postal address), Ogle County",
    "State": "Illinois",
    "Entry URL": "https://onoldground.com/sites/IL-john-deere-historic-site",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "none",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-IL-john-hossack-house",
+   "Slug": "IL-john-hossack-house",
+   "Entry": "John Hossack House — the Ottawa Underground Railroad station and the Jim Gray rescue of 1859",
+   "Town": "Ottawa, LaSalle County",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-john-hossack-house",
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "Photo research pending.",
    "Next desk or field action": "Desk — verify missing era and rights",
@@ -11603,6 +11633,6 @@
   }
  ],
  "counts": {
-  "items": 773
+  "items": 775
  }
 }
