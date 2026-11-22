@@ -1,6 +1,6 @@
 {
- "commit": "975af3da17a2a2b2c9eafd7eca6951b08ff1538f",
- "catalogCount": 791,
+ "commit": "d2651f635d0985499344e6ff0cf964fec8691b54",
+ "catalogCount": 801,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -30232,6 +30232,459 @@
      {
       "key": "Status",
       "value": "archive-only pending a current winter public-entry gate. No wider access, image rights or sensitive coordinates inferred."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NY-camp-santanoni",
+   "slug": "NY-camp-santanoni",
+   "title": "HT-RES-NY-camp-santanoni — Five miles of carriage road between the gate and the lake",
+   "town": "Newcomb",
+   "state": "New York",
+   "stateCode": "NY",
+   "coordinates": {
+    "lat": 43.9737,
+    "lon": -74.165
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-NY-camp-santanoni — Five miles of carriage road between the gate and the lake",
+   "stableName": "Camp Santanoni (Santanoni Preserve — Camp Santanoni Historic Area)",
+   "address": "Newcomb Lake Road, off NY Route 28N, Newcomb, NY 12852 (road and ZIP as DEC and the NHL nomination carry them; no street number is carried by the sources consulted and none is printed)",
+   "locator": {
+    "stableName": "Camp Santanoni (Santanoni Preserve — Camp Santanoni Historic Area)",
+    "address": "Newcomb Lake Road, off NY Route 28N, Newcomb, NY 12852 (road and ZIP as DEC and the NHL nomination carry them; no street number is carried by the sources consulted and none is printed)",
+    "latitude": "43.9737",
+    "longitude": "-74.1650",
+    "coordinateSource": "Coordinates are printed only for the Gate Lodge Parking Area, exactly as the DEC Camp Santanoni Historic Area page carries them — \"(43.9737°N, 74.1650°W),\" in decimal degrees using NAD83/WGS84 datum, for the parking area on Newcomb Lake Road off NY Route 28N. This is the trailhead point, not a coordinate for the Main Camp on Newcomb Lake, which lies about five miles north by the carriage road; no primary source consulted carries a verified point for the main camp buildings, and none is printed for them.",
+    "nrhp": "86002955 — listed April 3, 1987 (date published in the NPS National Register record); designated a National Historic Landmark May 16, 2000 (per the NHL nomination)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/86002955",
+    "operator": "New York State Department of Environmental Conservation, in partnership with Adirondack Architectural Heritage and the Town of Newcomb",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Newcomb"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Gate Lodge Parking Area, Newcomb Lake Road, off NY Route 28N, Newcomb, NY (access point as the DEC Historic Area page carries it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit begins at the Gate Lodge Parking Area and proceeds on the Newcomb Lake Road Trail, from which public motor vehicle use is prohibited (DEC): about one mile to the Farm Complex and about five miles in total to the Main Camp on Newcomb Lake, on foot, by bicycle, on skis or snowshoes, or by wagon where provided. Grounds are open year-round; building interiors are opened seasonally and at the three Winter Weekend open houses, not on a daily year-round basis. DEC states no entrance fee and no fixed hours on its Historic Area page, and none are asserted here."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NY-ellis-island",
+   "slug": "NY-ellis-island",
+   "title": "HT-RES-NY-ellis-island — The fireproof hall in the harbor, rebuilt after the wooden station burned",
+   "town": "New York",
+   "state": "New York",
+   "stateCode": "NY",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NY-ellis-island — The fireproof hall in the harbor, rebuilt after the wooden station burned",
+   "stableName": "Ellis Island — Main Immigration Building (Ellis Island National Museum of Immigration)",
+   "address": "Ellis Island, Upper New York Bay, New York, NY (no street address; ferry access only, per the NPS fees page's terms)",
+   "locator": {
+    "stableName": "Ellis Island — Main Immigration Building (Ellis Island National Museum of Immigration)",
+    "address": "Ellis Island, Upper New York Bay, New York, NY (no street address; ferry access only, per the NPS fees page's terms)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The NPS National Register record consulted for this entry (NRIS 66000058) carries no latitude/longitude, and the 1975 nomination works at district scale with boundary corners rather than a single verified point for the island or the Main Building; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "66000058 — listed October 15, 1966 (date published in the NPS National Register record; listing name \"Statue of Liberty National Monument, Ellis Island and Liberty Island\")",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS NY,31-ELLIS,1C-1 (Library of Congress Pictures item ny1604.photos.118038p; survey HABS No. NY-6086-C)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000058",
+    "operator": "National Park Service (Statue of Liberty National Monument); ferry transportation by Statue City Cruises, the only NPS-authorized provider",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "New York"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Ellis Island National Museum of Immigration, Main Building, Ellis Island, Upper New York Bay — reached only by Statue City Cruises ferry from The Battery (Castle Clinton ticket office), Manhattan, and from Liberty State Park, Jersey City"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The Main Building and museum are the ordinary visit and carry no NPS entrance fee; a Statue City Cruises ferry ticket is required to reach the island. The south-side hospital complex is closed to general visitation and is entered only on the guided Hard Hat tour (over 13, +$55, subject to availability, per the NPS fees page)."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NY-erie-canal-lockport",
+   "slug": "NY-erie-canal-lockport",
+   "title": "HT-RES-NY-erie-canal-lockport — Five stone steps up the escarpment, and the two concrete locks that replaced their twins",
+   "town": "Lockport",
+   "state": "New York",
+   "stateCode": "NY",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NY-erie-canal-lockport — Five stone steps up the escarpment, and the two concrete locks that replaced their twins",
+   "stableName": "Lockport Locks (Flight of Five), Erie Canal",
+   "address": "80 Canal Street, Lockport, NY 14094",
+   "locator": {
+    "stableName": "Lockport Locks (Flight of Five), Erie Canal",
+    "address": "80 Canal Street, Lockport, NY 14094",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The HAER record consulted for this entry (HAER No. NY-61, LOC survey ny1209) carries no latitude/longitude in its data pages, and the NPS National Register record for the Lockport Industrial District (NRIS 75001211) carries none; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "75001211 — Lockport Industrial District, listed November 11, 1975 (date published in the NPS National Register record; significant years as that record carries them: 1859, 1864, 1909)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HAER NY-61 (Library of Congress survey ny1209; first photograph HAER NY,32-LOCK,14A--8)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/2479600c-ef96-43bc-8314-9ca8313204ae",
+    "operator": "New York State Canal Corporation",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Lockport"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Flight of Five forebay, 80 Canal Street, Lockport, NY 14094 (address as the Canal Corporation's September 2025 bicentennial flotilla advisory carries it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the locks district on public ground around the forebay and along the flight; Locks E-34 and E-35 are an operating navigation structure — the Canal Corporation's published hours and no-fee terms govern vessels, and the flight and bridges are viewed from public ground, not from the lock chambers or operating decks."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NY-fdr-hyde-park",
+   "slug": "NY-fdr-hyde-park",
+   "title": "HT-RES-NY-fdr-hyde-park — The house that kept growing until it held a presidency",
+   "town": "Hyde Park",
+   "state": "New York",
+   "stateCode": "NY",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NY-fdr-hyde-park — The house that kept growing until it held a presidency",
+   "stableName": "Franklin D. Roosevelt National Historic Site — Springwood (Home of Franklin D. Roosevelt National Historic Site)",
+   "address": "4097 Albany Post Road, Hyde Park, NY 12538",
+   "locator": {
+    "stableName": "Franklin D. Roosevelt National Historic Site — Springwood (Home of Franklin D. Roosevelt National Historic Site)",
+    "address": "4097 Albany Post Road, Hyde Park, NY 12538",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The National Register nomination consulted carries its geographical data as UTM references in a scanned form too degraded to transcribe reliably, and no NPS source consulted for this entry carries a verified latitude/longitude for the house; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "66000056 — listed October 15, 1966 (date as the National Register record carries it)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS NY,14-HYP,5-1; LC item ny1240.photos.115840p (Library of Congress reproduction/frame record for the first photograph)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000056",
+    "operator": "National Park Service (Springwood house and grounds); National Archives and Records Administration (Franklin D. Roosevelt Presidential Library and Museum, on its own 16-acre tract within the estate)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Hyde Park"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Henry A. Wallace Visitor and Education Center, 4097 Albany Post Road, Hyde Park, NY 12538 (address as the NPS contact page carries it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The house is the visit, and it is entered by guided tour only, tickets first come, first served, with an entrance pass as the NPS fees page states; the library next door is a separate operator's building with its own hours, printed in §1 as that page carries them."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NY-fort-ticonderoga",
+   "slug": "NY-fort-ticonderoga",
+   "title": "HT-RES-NY-fort-ticonderoga — Stone bastions above the narrows where two lakes meet",
+   "town": "Ticonderoga",
+   "state": "New York",
+   "stateCode": "NY",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NY-fort-ticonderoga — Stone bastions above the narrows where two lakes meet",
+   "stableName": "Fort Ticonderoga",
+   "address": "102 Fort Ti Road, Ticonderoga, NY 12883",
+   "locator": {
+    "stableName": "Fort Ticonderoga",
+    "address": "102 Fort Ti Road, Ticonderoga, NY 12883",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The National Register nomination for the landmark district marks the location \"not for publication,\" the NPS National Register record consulted (NRIS 66000519) carries no latitude/longitude, and the LOC HABS record's place field carries empty latitude/longitude values; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "66000519 — listed October 15, 1966 (date published in the NPS National Register record; Fort Ticonderoga / Mount Independence National Historic Landmark district)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS NY-3212 (Library of Congress, Historic American Buildings Survey; frame HABS NY,16-FOTI,1--3)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/ed323782-9cf2-4d6f-b51a-7bc6b11728bb",
+    "operator": "The Fort Ticonderoga Association",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Ticonderoga"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Fort Ticonderoga, 102 Fort Ti Road, Ticonderoga, NY 12883 (address as The Fort Ticonderoga Association's own site carries it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The Association's grounds — the reconstructed fort, museum, gardens, Carillon Battlefield, and Mount Defiance by the admission token the FAQ describes — are the visit, in the season and hours the Association's FAQ states; Mount Independence, across the strait in Vermont, is a separate visit under its own operator and is part of this entry only as the other half of the landmark district."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NY-niagara-reservation",
+   "slug": "NY-niagara-reservation",
+   "title": "HT-RES-NY-niagara-reservation — The falls fenced off, bought back, and wired for power",
+   "town": "Niagara Falls",
+   "state": "New York",
+   "stateCode": "NY",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NY-niagara-reservation — The falls fenced off, bought back, and wired for power",
+   "stableName": "Niagara Reservation (Niagara Falls State Park)",
+   "address": "15 Goat Island Loop Road, Niagara Falls, NY 14303",
+   "locator": {
+    "stableName": "Niagara Reservation (Niagara Falls State Park)",
+    "address": "15 Goat Island Loop Road, Niagara Falls, NY 14303",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The NPS National Register record consulted for this entry (NRIS 66000555) carries no latitude/longitude, the landmark nomination marks the location \"NOT FOR PUBLICATION\" and its handwritten UTM references are not legible in the filed copy consulted, and no other primary source consulted carries a verified point for the reservation; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "66000555 — listed October 15, 1966 (date published in the NPS National Register record); designated a National Historic Landmark May 23, 1963",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "LC-DIG-det-4a31785 (Library of Congress reproduction number for the first photograph)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/92ce79f4-190f-4636-a93a-af74322befd9/",
+    "operator": "New York State Office of Parks, Recreation and Historic Preservation",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Niagara Falls"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Niagara Falls State Park, 15 Goat Island Loop Road, Niagara Falls, NY 14303 (address as the State Parks park page carries it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the state park ground — the shore strip, Prospect Point, Goat Island, and the islands — open year round and free to enter on foot, with the vehicle fee the State Parks page states; the Adams Transformer House is outside the park boundary and is read from the public street, and the NYPA Power Project in Lewiston is a separate site with its own visitor center."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NY-saratoga-battlefield",
+   "slug": "NY-saratoga-battlefield",
+   "title": "HT-RES-NY-saratoga-battlefield — Two autumn battles on the same farm clearings, and an army surrendered whole",
+   "town": "Stillwater",
+   "state": "New York",
+   "stateCode": "NY",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NY-saratoga-battlefield — Two autumn battles on the same farm clearings, and an army surrendered whole",
+   "stableName": "Saratoga National Historical Park",
+   "address": "648 Route 32, Stillwater, NY 12170",
+   "locator": {
+    "stableName": "Saratoga National Historical Park",
+    "address": "648 Route 32, Stillwater, NY 12170",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The NPS National Register record consulted for this entry (NRIS 66000569) carries no latitude/longitude; the only NPS points found are a park-level point repeated across NPGallery asset records and a differing federal recreation listing point, neither verified for the battlefield ground; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "66000569 — listed October 15, 1966 (date published in the NPS National Register record)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "a3ffc30d-9e26-44a7-8d69-87b8b8957f3b (NPGallery asset ID for the first photograph)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000569",
+    "operator": "National Park Service",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Stillwater"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Saratoga National Historical Park Visitor Center, 648 Route 32, Stillwater, NY 12170 (address as the park's listings carry it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The battlefield and Visitor Center at Stillwater are the visit, with the Schuyler House, Saratoga Monument, and Victory Woods units eight miles north in Schuylerville and Victory; the NPS fees page states no entrance pass is required, and the park compendium carries battlefield grounds open sunrise to sunset with the tour road seasonal for vehicles."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NY-sleepy-hollow-sunnyside",
+   "slug": "NY-sleepy-hollow-sunnyside",
+   "title": "HT-RES-NY-sleepy-hollow-sunnyside — The cottage its author invented twice, and the stone church his horseman rides home to",
+   "town": "Irvington",
+   "state": "New York",
+   "stateCode": "NY",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NY-sleepy-hollow-sunnyside — The cottage its author invented twice, and the stone church his horseman rides home to",
+   "stableName": "Washington Irving's Sunnyside (with the Old Dutch Church of Sleepy Hollow)",
+   "address": "3 W Sunnyside Lane, Irvington, NY 10533 (Sunnyside; see §6 on the Tarrytown/Irvington address split)",
+   "locator": {
+    "stableName": "Washington Irving's Sunnyside (with the Old Dutch Church of Sleepy Hollow)",
+    "address": "3 W Sunnyside Lane, Irvington, NY 10533 (Sunnyside; see §6 on the Tarrytown/Irvington address split)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The NPS National Register records consulted for this pair (NRIS 66000583 for Sunnyside and NRIS 66000581 for the Dutch Reformed Church) carry no latitude/longitude, the church nomination marks its location not for publication, and no nomination or HABS record consulted carries a single verified point for either building; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "66000583 — Sunnyside, listed October 15, 1966 (date published in the NPS National Register record; also a National Historic Landmark); 66000581 — Dutch Reformed Church (Sleepy Hollow), listed October 15, 1966",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS NY,60-TARY.V,1-1 (Library of Congress Pictures item ny0876.photos.124862p; survey HABS No. NY-5637)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NHLS/66000583",
+    "operator": "Historic Hudson Valley (Sunnyside); Reformed Church of the Tarrytowns (Old Dutch Church and Old Dutch Burying Ground)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Tarrytown / Sleepy Hollow"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Washington Irving's Sunnyside, 3 W Sunnyside Lane, Irvington, NY 10533 (GPS address as the operator, Historic Hudson Valley, carries it); the Old Dutch Church stands on U.S. Route 9 (North Broadway), Sleepy Hollow, a few miles north"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Sunnyside is entered by timed, ticketed guided tour in its May–December season, at the admission the operator's page states; its grounds may be explored after the tour. The Old Dutch Church is an active, consecrated building opened for worship and special occasions, not a museum; its burying ground is open to visitors daily until 4:30 p.m. with no entry after 4:30, and Sleepy Hollow Cemetery beside it is a separate ground with its own gate."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NY-west-point",
+   "slug": "NY-west-point",
+   "title": "HT-RES-NY-west-point — The plain above the river bend, held since 1778 and never taken",
+   "town": "West Point",
+   "state": "New York",
+   "stateCode": "NY",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NY-west-point — The plain above the river bend, held since 1778 and never taken",
+   "stableName": "United States Military Academy — West Point",
+   "address": "2107 New South Post Road, West Point, NY 10996",
+   "locator": {
+    "stableName": "United States Military Academy — West Point",
+    "address": "2107 New South Post Road, West Point, NY 10996",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The National Register nomination consulted marks its location line \"not for publication\" and carries no latitude/longitude in the text consulted, and the LOC HABS frame record for this entry's photo carries empty latitude/longitude values; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "66000562 — listed October 15, 1966 (date as the National Register record for the United States Military Academy carries it)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS NY-5708 (Library of Congress, Historic American Buildings Survey; frame HABS NY,36-WEPO,1--9)",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/66000562_text",
+    "operator": "United States Army (United States Military Academy / U.S. Army Garrison West Point)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "West Point"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Frederic V. Malek West Point Visitors Center, 2107 New South Post Road, West Point, NY 10996 (address as the U.S. Military Academy's visitors pages carry it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "An active military installation with restricted access, in the National Register nomination's own classification. The Visitors Center and West Point Museum outside Thayer Gate are the public face; entry to the post is by guided public tour or by Visitor Control Center credentialing for unescorted access, on the ID and background-check terms the Academy's official sources state in §1. No unescorted wandering of the historic ground is offered or implied."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NY-womens-rights-seneca-falls",
+   "slug": "NY-womens-rights-seneca-falls",
+   "title": "HT-RES-NY-womens-rights-seneca-falls — Five days' notice, a brick chapel, and a declaration signed in pencil-light",
+   "town": "Seneca Falls",
+   "state": "New York",
+   "stateCode": "NY",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NY-womens-rights-seneca-falls — Five days' notice, a brick chapel, and a declaration signed in pencil-light",
+   "stableName": "Women's Rights National Historical Park",
+   "address": "136 Fall Street, Seneca Falls, NY 13148",
+   "locator": {
+    "stableName": "Women's Rights National Historical Park",
+    "address": "136 Fall Street, Seneca Falls, NY 13148",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The NPS National Register record consulted for the convention ground (NRIS 80000361) carries no latitude/longitude, and the only NPS point found — a park-level point repeated across the park's NPGallery asset records — is not verified for the chapel ground and disagrees with the Register record's Fall Street placement; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "80000361 — Wesleyan Methodist Church, listed August 29, 1980 (date published in the NPS National Register record)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "c0d297f3-b933-4ff5-a704-6a920ec8a9e7 (NPGallery asset ID for the first photograph)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/80000361",
+    "operator": "National Park Service",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Seneca Falls"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Women's Rights National Historical Park Visitor Center, 136 Fall Street, Seneca Falls, NY 13148 (address as the NPS park pages carry it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The Visitor Center, Declaration Park, and Wesleyan Chapel at 136 Fall Street are the Seneca Falls visit, with the Stanton House across town and the M'Clintock and Hunt houses in Waterloo; the NPS fees page states no entrance pass is required, and building hours change by season per the park's own listing."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
      }
     ]
    }

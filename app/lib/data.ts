@@ -183,6 +183,7 @@ function extraField(site: Site, key: string): string {
 
 function classifyApproach(site: Site, anchorName: string, basis: string): AnchorApproach {
   if (LEWISTON_CITY_WALK.has(site.slug)) return "city walk";
+  if (site.slug === "NY-camp-santanoni" && basis === "Public anchor" && anchorName.startsWith("Gate Lodge Parking Area")) return "hike";
   const text = `${anchorName} ${(site.access || "").slice(0, 400)}`;
   if (basis === "public locator" || /sidewalk|overlook|levee|parkway|viewpoint|riverfront/i.test(text))
     return "nearest public ground";
@@ -327,7 +328,7 @@ export function getHistoricPhoto(slug: string): HistoricPhoto | undefined {
   // Browse and home lead tiles have no attribution block. License-bound
   // photos remain available only in their fully credited article figure.
   leadPhotos ??= new Map(getSites().flatMap((site) => {
-    const photo = site.photos?.find((candidate) => candidate.license !== "Free Art License 1.3");
+    const photo = site.photos?.find((candidate) => candidate.license !== "Free Art License 1.3" && site.slug !== "NY-camp-santanoni");
     return photo ? [[site.slug, photo]] : [];
   }));
   return leadPhotos.get(slug);

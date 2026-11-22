@@ -43,6 +43,7 @@ function PhotoFigure({ photo }: { photo: HistoricPhoto }) {
 
 function LocatorCard({ site }: { site: Site }) {
   const { operator, access, listing, registerUrl, point } = getPublicLocator(site.slug);
+  const isSantanoni = site.slug === "NY-camp-santanoni";
   if (!operator && !access && !listing && !point) return null;
   return (
     <section className="panel" aria-label="Locator record">
@@ -56,7 +57,7 @@ function LocatorCard({ site }: { site: Site }) {
             <dd>{registerUrl ? <a href={registerUrl} target="_blank" rel="noreferrer">{listing}</a> : listing}</dd>
           </div>
         )}
-        {point && <div><dt>Coordinates</dt><dd>{point.lat}, {point.lon}</dd></div>}
+        {point && <div><dt>{isSantanoni ? "Gate Lodge Parking Area trailhead coordinates" : "Coordinates"}</dt><dd>{point.lat}, {isSantanoni ? point.lon.toFixed(4) : point.lon}</dd></div>}
       </dl>
       {point && (
         <p className="small">
@@ -65,10 +66,11 @@ function LocatorCard({ site }: { site: Site }) {
             target="_blank"
             rel="noreferrer"
           >
-            See the recorded point on OpenStreetMap
+            {isSantanoni ? "See the Gate Lodge Parking Area trailhead on OpenStreetMap" : "See the recorded point on OpenStreetMap"}
           </a>{" "}
-          — the point as printed in the dossier&apos;s locator record. A pin is not a public
-          entrance; the Before you go section above says where you may stand.
+          {isSantanoni
+            ? "This DEC point marks the parking area and trailhead, not the main camp, which is about five miles away by the carriage road. Public motor vehicles are not permitted on the trail."
+            : "— the point as printed in the dossier’s locator record. A pin is not a public entrance; the Before you go section above says where you may stand."}
         </p>
       )}
     </section>
