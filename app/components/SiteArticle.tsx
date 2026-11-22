@@ -30,7 +30,10 @@ function PhotoFigure({ photo }: { photo: HistoricPhoto }) {
         <span className="hp-caption">{photo.caption}</span>
         <span className="hp-credit">
           {photo.eraRole === "then" ? "Then" : "Now"} · {photo.dateNote || photo.year || ""}{(photo.dateNote || photo.year) && " · "}
-          <span data-photo-credit>{photo.credit}</span> · <a href={photo.licenseUrl}>{photo.license}</a>
+          <span data-photo-credit>
+            {photo.modificationNote ? <a href={photo.sourceUrl}>{photo.credit}</a> : photo.credit}
+          </span> · <a href={photo.licenseUrl}>{photo.license}</a>
+          {photo.modificationNote && <>{" · "}{photo.modificationNote}</>}
           {" · "}<a href={photo.sourceUrl}>{photo.sourceName}</a>
         </span>
       </figcaption>
@@ -189,6 +192,7 @@ export default function SiteArticle({ site, context }: { site: Site; context?: Q
   const publicTitle = getPublicTitle(slug);
   const themes = catalog().find(r=>r.slug === slug)!.themes;
   const isReflection = site.stopType === "reflection";
+  const isFlight93 = slug === "PA-flight-93-national-memorial-reflection";
   const anchor = getVisitableAnchor(site);
   // Editors opt an individual public place into field checks. A historic point or
   // an inferred anchor alone never issues an invitation.
@@ -279,8 +283,8 @@ export default function SiteArticle({ site, context }: { site: Site; context?: Q
         )}
         {isReflection && (
           <p>
-            <strong>This is reflection ground.</strong> Read and witness. There are no finds,
-            no tags, and no scoring here.
+            <strong>This is reflection ground.</strong> Read and witness.
+            {!isFlight93 && " There are no finds, no tags, and no scoring here."}
           </p>
         )}
       </section>
@@ -343,7 +347,9 @@ export default function SiteArticle({ site, context }: { site: Site; context?: Q
       {site.moreSections.map((s) => (
         <section key={s.title}>
           <h2>{s.title}</h2>
-          <Md text={s.body} />
+          <Md text={isFlight93 && s.title === "Reflection"
+            ? s.body.replace(/^\*\*Reflection stop only\. No hunts, scoring, answer keys, hidden targets or reenactments\.\*\*\s*/, "")
+            : s.body} />
         </section>
       ))}
 
@@ -365,7 +371,10 @@ export default function SiteArticle({ site, context }: { site: Site; context?: Q
       {site.photoRecord && (
         <details className="sources">
           <summary>Photo record (from the dossier)</summary>
-          <Md text={site.photoRecord} />
+          <Md text={slug === "PA-centralia"
+            ? site.photoRecord.replace(/^- Rights\/license line, verbatim from the file page[^\n]*$/m,
+                "- Published license: [Free Art License 1.3](https://artlibre.org/licence/lal/en/). See the photograph credit above for the author, original and WebP conversion.")
+            : site.photoRecord} />
         </details>
       )}
       {site.sources && (
