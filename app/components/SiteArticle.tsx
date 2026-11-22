@@ -7,6 +7,7 @@ import {
   getHuntFindsForSite,
   getPlainTop,
   getPublicLocator,
+  getPublicTitle,
   getToursForSite,
   getVisitableAnchor,
   historicLocationFields,
@@ -185,6 +186,7 @@ function HistoricLocation({ site }: { site: Site }) {
 
 export default function SiteArticle({ site, context }: { site: Site; context?: Query }) {
   const {slug} = site;
+  const publicTitle = getPublicTitle(slug);
   const themes = catalog().find(r=>r.slug === slug)!.themes;
   const isReflection = site.stopType === "reflection";
   const anchor = getVisitableAnchor(site);
@@ -213,7 +215,8 @@ export default function SiteArticle({ site, context }: { site: Site; context?: Q
         dangerouslySetInnerHTML={{ __html: JSON.stringify(entryJsonLd(site)) }}
       />
       <EntryNavigation slug={slug} context={context}/>
-      <h1>{site.title}</h1>
+      <h1>{publicTitle.name}</h1>
+      {publicTitle.dek && <p className="lede entry-dek">{publicTitle.dek}</p>}
       <p>
         {site.town ? `${site.town}, ` : ""}{site.state}
         {" · "}

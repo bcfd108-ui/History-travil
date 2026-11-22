@@ -286,6 +286,13 @@ export function getPublicLocator(slug: string) {
   return publicLocators[slug];
 }
 
+interface PublicTitle { name: string; dek: string; basis: string }
+let publicTitles: Record<string, PublicTitle> | null = null;
+export function getPublicTitle(slug: string) {
+  publicTitles ??= load<Record<string, PublicTitle>>("public-titles.json");
+  return publicTitles[slug] || { name: "Catalog entry", dek: "", basis: "hold: no verified name" };
+}
+
 export function getSites(): Site[] {
   if (!sitesCache) sitesCache = load<Site[]>("sites.json");
   return sitesCache;

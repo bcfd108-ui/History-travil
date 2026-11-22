@@ -1,7 +1,7 @@
 import type { ReactNode } from "react";
 import { notFound } from "next/navigation";
 import Image from "next/image";
-import { getHistoricPhoto, getToursForSite } from "@/lib/data";
+import { getHistoricPhoto, getPublicTitle, getToursForSite } from "@/lib/data";
 import {
   area,
   byGround,
@@ -103,7 +103,7 @@ export function ThemeLinks({ featured = false }: { featured?: boolean }) {
     </div>
   );
 }
-export function Entries({ rows, ctx }: { rows: BrowseRow[]; ctx: Query }) {
+export function Entries({ rows, ctx, legacyTitles = false }: { rows: BrowseRow[]; ctx: Query; legacyTitles?: boolean }) {
   return (
     <ul className="entry-list">
       {rows.map((r) => {
@@ -113,7 +113,7 @@ export function Entries({ rows, ctx }: { rows: BrowseRow[]; ctx: Query }) {
           <li key={r.slug}>
             <a className="entry-link" href={entryUrl(r, ctx)}>
               {lead && <Image className="entry-lead" src={lead.src} alt={lead.alt} width={lead.width} height={lead.height} sizes="(max-width: 520px) 45vw, 240px" />}
-              <strong>{r.title}</strong>
+              <strong>{legacyTitles ? r.title : getPublicTitle(r.slug).name}</strong>
               <span>
                 {[
                   r.town || r.county,
@@ -155,7 +155,7 @@ export function Pager({
     </nav>
   ) : null;
 }
-export function GroundGroups({ rows, ctx }: { rows: BrowseRow[]; ctx: Query }) {
+export function GroundGroups({ rows, ctx, legacyTitles = false }: { rows: BrowseRow[]; ctx: Query; legacyTitles?: boolean }) {
   return (
     <>
       {buckets(rows, (r) => [r.state]).map(([state, places]) => (
@@ -168,7 +168,7 @@ export function GroundGroups({ rows, ctx }: { rows: BrowseRow[]; ctx: Query }) {
           {buckets(places, (r) => [area(r)]).map(([name, items]) => (
             <section key={name}>
               <h3>{name}</h3>
-              <Entries rows={items} ctx={ctx} />
+              <Entries rows={items} ctx={ctx} legacyTitles={legacyTitles} />
             </section>
           ))}
         </section>
@@ -275,9 +275,9 @@ export function CatalogBrowse({ p, code = "" }: { p: Query; code?: string }) {
       {group ? (
         <>
           {view === "area" ? (
-            <Entries rows={pageRows} ctx={ctx} />
+            <Entries rows={pageRows} ctx={ctx} legacyTitles={Boolean(code)} />
           ) : (
-            <GroundGroups rows={pageRows} ctx={ctx} />
+            <GroundGroups rows={pageRows} ctx={ctx} legacyTitles={Boolean(code)} />
           )}
           <Pager
             n={page}

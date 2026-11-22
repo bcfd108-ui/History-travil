@@ -14,6 +14,7 @@
 // therefore mapped by title keywords first, section numbers second.
 // Run: node scripts/convert.mjs   (also runs as part of `npm run build`)
 import { publicLocator } from "./public-locator.mjs";
+import { entryDisplayTitle, recordedTitleName } from "./entry-title.mjs";
 import { readdirSync, readFileSync, writeFileSync, existsSync, mkdirSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -442,6 +443,12 @@ function convert(filePath, origin) {
       publishedAs: "Published research — the record, with its gaps printed. Not yet field-proven.",
     },
     publicLocator: publicLocator(parseLocator(S.locatorSec, false), md),
+    publicTitle: entryDisplayTitle({
+      slug, raw: title, hasHeading: Boolean(titleLine), town: town || "",
+      stableName: recordedTitleName(S.locatorSec?.body) ||
+        pick(parseLocator(S.locatorSec, false), (key) => /^stable (?:site |entry |resource )?name$/i.test(key)) ||
+        locator.stableName,
+    }),
     meta: { slug, origin, isRevision, boldSec1, altScheme: !sections[10] && !!S.locatorSec, moreCount: (S.moreSections || []).length, signals, cand, hasCoordinates: !!coordinates, coordinateKind },
   };
 }
@@ -518,6 +525,8 @@ const stats = {
 if (!existsSync(outDir)) mkdirSync(outDir, { recursive: true });
 const publicLocators = Object.fromEntries([...bySlug].map(([slug, entry]) => [slug, entry.publicLocator]));
 writeFileSync(join(outDir, "public-locators.json"), JSON.stringify(publicLocators));
+const publicTitles = Object.fromEntries(sites.map((s) => [s.slug, bySlug.get(s.slug).publicTitle]));
+writeFileSync(join(outDir, "public-titles.json"), JSON.stringify(publicTitles));
 writeFileSync(join(outDir, "sites.json"), JSON.stringify(sites, null, 1));
 writeFileSync(join(outDir, "index.json"), JSON.stringify(index));
 writeFileSync(join(outDir, "stats.json"), JSON.stringify(stats, null, 2));

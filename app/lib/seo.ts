@@ -1,4 +1,4 @@
-import { getPlainTop, getVisitableAnchor, type Site } from "@/lib/data";
+import { getPlainTop, getPublicTitle, getVisitableAnchor, type Site } from "@/lib/data";
 
 // ---------------------------------------------------------------------------
 // SEO foundation (Nov 20, 2026): the catalog is found through search, one
@@ -65,7 +65,7 @@ export function entryDescription(site: Site): string {
   text = text.replace(/^One-minute hook:\s*/i, "");
   if (!text) {
     // Last resort is still the record: the title plus where it stands.
-    text = `${site.title} — ${site.town ? `${site.town}, ` : ""}${site.state}.`;
+    text = `${getPublicTitle(site.slug).name} — ${site.town ? `${site.town}, ` : ""}${site.state}.`;
   }
   // Typographic only: a description starts with a capital, even where the
   // label strip left the sentence's continuation first.
@@ -98,7 +98,7 @@ export function entryJsonLd(site: Site) {
   const ld: Record<string, unknown> = {
     "@context": "https://schema.org",
     "@type": isAttraction ? "TouristAttraction" : "Place",
-    name: site.title,
+    name: getPublicTitle(site.slug).name,
     description: entryDescription(site),
     url: entryUrl(site),
     address,
