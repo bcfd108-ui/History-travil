@@ -1,6 +1,6 @@
 {
- "commit": "9b1da6323ff063e8f513f1d21429c7ad29421717",
- "catalogCount": 747,
+ "commit": "853f2b171e6cf6f3bbb589b702518cd2cfbed101",
+ "catalogCount": 779,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -137,7 +137,7 @@
    "stateCode": "AL",
    "coordinates": null,
    "coordinateKind": "",
-   "stopType": "view",
+   "stopType": "reflection",
    "subject": "AL-freedom-riders-anniston",
    "stableName": "Freedom Riders National Monument, Anniston Greyhound Depot",
    "address": "",
@@ -5435,6 +5435,177 @@
    }
   },
   {
+   "id": "HT-FL-castillo-de-san-marcos",
+   "slug": "FL-castillo-de-san-marcos",
+   "title": "FL-castillo-de-san-marcos",
+   "town": "",
+   "state": "Florida",
+   "stateCode": "FL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "FL-castillo-de-san-marcos",
+   "stableName": "Castillo de San Marcos National Monument",
+   "address": "",
+   "locator": {
+    "stableName": "Castillo de San Marcos National Monument",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "66000062",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS FL-17",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Historic location",
+      "value": "The Castillo, formerly Fort Marion, St. Augustine, Florida"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Governor’s House Cultural Center and Museum, 48 King Street, St. Augustine"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Staff-open public gallery, independent of the fort"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/NRHP/AssetDetail?assetID=be95aed0-9fa9-4fb0-93dc-fb0475f6e761"
+     },
+     {
+      "key": "Governing specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager/operator",
+      "value": "National Park Service (historic ground); UF Historic St. Augustine (public anchor)"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-FL-fort-jefferson-dry-tortugas",
+   "slug": "FL-fort-jefferson-dry-tortugas",
+   "title": "FL-fort-jefferson-dry-tortugas",
+   "town": "",
+   "state": "Florida",
+   "stateCode": "FL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "FL-fort-jefferson-dry-tortugas",
+   "stableName": "Fort Jefferson, Dry Tortugas National Park",
+   "address": "",
+   "locator": {
+    "stableName": "Fort Jefferson, Dry Tortugas National Park",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "70000069",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS FL-44",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Historic location",
+      "value": "Garden Key, Monroe County, Florida"
+     },
+     {
+      "key": "Public anchor",
+      "value": ""
+     },
+     {
+      "key": "Visitor boundary",
+      "value": ""
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/70000069"
+     },
+     {
+      "key": "Governing specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager/operator",
+      "value": "National Park Service (historic ground); Historic Tours of America / Sails to Rails Museum (former public anchor, closed while relocating)"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-FL-fort-matanzas",
+   "slug": "FL-fort-matanzas",
+   "title": "FL-fort-matanzas",
+   "town": "",
+   "state": "Florida",
+   "stateCode": "FL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "FL-fort-matanzas",
+   "stableName": "Fort Matanzas National Monument",
+   "address": "",
+   "locator": {
+    "stableName": "Fort Matanzas National Monument",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "66000098",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS FL-15-5",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Historic location",
+      "value": "Rattlesnake Island tower, St. Johns County, Florida"
+     },
+     {
+      "key": "Public anchor",
+      "value": "NPS Fort Matanzas Visitor Center, 8635 A1A South, St. Augustine"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Signed public parking approach, building entrance and staffed indoor interpretation"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/66000098"
+     },
+     {
+      "key": "Governing specification",
+      "value": "36 CFR 1.5 and Fort Matanzas Superintendent’s Compendium [3]"
+     },
+     {
+      "key": "Official manager/operator",
+      "value": "National Park Service"
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-GA-andalusia-farm",
    "slug": "GA-andalusia-farm",
    "title": "GA-andalusia-farm",
@@ -8353,7 +8524,7 @@
     "lon": -115.852
    },
    "coordinateKind": "locator latitude/longitude fields",
-   "stopType": "view",
+   "stopType": "reflection",
    "subject": "HT-RES-ID-nine-mile-cemetery — The 1910 firefighters' monument",
    "stableName": "Nine Mile Cemetery — Wallace 1910 Fire Memorial",
    "address": "",
@@ -9988,6 +10159,1087 @@
      {
       "key": "Official manager/operator",
       "value": "City of Wallace (public street right-of-way)"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-apple-river-fort",
+   "slug": "IL-apple-river-fort",
+   "title": "Apple River Fort State Historic Site — the lead-country fort Black Hawk attacked on a Sunday afternoon",
+   "town": "Elizabeth",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": {
+    "lat": 42.318606717729466,
+    "lon": -90.22020512329624
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "reflection",
+   "subject": "Apple River Fort State Historic Site — the lead-country fort Black Hawk attacked on a Sunday afternoon",
+   "stableName": "Apple River Fort State Historic Site (Apple River Fort Site)",
+   "address": "",
+   "locator": {
+    "stableName": "Apple River Fort State Historic Site (Apple River Fort Site)",
+    "address": "",
+    "latitude": "42.318606717729466 (Interpretive Center, per operator directions page) [4]",
+    "longitude": "-90.22020512329624 (Interpretive Center, per operator directions page) [4]",
+    "coordinateSource": "Operator-published GPS coordinates for the Interpretive Center; the reconstructed fort's operator coordinates are 42.31851055362119, -90.2127470096661 [4]",
+    "nrhp": "97001332, Apple River Fort Site, listed Nov. 7, 1997; criteria event and information potential; significant year 1832 [5, 6]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Elizabeth"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Interpretive Center, 311 East Myrtle St., Elizabeth, IL 61028, then the reconstructed fort a quarter mile east via Old Fort Road — self-guided, site hours only [2, 4]"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/2cf171c2-529d-46c4-8c6d-09997ef2f7b4/"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "State of Illinois — Apple River Fort State Historic Site (state operation from 2001), with the Apple River Fort Historic Foundation [1, 7]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-bishop-hill-state-historic-site",
+   "slug": "IL-bishop-hill-state-historic-site",
+   "title": "Bishop Hill State Historic Site — the Swedish Pietist colony of 1846, its church, hotel and Krans paintings",
+   "town": "Bishop Hill, Henry County",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": {
+    "lat": 41.196147,
+    "lon": -90.119219
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "reflection",
+   "subject": "Bishop Hill State Historic Site — the Swedish Pietist colony of 1846, its church, hotel and Krans paintings",
+   "stableName": "Bishop Hill State Historic Site (Bishop Hill Colony / Bishop Hill Historic District)",
+   "address": "",
+   "locator": {
+    "stableName": "Bishop Hill State Historic Site (Bishop Hill Colony / Bishop Hill Historic District)",
+    "address": "",
+    "latitude": "41.196147",
+    "longitude": "-90.119219",
+    "coordinateSource": "Exact-location point carried in the state-site listing data for 304 S. Bishop Hill St.; scope is the state site point, not the landmark district, whose nomination boundary corners run approx. 41°12′20″N to 41°11′54″N, 90°07′24″W to 90°06′54″W [1, 2]",
+    "nrhp": "70000244, Bishop Hill Colony; added to NRHP April 17, 1970; designated National Historic Landmark District April 27, 1984; period 1846–1870 on the landmark nomination [2]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Bishop Hill Colony subject collection and Bishop Hill Colony Papers exhibitions, Swenson Swedish Immigration Research Center, Augustana College, Rock Island, Illinois [7]",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Bishop Hill, Henry County"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Bishop Hill State Historic Site, 304 S. Bishop Hill St., Bishop Hill, IL 61419 (IDNR) — Colony Church and Museum self-guided, Colony Hotel by appointment, hours in conflict across listings, Museum \"(Once Reopened)\" per state page checked this run [1, 6]"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/pdfhost/docs/NRHP/Text/70000244.pdf"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "Illinois Department of Natural Resources, Historic Sites (state-owned Colony Church, Colony Hotel, Boys Dormitory, Colony barn, village park and Museum); Bishop Hill Heritage Association operates the Steeple Building Museum and other colony buildings separately [1, 6]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-black-hawk-state-historic-site",
+   "slug": "IL-black-hawk-state-historic-site",
+   "title": "Black Hawk State Historic Site — Saukenuk, the CCC lodge, and the bluff above the Rock River",
+   "town": "Rock Island",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": {
+    "lat": 41.464167,
+    "lon": -90.5725
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "reflection",
+   "subject": "Black Hawk State Historic Site — Saukenuk, the CCC lodge, and the bluff above the Rock River",
+   "stableName": "Black Hawk State Historic Site (Black Hawk Museum and Lodge; Saukenuk village ground)",
+   "address": "",
+   "locator": {
+    "stableName": "Black Hawk State Historic Site (Black Hawk Museum and Lodge; Saukenuk village ground)",
+    "address": "",
+    "latitude": "41.464167 (Black Hawk Museum and Lodge, per Register listing coordinates) [4]",
+    "longitude": "-90.572500 (Black Hawk Museum and Lodge, per Register listing coordinates) [4]",
+    "coordinateSource": "National Register listing coordinates for the lodge building; the wider park's own published place coordinates (41.465053, -90.576337) describe the park as a whole — the two points differ and are not merged [2, 4]",
+    "nrhp": "85002402, Black Hawk Museum and Lodge, listed Mar. 4, 1985; Illinois State Parks Lodges and Cabins TR; architecture, period 1925–1949 [4, 5]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Rock Island"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Watch Tower Lodge / John Hauberg Museum, 1510 46th Ave., Rock Island, IL 61201 — grounds sunrise–10 p.m. year-round; museum Wed–Sun 9–12 & 1–4 per site description checked this run, confirm by phone [1, 2]"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/85002402"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "State of Illinois — Illinois Department of Natural Resources, Black Hawk State Historic Site; programs supported by the Citizens to Preserve Black Hawk Park Foundation [1, 2]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-black-metropolis-bronzeville",
+   "slug": "IL-black-metropolis-bronzeville",
+   "title": "Black Metropolis–Bronzeville — the Great Migration's city within a city, and the Bronzeville Walk of Fame",
+   "town": "Chicago",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Black Metropolis–Bronzeville — the Great Migration's city within a city, and the Bronzeville Walk of Fame",
+   "stableName": "Black Metropolis–Bronzeville District and Bronzeville Walk of Fame",
+   "address": "",
+   "locator": {
+    "stableName": "Black Metropolis–Bronzeville District and Bronzeville Walk of Fame",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "Six district structures individually listed Apr. 30, 1986, Black Metropolis Thematic Nomination [2, 3]; the district itself is a Chicago Landmark District (Sept. 9, 1998), not NR-listed",
+    "hmdb": "308339, Monument to the Great Northern Migration marker [7]",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Chicago"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Bronzeville Walk of Fame, Dr. Martin Luther King Jr. Drive between 25th and 35th Streets, Chicago, IL"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": ""
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": "Bronzeville-Black Metropolis National Heritage Area, designated by the National Heritage Area Act, Public Law 117-339, signed Jan. 5, 2023 [1, 6]"
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "Black Metropolis National Heritage Area Commission (coordinating entity); streetscape is City of Chicago public ground [1]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-dusable-black-history-museum",
+   "slug": "IL-dusable-black-history-museum",
+   "title": "DuSable Black History Museum and Education Center — the museum that began in a Bronzeville living room",
+   "town": "Chicago",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "DuSable Black History Museum and Education Center — the museum that began in a Bronzeville living room",
+   "stableName": "DuSable Black History Museum and Education Center",
+   "address": "",
+   "locator": {
+    "stableName": "DuSable Black History Museum and Education Center",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "Contributing building, Washington Park listing (2004) and Chicago Park Boulevard System Historic District (2018), per TCLF [4]; no individual NRIS number asserted",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Chicago"
+     },
+     {
+      "key": "Public anchor",
+      "value": "DuSable Black History Museum and Education Center, 740 East 56th Place, Chicago, IL 60637"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": ""
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": "Smithsonian Institution affiliate (2016) [2, 3]"
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "DuSable Black History Museum and Education Center, on Chicago Park District ground in Washington Park [1, 4]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-first-division-museum-cantigny",
+   "slug": "IL-first-division-museum-cantigny",
+   "title": "First Division Museum at Cantigny — the Big Red One's museum on Colonel McCormick's estate",
+   "town": "Wheaton",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "First Division Museum at Cantigny — the Big Red One's museum on Colonel McCormick's estate",
+   "stableName": "First Division Museum at Cantigny",
+   "address": "",
+   "locator": {
+    "stableName": "First Division Museum at Cantigny",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Colonel Robert R. McCormick Research Center, First Division Museum — library and archives, per Society for Military History record [8]",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Wheaton"
+     },
+     {
+      "key": "Public anchor",
+      "value": "First Division Museum, Cantigny, 1S151 Winfield Road, Wheaton, IL 60189"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": ""
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "Robert R. McCormick Foundation (Cantigny Park and First Division Museum) [1, 4]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-galena-lead-mining-district-dowling-house",
+   "slug": "IL-galena-lead-mining-district-dowling-house",
+   "title": "Galena lead-mining district and the Dowling House — the 1826 stone trading post in the town lead built",
+   "town": "Galena",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Galena lead-mining district and the Dowling House — the 1826 stone trading post in the town lead built",
+   "stableName": "Galena Historic District and Dowling House",
+   "address": "",
+   "locator": {
+    "stableName": "Galena Historic District and Dowling House",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "69000056, Galena Historic District, listed Oct. 18, 1969; boundary increase/decrease 13000854 (2013); Dowling House a contributing property [2, 6]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS IL-178-A (John Dowling House, Main & Diagonal); HABS IL-26-14 is the separate 1847 Bench Street Dowling House — do not merge [8]",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Galena"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Dowling House, 220 Diagonal St., Galena, IL 61036 — guided tours in season (May–October) per operator; exterior and district streets out of season [5]"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/69000056"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "Dowling House tours operated by the tour operator publishing at hauntedgalenatourcompany.com (Dowling House Tours page checked this run) [5]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-graue-mill-and-museum",
+   "slug": "IL-graue-mill-and-museum",
+   "title": "Graue Mill and Museum — a working Salt Creek gristmill and an Underground Railroad station",
+   "town": "Oak Brook",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Graue Mill and Museum — a working Salt Creek gristmill and an Underground Railroad station",
+   "stableName": "Graue Mill and Museum",
+   "address": "",
+   "locator": {
+    "stableName": "Graue Mill and Museum",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "75002077 (listed May 12, 1975, per register-derived summaries checked this run; operator confirms May 1975 listing) [1, 3]",
+    "hmdb": "48058 (Ben Fuller House marker, which carries the Graue Mill history text) [5]",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Oak Brook"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Graue Mill and Museum, 3800 York Road, Oak Brook, IL 60523"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": ""
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": "Illinois Historic Mechanical Engineering Landmark, American Society of Mechanical Engineers, 1981 [1, 2]"
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "Forest Preserve District of DuPage County [1, 2]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-haymarket-martyrs-monument",
+   "slug": "IL-haymarket-martyrs-monument",
+   "title": "Haymarket Martyrs' Monument, Forest Home Cemetery — the Haymarket defendants' graves and labor's memorial ground",
+   "town": "Forest Park",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Haymarket Martyrs' Monument, Forest Home Cemetery — the Haymarket defendants' graves and labor's memorial ground",
+   "stableName": "Haymarket Martyrs' Monument, Forest Home Cemetery",
+   "address": "",
+   "locator": {
+    "stableName": "Haymarket Martyrs' Monument, Forest Home Cemetery",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "97000343, Haymarket Martyrs' Monument; National Historic Landmark designated Feb. 18, 1997 [2]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Forest Park"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Forest Home Cemetery, 863 S. Des Plaines Ave., Forest Park, IL 60130"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/97000343_text"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "Forest Home Cemetery (grounds); Illinois Labor History Society holds the deed to the monument and is responsible for its maintenance and restoration [3, 7]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-illinois-michigan-canal-lockport",
+   "slug": "IL-illinois-michigan-canal-lockport",
+   "title": "Illinois & Michigan Canal at Lockport — the canal's headquarters town, its office, and its warehouse",
+   "town": "Lockport",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Illinois & Michigan Canal at Lockport — the canal's headquarters town, its office, and its warehouse",
+   "stableName": "Illinois & Michigan Canal at Lockport — Gaylord Building and Canal Office Building",
+   "address": "",
+   "locator": {
+    "stableName": "Illinois & Michigan Canal at Lockport — Gaylord Building and Canal Office Building",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "66000332 (Illinois and Michigan Canal Locks and Towpath, NHL designated Jan. 29, 1964); 72000467 (Canal Office Building, listed May 17, 1972); Lockport Historic District 75000676 (Gaylord Building contributing, May 12, 1975) [3, 4, 6]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Will County Historical Museum and Research Center — canal documents including original plans, per NR nomination [6]; Adelmann Regional History Center Collection, Lewis University (Lockport photography) [2]",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Lockport"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Gaylord Building, 200 W. 8th St., Lockport, IL 60441; and Will County Historical Museum and Research Center, 803 S. State St., Lockport, IL 60441"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/66000332_text"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": "Illinois & Michigan Canal National Heritage Area, designated 1984, first National Heritage Area; coordinating entity Canal Corridor Association [5]"
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "National Trust for Historic Preservation (owner, Gaylord Building) / Gaylord Building Historic Site (operator); Will County Historical Society (Canal Office museum) [3, 4]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-jane-addams-hull-house-museum",
+   "slug": "IL-jane-addams-hull-house-museum",
+   "title": "Jane Addams Hull-House Museum — the Hull-House settlement",
+   "town": "Chicago",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Jane Addams Hull-House Museum — the Hull-House settlement",
+   "stableName": "Jane Addams Hull-House Museum (Hull-House)",
+   "address": "",
+   "locator": {
+    "stableName": "Jane Addams Hull-House Museum (Hull-House)",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "66000315, Jane Addams' Hull-House [3]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Hull-House Photograph Collection (museum), image 0000_0001_0154_R inspected [2]",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Chicago"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Jane Addams Hull-House Museum, 800 S. Halsted St., Chicago, IL 60607-7017"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "http://npgallery.nps.gov/pdfhost/docs/NRHP/Text/66000315.pdf"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": "National Historic Landmark designated June 23, 1965; listed in the National Register Oct. 15, 1966 [3, 4]"
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "University of Illinois Chicago, College of Architecture, Design, and the Arts [2]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-john-deere-historic-site",
+   "slug": "IL-john-deere-historic-site",
+   "title": "John Deere Historic Site — the Grand Detour shop, the 1837 steel plow, and the excavated forge ground",
+   "town": "Grand Detour (Dixon postal address), Ogle County",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": {
+    "lat": 41.896101,
+    "lon": -89.415257
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "reflection",
+   "subject": "John Deere Historic Site — the Grand Detour shop, the 1837 steel plow, and the excavated forge ground",
+   "stableName": "John Deere Historic Site (John Deere House and Shop)",
+   "address": "",
+   "locator": {
+    "stableName": "John Deere Historic Site (John Deere House and Shop)",
+    "address": "",
+    "latitude": "41.896101",
+    "longitude": "-89.415257",
+    "coordinateSource": "Exact-location point carried in the operator-site listing data for 8334 S. Clinton St.; scope is the museum site point, not the Register parcel [1]",
+    "nrhp": "66000327, John Deere House and Shop; National Historic Landmark designated July 19, 1964 (wider record); added to NRHP Oct. 15, 1966; areas Invention, Agriculture; period 1825–1849; significant years 1836, 1847 [7]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Smithsonian NMAH Deere plow, dated 1838, ID AG.38A04 (collections search); Kendall catalog no. F1111 / USNM 148904 tradition — see Gaps on provenance [2, 4]",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Grand Detour (Dixon postal address), Ogle County"
+     },
+     {
+      "key": "Public anchor",
+      "value": "John Deere Historic Site, 8334 South Clinton Street, Grand Detour (Dixon), IL 61021 — free, Apr.–Oct. hours in gate, CLOSED for season Nov. 1–Mar. 31, reopening Apr. 1, 2027, per operator page checked this run [1]"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/NRHP/AssetDetail/028cd7e2-9fe0-49f8-9691-94463186983f/"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "Deere & Company (John Deere Historic Site) [1]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-john-hossack-house",
+   "slug": "IL-john-hossack-house",
+   "title": "John Hossack House — the Ottawa Underground Railroad station and the Jim Gray rescue of 1859",
+   "town": "Ottawa, LaSalle County",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": {
+    "lat": 41.34,
+    "lon": -88.84111
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "reflection",
+   "subject": "John Hossack House — the Ottawa Underground Railroad station and the Jim Gray rescue of 1859",
+   "stableName": "John Hossack House",
+   "address": "",
+   "locator": {
+    "stableName": "John Hossack House",
+    "address": "",
+    "latitude": "41.34000",
+    "longitude": "-88.84111",
+    "coordinateSource": "Point carried in the Register-derived listing data for the house parcel; corroborated within ~80 m by the HMdb marker coordinates 41°20.399′N, 88°50.509′W for the corner markers. Scope is the house/corner point, not a visitor facility. [1, 4, 5]",
+    "nrhp": "72000462, Hossack, John, House; added to NRHP March 16, 1972; criteria Architecture/Engineering and Person; areas Commerce, Law, Architecture, Social History; period 1850–1874; significant year 1854 [1]",
+    "hmdb": "185011 (DAR tablet, \"The Home of John Hossack\"); 185010 (National Register marker, \"Hossack House\") [4, 5]",
+    "ark": "",
+    "archiveId": "Project Gutenberg eBook #13987, *Speech of John Hossack, Convicted of a Violation of the Fugitive Slave Law* (American Anti-Slavery Society, New York, 1860) [2]",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Ottawa, LaSalle County"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Exterior only — public sidewalk/street and the two public markers at 210 W. Prospect Ave. (corner of Christie St.), Ottawa, IL 61350; the house is a private residence, not open to the public, no tours or hours [1, 4, 5, 6]"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/72000462"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "None — private residence; no operator, museum or public program [6, 9]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-joliet-iron-works-historic-site",
+   "slug": "IL-joliet-iron-works-historic-site",
+   "title": "Joliet Iron Works Historic Site — the ruins of Joliet's first great steel works",
+   "town": "Joliet",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Joliet Iron Works Historic Site — the ruins of Joliet's first great steel works",
+   "stableName": "Joliet Iron Works Historic Site (Joliet Steel Works)",
+   "address": "",
+   "locator": {
+    "stableName": "Joliet Iron Works Historic Site (Joliet Steel Works)",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "91000088, Joliet Steel Works, listed Feb. 28, 1991; Criterion EVENT, area of significance INDUSTRY, district, address of record 927 Collins St. [3]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Joliet"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Joliet Iron Works Historic Site, Columbia Street, Joliet, IL 60432 (Forest Preserve District of Will County preserve; see Gaps for address variance)"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/91000088"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "Forest Preserve District of Will County [1, 2]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-old-joliet-prison",
+   "slug": "IL-old-joliet-prison",
+   "title": "Old Joliet Prison — the Illinois State Penitentiary at Joliet, 1858–2002",
+   "town": "Joliet",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Old Joliet Prison — the Illinois State Penitentiary at Joliet, 1858–2002",
+   "stableName": "Old Joliet Prison (Illinois State Penitentiary-Joliet Historic District)",
+   "address": "",
+   "locator": {
+    "stableName": "Old Joliet Prison (Illinois State Penitentiary-Joliet Historic District)",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "SG100009371, Illinois State Penitentiary-Joliet Historic District, listed Sep. 25, 2023 [7]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Joliet"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Old Joliet Prison Historic Site, 1125 Collins St., Joliet, IL 60432 — ticketed tours only, in season [1]"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://home.nps.gov/subjects/nationalregister/weekly-list-2023-09-29.htm"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": "National Park Service Underrepresented Communities Grant (2020), $35,000, Historic Preservation Fund — nomination preparation [8]"
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "Joliet Area Historical Museum, in partnership with the City of Joliet [1, 8]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-pullman-national-historical-park",
+   "slug": "IL-pullman-national-historical-park",
+   "title": "Pullman National Historical Park — the Pullman company town, strike, and porters' ground",
+   "town": "Chicago",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Pullman National Historical Park — the Pullman company town, strike, and porters' ground",
+   "stableName": "Pullman National Historical Park",
+   "address": "",
+   "locator": {
+    "stableName": "Pullman National Historical Park",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "69000054, Pullman Historic District [6]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Chicago"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Pullman National Historical Park Visitor Center, Administration-Clock Tower Building, 610 E. 111th St., Chicago, IL 60628"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/8192ad4d-a012-43d3-91a3-6ededa33a3e1/"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": "Presidential Proclamation 9233, Feb. 19, 2015 (national monument); redesignated a national historical park Dec. 2022 [3, 4]"
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "National Park Service, with partners; most district homes privately owned [2]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-rock-island-arsenal-museum-confederate-cemetery",
+   "slug": "IL-rock-island-arsenal-museum-confederate-cemetery",
+   "title": "Rock Island Arsenal Museum & Confederate Cemetery — the prison barracks' last vestige on an active arsenal island",
+   "town": "Rock Island (Arsenal Island; visitor entry via Moline)",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": {
+    "lat": 41.518985,
+    "lon": -90.545813
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "reflection",
+   "subject": "Rock Island Arsenal Museum & Confederate Cemetery — the prison barracks' last vestige on an active arsenal island",
+   "stableName": "Rock Island Arsenal Museum & Rock Island Confederate Cemetery (Rock Island Arsenal; Rock Island Prison Barracks site)",
+   "address": "",
+   "locator": {
+    "stableName": "Rock Island Arsenal Museum & Rock Island Confederate Cemetery (Rock Island Arsenal; Rock Island Prison Barracks site)",
+    "address": "",
+    "latitude": "41.518985 (museum, per museum place record checked this run); Confederate Cemetery 41.517687 [3, 4]",
+    "longitude": "-90.545813 (museum); Confederate Cemetery -90.533982 [3, 4]",
+    "coordinateSource": "Place-record coordinates for the museum building and the Confederate Cemetery respectively, checked this run; the two anchors are separate points on the island and are not merged",
+    "nrhp": "69000057, Rock Island Arsenal, listed Sept. 30, 1969; National Historic Landmark District designation year in conflict (1988 vs 1989 — see Gaps); Confederate Cemetery within the listed arsenal, per VA page (\"The Rock Island Arsenal, including Rock Island Confederate Cemetery, was listed on the National Register of Historic Places in 1969\") [1, 3]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Rock Island (Arsenal Island; visitor entry via Moline)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Rock Island Arsenal Museum, Building 60, 3500 North Ave., Rock Island, IL 61299 (Tue–Sat 10–4, free) + Rock Island Confederate Cemetery, Rodman Ave., Rock Island, IL 61299 — both via Moline Gate Visitor Welcome Center, 23 Prospect Drive, Moline, IL, visitor pass with REAL ID and background check [3, 4, 8]"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/69000057"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": "VA cemetery grounds and weapons policy per 38 CFR 1.218 as stated on the VA page [3]"
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "U.S. Army — Rock Island Arsenal (installation) and Rock Island Arsenal Museum (U.S. Army Center of Military History system), with the Rock Island Arsenal Historical Society; Confederate Cemetery administered by the VA National Cemetery Administration through Rock Island National Cemetery [1, 3, 4]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-ronald-reagan-boyhood-home",
+   "slug": "IL-ronald-reagan-boyhood-home",
+   "title": "Ronald Reagan Boyhood Home — a rented house on Hennepin Avenue, Dixon",
+   "town": "Dixon",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": {
+    "lat": 41.83611,
+    "lon": -89.480722
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "reflection",
+   "subject": "Ronald Reagan Boyhood Home — a rented house on Hennepin Avenue, Dixon",
+   "stableName": "Ronald Reagan Boyhood Home (Boyhood Home at 816 S. Hennepin Ave.; Visitor Center at 810 S. Hennepin Ave.)",
+   "address": "",
+   "locator": {
+    "stableName": "Ronald Reagan Boyhood Home (Boyhood Home at 816 S. Hennepin Ave.; Visitor Center at 810 S. Hennepin Ave.)",
+    "address": "",
+    "latitude": "41.83611",
+    "longitude": "-89.480722",
+    "coordinateSource": "Coordinates carried in the wider Register-derived record for the house at 816 S. Hennepin Ave.; scope is the house parcel, not the full complex [5]",
+    "nrhp": "82002580, listed Mar. 26, 1982; criterion PERSON, Politics/Government, period 1900–1924, significant years 1920, 1923 [1]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Dixon"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Visitor Center, 810 S. Hennepin Ave., Dixon, IL 61021 — season Apr. 2–Dec. 12, Thu–Sat 10–3, tours on the hour, free, per operator page checked this run (live read) [8]"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/980d6051-f0d9-48ae-9c37-bcb706122289/"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": "Public Law 107-137 (Feb. 6, 2002) — authorized Ronald Reagan Boyhood Home National Historic Site upon federal acquisition; acquisition never occurred, site not established [2]"
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "Young America's Foundation (since December 2020 gift from the Ronald Reagan Boyhood Home Foundation); NOT a National Park Service unit [5, 8]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-us-grant-home",
+   "slug": "IL-us-grant-home",
+   "title": "U.S. Grant Home State Historic Site — the furnished house Galena gave its general in 1865",
+   "town": "Galena",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "U.S. Grant Home State Historic Site — the furnished house Galena gave its general in 1865",
+   "stableName": "U.S. Grant Home State Historic Site (Ulysses S. Grant House)",
+   "address": "",
+   "locator": {
+    "stableName": "U.S. Grant Home State Historic Site (Ulysses S. Grant House)",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "66000322, Grant, Ulysses S., House, listed Oct. 15, 1966; National Historic Landmark designated 1960 per state site [2, 3]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Galena"
+     },
+     {
+      "key": "Public anchor",
+      "value": "U.S. Grant Home, 500 Bouthillier St., Galena, IL 61036 — staff-led guided tours only; reserve in the Nov.–Feb. season [1, 5]"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/66000322"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "State of Illinois — U.S. Grant Home State Historic Site, U.S. Grant Historic Sites, Galena (agency name varies across sources; see Gaps) [1, 2]"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IL-washburne-house",
+   "slug": "IL-washburne-house",
+   "title": "Washburne House State Historic Site — the Galena library where Grant learned he was president",
+   "town": "Galena",
+   "state": "Illinois",
+   "stateCode": "IL",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Washburne House State Historic Site — the Galena library where Grant learned he was president",
+   "stableName": "Washburne House State Historic Site (Elihu Benjamin Washburne House; Washburne–Sheehan House)",
+   "address": "",
+   "locator": {
+    "stableName": "Washburne House State Historic Site (Elihu Benjamin Washburne House; Washburne–Sheehan House)",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "73000708, Washburne, Elihu Benjamin, House, listed July 5, 1973; Greek Revival; significance in politics/government and architecture [4]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Galena"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Washburne House, 908 Third St., Galena, IL 61036 — guided tours only, May–October, Fri–Sat, Questers-led; exterior from public sidewalk out of season [1, 2, 3]"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/73000708"
+     },
+     {
+      "key": "CFR or agency specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager or operator",
+      "value": "State of Illinois — Washburne House State Historic Site, part of the U.S. Grant Historic Sites, Galena (agency name varies across sources between Illinois Historic Preservation Agency and IDNR; see Grant Home dossier) [1, 2]"
      }
     ]
    }
@@ -13102,7 +14354,7 @@
    "stateCode": "KY",
    "coordinates": null,
    "coordinateKind": "",
-   "stopType": "view",
+   "stopType": "reflection",
    "subject": "KY-cumberland-gap-visitor-center",
    "stableName": "Cumberland Gap National Historical Park, Kentucky visitor center",
    "address": "",
@@ -28879,6 +30131,413 @@
    }
   },
   {
+   "id": "HT-NC-biltmore-estate",
+   "slug": "NC-biltmore-estate",
+   "title": "Biltmore Estate — the people who built the house",
+   "town": "",
+   "state": "North Carolina",
+   "stateCode": "NC",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "Biltmore Estate — the people who built the house",
+   "stableName": "Biltmore Estate",
+   "address": "",
+   "locator": {
+    "stableName": "Biltmore Estate",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "66000586",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress Detroit Publishing Company photograph collection, item LC-D4-14329, LC-DIG-det-4a09527",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Historic location",
+      "value": "Biltmore House and historic estate landscape, Asheville, Buncombe County, North Carolina"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Biltmore Estate admissions at 1 Lodge Street, Asheville, with the signed house guest route after entry"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Estate admissions gate, signed guest paths and authorized timed house route only"
+     },
+     {
+      "key": "Visitor access check",
+      "value": "From the ticketed house entrance or designated guest approach, share a dated text note about any changed sign, open doorway or barrier. Pending review."
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/66000586"
+     },
+     {
+      "key": "Governing CFR/agency specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager/operator",
+      "value": "Biltmore"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NC-cape-hatteras-lighthouse-graveyard-of-the-atlantic-museum",
+   "slug": "NC-cape-hatteras-lighthouse-graveyard-of-the-atlantic-museum",
+   "title": "Cape Hatteras Lighthouse and Graveyard of the Atlantic Museum",
+   "town": "",
+   "state": "North Carolina",
+   "stateCode": "NC",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "Cape Hatteras Lighthouse and Graveyard of the Atlantic Museum",
+   "stableName": "Cape Hatteras Light Station",
+   "address": "",
+   "locator": {
+    "stableName": "Cape Hatteras Light Station",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS NC-357, item nc0432.photos.101887p",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Historic location",
+      "value": "Cape Hatteras Lighthouse, Buxton, Dare County, North Carolina, with the pre-1999 and present settings distinct"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Graveyard of the Atlantic Museum, 59200 Museum Drive, Hatteras, North Carolina"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Museum’s signed guest lot beyond the building, guest entrance and open indoor galleries only"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/GetAsset/4510c250-a1cd-496d-bf75-1a4572b7f2b9"
+     },
+     {
+      "key": "Governing specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager/operator",
+      "value": "North Carolina Department of Natural and Cultural Resources at the museum; National Park Service at the historic light station"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NC-fort-raleigh-freedmens-colony",
+   "slug": "NC-fort-raleigh-freedmens-colony",
+   "title": "Fort Raleigh and the Roanoke Island Freedmen’s Colony",
+   "town": "",
+   "state": "North Carolina",
+   "stateCode": "NC",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Fort Raleigh and the Roanoke Island Freedmen’s Colony",
+   "stableName": "Fort Raleigh National Historic Site, Roanoke Island Freedmen’s Colony interpretation",
+   "address": "",
+   "locator": {
+    "stableName": "Fort Raleigh National Historic Site, Roanoke Island Freedmen’s Colony interpretation",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "66000102",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "LOC rbaapc.21111, Horace James report",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Historic location",
+      "value": "Northern Roanoke Island, Dare County, North Carolina; individual historical footprint locations unresolved"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Lindsay Warren Visitor Center, 1500 Fort Raleigh Road, Manteo, North Carolina"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Dedicated paved public visitor lot, signed path to the entrance and indoor interpretation only"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/66000102"
+     },
+     {
+      "key": "Governing specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager/operator",
+      "value": "National Park Service"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NC-greensboro-sit-ins-woolworth",
+   "slug": "NC-greensboro-sit-ins-woolworth",
+   "title": "Greensboro Sit-Ins and the Woolworth Lunch Counter",
+   "town": "",
+   "state": "North Carolina",
+   "stateCode": "NC",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Greensboro Sit-Ins and the Woolworth Lunch Counter",
+   "stableName": "International Civil Rights Center & Museum / F.W. Woolworth lunch counter",
+   "address": "",
+   "locator": {
+    "stableName": "International Civil Rights Center & Museum / F.W. Woolworth lunch counter",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Greensboro Voices / Greensboro Public Library oral history record 37939; Smithsonian collection nmah_1160694 (detached section)",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Historic location",
+      "value": "Former F.W. Woolworth store, South Elm Street, Greensboro, Guilford County, North Carolina"
+     },
+     {
+      "key": "Public anchor",
+      "value": "International Civil Rights Center & Museum, 134 S. Elm Street, Greensboro, North Carolina"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Public sidewalk, signed entrance and ticketed galleries. Counter observation from the museum’s guest area. No photography, video or audio recording in the galleries."
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/61f4d5a5-360d-4c7d-9ab8-ff4551137e3a/"
+     },
+     {
+      "key": "Governing specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager/operator",
+      "value": "International Civil Rights Center & Museum"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NC-reed-gold-mine",
+   "slug": "NC-reed-gold-mine",
+   "title": "Reed Gold Mine and North Carolina’s First Gold Rush",
+   "town": "",
+   "state": "North Carolina",
+   "stateCode": "NC",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "Reed Gold Mine and North Carolina’s First Gold Rush",
+   "stableName": "Reed Gold Mine State Historic Site",
+   "address": "",
+   "locator": {
+    "stableName": "Reed Gold Mine State Historic Site",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "66000587",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "U.S. Congressional Serial Set 979, Doc. No. 50, p. 15",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Historic location",
+      "value": "Little Meadow Creek and former Reed farm mining ground, Cabarrus County, North Carolina"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Reed Gold Mine State Historic Site visitor center, 9621 Reed Mine Road, Midland, North Carolina"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Signed visitor parking, approach and public indoor exhibits. Underground access only with an operator-led tour. No closed shafts or unsigned mine ground."
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/66000587"
+     },
+     {
+      "key": "Governing specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager/operator",
+      "value": "North Carolina Division of State Historic Sites and Properties"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NC-spencer-shops-nc-transportation-museum",
+   "slug": "NC-spencer-shops-nc-transportation-museum",
+   "title": "Spencer Shops and the North Carolina Transportation Museum",
+   "town": "",
+   "state": "North Carolina",
+   "stateCode": "NC",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "Spencer Shops and the North Carolina Transportation Museum",
+   "stableName": "Southern Railway Spencer Shops / North Carolina Transportation Museum",
+   "address": "",
+   "locator": {
+    "stableName": "Southern Railway Spencer Shops / North Carolina Transportation Museum",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "78001972",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HAER NC-8; North Carolina Transportation Museum Spencer Shop Employee Interviews",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Historic location",
+      "value": "Former Southern Railway repair and maintenance complex at Spencer, Rowan County, North Carolina"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Barber Junction Visitor Center, North Carolina Transportation Museum, 1 Samuel Spencer Drive, Spencer, North Carolina"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Signed guest approach and public museum exhibits. Exclude active track and staff-only work areas."
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/78001972"
+     },
+     {
+      "key": "Governing specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager/operator",
+      "value": "North Carolina Transportation Museum / North Carolina Department of Natural and Cultural Resources"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NC-wright-brothers-national-memorial",
+   "slug": "NC-wright-brothers-national-memorial",
+   "title": "Wright Brothers National Memorial — twelve seconds, four flights",
+   "town": "",
+   "state": "North Carolina",
+   "stateCode": "NC",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "Wright Brothers National Memorial — twelve seconds, four flights",
+   "stableName": "Wright Brothers National Memorial",
+   "address": "",
+   "locator": {
+    "stableName": "Wright Brothers National Memorial",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "66000071",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress Wright Brothers Negatives, item 00652085, LC-DIG-ppprs-00626",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Historic location",
+      "value": "Kill Devil Hills first-flight ground, Dare County, North Carolina"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Wright Brothers Visitor Center, 1000 North Croatan Highway, Kill Devil Hills"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Signed NPS approach, visitor parking and open Visitor Center only"
+     },
+     {
+      "key": "Visitor access check",
+      "value": "From the signed Visitor Center entrance or the public Flight Room, share a dated text note about any posted access change for the center or exhibit. Pending review."
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": "https://npgallery.nps.gov/AssetDetail/NRIS/66000071"
+     },
+     {
+      "key": "Governing CFR/agency specification",
+      "value": "2026 Wright Brothers National Memorial Superintendent’s Compendium [15]"
+     },
+     {
+      "key": "Official manager/operator",
+      "value": "U.S. National Park Service"
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-ND-bismarck-black-community",
    "slug": "ND-bismarck-black-community",
    "title": "Bismarck Black community: more than being noticed",
@@ -29895,7 +31554,7 @@
    "stateCode": "ND",
    "coordinates": null,
    "coordinateKind": "",
-   "stopType": "view",
+   "stopType": "reflection",
    "subject": "Standing Rock public history: remembering while governing",
    "stableName": "Standing Rock Sioux Tribe public-history reading; Sitting Bull Cultural Center as conditional institution candidate",
    "address": "",
@@ -29936,7 +31595,7 @@
    "stateCode": "ND",
    "coordinates": null,
    "coordinateKind": "",
-   "stopType": "view",
+   "stopType": "reflection",
    "subject": "Turtle Mountain public history: a handbook written toward home",
    "stableName": "Turtle Mountain Chippewa Heritage Center",
    "address": "3959 Sky Dancer Way, Belcourt, ND 58316 [1]",
@@ -32528,6 +34187,120 @@
      {
       "key": "Release state",
       "value": "local research draft for QC; no upload, outreach, booking, approval or route activation."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-SC-fort-sumter-fort-moultrie",
+   "slug": "SC-fort-sumter-fort-moultrie",
+   "title": "Fort Sumter and Fort Moultrie",
+   "town": "",
+   "state": "South Carolina",
+   "stateCode": "SC",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "Fort Sumter and Fort Moultrie",
+   "stableName": "Fort Sumter and Fort Moultrie National Historical Park",
+   "address": "",
+   "locator": {
+    "stableName": "Fort Sumter and Fort Moultrie National Historical Park",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress item 2018671038; National Archives RG 94, item 594525",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Historic location",
+      "value": "Fort Sumter, Charleston Harbor, and Fort Moultrie, Sullivan’s Island, South Carolina"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Fort Sumter Visitor Center at Liberty Square, 340 Concord Street, Charleston, South Carolina"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Public land-side approach and staffed indoor interpretation"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": ""
+     },
+     {
+      "key": "Governing specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager/operator",
+      "value": "National Park Service"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-SC-charleston-iaam-gadsdens-wharf",
+   "slug": "SC-charleston-iaam-gadsdens-wharf",
+   "title": "International African American Museum and Gadsden’s Wharf",
+   "town": "",
+   "state": "South Carolina",
+   "stateCode": "SC",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "International African American Museum and Gadsden’s Wharf",
+   "stableName": "International African American Museum and Gadsden’s Wharf",
+   "address": "",
+   "locator": {
+    "stableName": "International African American Museum and Gadsden’s Wharf",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Historic location",
+      "value": "Gadsden’s Wharf, Cooper River waterfront, Charleston, South Carolina"
+     },
+     {
+      "key": "Public anchor",
+      "value": "International African American Museum, 14 Wharfside Street, Charleston, South Carolina"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Signed public land-side approach and ticketed indoor galleries"
+     },
+     {
+      "key": "Archives West ARK",
+      "value": ""
+     },
+     {
+      "key": "Official register listing URL",
+      "value": ""
+     },
+     {
+      "key": "Governing specification",
+      "value": ""
+     },
+     {
+      "key": "Official manager/operator",
+      "value": "International African American Museum"
      }
     ]
    }
@@ -37791,7 +39564,7 @@
    "stateCode": "WY",
    "coordinates": null,
    "coordinateKind": "",
-   "stopType": "view",
+   "stopType": "reflection",
    "subject": "Eastern Shoshone public history: sovereignty includes deciding how history is shared",
    "stableName": "Eastern Shoshone public-history source sequence (archive-only)",
    "address": "",
