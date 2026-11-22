@@ -8321,6 +8321,18 @@
    "attempts": []
   },
   {
+   "id": "vq_IL-black-hawk-state-historic-site",
+   "slug": "IL-black-hawk-state-historic-site",
+   "name": "Black Hawk State Historic Site — Saukenuk, the CCC lodge, and the bluff above the Rock River",
+   "town": "Rock Island",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-black-hawk-state-historic-site.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_IL-black-metropolis-bronzeville",
    "slug": "IL-black-metropolis-bronzeville",
    "name": "Black Metropolis–Bronzeville — the Great Migration's city within a city, and the Bronzeville Walk of Fame",
@@ -8417,6 +8429,18 @@
    "attempts": []
   },
   {
+   "id": "vq_IL-john-deere-historic-site",
+   "slug": "IL-john-deere-historic-site",
+   "name": "John Deere Historic Site — the Grand Detour shop, the 1837 steel plow, and the excavated forge ground",
+   "town": "Grand Detour (Dixon postal address), Ogle County",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-john-deere-historic-site.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_IL-joliet-iron-works-historic-site",
    "slug": "IL-joliet-iron-works-historic-site",
    "name": "Joliet Iron Works Historic Site — the ruins of Joliet's first great steel works",
@@ -8449,6 +8473,30 @@
    "verifiedOn": "2026-11-21",
    "verifiedOnSource": "corpus-checked-line",
    "corpusFile": "HT-RES-IL-pullman-national-historical-park.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IL-rock-island-arsenal-museum-confederate-cemetery",
+   "slug": "IL-rock-island-arsenal-museum-confederate-cemetery",
+   "name": "Rock Island Arsenal Museum & Confederate Cemetery — the prison barracks' last vestige on an active arsenal island",
+   "town": "Rock Island (Arsenal Island; visitor entry via Moline)",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-rock-island-arsenal-museum-confederate-cemetery.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IL-ronald-reagan-boyhood-home",
+   "slug": "IL-ronald-reagan-boyhood-home",
+   "name": "Ronald Reagan Boyhood Home — a rented house on Hennepin Avenue, Dixon",
+   "town": "Dixon",
+   "state": "IL",
+   "verifiedOn": "2026-11-21",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IL-ronald-reagan-boyhood-home.md",
    "queueState": "queued",
    "attempts": []
   },
@@ -9282,8 +9330,8 @@
   }
  ],
  "counts": {
-  "items": 773,
-  "dated": 532,
+  "items": 777,
+  "dated": 536,
   "unrecorded": 241
  }
 }

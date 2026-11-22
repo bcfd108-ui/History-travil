@@ -2887,6 +2887,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-IL-black-hawk-state-historic-site",
+   "Slug": "IL-black-hawk-state-historic-site",
+   "Entry": "Black Hawk State Historic Site — Saukenuk, the CCC lodge, and the bluff above the Rock River",
+   "Town": "Rock Island",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-black-hawk-state-historic-site",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "none",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-IL-black-metropolis-bronzeville",
    "Slug": "IL-black-metropolis-bronzeville",
    "Entry": "Black Metropolis–Bronzeville — the Great Migration's city within a city, and the Bronzeville Walk of Fame",
@@ -3007,6 +3022,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-IL-john-deere-historic-site",
+   "Slug": "IL-john-deere-historic-site",
+   "Entry": "John Deere Historic Site — the Grand Detour shop, the 1837 steel plow, and the excavated forge ground",
+   "Town": "Grand Detour (Dixon postal address), Ogle County",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-john-deere-historic-site",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "none",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-IL-joliet-iron-works-historic-site",
    "Slug": "IL-joliet-iron-works-historic-site",
    "Entry": "Joliet Iron Works Historic Site — the ruins of Joliet's first great steel works",
@@ -3043,6 +3073,36 @@
    "Town": "Chicago",
    "State": "Illinois",
    "Entry URL": "https://onoldground.com/sites/IL-pullman-national-historical-park",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "none",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-IL-rock-island-arsenal-museum-confederate-cemetery",
+   "Slug": "IL-rock-island-arsenal-museum-confederate-cemetery",
+   "Entry": "Rock Island Arsenal Museum & Confederate Cemetery — the prison barracks' last vestige on an active arsenal island",
+   "Town": "Rock Island (Arsenal Island; visitor entry via Moline)",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-rock-island-arsenal-museum-confederate-cemetery",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "none",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-IL-ronald-reagan-boyhood-home",
+   "Slug": "IL-ronald-reagan-boyhood-home",
+   "Entry": "Ronald Reagan Boyhood Home — a rented house on Hennepin Avenue, Dixon",
+   "Town": "Dixon",
+   "State": "Illinois",
+   "Entry URL": "https://onoldground.com/sites/IL-ronald-reagan-boyhood-home",
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "Photo research pending.",
    "Next desk or field action": "Desk — verify missing era and rights",
@@ -11543,6 +11603,6 @@
   }
  ],
  "counts": {
-  "items": 769
+  "items": 773
  }
 }
