@@ -88,3 +88,7 @@ After a field check of the lawful standing area, the potential observation is th
 | Official register listing URL | https://npgallery.nps.gov/AssetDetail/NRIS/97000803 |
 | Governing CFR/agency specification | |
 | Official manager/operator | Rick Koch, identified by the affiliated restoration history as owner/restorer and maintainer [2] |
+
+## Connected ground — Route 66 — Springfield to Tucumcari
+
+The Provine station at Hydro was one stop in the Oklahoma Route 66 sequence that ran west through Weatherford and Clinton to Elk City, and the 1971 interstate rerouting cut it off from the traffic it was built to serve.

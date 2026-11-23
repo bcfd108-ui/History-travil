@@ -84,3 +84,7 @@ Answer key:
 | Official register listing URL | https://npgallery.nps.gov/AssetDetail/NRIS/66000352 |
 | Governing CFR / agency specification |  |
 | Official manager / operator | Kansas Historical Society [1,2] |
+
+## Connected ground — The Pony Express Eastern Divisions, 1860–1861
+
+Listed in the Park Service trail study as Cottonwood / Hollenberg, this household station linked Marysville to the east with Rock Creek in Nebraska to the west on the 1860–61 Pony Express route.

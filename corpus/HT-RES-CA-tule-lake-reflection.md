@@ -109,3 +109,7 @@ Relevant sources opened/read November 19, 2026. The segment transcript was inspe
 - Repository: Densho; Emiko and Chizuko Omori Collection
 - Entrance scope: none cleared; no tour requested or reserved
 - Status: LOCAL DRAFT; not field-checked, uploaded, published, route-activated or QC-approved
+
+## Connected ground — Four of the Ten Camps, 1942–1946
+
+Tule Lake, one of the ten camps of the 1942 removal, was converted in 1943 into the segregation center to which people labeled 'disloyal' at the other nine camps were sent, and it was the last of the ten to close, on March 20, 1946.

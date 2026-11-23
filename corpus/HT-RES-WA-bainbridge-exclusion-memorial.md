@@ -118,3 +118,7 @@ Respect other visitors' grief, privacy and silence. Do not photograph people as 
 - Operator: Bainbridge Island Japanese American Exclusion Memorial Association, with National Park Service interpretation and local partner stewardship [1–3]
 
 Address reference: Pritchard Park, 4192 Eagle Harbor Drive NE, Bainbridge Island, Washington 98110. Archive identifiers refer to sources, not a visitor-entrance pin. National Park affiliation is not a verified NRHP number. All unverified fields remain blank.
+
+## Connected ground — Bainbridge Island to Manzanar to Minidoka, 1942–1943
+
+The 227 people removed from this landing on March 30, 1942 were incarcerated first at Manzanar in California, and most of the group transferred to Minidoka in Idaho in February 1943.

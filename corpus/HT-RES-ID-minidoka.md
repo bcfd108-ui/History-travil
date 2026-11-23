@@ -153,3 +153,7 @@ https://www.loc.gov/pictures/resource/hhh.id0442.photos.209865p/
 | Official manager/operator | National Park Service [1–4] |
 
 **Other record locators.** Densho oral-history segment `ddr-densho-1000-107-18`, legacy `denshovh-yfrank-01-0018`, identifies Yamasaki’s interview segment. [7,8] Photo objects `ddr-csujad-32-6` and `ddr-csujad-32-9` are separate records. [13,14] Camp coordinates supply neither a trailhead nor a photo station. Spring reopening date, road conditions and historical image alignment remain open.
+
+## Connected ground — Bainbridge Island to Manzanar to Minidoka, 1942–1943
+
+In February 1943, 177 Bainbridge Islanders arrived here from Manzanar, rejoining other western Washington families after the first forced removal of the war, which had begun at the Eagledale ferry dock on March 30, 1942.

@@ -108,7 +108,13 @@ function splitSections(md) {
   let m;
   while ((m = re.exec(md)) !== null) heads.push({ n: +m[1], title: m[2].trim(), at: m.index, bodyAt: re.lastIndex });
   heads.forEach((h, i) => {
-    const end = i + 1 < heads.length ? heads[i + 1].at : md.length;
+    let end = i + 1 < heads.length ? heads[i + 1].at : md.length;
+    // A titled (unnumbered) `## ` heading also ends a numbered section's
+    // body: without this, a trailing titled section is absorbed into the
+    // last numbered section (e.g. locator prose glues onto its last field)
+    // while ALSO riding in moreSections — printed twice, once garbled.
+    const titledNext = md.slice(h.bodyAt, end).search(/^## /m);
+    if (titledNext >= 0) end = h.bodyAt + titledNext;
     sections[h.n] = { title: h.title, body: md.slice(h.bodyAt, end).trim() };
   });
   let boldSec1 = false;

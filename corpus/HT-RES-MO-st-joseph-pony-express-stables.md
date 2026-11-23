@@ -78,3 +78,7 @@ Held for field check and authorization. Stable frontage is a possible voluntary 
 | Official register listing URL | https://npgallery.nps.gov/AssetDetail/0dc477b1-4af4-4893-af40-0abd4d62618f |
 | Governing CFR or agency specification | |
 | Official manager or operator | Pony Express National Museum [1–2] |
+
+## Connected ground — The Pony Express Eastern Divisions, 1860–1861
+
+This stable was the eastern terminus of the Pony Express in 1860–61; westbound mail sorted at the Patee House office passed next through the Kansas stations at Marysville and Hollenberg and the Nebraska crossing at Rock Creek.

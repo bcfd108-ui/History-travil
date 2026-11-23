@@ -78,3 +78,6 @@ If already at the public museum entrance, a voluntary dated note about the poste
 | Governing CFR or agency specification | |
 | Official manager/operator | Vicksburg and Warren County Historical Society |
 
+## Connected ground — The Vicksburg Campaign, 1863
+
+This courthouse, built by the Weldon brothers with enslaved workers, became the symbol of the siege of Vicksburg, and on July 4, 1863, after the surrender that ended the campaign fought at Grand Gulf, Raymond, Champion Hill, and the Big Black River, the Union flag replaced the Confederate flag on its cupola.

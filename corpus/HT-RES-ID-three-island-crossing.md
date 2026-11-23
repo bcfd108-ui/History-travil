@@ -105,3 +105,7 @@ https://npgallery.nps.gov/AssetDetail/c7df9d8e-4ba2-4c8e-998b-e1364ff79668
 | Official manager/operator | Idaho Department of Parks and Recreation [1] |
 
 **Other record locators.** NPS photograph **A-28**, asset **c7df9d8e-4ba2-4c8e-998b-e1364ff79668**, is an individual image. The BLM image accession remains unverified. The operator coordinate identifies neither the ford nor a public camera position. [1,2,10]
+
+## Connected ground — The Snake River Emigrant Corridor
+
+This ford was the Snake River decision point on the main stem west of Fort Hall and Massacre Rocks; the northern route gained here rejoined the South Alternate west of Fort Boise.

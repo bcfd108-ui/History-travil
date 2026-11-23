@@ -82,3 +82,6 @@ Reflection only. [1–4]
 | Governing agency specification | |
 | Official manager/operator | |
 
+## Connected ground — The Vicksburg Campaign, 1863
+
+The army that withdrew from Champion Hill on May 16, 1863 reached this crossing that night; its defeat here on May 17, and the burning of its two bridges, sealed it inside the Vicksburg defenses it surrendered on July 4, 1863.

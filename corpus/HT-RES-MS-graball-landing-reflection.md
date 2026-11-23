@@ -68,3 +68,6 @@ Sensitive reflection reading. No site or shoreline visit prompt, photo request o
 - **Governing CFR or agency specification** Presidential Proclamation 10602 [3]
 - **Official manager/operator** National Park Service, Emmett Till and Mamie Till-Mobley National Monument [1–3]
 
+## Connected ground — Emmett Till — Mississippi, 1955
+
+This reach of the Tallahatchie River is the area associated with the recovery of Emmett Till's body on August 31, 1955, three days after his abduction from near Money, where the sequence had begun at Bryant's Grocery.

@@ -129,3 +129,7 @@ public_interpretation_sites: Woodlawn Cemetery 1910 Fire Memorial (west of St. M
 - Stable dossier ID: HT-RES-ST-JOE-ST-MARIES
 - Historical place: St. Joe River (lower navigable reach and Marble Creek tributary) and St. Maries, Benewah County, Idaho
 - Locator completeness: LOW by design — no register number and no coordinates are asserted. The next research step is the Benewah County / Idaho SHPO record for the Hughes House and the memorial, and the Forest Service's own Marble Creek interpretive-site page, before any pin is published.
+
+## Connected ground — The Big Burn, August 20, 1910
+
+The circles of graves at Woodlawn Cemetery hold firefighters who died in the St. Joe drainage during the same Big Burn of August 20–21, 1910 that Ranger Pulaski's crew survived in a tunnel south of Wallace.

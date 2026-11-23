@@ -75,3 +75,7 @@ BLM describes early June through October as the ordinarily snow-free byway seaso
 | Official register listing URL | https://npgallery.nps.gov/AssetDetail/NRIS/66000313 |
 | Governing CFR/agency specification where applicable | Lemhi Pass National Historic Landmark visitor guidance, day use [1, 13] |
 | Official manager/operator | Salmon-Challis and Beaverhead-Deerlodge National Forests at the pass. City of Salmon at the interpretive center. [1, 3, 4, 14] |
+
+## Connected ground — The Lewis and Clark Expedition, 1804–1806
+
+On August 12, 1805, Lewis crossed this divide following a large and plain Indian road, and five days later, east of the pass, Sacajawea interpreted the meeting at which the expedition obtained Shoshone horses — the crossing that carried the party on to Travelers' Rest and, that winter, to Fort Clatsop.

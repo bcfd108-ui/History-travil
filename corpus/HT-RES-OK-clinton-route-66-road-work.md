@@ -62,3 +62,7 @@ None activated. A possible future photograph of the Art Deco east-gate lettering
 - **Address-only visit anchor:** Oklahoma Route 66 Museum, 2229 West Gary Boulevard, Clinton, OK 73601. Published operator address, not a historic-road pin (C1–C2).
 - **Address/intersection-only optional public view stop:** McLain Rogers Park, South 10th Street / Bess Rogers Drive, Clinton (historic east gate is the viewed subject; use ordinary lawful public access only). No visitor point inside lane or mapped.
 - **Archive only:** Y Service Station and Café, Neptune Park, Clinton (C5), no visit coordinate or approach. No coordinates in this dossier. **Field / hunt / release:** Not stood on / inactive / not released.
+
+## Connected ground — Route 66 — Springfield to Tucumcari
+
+Kobel's fuel, repair, café, and lodging cluster at Clinton stood on Route 66 between Hydro to the east and Elk City to the west, and lost its through traffic in the staged relocations of the 1950s.

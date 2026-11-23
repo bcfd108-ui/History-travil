@@ -119,3 +119,7 @@ Blank until an exact public exhibit and photography permission are verified. No 
 - Visitor boundary: Admitted public museum only; no lodging, guest, worker, private or road-route access.
 - Rights gate: Original letter/postcard and recording rights unresolved; no image reuse authorized.
 - Release state: LOCAL DRAFT; reproduced firsthand statement and primary-document lead identified, original inspection, exhibit match, winter exceptions and rights still open. No upload, contact or activation.
+
+## Connected ground — Route 66 — Springfield to Tucumcari
+
+Lillian Redman's Blue Swallow Motel at Tucumcari was a working stop on Route 66 west of Amarillo, and its later bypass followed the same pattern that had already overtaken the road's Oklahoma stops.

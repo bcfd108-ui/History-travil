@@ -80,3 +80,7 @@ Optional pending a field check from the public sidewalk and Dash review: photogr
 | Official register listing URL | https://npgallery.nps.gov/AssetDetail/NRIS/94000982 |
 | Governing CFR/agency specification |  |
 | Official manager/operator | The NAT marketplace [1] |
+
+## Connected ground — Route 66 — Springfield to Tucumcari
+
+The Nat stands in Amarillo's Route 66 Sixth Street Historic District, on the same highway that ran west from Elk City, Oklahoma, and east onward to Tucumcari, New Mexico.

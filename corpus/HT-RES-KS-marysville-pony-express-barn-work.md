@@ -47,3 +47,7 @@ Unactivated possibility: a public museum sign or visible historic stonework deta
 - Operator: Pony Express Barn & Museum; NPS lists Marysville Museums as manager
 - Visitor boundary: admitted public areas only
 - Rights gate: unresolved; Release state: local draft only, no activation
+
+## Connected ground — The Pony Express Eastern Divisions, 1860–1861
+
+This barn stood on the Pony Express line west of St. Joseph and east of Hollenberg Station, where stock tender T. Lee Holloway's work in 1860–61 kept the next horse ready for a rider who only stopped briefly.

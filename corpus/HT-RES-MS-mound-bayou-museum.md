@@ -73,3 +73,6 @@ Optional, pending review. If already at the public museum, share the date and wh
 - **Official manager/operator** Mound Bayou Museum of African American History and Culture [1][2]
 - **Visitor access check** If already in the museum, share the date and whether the founding and early education displays were on view.
 
+## Connected ground — Emmett Till — Mississippi, 1955
+
+During the September 1955 trial at Sumner, this town sheltered Mamie Till Bradley, Black reporters, and NAACP members under guard at Dr. T. R. M. Howard's home, as recorded in Presidential Proclamation 10602.

@@ -75,3 +75,7 @@ The old replica website redirected to a suspended-account page. Current hours ab
 | Official register listing URL | https://npgallery.nps.gov/AssetDetail/NRIS/66000306 |
 | Governing CFR/agency specification where applicable | Fort Bridger Treaty of 1868, tribal publication [4, 5]. Public-access determination for original ground [1]. |
 | Official manager/operator | Original ground: Shoshone-Bannock Tribes. Public alternative: Bannock County Historical Society at the Bannock County Historical Complex. City maintenance role for the replica [1, 2, 6]. |
+
+## Connected ground — The Snake River Emigrant Corridor
+
+Fort Hall was the resupply stop on the Snake River main stem between the Hudspeth Cutoff junction at Soda Springs to the east and Massacre Rocks and Three Island Crossing to the west.

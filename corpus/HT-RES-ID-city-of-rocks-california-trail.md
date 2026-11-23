@@ -86,3 +86,7 @@ The NPS page dates inscriptions across the Camp Rock record to 1843–82. These 
 | Official register listing URL | https://npgallery.nps.gov/AssetDetail/NRIS/66000308 |
 | Governing CFR/agency specification where applicable | Public Law 100-696. Superintendent’s Compendium, technical climbing exclusions at signature rocks [10, 11]. |
 | Official manager/operator | Idaho Department of Parks and Recreation and National Park Service [1, 2, 10] |
+
+## Connected ground — The Snake River Emigrant Corridor
+
+These signatures were left on the California branch of the southern Idaho trail system, the branch the Hudspeth Cutoff from Soda Springs was cut to reach.
