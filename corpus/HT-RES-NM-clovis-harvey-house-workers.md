@@ -114,3 +114,7 @@ All blank. The index is a research source, not a scavenger-hunt object. A future
 - Visitor boundary: Public library spaces only; no rail, operational, lodging, private or work-area access.
 - Rights gate: Photo HOLD; no image or recording reuse licensed.
 - Release state: LOCAL DOCUMENTARY DRAFT; names and public library gate supported, original-primary/firsthand evidence and photo gate incomplete. No upload, contact or route activation.
+
+## Connected ground — The Harvey Houses on the Santa Fe Line
+
+The Clovis workers in the state museum's Fred Harvey database staffed the Gran Quivira, the Harvey House on the Santa Fe's Belen Cutoff — and one of them, Gladys Ritchie, is recorded at both Clovis and Belen, the junction where the cutoff met the main line.

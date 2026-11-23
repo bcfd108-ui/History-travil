@@ -77,3 +77,6 @@ Quiet reflection. No visitor observation or photo invitation.
 - **Governing CFR or agency specification** Presidential Proclamation 10602 and NPS monument operating rules [2][4]
 - **Official manager/operator** National Park Service with Emmett Till Interpretive Center; courthouse under county ownership and operating arrangements [1–4]
 
+## Connected ground — Emmett Till — Mississippi, 1955
+
+The September 1955 murder trial held in this courthouse followed events at Bryant's Grocery in Money and the recovery of Emmett Till's body near Graball Landing, while Mound Bayou sheltered his mother and the Black press during the trial.

@@ -118,3 +118,7 @@ Field verifier / date:
 - Operator: Heart Mountain Wyoming Foundation, not the National Park Service. [2]
 - Access class: paid public interpretive center during dated opening hours, exceptions unresolved; archives by appointment; no outdoor/sensitive-ground route activated.
 - Evidence status: local research draft, reflection only, no field verification or publication approval.
+
+## Connected ground — Four of the Ten Camps, 1942–1946
+
+Heart Mountain was one of the ten War Relocation Authority camps, and in June 1944 sixty-three of its young men were convicted together in Cheyenne, in the largest mass trial in Wyoming history, after refusing the draft from inside confinement.

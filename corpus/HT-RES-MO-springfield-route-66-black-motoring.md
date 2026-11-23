@@ -71,3 +71,7 @@ Quiet witness for the former hotel and its absence. Reading and planning are ava
 | Official register listing URL | |
 | Governing CFR or agency specification | |
 | Official manager or operator | History Museum on the Square, public interpretation [1–2] |
+
+## Connected ground — Route 66 — Springfield to Tucumcari
+
+Springfield is where the Route 66 name was proposed by telegram on April 30, 1926, and Alberta's Hotel, listed in the 1955 Green Book, was this Route 66 city's documented room for Black travelers on that road.

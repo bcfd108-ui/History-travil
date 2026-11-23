@@ -111,3 +111,7 @@ Operator: Montana Fish, Wildlife & Parks; Travelers’ Rest Connection is the co
 Published public visitor address: 6717 Highway 12 W, Lolo, MT 59847. [1,2]
 
 Only the public address/entrance description is used. FWP prints a general park coordinate, but does not establish it as the exact public entrance; it is intentionally not transferred under this assignment's entrance-only locator rule. Unknown identifiers blank. No archaeological or sensitive-feature locators included.
+
+## Connected ground — The Lewis and Clark Expedition, 1804–1806
+
+The Corps of Discovery camped at this Lolo Creek crossroads September 9–11, 1805, before the Lolo Trail crossing, and again June 30–July 3, 1806, when the captains divided the party here for the journey home — the only ground in this set the expedition used in both directions.

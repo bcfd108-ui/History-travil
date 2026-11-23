@@ -142,3 +142,7 @@ https://vimeo.com/162757523
 | Official manager/operator | Old Trails Museum / Winslow Historical Society |
 
 Related institutional and historical records remain in §9. Verify the operator’s access gate before travel.
+
+## Connected ground — The Harvey Houses on the Santa Fe Line
+
+La Posada, opened in May 1930 and called the last of the great railroad hotels, was the Fred Harvey Company's Winslow house — the far end of a Santa Fe line of Harvey Houses that began with a Topeka lunchroom in 1876 and a first hotel at Florence, Kansas, in 1878.

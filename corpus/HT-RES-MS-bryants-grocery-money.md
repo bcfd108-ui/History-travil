@@ -69,3 +69,6 @@ Sensitive private ground. No visit, public-viewing assignment, contribution prom
 - **Governing CFR or agency specification** NPS Mississippi Civil Rights Sites Special Resource Study, feasibility discussion [1]
 - **Official manager/operator**
 
+## Connected ground — Emmett Till — Mississippi, 1955
+
+The few disputed minutes at this store in August 1955 were followed by Emmett Till's abduction and killing, the recovery of his body near Graball Landing on the Tallahatchie River, and the September 1955 murder trial at the courthouse in Sumner.

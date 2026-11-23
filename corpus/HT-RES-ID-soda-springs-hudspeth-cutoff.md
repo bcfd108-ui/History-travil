@@ -116,3 +116,7 @@ https://www.si.edu/object/archives/components/sova-naa-photolot-90-1-ref932
 | Official register URL | |
 | Governing CFR/spec | |
 | Operator | Sheep Rock public interpretation: BLM and Idaho Transportation Department. Separate Oregon Trail Park and Marina: Caribou County. [1,2] |
+
+## Connected ground — The Snake River Emigrant Corridor
+
+The cutoff that left Sheep Rock in 1849 drew California-bound traffic away from Fort Hall and rejoined the California Trail country near City of Rocks, on the same southern Idaho wagon-road system as Massacre Rocks and Three Island Crossing.

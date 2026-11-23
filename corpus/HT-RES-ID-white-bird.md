@@ -107,3 +107,7 @@ https://www.lib.uidaho.edu/digital/fisher/items/fisher270.html
 - Official register URL: https://npgallery.nps.gov/AssetDetail/NRIS/74000332
 - Governing CFR/spec: NPS 2026 Superintendent's Compendium, 36 CFR §1.5 visiting hours/use limits; additional rules as printed in [2]. This is a visitor-planning citation, not a complete legal analysis.
 - Operator: National Park Service, Nez Perce National Historical Park
+
+## Connected ground — The Flight of 1877
+
+This canyon, Lahmotta, was a home of the White Bird Band before it was a battlefield; on June 17, 1877, the first battle of the flight of 1877 began here when a peace party was fired on, four months before the same journey ended at Bear Paw.

@@ -81,3 +81,7 @@ The deaths are a quiet witness reading. This stop has no photo find attached to 
 | Official register listing URL | |
 | Governing CFR / agency specification | |
 | Official manager / operator | Nebraska Game and Parks Commission [1] |
+
+## Connected ground — The Pony Express Eastern Divisions, 1860–1861
+
+Rock Creek's two road ranches stood on the Pony Express route between Hollenberg Station in Kansas and Fort Kearny, where furnishing hay for both ranches was part of the work that kept the relay moving.

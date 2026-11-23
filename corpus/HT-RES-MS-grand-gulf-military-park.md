@@ -76,3 +76,6 @@ Sensitive battlefield-associated reflection entry. No on-site scouting or image 
 - **Governing CFR or agency specification**
 - **Official manager/operator** Grand Gulf Military Park, State of Mississippi [1–3]
 
+## Connected ground — The Vicksburg Campaign, 1863
+
+The April 29, 1863 bombardment here failed to open a landing, but the transports passed the batteries and put Grant's army ashore at Bruinsburg — the crossing that began the inland campaign fought next at Raymond, Champion Hill, and the Big Black River, and ended with Vicksburg's surrender on July 4, 1863.

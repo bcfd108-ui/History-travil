@@ -75,3 +75,6 @@ Historical Choctaw ground carries reflection only. No access-check or photo invi
 | Governing agency specification | |
 | Official manager/operator | French Camp Academy operates the visitor businesses and village interpretation. National Park Service manages the parkway. [1–3, 5] |
 
+## Connected ground — The Stands of the Natchez Trace
+
+About 1812, Louis LeFleur established a stand here on the Natchez Trace in Choctaw country, 180.7 Parkway miles north of the road's Natchez end — one of the roadside households, like the Fergusons at Mount Locust, that fed and sheltered the travelers, mail, and forced marches moving along the Trace.

@@ -79,3 +79,7 @@ Answer key:
 | Official register listing URL |  |
 | Governing CFR / agency specification |  |
 | Official manager / operator | Gothenburg Pony Express Association, museum. City of Gothenburg, property owner. [1] |
+
+## Connected ground — The Pony Express Eastern Divisions, 1860–1861
+
+Gothenburg appears in the Park Service trail study's Division Two station list as Machette's Station, west of Fort Kearny on the Platte River section of the 1860–61 Pony Express route; whether the Ehmen Park cabin is that station remains an open question in the record.

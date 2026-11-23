@@ -51,3 +51,7 @@ None activated. Optional visitor exterior photo may go to pending QC only after 
 - Official register listing URL: https://npgallery.nps.gov/AssetDetail/NRIS/03000841
 - Governing CFR/agency specification:
 - Official manager/operator: Baxter Springs Historical Society [1,2]
+
+## Connected ground — Route 66 — Springfield to Tucumcari
+
+This 1930 cottage-style station stood on the short Kansas stretch of Route 66 — 12.8 miles by the National Park Service account — between Springfield, Missouri, and the Oklahoma line.

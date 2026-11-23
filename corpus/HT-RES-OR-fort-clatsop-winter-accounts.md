@@ -138,3 +138,7 @@ Governing CFR/spec: 36 CFR §1.5; NPS Superintendent's Compendium approved 27 Ma
 Operator: National Park Service
 
 No directly printed authoritative public-entrance coordinates were established. Original camp footprints and living-community locations are intentionally not mapped. The public address is an entrance reference, not an archaeological coordinate.
+
+## Connected ground — The Lewis and Clark Expedition, 1804–1806
+
+The Corps of Discovery moved into this fort on December 25, 1805, wintered in Clatsop country, and on March 23, 1806, gave the fort and its contents to the Clatsop leader Coboway before starting home — reaching Travelers' Rest, where the party split, on June 30, 1806.

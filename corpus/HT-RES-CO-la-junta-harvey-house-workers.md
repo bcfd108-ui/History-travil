@@ -119,3 +119,7 @@ https://www.nmhistorymuseum.dca.nm.gov/fred-harvey-online/fred-harvey-history/
 - Visitor boundary: archive-only now; future confirmed museum public galleries only. No railway, depot, work area, former lodging or private-property entry.
 - Rights gate: image HOLD; no republication license established.
 - Release state: local research draft, not published, approved, uploaded or route-activated.
+
+## Connected ground — The Harvey Houses on the Santa Fe Line
+
+La Junta's Harvey House, taken over in 1879, stood on the Santa Fe main line west of Florence, Kansas, and east of Winslow, Arizona, in the chain of eating houses the Fred Harvey Company ran under contract with the railroad.

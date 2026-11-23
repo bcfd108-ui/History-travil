@@ -59,3 +59,7 @@ Draft only. No exterior observation or contribution proposed for historical work
 | Official register listing URL |  |
 | Governing CFR/agency specification |  |
 | Official manager/operator | City of Elk City Museum Complex [1] |
+
+## Connected ground — Route 66 — Springfield to Tucumcari
+
+The September 1958 paving reported at Elk City was rebuilding work on Route 66 itself, west of Clinton and east of the Texas Panhandle ground at Amarillo.

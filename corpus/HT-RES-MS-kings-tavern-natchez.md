@@ -103,3 +103,7 @@ Crucially, **none of the 1932/1970s chimney-skeleton, dagger, or "Madeline" clai
 | HMdb marker ID | |
 | Archive collection identifier | Adams County Chancery Clerk deeds (Natchez); Mississippi Department of Archives and History (`71000444`) |
 | Official manager/operator | Regina's Kitchen / Pilgrimage Garden Club (owner per historic filings) |
+
+## Connected ground — The Stands of the Natchez Trace
+
+Licensed as a public house on June 6, 1799, this pre-1789 Natchez building served, in its National Register nomination's account, as the mail and stagecoach station at the end of the Natchez Trace — the southern end of the road whose surviving stand house stands at Mount Locust, fifteen miles north.

@@ -70,3 +70,7 @@ Reflection only. No visitor reporting, photography or hunt prompt at the courtho
 | Official register listing URL |  |
 | Governing regulation |  |
 | Official manager/operator | Hinds County (courthouse); City of Raymond (visitor information) |
+
+## Connected ground — The Vicksburg Campaign, 1863
+
+The fighting near this town on May 12, 1863, during Grant's campaign for Vicksburg, changed the campaign's direction toward Jackson, and this courthouse — built by the Weldon brothers with enslaved craftspeople — became a hospital for the wounded of both armies.

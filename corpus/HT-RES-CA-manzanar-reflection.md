@@ -119,3 +119,7 @@ Sources opened/read November 19, 2026, with limitations recorded. Transcript tex
 - Repository: Densho, Manzanar National Historic Site Collection
 - Entrance scope: public visitor center only, subject to current gate; remote fallback
 - Status: LOCAL DRAFT; not field-checked, uploaded, published, route-activated or QC-approved
+
+## Connected ground — Bainbridge Island to Manzanar to Minidoka, 1942–1943
+
+Among the first people incarcerated here were the 227 residents of Bainbridge Island, Washington, removed on March 30, 1942, who lived at Manzanar for eleven months before most transferred to Minidoka.

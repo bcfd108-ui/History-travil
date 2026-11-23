@@ -75,3 +75,7 @@ No offered tag. A future voluntary exterior submission requires a human field ch
 | Official register listing URL | https://npgallery.nps.gov/AssetDetail/NRIS/73000763 |
 | Governing CFR/agency specification | |
 | Official manager/operator | Florence Historical Society [1] |
+
+## Connected ground — The Harvey Houses on the Santa Fe Line
+
+This surviving section of the Clifton Hotel was the Fred Harvey Company's first house with sleeping rooms, taken under contract on January 1, 1878 — the second year of a system that went on to run eating houses and hotels along the Santa Fe at La Junta, Clovis, Winslow, and dozens of other stops.

@@ -113,3 +113,7 @@ Operator: Nez Perce Wallowa Homeland, nonprofit organization [2]
 Published visitor-center address: 209 E. Second Street, Wallowa, OR 97885. [1]
 
 Coordinates are copied as printed, not independently surveyed or geocoded. Listing has stale/conflicting hours, so its point is a reference lead only; no navigation activation. Unknown fields intentionally blank. No cultural or grave coordinates included.
+
+## Connected ground — The Flight of 1877
+
+In the spring of 1877 the Wallowa Band was ordered to leave this homeland within thirty days; the journey that followed reached its first battle at White Bird Canyon on June 17, 1877, and its end at Bear Paw on October 5, 1877 — and this ground's present work is the return that journey was meant to prevent.

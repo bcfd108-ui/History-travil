@@ -87,3 +87,7 @@ Optional private reflection: How can an account hold classmates' care and an unj
 - Operator: Amache Preservation Society museum; NPS manages Amache National Historic Site and coordinates with APS. [1,2]
 - Access class: conditional public downtown museum; archive-only fallback; historical grounds excluded from progression.
 - Status: local research draft only; no upload, outreach, visit booking, exhibit approval or route activation.
+
+## Connected ground — Four of the Ten Camps, 1942–1946
+
+Amache, officially the Granada War Relocation Center, was one of the ten camps of the 1942 removal — the camp where ninth-grader Min Tonai was asked to teach his own algebra class during a teacher transition.

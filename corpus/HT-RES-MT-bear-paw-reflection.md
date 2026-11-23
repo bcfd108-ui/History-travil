@@ -113,3 +113,7 @@ No contact has been made. No visitor is asked to locate a person, marker, object
 - Operator: National Park Service, Nez Perce National Historical Park [1][6]
 
 Public locator description only: signed visitor entrance on Route 240 south of Chinook, Montana. NPS publishes general battlefield coordinates, but their exact entrance scope is not established; they are deliberately not copied. No internal or cultural feature points. Blank identifiers mean unverified here, not absent. **a historic road or district pin is not a public entrance.**
+
+## Connected ground — The Flight of 1877
+
+Fighting ceased here on October 5, 1877, at the end of a 126-day flight that began with a thirty-day removal order in the Wallowa homeland and a first battle at White Bird Canyon — forty miles short of the Canadian border the families were trying to reach.

@@ -61,3 +61,7 @@ Voluntary access reports may cover the information center’s posted schedule an
 | Official register listing URL |  |
 | Governing regulation |  |
 | Official manager/operator | National Park Service, Natchez Trace Parkway |
+
+## Connected ground — The Stands of the Natchez Trace
+
+Between 1785 and 1820 this Ferguson and Chamberlain home worked as a stand on the Natchez Trace, feeding boatmen walking home for twenty-five cents, on a cotton plantation where Paris Martin and more than one hundred other people were enslaved — one stop on the road that ran from King's Tavern in Natchez through LeFleur's stand at French Camp.

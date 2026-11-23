@@ -81,3 +81,7 @@ This entry's ground carries finds of the Pulaski Hunt; the hunt ties live in the
 - Operator: USDA Forest Service (Trail No. 38; see sources)
 - Visitor boundary: The record's visit is to the overlook across the creek; the adit portal is viewed from there.
 - Status: research draft converted from the original app's site records; published with its gaps printed; no route or hunt activation from this page.
+
+## Connected ground — The Big Burn, August 20, 1910
+
+The survivors from this tunnel reached Wallace on the morning after August 20, 1910, while the town was recovering from the same fire, and the five men who died here were buried at Nine Mile Cemetery outside town.

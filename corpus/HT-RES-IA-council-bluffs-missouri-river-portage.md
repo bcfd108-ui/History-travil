@@ -79,3 +79,7 @@ Quiet witness only. No participant photo task for treaty-related history. Readin
 | Official register listing URL | |
 | Governing CFR/agency specification | |
 | Official manager/operator | City of Council Bluffs Parks & Recreation [8] |
+
+## Connected ground — The Lewis and Clark Expedition, 1804–1806
+
+This 1936 Iowa memorial overlooks the river valley downstream from the ground, near present-day Fort Calhoun, Nebraska, where on August 3, 1804, the Corps of Discovery held its first council — the opening diplomatic stop on the journey that crossed the divide at Lemhi Pass in August 1805 and wintered at Fort Clatsop.

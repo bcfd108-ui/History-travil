@@ -79,3 +79,6 @@ Reflection only. [1, 2]
 | Governing agency specification | |
 | Official manager/operator | National Park Service, Coker House parcel only [2] |
 
+## Connected ground — The Vicksburg Campaign, 1863
+
+The battle fought here on May 16, 1863, the most decisive engagement of the Vicksburg Campaign in the National Park Service's account, drove Pemberton's army west to the Big Black River crossing, where it was beaten again the next day and shut inside Vicksburg.

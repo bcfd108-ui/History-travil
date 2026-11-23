@@ -95,3 +95,7 @@ Find key: . Next-stop key: . Completion stamp: . Field verification: .
 - CFR/spec: museum operator rules must govern any later visit; no statutory access inference.
 - Operator: Colorado River Indian Tribes for museum; Densho / Watsonville–Santa Cruz JACL for interview archive; Poston Community Alliance for its published interpretation.
 - Status: archive-first local draft. Physical gate, winter details and media permissions unresolved. No upload, outreach or route activation.
+
+## Connected ground — Four of the Ten Camps, 1942–1946
+
+Poston, built on Colorado River Indian Tribes land, was the largest of the ten War Relocation Authority camps, and Densho's accounting gives it 106 draft resisters, the most from any single camp.

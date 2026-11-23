@@ -102,3 +102,7 @@ https://idahostatearchives.libraryhost.com/repositories/3/archival_objects/6737
 - Official register URL:
 - Governing CFR/spec:
 - Operator: Idaho Department of Parks and Recreation
+
+## Connected ground — The Snake River Emigrant Corridor
+
+The wagon road that passed this ground was the Oregon and California trail corridor across Shoshone-Bannock homeland, running from Fort Hall in the east to Three Island Crossing in the west.

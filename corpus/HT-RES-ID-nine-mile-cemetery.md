@@ -64,3 +64,7 @@ Quiet witness only. This ground carries no find, and nothing here is scored. Rea
 - Register URL: https://npgallery.nps.gov/NRHP/GetAsset/NRHP/84001180_text
 - Operator:
 - Status: research draft converted from the original app's site record; published with its gaps printed; no route or hunt activation from this page.
+
+## Connected ground — The Big Burn, August 20, 1910
+
+These monuments mark five men who died in Pulaski's tunnel on the West Fork of Placer Creek during the Big Burn of August 20, 1910, the same fire that burned about one-third of Wallace.

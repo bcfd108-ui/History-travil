@@ -69,3 +69,7 @@ This entry's ground carries a find of the Mining Country Hunt; the hunt tie live
 - Register URL:
 - Operator:
 - Status: research draft converted from the original app's site record; published with its gaps printed; no route or hunt activation from this page.
+
+## Connected ground — The Big Burn, August 20, 1910
+
+On the night this downtown faced the Big Burn, August 20, 1910, Ranger Edward Pulaski sheltered his crew in a mine tunnel south of town, and his survivors entered Wallace the next morning.
