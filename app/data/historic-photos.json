@@ -1,4 +1,29 @@
 {
+ "CA-manzanar-reflection": [
+  {
+   "src": "/photos/ca-manzanar-reflection-492ace68ed.webp",
+   "imageUrl": "https://tile.loc.gov/storage-services/service/pnp/ppprs/00200/00276v.jpg",
+   "alt": "Rows of dark barracks and roads across the Manzanar camp floor in 1943, with the Sierra Nevada behind them.",
+   "caption": "Manzanar’s barracks and roads, viewed from a guard tower, [1943].",
+   "credit": "Ansel Adams, [1943], Library of Congress, Prints and Photographs Division, LC-DIG-ppprs-00276",
+   "license": "Public domain (United States); LOC reports no known restrictions",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "sourceName": "Library of Congress",
+   "sourceUrl": "https://www.loc.gov/item/2002695968/",
+   "year": 1943,
+   "width": 1024,
+   "height": 740,
+   "dateNote": "",
+   "sha256": "492ace68ed424655565600b38eebce3344dc1e80a80bab7477b6386d7d42de22",
+   "medium": "photograph",
+   "groundReview": "Adams's original print caption identifies Manzanar and the southwest view. From above, rows of dark barracks and roads cross the camp floor with the Sierra Nevada behind them; the frame shows the wartime camp itself, not the modern NPS visitor center and not another incarceration site.",
+   "rightsReview": "Item-level rights checked at https://www.loc.gov/item/2002695968/ — Library of Congress: “No known restrictions on publication.” Collection rights https://www.loc.gov/rr/print/res/228_adam.html: Adams placed no restrictions on this collection's use when giving it to the Library.",
+   "rowId": "5fc2ef3486",
+   "targetSlug": "CA-manzanar-reflection",
+   "targetId": "HT-CA-manzanar-reflection",
+   "eraRole": "then"
+  }
+ ],
  "ID-city-of-rocks-california-trail": [
   {
    "src": "/photos/id-city-of-rocks-california-trail-1aadcc62bb.webp",
