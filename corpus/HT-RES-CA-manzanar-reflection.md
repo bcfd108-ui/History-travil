@@ -56,21 +56,14 @@ In segment 17 she traces the turn afterward: toward civic participation and towa
 - No current exhibit inventory, field photography, exact doorway coordinate or image license was independently verified.
 
 ## 7. Photo record
-Selected image: none.
+
+**Verified catalog image:** Library of Congress item **2002695968** (LCCN); reproduction **LC-DIG-ppprs-00276**, from the original print; Ansel Adams Manzanar War Relocation Center photographs, LOT 10479-2, no. 7. The frame, inspected at the holding collection: from above, rows of dark barracks and roads across the Manzanar floor with the Sierra Nevada behind them; Adams's original print caption identifies Manzanar and the southwest view. It is not a view of the modern NPS visitor center and not another incarceration site. Caption as printed: "Manzanar's barracks and roads, viewed from a guard tower, [1943]." Credit: Ansel Adams, [1943], Library of Congress, Prints and Photographs Division, LC-DIG-ppprs-00276.
+
+Rights: the Library of Congress states **"No known restrictions on publication"** for this item, and Adams placed no restrictions on this collection's use when he gave it to the Library. That clearance covers this Adams collection item only; it is not a blanket claim about his other work, and it does not extend to the Densho transcripts below.
 
 Both inspected transcript pages carry a 2002 Manzanar National Historic Site and Densho all-rights-reserved notice. Do not infer public-domain status simply because a federal institution participated. The broader repository item could not be retrieved, so no alternate media license is asserted. [5,6,8]
 
-NPS's building page provides credited before/after imagery, but no item-level reuse clearance was established here. No image is downloaded or embedded. [7]
-
-Archive image ID:
-
-Photographer / creation date:
-
-Rights / commercial reuse permission: unresolved; no media reused.
-
-Photo Point (APPROXIMATE):
-
-Photo coordinates:
+**Photo Point (APPROXIMATE): not assigned.** The 1943 view was made from a guard tower; no current visitor point or accessible tower is inferred, and no repeat-photography position is established from this image.
 
 No graves, cultural features, identifiable visitors or recreated scenes are selected.
 
