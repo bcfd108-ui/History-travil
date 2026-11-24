@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { getStates, getSites, getHistoricPhoto, getPublicTitle, getTours } from "@/lib/data";
 import { IndexLink, SearchBox, ThemeLinks } from "@/components/Browse";
+import SponsorBlock from "@/components/SponsorBlock";
 import { catalog, stateUrl } from "@/lib/browse";
 
 export default function Home() {
@@ -66,6 +67,7 @@ export default function Home() {
           </div>
         </section>
       )}
+      <SponsorBlock variant="full" />
       <nav className="browse-bar secondary" aria-label="More on On Old Ground">
         <a href="/catalog">Full catalog</a>
         <a href="/hunts">Hunts</a>
