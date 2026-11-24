@@ -151,9 +151,9 @@
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "New entry on the updated catalog.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -241,9 +241,9 @@
    "What was searched": "Dossier source opened — https://www.nps.gov/common/uploads/cropped_image/primary/37A43CCF-EC43-77FB-E9A84A0FAC4E871C.jpg?mode=crop&quality=90&width=1600; Dossier source opened — https://www.nps.gov/places/wigwam-village-motel-6.htm; Commons file search — site:commons.wikimedia.org/wiki/File: Wigwam Motel Holbrook Holbrook Arizona photograph; Archive search — Wigwam Motel Holbrook Holbrook Arizona historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Wigwam Motel Holbrook; Candidate records — https://commons.wikimedia.org/wiki/File%3AWigwamMotel_HolbrookAZ.JPG | https://commons.wikimedia.org/wiki/File%3AWigwam_Motel%2C_Holbrook%2C_AZ_04048u.jpg | http://www.loc.gov/item/2010630130/ | https://www.loc.gov/resource/highsm.55369/ | https://jewlscholar.mtsu.edu/server/api/core/bitstreams/6508301b-a277-41a1-a206-01f4b8f8b5cb/content",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -2730,10 +2730,10 @@
    "Entry URL": "https://onoldground.com/sites/ID-old-kootenai-county-jail-rathdrum",
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Historic_Jail_Museum_and_Community_Room.JPG",
    "Why photo is needed": "HOLD 79a4f936f1 — Individual subject and location evidence require desk sign-off. Compare the source item with “Old Kootenai County Jail, Rathdrum — the last building of a lost county seat” before releasing this image.",
-   "Next desk or field action": "Field option — Public 2nd Street sidewalk facing the old county jail in Rathdrum.",
-   "Coverage": "none",
-   "Eligibility": "PUBLIC GROUND",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -3106,9 +3106,9 @@
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "Photo research pending.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
