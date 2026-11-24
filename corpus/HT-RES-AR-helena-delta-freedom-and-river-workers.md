@@ -37,6 +37,8 @@ The operator’s visit sidebar lists Tuesday–Friday for the center and depot. 
 
 No actual site frame with an item-level match and use basis adopted. Fort imagery and campus material require verification of which part of the wartime town is shown. A current match and Photo Point are absent.
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, Arkansas photo batches 007–009).** The former Helena railroad depot, now part of the Delta Cultural Center, photographed in June 2014 by Brandonrush and licensed CC BY-SA 4.0 via Wikimedia Commons (File:Delta Cultural Center 001.jpg): two-story red brick, arched openings, white stone trim. Identity confirmed by inspection. The frame is a present-day view of the entry’s public interpretive anchor — not a photograph of the river, a freedom-movement event, or labor in progress. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 Quiet witness only. Reading and trip planning are free and available without an account, location sharing or a contribution. 

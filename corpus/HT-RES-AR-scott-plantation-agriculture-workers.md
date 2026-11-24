@@ -39,6 +39,8 @@ Enter the old store and read the operator’s explanation of how cotton reached 
 
 **Modern site frame selected for Dash review.** Library of Congress Prints and Photographs Division item 2020741486, LC-DIG-highsm-64823. Inspected derivative shows the actual museum front, with the raised brick parapet, patterned masonry, shallow porch and attached low wing. The first tile URL returned HTTP 403; a second rendition delivered the pixels. The item advisory lists no known restrictions and the Highsmith collection rights statement establishes dedication of rights to the public. Printed credit for the dossier: *Library of Congress Prints and Photographs Division, LC-DIG-highsm-64823 (item 2020741486), Carol M. Highsmith, November 6, 2020.* Historical matching frame absent. This modern record does not establish a current camera stance. No Photo Point. [7–9]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, Arkansas photo batches 007–009).** The Plantation Agriculture Museum in Scott, photographed in January 2014 by Brandonrush and licensed CC BY-SA 3.0 via Wikimedia Commons: brick entrance, OPEN signs, flags, covered machinery display. Identity confirmed by inspection. The frame shows the staffed public museum anchor only — no plantation labor or historic work event appears in it. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 Quiet witness only. Reading and planning are free and available without an account, location sharing or contribution.

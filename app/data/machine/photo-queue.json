@@ -526,9 +526,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Arkadelphia-area Ouachita saltmaking and Clark County Historical Museum Arkadelphia Arkansas photograph; Archive search — Arkadelphia-area Ouachita saltmaking and Clark County Historical Museum Arkadelphia Arkansas historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Arkadelphia-area Ouachita saltmaking and Clark County Historical Museum (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AOuachita_River_at_Arkadelphia%2C_AR.jpg | https://commons.wikimedia.org/wiki/File%3AArkadelphia%2C_AR_002.jpg | https://npgallery.nps.gov/GetAsset/cb5bf5c1-ebe5-42ba-ba78-803325c0a0fc | https://obu.edu/wp-content/blogsdir/archives/files/2016/04/0frozenriver.pdf",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -586,9 +586,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Crater of Diamonds State Park Murfreesboro Arkansas photograph; Archive search — Crater of Diamonds State Park Murfreesboro Arkansas historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Crater of Diamonds State Park (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3ADiamond-245196.jpg | https://commons.wikimedia.org/wiki/File%3ACrater_of_Diamonds_State_Park_pano.jpg | https://npgallery.nps.gov/GetAsset/6a88403f-595b-47aa-b1d6-6651f4858c04 | https://mavmatrix.uta.edu/specialcollections_squirehaskinsphotography/4037/ | https://commons.wikimedia.org/wiki/File:Crater_of_Diamonds_State_Park_pano.jpg",
    "Why photo is needed": "HOLD 57b6318ee6 — Individual subject and location evidence require desk sign-off. Compare the source item with “Crater of Diamonds State Park, Prairie Creek diamond field” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -601,9 +601,9 @@
    "What was searched": "Dossier source unavailable — https://www.srs.fs.usda.gov/pubs/gtr/gtr_so032.pdf; Commons file search — site:commons.wikimedia.org/wiki/File: Centennial Park Crossett Arkansas photograph; Archive search — Centennial Park Crossett Arkansas historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Centennial Park (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3ACrossett%2C_Arkansas_%2890134%29.jpg | https://commons.wikimedia.org/wiki/File%3AFlowers_in_Centennial_Park.jpg | https://hlr.cast.uark.edu/ | https://rosenwald.fisk.edu/s/rosenwald-fund-collection/item/60220",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -616,9 +616,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Johnny_Cash_Boyhood_Home.jpg",
    "Why photo is needed": "HOLD 700d0deea0 — Individual subject and location evidence require desk sign-off. Compare the source item with “Dyess — What came with twenty acres” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -691,9 +691,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Delta Cultural Center Helena-West Helena Arkansas photograph; Archive search — Delta Cultural Center Helena-West Helena Arkansas historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Delta Cultural Center; Candidate records — https://commons.wikimedia.org/wiki/File%3ADelta_Cultural_Center-HelenaAR.jpg | https://commons.wikimedia.org/wiki/File%3AHelenadeltaculturalcenter.JPG | http://www.loc.gov/item/afc2001001.89201/ | https://pryorcenter.uark.edu/interview.php?displayName=&thisInterviewee=461&thisProfileURL=BURKS-Edwin-Leo-Jr&thisProject=Arkansas+Memories | https://parkplanning.nps.gov/showFile.cfm?projectID=90349&sfid=450143 | https://commons.wikimedia.org/wiki/File:Crowley%27s_Ridge_Parkway_-_Delta_Cultural_Center_Exhibit_-_NARA_-_7717879.jpg | https://commons.wikimedia.org/wiki/File:Delta_Cultural_Center-HelenaAR.jpg",
    "Why photo is needed": "HOLD 4cee9b58e9 — Individual subject and location evidence require desk sign-off. Compare the source item with “Helena — A wage promised at the river” before releasing this image. HOLD 658af9ab94 — Individual subject and location evidence require desk sign-off. Compare the source item with “Helena — A wage promised at the river” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -706,9 +706,9 @@
    "What was searched": "Dossier source opened — https://fraser.stlouisfed.org/files/docs/publications/nfr/mcbanker/midcontinentbanker_195612.pdf; Commons file search — site:commons.wikimedia.org/wiki/File: Hope Visitor Information Center and Missouri Pacific Railroad Depot Hope Arkansas photograph; Archive search — Hope Visitor Information Center and Missouri Pacific Railroad Depot Hope Arkansas historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Hope Visitor Information Center and Missouri Pacific Railroad Depot (request failed); Candidate records — https://home.nps.gov/places/hope-visitor-center-and-museum.htm | https://npgallery.nps.gov/AssetDetail/NRIS/92000610",
    "Why photo is needed": "Desk review pending. Search returned leads, but no image has completed both the ground and rights check.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -736,9 +736,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Jacksonport_State_Park_Jacksonport_AR.jpg",
    "Why photo is needed": "HOLD 96008fc644 — Individual subject and location evidence require desk sign-off. Compare the source item with “Jacksonport State Park, White River port” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -781,9 +781,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Court Square Park public street-side sidewalk Marianna Arkansas photograph; Archive search — Court Square Park public street-side sidewalk Marianna Arkansas historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Court Square Park public street-side sidewalk; Candidate records — https://commons.wikimedia.org/wiki/File%3AMarianna%2C_AR_005.jpg | https://commons.wikimedia.org/wiki/File%3AMarianna%2C_AR_011.jpg | http://www.loc.gov/item/18015276/ | https://uca.edu/archives/p21-cities-towns/ | https://www.loc.gov/item/sn89051337/?st=holdings",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -796,9 +796,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: 1021 W Piggott Arkansas photograph; Archive search — 1021 W Piggott Arkansas historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — 1021 W (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3APiggott%2C_AR_018.jpg | https://commons.wikimedia.org/wiki/File%3APiggott%2C_AR_001.jpg | https://www.loc.gov/item/sanborn00327_002/ | https://ualr.edu/cahc/digitized-materials/",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -811,9 +811,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Plantation_Agriculture_Museum_in_Scott,_AR.jpg",
    "Why photo is needed": "HOLD 9e8bc13672 — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “Plantation Agriculture Museum and Steele–Dortch General Store, Scott” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -826,9 +826,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Powhatan_Historic_State_Park_Powhatan_AR_020.jpg",
    "Why photo is needed": "HOLD 58d6c374f5 — Individual subject and location evidence require desk sign-off. Compare the source item with “Powhatan Historic State Park, Lawrence County Courthouse” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -841,9 +841,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Southern Tenant Farmers Museum Tyronza Arkansas photograph; Archive search — Southern Tenant Farmers Museum Tyronza Arkansas historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Southern Tenant Farmers Museum (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AArkansas_tenant_farmers_evicted_January_1936.jpg | https://commons.wikimedia.org/wiki/File%3ATyronza%2C_AR_003.jpg | https://www.astate.edu/outreach/history-and-heritage/heritage-sites/southern-tenant-farmers-museum/history.html | https://www.astate.edu/documents/arkansas-delta-national-heritage-area-feasibility-study-nov-26.pdf",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {

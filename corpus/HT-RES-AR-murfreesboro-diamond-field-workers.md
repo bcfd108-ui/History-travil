@@ -39,6 +39,8 @@ Read the discovery and testing chain inside the visitor center. Use the industri
 
 No adopted site photograph. The inspected 1908 company pamphlet is mainly text and includes a map rather than a usable historical camera frame. The USGS mapped historical plant and mine features, but no independently inspected photo of the actual surviving site with item-level provenance was established. A verified then-and-now frame and Photo Point are absent. [3, 4]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, Arkansas photo batches 007–009).** The managed public search field at Crater of Diamonds State Park in June 2020, photographed by HAL333 and licensed CC BY-SA 4.0 via Wikimedia Commons. Identity confirmed by inspection against Arkansas State Parks’ identification of the surface as the park’s public diamond-search area. The frame shows the present-day field only; no historic wash-plant footprint is identified in it. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 A contribution is voluntary and awaits a human field check, Gene’s authorization and independent review. This dossier has no cleared contribution location. Reading and planning are free and available without an account, location sharing or contribution.
