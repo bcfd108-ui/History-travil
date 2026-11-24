@@ -44,6 +44,8 @@ Visitation signal for the Finder tier is **781,518 recreation visits in calendar
 
 Historical photo slot open. The 2009 Alabama report credits a field photograph of these falls to Lamar Marshall on printed page 348. Its credit does not establish item-level public-domain rights, and it documents the modern scene. The archive’s nineteenth-century manuscript is a different kind of record. No historical photograph is adopted. [4, 7]
 
+**Adopted first photograph — Nov 23, 2026 (Dash QC, Wave 005).** Little River Falls with a rainbow in the mist and the Alabama Highway 35 bridge upstream, NPS photograph by Matt Switzer (asset 7871F058-F8E0-C140-F1832B5024FBAB61), carried on the NPS Little River Falls place page; NPS-created material, generally public domain, no third-party restriction indicated. Identity confirmed by inspection against the NPS place record. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional observations
 
 Quiet reflection. No visitor tasks, reenactment, photography requests or boundary checks.

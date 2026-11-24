@@ -91,6 +91,8 @@ No primary-sourced haunted tradition was found for this jail in the records revi
 
 - **Photo Point:** Blank.
 
+**Adopted first photograph — Nov 23, 2026 (Dash QC, Wave 005).** The Old Kootenai County Jail (1892) in Rathdrum, photographed in 2014 by Denisemurray1, CC BY-SA 3.0 via Wikimedia Commons (File:Historic Jail Museum and Community Room.JPG): the red-brick jail with white belfry and Old County Jail sign behind a picket fence. This is the photograph the corpus adopted on Nov 20, 2026, re-verified from scratch at the holding collection on Nov 23, 2026 after a wrong-jail candidate was parked in the same run. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Candidate finds
 
 **DISABLED — NO HUNT ACTIVATION.** Per Theme Sweep standing rules, all answer keys remain blank, no scored finds exist, and no Photo Points are activated.

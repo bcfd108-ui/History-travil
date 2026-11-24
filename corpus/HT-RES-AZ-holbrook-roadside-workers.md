@@ -71,6 +71,8 @@ The motel itself is a working business, not a museum stop: its guest spaces and 
 
 No photograph downloaded for publication, permission requested or app asset activated.
 
+**Adopted first photograph — Nov 23, 2026 (Dash QC, Wave 005).** The Wigwam Motel office in Holbrook at night under the green neon sign, photographed July 4, 2006 by Carol M. Highsmith (Library of Congress, LCCN 2010630130, LC-DIG-highsm-04134; no known restrictions on publication). The frame shows the actual motel business and its public-facing office, with a teepee guest unit at the left — the ground the Lewis family's service and preservation work keeps alive. Identity confirmed by inspection against the LOC record. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Candidate finds
 
 Find key:
