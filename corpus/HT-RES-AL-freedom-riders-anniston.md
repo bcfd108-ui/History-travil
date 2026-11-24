@@ -26,8 +26,12 @@ Start at the designated outdoor panels at the Greyhound Depot. Read the decision
 - LOC's direct retrieval for oral history item 2015669130 and the two LOC photograph URLs in section 9 returned HTTP 403. The free AAPB transcript supplied the usable interview evidence. The station's two-source public-entrance position and period-frame rights remain open. [6–7, 11–13]
 
 ## 7. Historical photo records
-No image adopted. The Princeton John Doar exhibit identifies a Joe Postiglione/Anniston Star downtown bus frame, and LOC catalog entries include burning-bus imagery. No item-level public-domain clearance for these historical frames was established. The downtown scene and later burning scene must remain separately labeled. No Photo Point. [9, 12–13]
 
+**Verified catalog image:** National Park Service, Freedom Riders National Monument, “Anniston Greyhound Bus Depot 2025-6-12” (provider filename Anniston-Greyhound-Bus-Depot-2025-6-12.jpg; no separate accession printed). The frame, inspected at the holding collection: the actual yellow-brick depot with black entrance awning, window lettering and front pavement; the adjacent alley and the interpretation mural at right. The official NPS place record confirms 1031 Gurnee Avenue. It is not the roadside bus-burning site and not a photograph of the 1961 attack. Caption as printed: “The former Greyhound depot on Gurnee Avenue in Anniston, photographed in 2025.” Credit: Kevin Chandler / National Park Service, Anniston Greyhound Bus Depot, June 12, 2025.
+
+Rights: NPS credits the image NPS / Kevin Chandler. The NPS disclaimer states NPS-created material is generally public domain unless otherwise indicated, and no third-party restriction is printed on this item. The interpretation mural appears incidentally across the alley and is not adopted as a separately reusable work.
+
+The historical frames noted in earlier drafts remain unadopted. The Princeton John Doar exhibit identifies a Joe Postiglione/Anniston Star downtown bus frame, and LOC catalog entries include burning-bus imagery. No item-level public-domain clearance for these historical frames was established. The downtown scene and later burning scene must remain separately labeled. No Photo Point. [9, 12–13]
 ## 8. Optional observations
 Quiet reflection only. No visitor access, photo or game prompts.
 
