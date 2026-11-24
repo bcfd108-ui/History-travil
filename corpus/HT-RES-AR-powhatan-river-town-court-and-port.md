@@ -39,6 +39,8 @@ Begin at the signed courthouse approach. If open, use the museum and read the tw
 
 **Inspected frame held for reuse rights.** Encyclopedia of Arkansas media record 2307, courtesy of John Jacobsen. The pixels show the actual towered courthouse front and one side, rough ground and a rising stair on the right. The repository dates the image circa 1890s and gives no photographer or explicit open release; photographer and earlier publication status remain open. Proposed credit if cleared: *Encyclopedia of Arkansas media 2307, courtesy of John Jacobsen, photographer unlisted, circa 1890s*. The apparent approach does not establish a lawful or matched present-day stance. No Photo Point. [6]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, Arkansas photo batches 007–009).** Powhatan Courthouse at Powhatan Historic State Park, photographed in August 2026 by Brandonrush and dedicated CC0 via Wikimedia Commons (File:Powhatan Historic State Park Powhatan AR 026.jpg): brick front and side, tower, entrance, stone foundation. Identity confirmed by inspection. The frame shows the state-park museum anchor only — not the vanished Black River port. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 A contribution is voluntary and awaits a human field check, Gene’s authorization and independent review. This dossier has no cleared contribution location. Reading and planning are free and available without an account, location sharing or contribution.

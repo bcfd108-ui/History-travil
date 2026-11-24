@@ -27,6 +27,8 @@ The nomination says 1926 for the first Paris encounter and attributes much of on
 ## 7. Historical photo records
 A-State identifies family photographs, including a wedding portrait. Rights and item-level credit are unverified for this dossier. An exterior or studio comparison frame remains absent. No Photo Point.
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, Arkansas photo batches 007–009).** The restored barn studio on the Hemingway-Pfeiffer property, photographed by Dennis Adams for a National Archives scenic-byway record (NARA item 7717871, public domain; Wikimedia Commons mirror): vertical-board barn, exterior steps, path and interpretive signs. Identity confirmed by inspection against Arkansas State University’s visitor record, which identifies the Barn Studio as the tour’s final building. NARA’s inherited caption calls the property “this home”; the frame is the barn studio, not the house, and the caption follows the pixels. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo observations
 None proposed. Operator personal-photo policy is in [1].
 

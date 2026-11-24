@@ -37,6 +37,8 @@ The public visit and restoration history are verified. The signed Cash resettlem
 
 **Inspected candidate held for site match.** Library of Congress, FSA/OWI, item 2017720682, digital ID LC-DIG-fsa-8a06880, Arthur Rothstein, August 1935. The file shows an unidentified man holding a broad-brimmed hat and a long handle outdoors. There is no identifiable house or surviving landmark in the frame. The Library attributes the negative to the U.S. Resettlement Administration and records no known restrictions. Its title explicitly calls the Dyess connection possible. Credit if later corroborated: *Library of Congress, LC-DIG-fsa-8a06880, Arthur Rothstein, August 1935*. The man and location cannot be assigned to the Cash household. Verified historical and current match frames remain absent. [6]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, Arkansas photo batches 007–009).** Restored Farm No. 266, the Cash family’s Dyess Colony home, photographed in April 2021 by Dr. Blazer and licensed CC BY-SA 4.0 via Wikimedia Commons. Identity confirmed by inspection against the NPS record and the National Register nomination, which identify the house by its appearance and the number 266. The frame shows the farmstead, reached through the operator’s guided route — not the Visitors Center, and not a walk-up view. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 Reading and trip planning are free and available without an account, location sharing or a contribution. Any future contribution is voluntary and awaits a field check, Gene’s authorization and independent review.

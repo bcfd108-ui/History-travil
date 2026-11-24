@@ -39,6 +39,8 @@ Use the street-side museum approach. Look for ordinary public county history dis
 
 Historical image absent for the saltmaking site. **Inspected anchor frame held.** Arkansas Historic Preservation Program negative, in NPS depot nomination asset f3fe2b7c-0600-4328-89af-8dc1cffc4702, PDF pp. 14–15, building inventory CL0193. The northwest view shows the actual street-side depot, tiled roof and open timber supports, with motor vehicles on the left. Credit for a cleared use would be *Arkansas Historic Preservation Program, Missouri-Pacific Railroad Depot CL0193, nomination PDF pp. 14–15, Barbara Lindsey-Allen, September 1990*. No separate negative number or open rights shown. A second frame on p. 12 shows the rail side, outside this itinerary. The earlier camera stance and a present-day aligned view remain unverified. No Photo Point. [3, 4, 9, 10]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, Arkansas photo batches 007–009).** The Arkadelphia depot in February 2017, photographed by Mitchazenia and licensed CC BY-SA 4.0 via Wikimedia Commons (File:Arkadelphia station - February 2017.jpg): red-tile canopy, timber supports, brick piers, AMTRAK and ARKADELPHIA signs, and a caboose on the museum side. Identity confirmed by inspection; the depot is the Clark County Historical Museum anchor at 750 S. Fifth Street. The frame shows the depot anchor only — not the saltmaking ground. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 Quiet witness only. Reading and planning are free and available without an account, location sharing or contribution.

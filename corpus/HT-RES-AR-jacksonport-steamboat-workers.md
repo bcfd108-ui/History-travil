@@ -39,6 +39,8 @@ Start at the visitor gallery, or use the signed open approach for a daylight ext
 
 **Inspected frame held for open reuse.** Encyclopedia of Arkansas media record 6123, Arkansas State Archives courtesy. The image shows the brick Second Empire courthouse, arched openings, roof dormers and a grass foreground. Catalog date circa 1966; no photographer or open reuse statement shown. Potential credit if cleared: *Arkansas State Archives, via Encyclopedia of Arkansas media 6123, photographer unlisted, circa 1966*. It is a later site view, not an 1861 river or boat image. No verified public stance or Photo Point. [6]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, Arkansas photo batches 007–009).** The Jackson County Courthouse Museum at Jacksonport State Park, photographed in May 2018 by Bdmarberry and licensed CC BY-SA 4.0 via Wikimedia Commons: brick courthouse, tower, exterior stair, gazebo and lawn. Identity confirmed by inspection. The frame shows the public museum anchor only — no steamboat, landing or river traffic appears in it. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 Quiet witness only. Reading and planning are free and available without an account, location sharing or contribution.

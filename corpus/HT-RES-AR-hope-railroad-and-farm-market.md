@@ -38,6 +38,8 @@ Begin at the Main and Division public side. If the visitor center is open, use t
 
 **Inspected candidate held.** FRASER, Mid-Continent Banker, December 1956, p. 106, boxed article “A Texas Claim Challenged.” O. D. Middlebrooks kneels behind a melon marked 161, holding a lighter object. Bank executive C. C. Spragins supplied the photo; photographer and exposure day unidentified. The surrounding setting cannot be matched to the depot. The FRASER scan establishes the published item, with open rights for this 1956 frame unverified. Potential credit if cleared: *FRASER, Federal Reserve Bank of St. Louis, Mid-Continent Banker, December 1956, p. 106, photographer unlisted*. No adopted site photo or Photo Point. [3]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, Arkansas photo batches 007–009).** Hope’s surviving Missouri-Pacific depot in May 2018, photographed by Michael Barera and licensed CC BY-SA 4.0 via Wikimedia Commons: brick facade, red tile roof, the large HOPE sign and the Railway Express Agency diamond. Identity confirmed by inspection; the City of Hope and Amtrak identify the depot/visitor center at 100 E. Division Street. The frame shows the public anchor only, not the active rail side. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 A contribution is voluntary and awaits a human field check, Gene’s authorization and independent review. This dossier has no cleared contribution location. Reading and planning are free and available without an account, location sharing or contribution.

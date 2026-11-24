@@ -39,6 +39,8 @@ Use the staffed museum to read the public interpretation of tenant contracts and
 
 No historical site photo adopted. The registry narrative locates the former businesses, but a firsthand 1930s street frame with confirmed item ID, date and open rights was not established. Collection descriptions of farm workers do not identify this front. No then-and-now match or Photo Point. [3–5]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, Arkansas photo batches 007–009).** The Southern Tenant Farmers Museum in Tyronza, photographed in August 2011 by Thomas R. Machnitzki and licensed CC BY 3.0 via Wikimedia Commons: brick facade, museum lettering, agricultural-worker mural, glass storefront. Identity confirmed by inspection. The frame shows the staffed public museum anchor only; no historic union meeting or farm labor is depicted in it. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 Quiet witness only. Reading and planning are free and available without an account, location sharing or contribution.

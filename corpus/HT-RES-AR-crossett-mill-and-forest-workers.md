@@ -27,6 +27,8 @@ The diary wording is Reynolds’s 1980 transcription of his earlier note. The or
 ## 7. Historical photo records
 Reynolds’s report captions Fig. 8 as the first tool shed and office (December 1933) and Fig. 9 as early road work. They are documentary photo leads. Individual frame pixels and complete reuse credits were not validated for adoption. No Photo Point. [3]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, Arkansas photo batches 007–009).** The original Crossett Research Center office and water tower, a U.S. Forest Service photograph by Russell R. Reynolds held as image 28012 in the USDA Forest Service Research Data Archive (public domain; bytes via the Wikimedia Commons mirror). Identity confirmed against the Forest Service’s Crossett Story, figure 11. Forest Service sources conflict on the date — summer 1935 in the 1980 report caption, November 10, 1936 in derived metadata — and both are printed rather than silently resolved. Documentary ground only; the frame grants no access to the experimental forest. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo observations
 None adopted.
 

@@ -29,6 +29,8 @@ The 1897 page image and original 1927 typescript were inspected during OP07. The
 ## 7. Historical photo records
 Historical site frame absent. The inspected newspaper page contains illustrations for multiple flooded places and does not show a verified Marianna view. The Memphis item is a typescript, not a period photograph. No Photo Point. [3, 7]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, Arkansas photo batches 007–009).** The Lee County Courthouse on Marianna’s Court Square, photographed in June 2014 by Brandonrush and licensed CC BY-SA 4.0 via Wikimedia Commons (File:Lee County Courthouse 003.jpg): stone base, three doors, stairs, columns. Identity confirmed by inspection; the courthouse is a documented contributing civic building on the square. The frame shows the civic anchor only — no levee or floodwork appears in it. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo observations
 None. Quiet witness.
 
