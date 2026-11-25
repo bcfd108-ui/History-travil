@@ -83,3 +83,5 @@ Field-only candidate for the built-environment portion: photograph an operator-i
 | Official register listing URL |  |
 | Governing CFR / agency specification | 36 CFR § 1.5 and Homestead National Historical Park Superintendent’s Compendium [2] |
 | Official manager / operator | National Park Service — Homestead National Historical Park [1,2] |
+
+Adopted first photograph: The Freeman homestead in Gage County, Nebraska, in 1904 — the house and its entry ramp, a smaller building beside it, woodpiles in the foreground. The photographer and the person on the ramp are not identified, and this is not the original 1860s log cabin. (Photographer unknown, 1904. Library of Congress, Prints and Photographs Division, LC-USZ62-20063. No known restrictions on publication.) Display file derived from the Library of Congress master; no credit or copy is burned into the image.
