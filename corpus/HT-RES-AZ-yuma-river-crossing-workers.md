@@ -91,3 +91,5 @@ Find key: . Next-stop key: . Completion stamp: . Field verification: .
 - CFR/spec: operator museum rules; no waterway, infrastructure or land-access conclusion.
 - Operator: Colorado River State Historic Park / Yuma Heritage Area as identified by the operator website. [1,2]
 - Status: local draft; museum seasonal gate documented, holiday/field gate unresolved, direct worker-voice and page-image checks open. No upload, contact or route activation.
+
+Adopted first photograph: The historic Yuma Quartermaster Depot storehouse, photographed in 2005. River steamboats brought supplies to this depot for redistribution to Army outposts. (Ed Snook, April 2005. Wikimedia Commons, Warehouse yumaquartermasterdepot.jpg. Public domain.) Display file derived from the Commons original; no credit or copy is burned into the image.

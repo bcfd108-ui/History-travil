@@ -346,9 +346,9 @@
    "What was searched": "Dossier source opened — https://tile.loc.gov/storage-services/master/pnp/habshaer/az/az0400/az0496/data/az0496data.pdf; Dossier source opened — https://yumalibrary.org/ycld-small-manuscript-collection/; Commons file search — site:commons.wikimedia.org/wiki/File: Yuma Quartermaster Depot Yuma Arizona photograph; Archive search — Yuma Quartermaster Depot Yuma Arizona historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Yuma Quartermaster Depot (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3ARemnants_from_Old_Plank_Road_and_Ford_automobile.jpg | https://commons.wikimedia.org/wiki/File%3AQuartermaster-depot-1.jpg | https://geoalliance.asu.edu/sites/g/files/litvpz866/files/LessonFiles/Hamel/HamelYumaS2.pdf | https://aspace.lib.asu.edu/agents/corporate_entities/8172 | https://commons.wikimedia.org/wiki/File:Warehouse_yumaquartermasterdepot.jpg",
    "Why photo is needed": "HOLD 3deddb8b63 — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “HT-RES-AZ-yuma-river-crossing-workers — Movement depended on somebody's work” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
