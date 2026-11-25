@@ -61,3 +61,5 @@ A voluntary dated report may confirm the self-guided entrance and which rooms st
 | Official register listing URL |  |
 | Governing regulation |  |
 | Official manager/operator | Anchuca Historic Mansion & Inn |
+
+Adopted first photograph: The front (north) elevation of Anchuca, also known as the Victor Wilson House, at 1010 First East Street in Vicksburg, photographed by James Butters for the Historic American Buildings Survey on July 16, 1936 — the four-column portico and centered balcony. (James Butters, July 16, 1936. Library of Congress, Prints & Photographs Division, HABS MISS,75-VICK,13-1. Public domain.) Display file derived from the repository file; no credit or copy is burned into the image.

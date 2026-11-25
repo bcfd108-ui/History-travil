@@ -122,3 +122,5 @@ Onsite question if an interpreter is available: **Which current exhibit or publi
 - Operator: Montana Historical Society [1]
 
 Physical public-address reference: 225 North Roberts Street, Helena, Montana. No coordinate inferred from a map, historic home, archive collection, or mailing ZIP. Blank fields mean not verified, not nonexistent. **a historic road or district pin is not a public entrance.**
+
+Adopted first photograph: Jeannette Rankin in a motorcar amid suffragists outside the National American Woman Suffrage Association headquarters in Washington, D.C., in 1917 — news cameras in the foreground, the association's sign over the door. The Library of Congress cautions that the catalog title comes from unverified caption data; the photograph is Washington ground, made after Montana's 1914 suffrage vote. (Harris & Ewing, photographer. Library of Congress, Prints and Photographs Division, Harris & Ewing photograph collection, LC-DIG-hec-08242. No known restrictions on publication.) Display file derived from the Library of Congress master; no credit or copy is burned into the image.

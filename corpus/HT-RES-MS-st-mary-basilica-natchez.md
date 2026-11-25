@@ -62,3 +62,5 @@ A dated voluntary report of posted public visiting hours or the street entrance 
 | Official register listing URL |  |
 | Governing regulation |  |
 | Official manager/operator | St. Mary Basilica parish |
+
+Adopted first photograph: An undated postcard view of St. Mary's Cathedral in Natchez — the Gothic Revival facade, tower, clock faces and spire over the Union Street frontage. The image is undated; the archive's 2008 scan date is not the picture's date. (Courtesy of the Mississippi Department of Archives and History. No known copyright restrictions.) Display file derived from the repository file; no credit or copy is burned into the image.
