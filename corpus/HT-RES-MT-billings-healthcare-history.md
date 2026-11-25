@@ -113,3 +113,5 @@ Field verifier / date:
 - Operator: Western Heritage Center.
 - Access class: seasonal admitted public museum, subject to current operator hours and conditions; no clinical access.
 - Evidence status: researched local draft, no field verification or publication approval; not route-ready.
+
+Adopted first photograph: The Parmly Billings Library building on Montana Avenue in Billings in 2004 — the stone elevation with its carved name, entry stairs, towers and tiled roof. The building now houses the Western Heritage Center, this entry's museum anchor; the photograph shows the anchor building only, not any clinical ground. (John Margolies, 2004. John Margolies Roadside America photograph archive (1972-2008), Library of Congress, Prints and Photographs Division. No known restrictions on publication.) Display file derived from the Library of Congress master; no credit or copy is burned into the image.

@@ -112,6 +112,10 @@ const reviewedLoc = new Map([
     "https://www.loc.gov/pictures/item/2017705864/",
     "No known restrictions on publication",
   ]],
+  ["MT-billings-healthcare-history", [
+    "https://www.loc.gov/item/2017702899/",
+    "No known restrictions on publication",
+  ]],
 ]);
 const centraliaSource = "https://commons.wikimedia.org/wiki/File:A421,_Centralia,_Pennsylvania,_USA,_Route_61,_abandoned_section_above_coal_mine_fire,_2016.jpg";
 

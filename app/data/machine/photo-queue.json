@@ -7366,7 +7366,7 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Earthquake_Lake_Montana.jpg",
    "Why photo is needed": "HOLD c10a9956de — Individual subject and location evidence require desk sign-off. Compare the source item with “Hebgen earthquake: listening after the night” before releasing this image.",
    "Next desk or field action": "Desk — archival period photograph only",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "ARCHIVAL-ONLY",
    "Gap": "no lawful ground photo — not a field task",
    "Access decision": "The dossier provides no current, ordinary public viewpoint of this subject."
@@ -7381,9 +7381,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Western_Heritage_Center,_Billings,_MT.JPG",
    "Why photo is needed": "HOLD 0023ace7fd — Individual subject and location evidence require desk sign-off. Compare the source item with “HT-RES-MT-billings-healthcare-history — Who gets a voice in care?” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {

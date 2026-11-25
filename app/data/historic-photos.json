@@ -4753,5 +4753,63 @@
    "targetSlug": "MT-cskt-bison-range",
    "targetId": "HT-MT-cskt-bison-range"
   }
+ ],
+ "MT-hebgen-earthquake-reflection": [
+  {
+   "src": "/photos/mt-hebgen-earthquake-reflection-4c920d283c.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 1959,
+   "title": "Hebgen Lake fault scarp, 1959.",
+   "caption": "The fresh fault scarp left by the 1959 Hebgen Lake earthquake — ruptured ground in the foreground, a figure standing at the scarp's edge, a field vehicle on the upper bench and the forested slope beyond. An archival photograph of the earthquake's physical evidence, not a view of any present-day stopping point.",
+   "alt": "Black-and-white photograph of the 1959 Hebgen Lake fault scarp: ruptured ground, a standing figure at the scarp edge, a field vehicle and forested slopes.",
+   "credit": "J. R. Stacy, 1959 (approx.). U.S. Geological Survey.",
+   "license": "Public domain",
+   "licenseUrl": "https://www.usgs.gov/media/images/hebgen-lake-fault-scarp-1959",
+   "sourceName": "U.S. Geological Survey, Yellowstone Volcano Observatory",
+   "sourceUrl": "https://www.usgs.gov/media/images/hebgen-lake-fault-scarp-1959",
+   "imageUrl": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/thumbnails/image/img7535.jpg",
+   "sha256": "4c920d283c638733f878446614f0d175194ee85d0d878d483f3cc91210f50f1e",
+   "width": 1000,
+   "height": 1000,
+   "dateNote": "1959 (approx.).",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: a fresh fault scarp cutting an open slope — pronounced ground rupture in the foreground, a person standing along the scarp, a light field vehicle on the upper bench, trees and structures beyond — the USGS item 'Hebgen Lake fault scarp in 1959,' physical evidence of the entry's earthquake subject; archival only.",
+   "rightsReview": "U.S. Geological Survey media record for this image states rights verbatim 'Public Domain.' Desk-verified Nov 25, 2026.",
+   "adoptedAt": "2026-11-25T10:01:44Z",
+   "rowId": "c10a9956de",
+   "targetSlug": "MT-hebgen-earthquake-reflection",
+   "targetId": "HT-MT-hebgen-earthquake-reflection"
+  }
+ ],
+ "MT-billings-healthcare-history": [
+  {
+   "src": "/photos/mt-billings-healthcare-history-7a704b2c32.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 2004,
+   "title": "Parmly Billings Library (Western Heritage Center), Billings, 2004.",
+   "caption": "The Parmly Billings Library building on Montana Avenue in Billings in 2004 — the stone elevation with its carved name, entry stairs, towers and tiled roof. The building now houses the Western Heritage Center, this entry's museum anchor; the photograph shows the anchor building only, not any clinical ground.",
+   "alt": "The stone Parmly Billings Library building in Billings, Montana, in 2004: carved name over the entry, towers and a red tiled roof.",
+   "credit": "John Margolies, 2004. John Margolies Roadside America photograph archive (1972-2008), Library of Congress, Prints and Photographs Division.",
+   "license": "No known restrictions on publication",
+   "licenseUrl": "https://www.loc.gov/item/2017702899/",
+   "sourceName": "Library of Congress, Prints and Photographs Division",
+   "sourceUrl": "https://www.loc.gov/item/2017702899/",
+   "imageUrl": "https://tile.loc.gov/storage-services/master/pnp/mrg/00700/00785u.tif",
+   "sha256": "7a704b2c326602eaad42d824c1c78f0b7190e1083a6e7e4fe1c60878c7bec48a",
+   "width": 1024,
+   "height": 697,
+   "dateNote": "2004.",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the full Montana Avenue elevation of the stone Parmly Billings Library — carved 'PARMLY BILLINGS LIBRA' over the entry, front stairs, towers, tiled roof, street trees and museum signage — the exact building the LOC title names and the live entry's verified nonclinical anchor at 2822 Montana Avenue.",
+   "rightsReview": "LOC item 2017702899 (John Margolies Roadside America photograph archive): item rights verbatim 'No known restrictions on publication.' Desk-verified Nov 25, 2026.",
+   "adoptedAt": "2026-11-25T10:01:44Z",
+   "rowId": "0023ace7fd",
+   "targetSlug": "MT-billings-healthcare-history",
+   "targetId": "HT-MT-billings-healthcare-history"
+  }
  ]
 }

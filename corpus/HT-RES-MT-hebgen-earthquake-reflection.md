@@ -121,3 +121,5 @@ The YPR page also displays a 2024 survivor portrait. No reuse license was establ
 - Visitor boundary: archive-only now; future admitted center interior only, no slide, water, memorial or private-land extension.
 - Rights gate: USGS photograph has explicit Public Domain metadata, visual QA pending; YPR media reproduction not cleared.
 - Release state: local reflection-only QC draft; no upload, outreach, booking, approval, reenactment or activation.
+
+Adopted first photograph: The fresh fault scarp left by the 1959 Hebgen Lake earthquake — ruptured ground in the foreground, a figure standing at the scarp's edge, a field vehicle on the upper bench and the forested slope beyond. An archival photograph of the earthquake's physical evidence, not a view of any present-day stopping point. (J. R. Stacy, 1959 (approx.). U.S. Geological Survey. Public domain.) Display file derived from the archive's offered original; no credit or copy is burned into the image.
