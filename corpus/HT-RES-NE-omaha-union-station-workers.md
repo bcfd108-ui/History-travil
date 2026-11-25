@@ -85,3 +85,5 @@ Field-only candidate: photograph a surviving Great Hall detail from a permitted 
 | Official register listing URL | https://npgallery.nps.gov/AssetDetail/NRIS/71000484 |
 | Governing CFR / agency specification |  |
 | Official manager / operator | The Durham Museum [1] |
+
+Adopted first photograph: 6:30 a.m. in front of Union Station, Omaha, October 1938 — John Vachon's street-level frame: a streetcar boarding passengers, a man waiting by the streetlamp, the station's stonework at the edge of the frame. (John Vachon, October 1938. Library of Congress, Prints and Photographs Division, Farm Security Administration/Office of War Information Black-and-White Negatives, LC-DIG-fsa-8a03545. Public domain.) Display file derived from the Library of Congress master; no credit or copy is burned into the image.

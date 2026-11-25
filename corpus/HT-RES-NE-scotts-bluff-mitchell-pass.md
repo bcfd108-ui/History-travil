@@ -84,3 +84,5 @@ Field-only candidate: photograph the pass opening from an NPS-designated public 
 | Official register listing URL | https://npgallery.nps.gov/AssetDetail/3a23048f-abb3-408c-8e7f-95c3519aa76f |
 | Governing CFR / agency specification | Scotts Bluff National Monument Superintendent’s Compendium [11] |
 | Official manager / operator | National Park Service [1,2] |
+
+Adopted first photograph: The north-side cliff at the summit of Mitchell Pass, Scotts Bluff, 1932 — George A. Grant's photograph of the layered bluff above the eroded ridges, the Oregon Trail crossing in the foreground. (George A. Grant, 1932. National Park Service History Collection, Harpers Ferry Center, Historic Photograph Collection HFCA 1607, HPC-000756. Public domain.) Display file derived from the NPGallery original; no credit or copy is burned into the image.
