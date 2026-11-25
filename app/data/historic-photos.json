@@ -5188,5 +5188,63 @@
    "targetSlug": "NH-portsmouth-wheelwright-house-strawbery-banke",
    "targetId": "HT-NH-portsmouth-wheelwright-house-strawbery-banke"
   }
+ ],
+ "MD-annapolis-chase-lloyd-house": [
+  {
+   "src": "/photos/md-annapolis-chase-lloyd-house-2b3a993a8c.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 1942,
+   "title": "Chase-Lloyd House, front entrance, May 1942.",
+   "caption": "The Chase-Lloyd House on Maryland Avenue, Annapolis — the three-story brick Georgian façade and pedimented front entrance, photographed by Charles E. Peterson for HABS in May 1942. HABS MD-243.",
+   "alt": "Black-and-white photograph of a tall three-story brick Georgian house with a pedimented entrance porch and picket fence, Annapolis, 1942.",
+   "credit": "Charles E. Peterson, May 1942 — Library of Congress, Historic American Buildings Survey, HABS MD-243",
+   "license": "No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.",
+   "licenseUrl": "https://www.loc.gov/item/md0022/",
+   "sourceName": "Library of Congress, Historic American Buildings Survey",
+   "sourceUrl": "https://www.loc.gov/item/md0022/",
+   "imageUrl": "https://www.loc.gov/item/md0022/",
+   "sha256": "2b3a993a8cf631fad40d9a889b82f224bcd464d3f99e08769c11c136572096dd",
+   "width": 1024,
+   "height": 1430,
+   "dateNote": "May 1942 (HABS record).",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the three-story brick façade with its pedimented entrance and the survey edge mark MD,2-ANNA,2-10 — the exact house.",
+   "rightsReview": "LOC HABS item md0022 rights advisory, verified on the item record Nov 25, 2026: the federal HABS advisory; the frame is the original 1942 HABS photograph by Charles E. Peterson.",
+   "adoptedAt": "2026-11-25T15:45:00Z",
+   "rowId": "e4f4782364",
+   "targetSlug": "MD-annapolis-chase-lloyd-house",
+   "targetId": "HT-MD-annapolis-chase-lloyd-house"
+  }
+ ],
+ "ME-south-portland-breakwater-lighthouse": [
+  {
+   "src": "/photos/me-south-portland-breakwater-lighthouse-4d6fd1eb4e.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 1962,
+   "title": "Portland Breakwater Lighthouse, west (door) elevation, September 1962.",
+   "caption": "The Portland Breakwater Lighthouse — Bug Light — on its granite base at the end of the breakwater, west elevation photographed by Gerda Peterich for HABS in September 1962. HABS ME-112.",
+   "alt": "Black-and-white photograph of a short white cast-iron lighthouse with Corinthian columns on a granite pier in Portland Harbor, 1962.",
+   "credit": "Gerda Peterich, September 1962 — Library of Congress, Historic American Buildings Survey, HABS ME-112",
+   "license": "No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.",
+   "licenseUrl": "https://www.loc.gov/item/me0035/",
+   "sourceName": "Library of Congress, Historic American Buildings Survey",
+   "sourceUrl": "https://www.loc.gov/item/me0035/",
+   "imageUrl": "https://www.loc.gov/item/me0035/",
+   "sha256": "4d6fd1eb4e19e8f9cd39bfe2573d7feac04f7a8fa45a12c7f84d94f23f949f4b",
+   "width": 1024,
+   "height": 1406,
+   "dateNote": "September 1962 (HABS record).",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the cast-iron tower with its Corinthian capitals and lantern on the granite breakwater base, harbor behind — the exact lighthouse.",
+   "rightsReview": "LOC HABS item me0035 rights advisory, verified on the item record Nov 25, 2026: the federal HABS advisory; the frame is the original 1962 HABS photograph by Gerda Peterich, not one of the survey’s copy negatives.",
+   "adoptedAt": "2026-11-25T15:45:00Z",
+   "rowId": "cde08c0ffb",
+   "targetSlug": "ME-south-portland-breakwater-lighthouse",
+   "targetId": "HT-ME-south-portland-breakwater-lighthouse"
+  }
  ]
 }

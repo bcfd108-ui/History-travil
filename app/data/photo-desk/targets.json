@@ -1,6 +1,6 @@
 {
- "commit": "441314f8676e06bea29315ca8b175a3c549962bd",
- "catalogCount": 817,
+ "commit": "8e4d05024fbb5aeff60f85e9fca93f1ad315355d",
+ "catalogCount": 819,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -17156,6 +17156,72 @@
      {
       "key": "Status",
       "value": "research draft; Maine seed catalog."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-ME-south-portland-breakwater-lighthouse",
+   "slug": "ME-south-portland-breakwater-lighthouse",
+   "title": "HT-RES-ME-south-portland-breakwater-lighthouse — South Portland: Bug Light, the cast-iron tower",
+   "town": "South Portland",
+   "state": "Maine",
+   "stateCode": "ME",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-ME-south-portland-breakwater-lighthouse — South Portland: Bug Light, the cast-iron tower",
+   "stableName": "",
+   "address": "",
+   "locator": {
+    "stableName": "",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "South Portland"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MD-annapolis-chase-lloyd-house",
+   "slug": "MD-annapolis-chase-lloyd-house",
+   "title": "HT-RES-MD-annapolis-chase-lloyd-house — Annapolis: the mansion a signer began",
+   "town": "Annapolis",
+   "state": "Maryland",
+   "stateCode": "MD",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MD-annapolis-chase-lloyd-house — Annapolis: the mansion a signer began",
+   "stableName": "",
+   "address": "",
+   "locator": {
+    "stableName": "",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Annapolis"
      }
     ]
    }
