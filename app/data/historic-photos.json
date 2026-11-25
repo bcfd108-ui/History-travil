@@ -4175,5 +4175,61 @@
    "title": "The historic Yuma Quartermaster Depot storehouse, photographed in 2005. River steamboats brought supplies to this depot for redistribution to Army outposts.",
    "adoptedAt": "2026-11-25T05:19:52Z"
   }
+ ],
+ "KY-mammoth-cave-stephen-bishop": [
+  {
+   "src": "/photos/ky-mammoth-cave-stephen-bishop-3d59d36fd3.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 1986,
+   "title": "The historic entrance to Mammoth Cave, December 1986.",
+   "caption": "The historic entrance to Mammoth Cave, photographed by Jet Lowe in December 1986 — the dark opening beneath the limestone overhang, with steps and railings descending toward it. The entrance as the survey found it, not a portrait of Stephen Bishop.",
+   "alt": "The dark historic entrance of Mammoth Cave beneath a limestone overhang, with steps and railings descending toward the opening, 1986.",
+   "credit": "Jet Lowe, December 1986. Historic American Engineering Record, HAER KY-18-1. Library of Congress, Prints and Photographs Division, ky0272.photos.070453p.",
+   "license": "No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.",
+   "licenseUrl": "https://www.loc.gov/item/ky0272/",
+   "sourceName": "Library of Congress, Prints and Photographs Division",
+   "sourceUrl": "https://www.loc.gov/item/ky0272/",
+   "imageUrl": "https://tile.loc.gov/storage-services/master/pnp/habshaer/ky/ky0200/ky0272/photos/070453pu.tif",
+   "sha256": "3d59d36fd3ecab7668b71499ab66b3682e5034830fc83a649b0a33403fc1b380",
+   "groundReview": "Desk QC Nov 24, 2026 (lane watch, eye-checked against the HAER caption index ky0272cap.pdf): dark opening beneath the limestone overhang, steps and railings descending toward the entrance, negative edge-marked HAER KY-18-1 — Jet Lowe's December 1986 frame of the historic entrance. Not a portrait of Stephen Bishop and not current conditions.",
+   "rightsReview": "LOC item ky0272 (Mammoth Cave Saltpeter Works, HAER KY-18): 'No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.' The HAER caption index identifies photo 1 as HAER staff photographer Jet Lowe's December 1986 photograph — government material, not subject to copyright. Desk-verified Nov 24, 2026.",
+   "adoptedAt": "2026-11-25T05:30:44Z",
+   "rowId": "03633d2219",
+   "targetSlug": "KY-mammoth-cave-stephen-bishop",
+   "targetId": "HT-KY-mammoth-cave-stephen-bishop",
+   "representative": false,
+   "medium": "photograph",
+   "width": 1024,
+   "height": 728
+  }
+ ],
+ "KY-roebling-suspension-bridge": [
+  {
+   "src": "/photos/ky-roebling-suspension-bridge-438502d336.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 1982,
+   "title": "The Roebling Suspension Bridge from its Covington portal, July 1982.",
+   "caption": "Looking north through the Covington portal of the John A. Roebling Suspension Bridge, July 1982 — Jack E. Boucher's barrel shot between the masonry approach walls, the stone south tower ahead.",
+   "alt": "View north down the Roebling Suspension Bridge deck from the Covington portal, 1982: masonry approach walls, repeating ironwork, and the stone south tower.",
+   "credit": "Jack E. Boucher, July 1982. Historic American Engineering Record, HAER OH-28-5. Library of Congress, Prints and Photographs Division, oh0104.photos.127312p.",
+   "license": "No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.",
+   "licenseUrl": "https://www.loc.gov/item/oh0104/",
+   "sourceName": "Library of Congress, Prints and Photographs Division",
+   "sourceUrl": "https://www.loc.gov/item/oh0104/",
+   "imageUrl": "https://tile.loc.gov/storage-services/master/pnp/habshaer/oh/oh0100/oh0104/photos/127312pu.tif",
+   "sha256": "438502d33610ea895d011244c57656a9ee844ce99f380db13f3dedf0015bb61e",
+   "groundReview": "Desk QC Nov 24, 2026 (lane watch, eye-checked against the HAER photograph index oh0104cap.pdf): symmetrical view north between the masonry approach walls, deck and repeating lattice ironwork, saddle cables and the stone south tower, negative border marked HAER OH-28-5 — Boucher's July 1982 barrel shot from the Covington end.",
+   "rightsReview": "LOC item oh0104 (Cincinnati Suspension Bridge, HAER OH-28): 'No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.' The HAER photograph index assigns OH-28-5 to Jack E. Boucher's July 1982 official staff documentation — U.S. government work, public domain in the United States. Desk-verified Nov 24, 2026.",
+   "adoptedAt": "2026-11-25T05:30:44Z",
+   "rowId": "07eb2062bf",
+   "targetSlug": "KY-roebling-suspension-bridge",
+   "targetId": "HT-KY-roebling-suspension-bridge",
+   "representative": false,
+   "medium": "photograph",
+   "width": 1024,
+   "height": 1409
+  }
  ]
 }

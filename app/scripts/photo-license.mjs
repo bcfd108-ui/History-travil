@@ -86,6 +86,12 @@ const reviewedLoc = new Map([
   ["FL-fort-matanzas", [
     "https://www.loc.gov/resource/hhh.fl0166.photos.053863p", federal,
   ]],
+  ["KY-mammoth-cave-stephen-bishop", [
+    "https://www.loc.gov/item/ky0272/", federal,
+  ]],
+  ["KY-roebling-suspension-bridge", [
+    "https://www.loc.gov/item/oh0104/", federal,
+  ]],
 ]);
 const centraliaSource = "https://commons.wikimedia.org/wiki/File:A421,_Centralia,_Pennsylvania,_USA,_Route_61,_abandoned_section_above_coal_mine_fire,_2016.jpg";
 
