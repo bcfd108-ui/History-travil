@@ -9321,719 +9321,6 @@
    "attempts": []
   },
   {
-   "id": "lq_1c5cb235ddf16a69",
-   "projectedSlug": "nh-new-hampshire-state-house-and-historical-society-museum",
-   "targetSlug": null,
-   "name": "New Hampshire State House & Historical Society Museum",
-   "town": "Concord",
-   "county": "Merrimack",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "Public building & museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 138,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1e40d776d2e470eb",
-   "projectedSlug": "nh-white-island-state-historic-site-isles-of-shoals-light",
-   "targetSlug": null,
-   "name": "White Island State Historic Site (Isles of Shoals Light)",
-   "town": "Rye",
-   "county": "Seacoast",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State historic site lighthouse (1821); boat access",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 129,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_297c67d17b19adad",
-   "projectedSlug": "nh-bedell-bridge-state-historic-site",
-   "targetSlug": null,
-   "name": "Bedell Bridge State Historic Site",
-   "town": "Haverhill",
-   "county": "Grafton",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State historic site — covered-bridge abutments on the Connecticut River",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 148,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_2aeebb15ad910947",
-   "projectedSlug": "nh-daniel-webster-birthplace-state-historic-site",
-   "targetSlug": null,
-   "name": "Daniel Webster Birthplace State Historic Site",
-   "town": "Franklin",
-   "county": "Merrimack",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State historic site",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 136,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_316b007e005f204f",
-   "projectedSlug": "nh-governor-wentworth-historic-site",
-   "targetSlug": null,
-   "name": "Governor Wentworth Historic Site",
-   "town": "Wolfeboro",
-   "county": "Carroll",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State historic site — ruins of the royal governor's 1770s plantation",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 144,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3e095590a7682e7e",
-   "projectedSlug": "nh-strawbery-banke-museum",
-   "targetSlug": null,
-   "name": "Strawbery Banke Museum",
-   "town": "Portsmouth",
-   "county": "Seacoast",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "Museum — four centuries of a working waterfront neighborhood; immigrant labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 123,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3f2f1df32f206b82",
-   "projectedSlug": "nh-franklin-pierce-homestead-state-historic-site",
-   "targetSlug": null,
-   "name": "Franklin Pierce Homestead State Historic Site",
-   "town": "Hillsborough",
-   "county": "Hillsborough",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State historic site — 14th president's boyhood home",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 135,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_41213a068e3a1c22",
-   "projectedSlug": "nh-moffatt-ladd-house-and-garden",
-   "targetSlug": null,
-   "name": "Moffatt-Ladd House & Garden",
-   "town": "Portsmouth",
-   "county": "Seacoast",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "Museum — Declaration signer's house",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 126,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4b50ecbc312e7429",
-   "projectedSlug": "nh-new-hampshire-state-prison",
-   "targetSlug": null,
-   "name": "New Hampshire State Prison",
-   "town": "Concord",
-   "county": "Seacoast",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "Active state prison (1880); no public anchor — flag (theme family: prison)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 152,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4f821ce9d8cc86f6",
-   "projectedSlug": "nh-hannah-duston-memorial-state-historic-site",
-   "targetSlug": null,
-   "name": "Hannah Duston Memorial State Historic Site",
-   "town": "Boscawen",
-   "county": "Merrimack",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State historic site — 1697 captivity monument; contested Indigenous-history ground, approach as reflection",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 137,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_518bf0b006695764",
-   "projectedSlug": "nh-african-burying-ground-memorial-and-black-heritage-trail",
-   "targetSlug": null,
-   "name": "African Burying Ground Memorial & Black Heritage Trail",
-   "town": "Portsmouth",
-   "county": "Seacoast",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "Public memorial & trail — rediscovered 18th-century African burying ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 124,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_58a5dc7dc2f99463",
-   "projectedSlug": "nh-castle-in-the-clouds",
-   "targetSlug": null,
-   "name": "Castle in the Clouds",
-   "town": "Moultonborough",
-   "county": "Carroll",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "Museum estate",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 145,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6556700b0e1e8e1c",
-   "projectedSlug": "nh-robert-frost-farm-state-historic-site",
-   "targetSlug": null,
-   "name": "Robert Frost Farm State Historic Site",
-   "town": "Derry",
-   "county": "Rockingham",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State historic site — NHL",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 141,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_69cb8005a65d942b",
-   "projectedSlug": "nh-endicott-rock-state-historic-site",
-   "targetSlug": null,
-   "name": "Endicott Rock State Historic Site",
-   "town": "Laconia",
-   "county": "Belknap",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State historic site — 1652 Massachusetts Bay boundary surveyors' inscribed rock",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 143,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6fee975558954646",
-   "projectedSlug": "nh-enfield-shaker-museum",
-   "targetSlug": null,
-   "name": "Enfield Shaker Museum",
-   "town": "Enfield",
-   "county": "Grafton",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "Museum — second Shaker village site",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 140,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7c71a37246634e40",
-   "projectedSlug": "nh-saint-gaudens-national-historical-park",
-   "targetSlug": null,
-   "name": "Saint-Gaudens National Historical Park",
-   "town": "Cornish",
-   "county": "Sullivan",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "National park unit — sculptor's home and studios",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 146,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8416c76c9d955f30",
-   "projectedSlug": "nh-wentworth-coolidge-mansion-state-historic-site",
-   "targetSlug": null,
-   "name": "Wentworth-Coolidge Mansion State Historic Site",
-   "town": "Portsmouth",
-   "county": "Rockingham",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State historic site — royal governor's mansion, 1750s",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 122,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9dc6b27bab2dfcd4",
-   "projectedSlug": "nh-john-wingate-weeks-state-historic-site",
-   "targetSlug": null,
-   "name": "John Wingate Weeks State Historic Site",
-   "town": "Lancaster",
-   "county": "Coös",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State historic site — Weeks Act conservation ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 149,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a5143c7a39542679",
-   "projectedSlug": "nh-livermore-ghost-town",
-   "targetSlug": null,
-   "name": "Livermore ghost town",
-   "town": "Lincoln",
-   "county": "Grafton (White Mountain NF)",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "National forest trail site — abandoned logging town, foundations in public forest",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 153,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a6dc280516073724",
-   "projectedSlug": "nh-amoskeag-millyard-and-millyard-museum",
-   "targetSlug": null,
-   "name": "Amoskeag Millyard & Millyard Museum",
-   "town": "Manchester",
-   "county": "Hillsborough",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "Museum — once the world's largest textile mill complex; immigrant mill-labor ground (theme family: mill/labor)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 142,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a94b0e8ffa36574d",
-   "projectedSlug": "nh-john-paul-jones-house",
-   "targetSlug": null,
-   "name": "John Paul Jones House",
-   "town": "Portsmouth",
-   "county": "Seacoast",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "Museum — naval hero's 1781 lodging (theme family: military-adjacent)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 127,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ad45f269be0f0f37",
-   "projectedSlug": "nh-mount-washington-hotel",
-   "targetSlug": null,
-   "name": "Mount Washington Hotel",
-   "town": "Bretton Woods",
-   "county": "New Hampshire",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 567,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ae4ae06e718c067d",
-   "projectedSlug": "nh-canterbury-shaker-village",
-   "targetSlug": null,
-   "name": "Canterbury Shaker Village",
-   "town": "Canterbury",
-   "county": "Merrimack",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "Museum — reform-movement religious community ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 139,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_af71c42af1ed1b1a",
-   "projectedSlug": "nh-fort-at-no-4",
-   "targetSlug": null,
-   "name": "Fort at No. 4",
-   "town": "Charlestown",
-   "county": "Sullivan",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "Living history museum — reconstructed 1740s fortified village (theme family: military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 147,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b025c77d8dc6056d",
-   "projectedSlug": "nh-odiorne-point-state-park-fort-dearborn",
-   "targetSlug": null,
-   "name": "Odiorne Point State Park (Fort Dearborn)",
-   "town": "Rye",
-   "county": "Rockingham",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State park — 1623 first settlement ground and a WWII harbor-defense battery (theme family: military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 128,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ba9889430956f989",
-   "projectedSlug": "nh-fort-stark-state-historic-site",
-   "targetSlug": null,
-   "name": "Fort Stark State Historic Site",
-   "town": "New Castle",
-   "county": "Seacoast",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State historic site — harbor batteries, Revolutionary through WWII (theme family: military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 121,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c29989c9e6b1398a",
-   "projectedSlug": "nh-nansen-ski-jump-state-historic-site",
-   "targetSlug": null,
-   "name": "Nansen Ski Jump State Historic Site",
-   "town": "Milan",
-   "county": "Coös",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State historic site — 1938 Olympic-trials ski jump",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 150,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d91f4f2f89b1f8fe",
-   "projectedSlug": "nh-fort-constitution-state-historic-site",
-   "targetSlug": null,
-   "name": "Fort Constitution State Historic Site",
-   "town": "New Castle",
-   "county": "Rockingham",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State historic site — 1774 powder raid ground; harbor fortifications (theme family: military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 120,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_def547eca0306090",
-   "projectedSlug": "nh-uss-albacore-park",
-   "targetSlug": null,
-   "name": "USS Albacore Park",
-   "town": "Portsmouth",
-   "county": "Seacoast",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "Museum submarine — research submarine and shipyard labor ground (theme family: military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 125,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f31993368f369242",
-   "projectedSlug": "nh-tip-top-house-mount-washington-state-historic-site",
-   "targetSlug": null,
-   "name": "Tip Top House / Mount Washington State Historic Site",
-   "town": "Sargent's Purchase",
-   "county": "Coös",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "State historic site — 1853 summit hotel on the Northeast's highest peak",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 151,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fb7877a0c80ab8d1",
-   "projectedSlug": "nh-point-of-graves",
-   "targetSlug": null,
-   "name": "Point of Graves",
-   "town": "Portsmouth",
-   "county": "New Hampshire",
-   "state": "NH",
-   "tier": null,
-   "anchorPosture": "cemetery — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 568,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
    "id": "lq_017fc54b62e74c8b",
    "projectedSlug": "ri-rose-island-lighthouse",
    "targetSlug": null,
@@ -163752,6 +163039,719 @@
    "attempts": []
   },
   {
+   "id": "lq_1c5cb235ddf16a69",
+   "projectedSlug": "nh-new-hampshire-state-house-and-historical-society-museum",
+   "targetSlug": null,
+   "name": "New Hampshire State House & Historical Society Museum",
+   "town": "Concord",
+   "county": "Merrimack",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "Public building & museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 138,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1e40d776d2e470eb",
+   "projectedSlug": "nh-white-island-state-historic-site-isles-of-shoals-light",
+   "targetSlug": null,
+   "name": "White Island State Historic Site (Isles of Shoals Light)",
+   "town": "Rye",
+   "county": "Seacoast",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State historic site lighthouse (1821); boat access",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 129,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_297c67d17b19adad",
+   "projectedSlug": "nh-bedell-bridge-state-historic-site",
+   "targetSlug": null,
+   "name": "Bedell Bridge State Historic Site",
+   "town": "Haverhill",
+   "county": "Grafton",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State historic site — covered-bridge abutments on the Connecticut River",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 148,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_2aeebb15ad910947",
+   "projectedSlug": "nh-daniel-webster-birthplace-state-historic-site",
+   "targetSlug": null,
+   "name": "Daniel Webster Birthplace State Historic Site",
+   "town": "Franklin",
+   "county": "Merrimack",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State historic site",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 136,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_316b007e005f204f",
+   "projectedSlug": "nh-governor-wentworth-historic-site",
+   "targetSlug": null,
+   "name": "Governor Wentworth Historic Site",
+   "town": "Wolfeboro",
+   "county": "Carroll",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State historic site — ruins of the royal governor's 1770s plantation",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 144,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3e095590a7682e7e",
+   "projectedSlug": "nh-strawbery-banke-museum",
+   "targetSlug": null,
+   "name": "Strawbery Banke Museum",
+   "town": "Portsmouth",
+   "county": "Seacoast",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "Museum — four centuries of a working waterfront neighborhood; immigrant labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 123,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3f2f1df32f206b82",
+   "projectedSlug": "nh-franklin-pierce-homestead-state-historic-site",
+   "targetSlug": null,
+   "name": "Franklin Pierce Homestead State Historic Site",
+   "town": "Hillsborough",
+   "county": "Hillsborough",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State historic site — 14th president's boyhood home",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 135,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_41213a068e3a1c22",
+   "projectedSlug": "nh-moffatt-ladd-house-and-garden",
+   "targetSlug": null,
+   "name": "Moffatt-Ladd House & Garden",
+   "town": "Portsmouth",
+   "county": "Seacoast",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "Museum — Declaration signer's house",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 126,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4b50ecbc312e7429",
+   "projectedSlug": "nh-new-hampshire-state-prison",
+   "targetSlug": null,
+   "name": "New Hampshire State Prison",
+   "town": "Concord",
+   "county": "Seacoast",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "Active state prison (1880); no public anchor — flag (theme family: prison)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 152,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4f821ce9d8cc86f6",
+   "projectedSlug": "nh-hannah-duston-memorial-state-historic-site",
+   "targetSlug": null,
+   "name": "Hannah Duston Memorial State Historic Site",
+   "town": "Boscawen",
+   "county": "Merrimack",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State historic site — 1697 captivity monument; contested Indigenous-history ground, approach as reflection",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 137,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_518bf0b006695764",
+   "projectedSlug": "nh-african-burying-ground-memorial-and-black-heritage-trail",
+   "targetSlug": null,
+   "name": "African Burying Ground Memorial & Black Heritage Trail",
+   "town": "Portsmouth",
+   "county": "Seacoast",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "Public memorial & trail — rediscovered 18th-century African burying ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 124,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_58a5dc7dc2f99463",
+   "projectedSlug": "nh-castle-in-the-clouds",
+   "targetSlug": null,
+   "name": "Castle in the Clouds",
+   "town": "Moultonborough",
+   "county": "Carroll",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "Museum estate",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 145,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6556700b0e1e8e1c",
+   "projectedSlug": "nh-robert-frost-farm-state-historic-site",
+   "targetSlug": null,
+   "name": "Robert Frost Farm State Historic Site",
+   "town": "Derry",
+   "county": "Rockingham",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State historic site — NHL",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 141,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_69cb8005a65d942b",
+   "projectedSlug": "nh-endicott-rock-state-historic-site",
+   "targetSlug": null,
+   "name": "Endicott Rock State Historic Site",
+   "town": "Laconia",
+   "county": "Belknap",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State historic site — 1652 Massachusetts Bay boundary surveyors' inscribed rock",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 143,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6fee975558954646",
+   "projectedSlug": "nh-enfield-shaker-museum",
+   "targetSlug": null,
+   "name": "Enfield Shaker Museum",
+   "town": "Enfield",
+   "county": "Grafton",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "Museum — second Shaker village site",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 140,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7c71a37246634e40",
+   "projectedSlug": "nh-saint-gaudens-national-historical-park",
+   "targetSlug": null,
+   "name": "Saint-Gaudens National Historical Park",
+   "town": "Cornish",
+   "county": "Sullivan",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "National park unit — sculptor's home and studios",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 146,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8416c76c9d955f30",
+   "projectedSlug": "nh-wentworth-coolidge-mansion-state-historic-site",
+   "targetSlug": "NH-portsmouth-wentworth-coolidge-mansion",
+   "name": "Wentworth-Coolidge Mansion State Historic Site",
+   "town": "Portsmouth",
+   "county": "Rockingham",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State historic site — royal governor's mansion, 1750s",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 122,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_9dc6b27bab2dfcd4",
+   "projectedSlug": "nh-john-wingate-weeks-state-historic-site",
+   "targetSlug": null,
+   "name": "John Wingate Weeks State Historic Site",
+   "town": "Lancaster",
+   "county": "Coös",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State historic site — Weeks Act conservation ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 149,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a5143c7a39542679",
+   "projectedSlug": "nh-livermore-ghost-town",
+   "targetSlug": null,
+   "name": "Livermore ghost town",
+   "town": "Lincoln",
+   "county": "Grafton (White Mountain NF)",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "National forest trail site — abandoned logging town, foundations in public forest",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 153,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a6dc280516073724",
+   "projectedSlug": "nh-amoskeag-millyard-and-millyard-museum",
+   "targetSlug": null,
+   "name": "Amoskeag Millyard & Millyard Museum",
+   "town": "Manchester",
+   "county": "Hillsborough",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "Museum — once the world's largest textile mill complex; immigrant mill-labor ground (theme family: mill/labor)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 142,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a94b0e8ffa36574d",
+   "projectedSlug": "nh-john-paul-jones-house",
+   "targetSlug": null,
+   "name": "John Paul Jones House",
+   "town": "Portsmouth",
+   "county": "Seacoast",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "Museum — naval hero's 1781 lodging (theme family: military-adjacent)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 127,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ad45f269be0f0f37",
+   "projectedSlug": "nh-mount-washington-hotel",
+   "targetSlug": null,
+   "name": "Mount Washington Hotel",
+   "town": "Bretton Woods",
+   "county": "New Hampshire",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 567,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ae4ae06e718c067d",
+   "projectedSlug": "nh-canterbury-shaker-village",
+   "targetSlug": null,
+   "name": "Canterbury Shaker Village",
+   "town": "Canterbury",
+   "county": "Merrimack",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "Museum — reform-movement religious community ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 139,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_af71c42af1ed1b1a",
+   "projectedSlug": "nh-fort-at-no-4",
+   "targetSlug": null,
+   "name": "Fort at No. 4",
+   "town": "Charlestown",
+   "county": "Sullivan",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "Living history museum — reconstructed 1740s fortified village (theme family: military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 147,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b025c77d8dc6056d",
+   "projectedSlug": "nh-odiorne-point-state-park-fort-dearborn",
+   "targetSlug": null,
+   "name": "Odiorne Point State Park (Fort Dearborn)",
+   "town": "Rye",
+   "county": "Rockingham",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State park — 1623 first settlement ground and a WWII harbor-defense battery (theme family: military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 128,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ba9889430956f989",
+   "projectedSlug": "nh-fort-stark-state-historic-site",
+   "targetSlug": null,
+   "name": "Fort Stark State Historic Site",
+   "town": "New Castle",
+   "county": "Seacoast",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State historic site — harbor batteries, Revolutionary through WWII (theme family: military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 121,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c29989c9e6b1398a",
+   "projectedSlug": "nh-nansen-ski-jump-state-historic-site",
+   "targetSlug": null,
+   "name": "Nansen Ski Jump State Historic Site",
+   "town": "Milan",
+   "county": "Coös",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State historic site — 1938 Olympic-trials ski jump",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 150,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d91f4f2f89b1f8fe",
+   "projectedSlug": "nh-fort-constitution-state-historic-site",
+   "targetSlug": null,
+   "name": "Fort Constitution State Historic Site",
+   "town": "New Castle",
+   "county": "Rockingham",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State historic site — 1774 powder raid ground; harbor fortifications (theme family: military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 120,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_def547eca0306090",
+   "projectedSlug": "nh-uss-albacore-park",
+   "targetSlug": null,
+   "name": "USS Albacore Park",
+   "town": "Portsmouth",
+   "county": "Seacoast",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "Museum submarine — research submarine and shipyard labor ground (theme family: military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 125,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f31993368f369242",
+   "projectedSlug": "nh-tip-top-house-mount-washington-state-historic-site",
+   "targetSlug": null,
+   "name": "Tip Top House / Mount Washington State Historic Site",
+   "town": "Sargent's Purchase",
+   "county": "Coös",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "State historic site — 1853 summit hotel on the Northeast's highest peak",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 151,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fb7877a0c80ab8d1",
+   "projectedSlug": "nh-point-of-graves",
+   "targetSlug": null,
+   "name": "Point of Graves",
+   "town": "Portsmouth",
+   "county": "New Hampshire",
+   "state": "NH",
+   "tier": null,
+   "anchorPosture": "cemetery — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 568,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
    "id": "lq_03112d526cf15a0a",
    "projectedSlug": "ma-john-f-kennedy-national-historic-site",
    "targetSlug": null,
@@ -179646,8 +179646,8 @@
   "byQueueState": {
    "checked-dead": 23,
    "held": 27,
-   "published": 48,
-   "queued": 6932
+   "published": 49,
+   "queued": 6931
   },
   "byState": {
    "AK": 121,
