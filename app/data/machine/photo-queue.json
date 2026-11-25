@@ -376,7 +376,7 @@
    "What was searched": "Dossier source opened — https://exhibits.lib.arizona.edu/exhibits/show/foundingmothers/azsuffrage; Dossier source unavailable — https://azmemory.azlibrary.gov/nodes/view/119800; Commons file search — site:commons.wikimedia.org/wiki/File: Arizona suffrage women Phoenix Arizona photograph; Archive search — Arizona suffrage women Phoenix Arizona historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Arizona suffrage women (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AVotes_for_Women_Arizona_1912.jpg | https://commons.wikimedia.org/wiki/File%3AJosephine_Brawley_Hughes.jpg | https://www.si.edu/es/object/votes-women%3Anmah_508001 | https://news.asu.edu/20200709-three-asu-women-leaders-selected-phoenix-herstories-celebrate-19th-amendment",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — archival period photograph only",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "ARCHIVAL-ONLY",
    "Gap": "no lawful ground photo — not a field task",
    "Access decision": "The dossier provides no current, ordinary public viewpoint of this subject."
@@ -1606,9 +1606,9 @@
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "Photo research pending.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -1621,9 +1621,9 @@
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "Photo research pending.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -1636,9 +1636,9 @@
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "Photo research pending.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -4186,9 +4186,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:FQ29Jan07Beauregard1.jpg",
    "Why photo is needed": "HOLD 18486998f5 — Individual subject and location evidence require desk sign-off. Compare the source item with “Beauregard-Keyes House — a raised Creole-American villa, its enslaved quarters, a Sicilian family's stand, and a novelist's rescue on Chartres Street” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -4276,9 +4276,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:FrenchQuarterNewOrleans.jpg",
    "Why photo is needed": "HOLD 288545c690 — Individual subject and location evidence require desk sign-off. Compare the source item with “French Quarter (Vieux Carré) Historic District — the original city of New Orleans” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -4306,9 +4306,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Gallier_House,_1132-1134_Royal_St.,_New_Orleans,_Orleans_Parish,_Louisiana.jpg",
    "Why photo is needed": "HOLD 5be7fad1f1 — Individual subject and location evidence require desk sign-off. Compare the source item with “Gallier House — an architect's own house, its engineering experiments, and the enslaved household behind them on Royal Street” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -4351,9 +4351,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Hermann-Grima_House_New_Orleans.jpg",
    "Why photo is needed": "HOLD c70fe761ab — Individual subject and location evidence require desk sign-off. Compare the source item with “Hermann-Grima House — a Federal mansion, its courtyard work yard, and the enslaved household of St. Louis Street” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -4381,9 +4381,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Jackson_Square,_New_Orleans,_LA.jpg",
    "Why photo is needed": "HOLD 9ec9e752f3 — Individual subject and location evidence require desk sign-off. Compare the source item with “Jackson Square and St. Louis Cathedral — the Place d'Armes and its church” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -4425,10 +4425,10 @@
    "Entry URL": "https://onoldground.com/sites/LA-madame-johns-legacy",
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Madame_Johns_Legacy_New_Orleans.jpg",
    "Why photo is needed": "HOLD 5d297cdd0d — Individual subject and location evidence require desk sign-off. Compare the source item with “Madame John's Legacy — the last French colonial raised cottage of the Vieux Carré” before releasing this image.",
-   "Next desk or field action": "Field option — Public Dumaine Street sidewalk outside 632 Dumaine Street.",
-   "Coverage": "none",
-   "Eligibility": "PUBLIC GROUND",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -4561,9 +4561,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Old_Ursuline_Convent,_New_Orleans,_LA.jpg",
    "Why photo is needed": "HOLD 93faadfd79 — Individual subject and location evidence require desk sign-off. Compare the source item with “Old Ursuline Convent — the French colonial convent, school and orphanage on Chartres Street” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -4590,10 +4590,10 @@
    "Entry URL": "https://onoldground.com/sites/LA-river-road-african-american-museum",
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: River Road African American Museum Donaldsonville Louisiana photograph; Archive search — River Road African American Museum Donaldsonville Louisiana historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — River Road African American Museum (request failed); Candidate records — https://www.lsu.edu/sociologytour/RiverRoad/ | https://www.loc.gov/resource/hhh.la0115.photos/?sp=1 | https://commons.wikimedia.org/wiki/File:Great_River_Road_-_River_Road_African_American_Museum_-_NARA_-_7719005.jpg",
    "Why photo is needed": "HOLD 0b4dd0cdc6 — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “River Road African American Museum — Pierre Caliste Landry” before releasing this image.",
-   "Next desk or field action": "Field option — the Charles Street museum entrance sign",
-   "Coverage": "none",
-   "Eligibility": "PUBLIC GROUND",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -4621,9 +4621,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: St Natchez Louisiana photograph; Archive search — St Natchez Louisiana historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — St (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AView_on_Natchez.jpg | https://commons.wikimedia.org/wiki/File%3AStanton_Hall_perspective_view.jpg | https://www.nps.gov/natc/learn/photosmultimedia/photogallery.htm | https://archives.lib.purdue.edu/repositories/2/archival_objects/81226 | https://commons.wikimedia.org/wiki/File:St._Augustine_Catholic_Church_and_Cemetery_(1_of_1).jpg",
    "Why photo is needed": "HOLD 13d4274dc0 — Individual subject and location evidence require desk sign-off. Compare the source item with “St. Augustine Catholic Church and Cemetery — Isle Brevelle, Cane River” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -4651,9 +4651,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:The_Cabildo_New_Orleans.JPG",
    "Why photo is needed": "HOLD b09881aaba — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “The Cabildo — Spanish government house, Louisiana Purchase transfer, and the Sala Capitular” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -4681,9 +4681,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:JaxSq9Jul07PresbetereTr.jpg",
    "Why photo is needed": "HOLD 6361c4b9d0 — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “The Presbytère — Casa Curial, courthouse, and Louisiana State Museum” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -4711,9 +4711,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:The_Whitney_Plantation,_Wallace_LA.jpg",
    "Why photo is needed": "HOLD 583cced3ce — Individual subject and location evidence require desk sign-off. Compare the source item with “Whitney Plantation — Anna and Victor Haydel” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -10096,9 +10096,9 @@
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "Photo research pending.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -10441,9 +10441,9 @@
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "New entry on the updated catalog.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {

@@ -39,6 +39,8 @@ At the independent museum, start with the posted exhibit on British-period St. A
 
 Printed credit — Library of Congress, Prints and Photographs Division, LOT 14110-5, no. 80 (H), LC-DIG-stereo-1s04469, “Entrance to the Castle St. Marcus, St. Augustine, Florida,” Sam A. Cooley, 1861–1869.
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batch 034).** Sam A. Cooley’s stereograph of the Castillo de San Marcos entrance, published 1861–1869 (LC-DIG-stereo-1s04469): the wooden approach to the opening in the rough coquina wall, people standing above the entrance, card borders retained. The Castillo’s historical entrance — not Governor’s House, a current visitor route, or proof of present access. Reflection only; no access, locator or contribution changes. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo tags
 
 Reflection entry. Hunts disabled. No Photo Point or visitor contribution invitation.

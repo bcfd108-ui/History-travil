@@ -72,6 +72,8 @@ The university exhibit captions a portrait **Frances Willard Munds, UA Libraries
 
 The State Archives speech catalog carries an institutional rights statement requiring permission consideration for reuse. [5] A document being publicly cataloged does not establish that a reproduction may be published. No image was copied into this dossier.
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batch 006).** The oval portrait of Frances Willard Munds published in Who’s Who in Arizona (1913), p. 607 — wide dark hat, light blouse, dark necktie — held by the State of Arizona Research Library (Arizona Memory Project item 165757, “No Copyright – United States”) and carried here via the Wikimedia Commons crop of the same printed page. Munds is the organizer whose November 1912 statement leads this entry; the portrait is not Frances Willard of the national WCTU, and it is not claimed to have been made in Phoenix or to show the campaign. Reflection designation retained. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Candidate finds
 
 **Witness-only for exclusion.** No trivia, questions, answer keys, score or reenactment. The historical-reference material is the product; this entry does not activate a hunt.

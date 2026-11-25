@@ -38,6 +38,8 @@ From the visitor-center lot, the right-hand exhibit path leads to the mill. Look
 
 **Historical photo URL:** https://tile.loc.gov/storage-services/service/pnp/habshaer/tn/tn0000/tn0001/photos/153634pr.jpg
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batch 033).** Charles S. Grossman’s July 18, 1938 photograph of the Forge Creek dam cribbing at the John Cable Mill (HABS TN-118, photo 18): water running over the exposed timber courses and loose stone where the main and diversion dams join. Grossman was a Park Service landscape architect making these photographs for NPS. The mill building, wheel and visitor path are outside the frame; no current condition or access inference. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional observations
 An optional dated report from the signed mill exhibit path can record whether the mill door was open or a milling demonstration was underway. A visitor already there may offer their own photograph of the wheel from the public path where permitted. Publication requires permission, credit preference and desk review. [2, 3]
 
