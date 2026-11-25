@@ -15,6 +15,12 @@ const reviewedLoc = new Map([
   ["MD-baltimore-fort-mchenry", [
     "https://www.loc.gov/item/md0905/", federal,
   ]],
+  ["MD-annapolis-chase-lloyd-house", [
+    "https://www.loc.gov/item/md0022/", federal,
+  ]],
+  ["ME-south-portland-breakwater-lighthouse", [
+    "https://www.loc.gov/item/me0035/", federal,
+  ]],
   ["NH-portsmouth-wentworth-coolidge-mansion", [
     "https://www.loc.gov/item/2016808927/", noKnown,
   ]],
