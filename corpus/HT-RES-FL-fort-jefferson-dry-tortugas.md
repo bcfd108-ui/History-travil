@@ -36,6 +36,8 @@ Use the HABS description of the six bastions and repeated brick arches. Compare 
 
 Historical display slot blank. HABS FL-44’s item fl0132.color.582372c describes the southwest fort façades viewed from a boat. No historical photo is adopted from that metadata alone. The NPS history shows an earlier fort photograph, circa 1863, credited to National Park Service Archives at page level. Exact archival item, original creator and rights evidence remain open. No modern matching view or Photo Point. [7, 12]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batch 034).** Jack E. Boucher’s March 1962 HABS photograph of Fort Jefferson’s south front (FL-44-21): the moat bridge to the gate, the long brick wall pierced by embrasures, the right bastion, the flag and lantern above the wall. A documentary record of the historic structure in 1962 — neither the circa-1863 NPS photo nor a model or visitor facility. The bridge is not a route instruction or evidence of current access. Reflection-reading and no-locator posture unchanged. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo tags
 
 Reflection only. Hunts disabled. No field or contribution prompt for sensitive ground.

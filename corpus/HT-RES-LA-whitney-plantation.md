@@ -48,6 +48,8 @@ Start at the museum’s signed entrance and see the visitor-center exhibits. Con
 
 **Contemporary photo adoption.** Carol M. Highsmith Archive, LOC 2021755920, LC-DIG-highsm-67699, February 26, 2021. The actual frame shows the same shuttered elevation, right stair, column line and chimneys beyond a lawn. Highsmith dedicated her photographs to the public domain, and LOC identifies this item as her original digital file. **Printed credit:** Library of Congress, Prints & Photographs Division, photograph by Carol M. Highsmith, February 26, 2021, LC-DIG-highsm-67699. The difference in distance and foreground prevents assigning a repeat stance. This is a dated contemporary comparison, with no 2026 access inference. Henderson’s document images are sources only. [2–4, 11–13]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batch 031).** Frances Benjamin Johnston’s 1938 Carnegie Survey view beneath the Whitney Plantation big house’s raised gallery (LC-DIG-csas-01617): round lower-level columns, flagging, exposed beams, exterior stair. HABS LA-1194 separately documents the exact ground. A 1938 record of the big house — not an enslaved dwelling, not a view of Anna or Victor Haydel, not evidence of current access. Reflection-only posture retained; no visitor photo request or routing. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional observations
 
 Quiet witness. The memorial and former enslavement ground receive no visitor photo or scouting prompt. Free reading and planning are available without a contribution. [1]

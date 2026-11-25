@@ -38,6 +38,8 @@ Enter the visitor center from the signed public parking approach. Watch the shor
 
 Printed credit — Library of Congress, Prints and Photographs Division, Historic American Buildings Survey FL-15-5, HABS FLA,55-____,1--1, item fl0166.photos.053863p, “View from South-East,” Herbert Kahler, March 26, 1934.
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batch 034).** Herbert Kahler’s March 26, 1934 HABS photograph of Fort Matanzas from the southeast (FL-15-5): open water in the foreground, the square coquina tower, stair, lower platform and sentry box on Rattlesnake Island. The reversed survey notation is part of the original negative. The modern visitor center is not depicted. Reflection only; no route, pin or visitor prompt implied. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo tags
 
 Reflection entry. Hunts disabled. No Photo Point or field invitation.

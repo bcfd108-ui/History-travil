@@ -54,6 +54,8 @@ Walk the district as a grid, not a checklist. Start at the riverfront: stand on 
 
 The district's systematic photographic record is the Historic American Buildings Survey's Vieux Carre Squares documentation, cataloged by the National Park Service library as survey HABS LA-1100-H (National Register reference 66000377), with records held through the Library of Congress (record la0148). **Inspected in this pass:** the NPS library catalog record for the survey, which enumerates measured building records across the district — among them 509–511 Royal Street, Antoine's Restaurant at 713–717 Saint Louis Street, the Merieult House at 527–533 Royal Street and the Poeyfarre House at 532 Bourbon Street. Individual frames were not opened one by one in this pass, and no single frame is adopted or credited here. Credit and rights for any cleared use run through the Library of Congress HABS collection; no rights determination is made in this dossier. No Photo Point. [2, 8]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batch 024).** Arnold Genthe’s French Quarter street scene of 1920–1926 (LC-DIG-agc-7a02757): horse-drawn cart, pedestrians, narrow-fronted buildings with upper galleries. A representative district view — the exact block and modern vantage are not established and none is claimed. Reflection and visitor restrictions unchanged. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 Quiet witness only. Reading and planning are free and available without an account, location sharing or contribution.

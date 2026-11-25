@@ -38,6 +38,54 @@ const reviewedLoc = new Map([
   ["LA-melrose-plantation", [
     "https://www.loc.gov/resource/hhh.la0376.photos.204875p", federal,
   ]],
+  ["LA-st-augustine-isle-brevelle", [
+    "https://www.loc.gov/resource/hhh.la0451.photos.210393p", federal,
+  ]],
+  ["LA-beauregard-keyes-house", [
+    "https://www.loc.gov/item/2017886941/", noKnown,
+  ]],
+  ["LA-french-quarter-vieux-carre", [
+    "https://www.loc.gov/item/2018705840/", noKnown,
+  ]],
+  ["LA-gallier-house", [
+    "https://www.loc.gov/item/2017887045/", noKnown,
+  ]],
+  ["LA-cabildo", [
+    "https://www.loc.gov/item/2018705292/", noKnown,
+  ]],
+  ["LA-presbytere", [
+    "https://www.loc.gov/pictures/resource/hhh.la0008.photos.072913p", federal,
+  ]],
+  ["LA-old-ursuline-convent", [
+    "https://www.loc.gov/resource/hhh.la0106.photos.072778p", federal,
+  ]],
+  ["LA-jackson-square-st-louis-cathedral", [
+    "https://www.loc.gov/item/2011635158/", noKnown,
+  ]],
+  ["LA-madame-johns-legacy", [
+    "https://www.loc.gov/resource/hhh.la0023.photos.072756p", federal,
+  ]],
+  ["LA-hermann-grima-house", [
+    "https://www.loc.gov/item/2018705463/", noKnown,
+  ]],
+  ["LA-whitney-plantation", [
+    "https://www.loc.gov/item/2017887333/", noKnown,
+  ]],
+  ["SC-fort-sumter-fort-moultrie", [
+    "https://www.loc.gov/pictures/item/2018671038/", noKnown,
+  ]],
+  ["TN-great-smoky-mountains-cades-cove", [
+    "https://www.loc.gov/resource/hhh.tn0001.photos.153634p", federal,
+  ]],
+  ["FL-castillo-de-san-marcos", [
+    "https://www.loc.gov/item/2015649013/", noKnown,
+  ]],
+  ["FL-fort-jefferson-dry-tortugas", [
+    "https://www.loc.gov/resource/hhh.fl0132.photos.053126p", federal,
+  ]],
+  ["FL-fort-matanzas", [
+    "https://www.loc.gov/resource/hhh.fl0166.photos.053863p", federal,
+  ]],
 ]);
 const centraliaSource = "https://commons.wikimedia.org/wiki/File:A421,_Centralia,_Pennsylvania,_USA,_Route_61,_abandoned_section_above_coal_mine_fire,_2016.jpg";
 

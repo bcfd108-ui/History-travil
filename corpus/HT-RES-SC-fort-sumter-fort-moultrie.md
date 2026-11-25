@@ -34,6 +34,8 @@ Adopted for the research draft. Library of Congress item 2018671038, reproductio
 
 Printed credit — Photographer uncredited, “Charleston, South Carolina. Interior of Fort Sumter during the ceremony of raising the flag,” April 14, 1865. Library of Congress, Prints and Photographs Division, LC-DIG-cwpb-02478, item 2018671038.
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batch 033).** The April 14, 1865 flag-raising ceremony inside Fort Sumter (LC-DIG-cwpb-02478, original negative’s left half): benches, the gathered crowd, the decorated stage and the tall flagstaff within the damaged interior, people standing atop the masonry walls. It is the 1865 ceremony — not the April 1861 bombardment, not Fort Moultrie, not the modern visitor center. Reflection only; no access, locator or routing change. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo tags
 
 Reflection entry. Hunts disabled. No Photo Point or field invitation.
