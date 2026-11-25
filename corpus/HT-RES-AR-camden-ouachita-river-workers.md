@@ -39,6 +39,8 @@ Begin at the Washington Street museum. Read Morgan’s letter as an account of w
 
 No historical photo adopted. The inspected original report pages contain the printed letter and steamboat table. A securely identified Camden wharf or a period frame of the named boat in Camden with open rights was not established. The house would be a separate subject. No matched then-and-now or Photo Point. [1, 2]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** The McCollum-Chidester House in Camden in July 2007, photographed by Farther Along and licensed CC BY 2.0 via Wikimedia Commons (Flickr license review recorded on the item): white clapboard, green shutters, columned porch. Identity confirmed by inspection against the National Register record (NRIS 71000127). The frame shows the museum anchor only — no river landing or work event appears in it. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 A contribution is voluntary and awaits a human field check, Gene’s authorization and independent review. This dossier has no cleared contribution location. Reading and planning are free and available without an account, location sharing or contribution.

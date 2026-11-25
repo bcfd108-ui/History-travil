@@ -45,6 +45,8 @@ Use the signed state historic site parking off its published entrance road. Begi
 
 Historical site frame absent. Louisiana State Parks supplies a modern image of the actual furnished kitchen as an operator reference. No item-level open license was established and it remains unadopted. The photographed letter is a manuscript, and its repository posts a reuse restriction. No Photo Point or published photo adoption. [1, 3, 6]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** The restored surviving kitchen at Fort Jesup State Historic Site in July 2005, photographed by Pat Austin and licensed CC BY 2.0 via Wikimedia Commons (license review recorded on the item): the low pale gable-roofed kitchen and stone remnants through trees. Identity confirmed by inspection against the National Register record. The frame shows the post's surviving original building — not a reconstruction. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo and access observations
 
 Quiet witness. If you were already at the open public anchor, a voluntary text note can help. Were the museum and the authorized kitchen approach open, and did a posted sign give separate hours for them? Include the public place and date observed. If photography was permitted, you may offer your own current photo of the public museum entrance sign. Contributions remain pending review. We ask permission and your credit preference before any public photo use. One observation records that date and cannot change the operator’s restrictions. Reading and planning are free and require no account, checkout, location sharing, or contribution.

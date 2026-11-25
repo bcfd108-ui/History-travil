@@ -29,6 +29,15 @@ const reviewedLoc = new Map([
   ["PA-drake-well-titusville", [
     "https://www.loc.gov/item/2010649522/", noKnown + ".",
   ]],
+  ["AR-little-rock-central-high-students", [
+    "https://www.loc.gov/item/2011631075/", noKnown,
+  ]],
+  ["LA-natchitoches-texas-pacific-depot", [
+    "https://www.loc.gov/item/la0418/", federal,
+  ]],
+  ["LA-melrose-plantation", [
+    "https://www.loc.gov/resource/hhh.la0376.photos.204875p", federal,
+  ]],
 ]);
 const centraliaSource = "https://commons.wikimedia.org/wiki/File:A421,_Centralia,_Pennsylvania,_USA,_Route_61,_abandoned_section_above_coal_mine_fire,_2016.jpg";
 

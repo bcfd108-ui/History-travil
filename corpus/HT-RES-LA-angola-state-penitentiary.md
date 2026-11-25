@@ -88,6 +88,8 @@ No primary-sourced haunted-place folklore is adopted here. The site's documented
 
 - **Photo Point:** Blank.
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** The Red Hat Cell Block doorway at Louisiana State Penitentiary in March 2010, photographed by Lee Honeycutt and licensed CC BY-SA 2.0 via Wikimedia Commons (Flickr license verified on the item in 2011): heavy white door, rectangular aperture, barred window, corrections plaque. Identity confirmed by inspection against the Angola Museum's history record for the Red Hat. Reflection ground only — the frame implies no public access. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Candidate finds
 
 **DISABLED — NO HUNT ACTIVATION.** Per Theme Sweep standing rules, all answer keys remain blank, no scored finds exist, and no Photo Points are activated.

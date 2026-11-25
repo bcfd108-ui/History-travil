@@ -541,9 +541,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Arkansas_Post_National_Memorial,_Arkansas_(6c36e4fc-c047-4440-8c40-c37451e612e9).jpg",
    "Why photo is needed": "HOLD 3819296d50 — Individual subject and location evidence require desk sign-off. Compare the source item with “Arkansas Post National Memorial, Arkansas Trading House story” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -556,9 +556,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Calico Rock Museum & Visitor Center Calico Rock Arkansas photograph; Archive search — Calico Rock Museum & Visitor Center Calico Rock Arkansas historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Calico Rock Museum & Visitor Center; Candidate records — http://www.loc.gov/item/19000869/ | https://npgallery.nps.gov/AssetDetail/NRIS/85003499 | https://www.loc.gov/collections/chronicling-america/titles/?c=150&dl=title&location_state=arkansas&sb=title_s_asc&searchType=advanced&st=table",
    "Why photo is needed": "Desk review pending. Search returned leads, but no image has completed both the ground and rights check.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -571,9 +571,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:McCollum-Chidester_House.jpg",
    "Why photo is needed": "HOLD 2a174e9904 — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “Camden’s Ouachita harbor and McCollum–Chidester House Museum” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -631,9 +631,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: El Dorado Armstrong lease oil story and Oil Heritage Park El Dorado Arkansas photograph; Archive search — El Dorado Armstrong lease oil story and Oil Heritage Park El Dorado Arkansas historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — El Dorado Armstrong lease oil story and Oil Heritage Park (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AEl_Dorado_ELD.jpg | https://commons.wikimedia.org/wiki/File:El_Dorado_ELD.jpg | https://pryorcenter.uark.edu/projects/Arkansas%20Memories/MASON-Richard/transcripts/TRANS-MASON-Richard-Memories-20071114-FINAL.pdf | https://americanhistory.si.edu/es/collections/archival-item/sova-nmah-ac-0711-ref468",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -676,9 +676,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Fort_Smith_National_Historic_Site_(8761b675-4711-42aa-bed7-f1492bd8638a).jpg",
    "Why photo is needed": "HOLD 904a723cb8 — Individual subject and location evidence require desk sign-off. Compare the source item with “Fort Smith — The work behind a court order” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -751,9 +751,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Lakeport_Plantation,_Lake_Village,_Chicot_County,_Arkansas.jpg",
    "Why photo is needed": "HOLD bcccafd567 — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “Lakeport Plantation Museum” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -766,9 +766,9 @@
    "What was searched": "Dossier source opened — https://npgallery.nps.gov/AssetDetail/cf4f36b794c546c5af7af04140506c2c; Commons file search — site:commons.wikimedia.org/wiki/File: Little Rock Central High School National Historic Site Little Rock Arkansas photograph; Archive search — Little Rock Central High School National Historic Site Little Rock Arkansas historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Little Rock Central High School National Historic Site; Candidate records — https://commons.wikimedia.org/wiki/File%3ALittle_Rock_Central_High_School_National_Historic_Site%2C_Arkansas_LOC_2014590139.jpg | https://commons.wikimedia.org/wiki/File%3ALittle_Rock_Central_High_School_National_Historic_Site%2C_Arkansas_LOC_2014590140.jpg | http://www.loc.gov/item/nc0478/ | https://www.nps.gov/chsc/planyourvisit/park-brochure.htm | https://home.nps.gov/articles/littlerock.htm",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -871,9 +871,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Winslow Tunnel and Winslow Museum Winslow Arkansas photograph; Archive search — Winslow Tunnel and Winslow Museum Winslow Arkansas historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Winslow Tunnel and Winslow Museum (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AAM_68%2C_Winslow.jpg | https://commons.wikimedia.org/wiki/File:AM_68,_Winslow.jpg | https://pryorcenter.uark.edu/projects/Arkansas%20Memories/SHIPLEY-William-Curtis/transcripts/TRANS-SHIPLEY-William-Curtis-Memories-20080205-FINAL.pdf | https://www.loc.gov/resource/gdcmassbookdig.playgroundsinark00arka_0/?sp=2&st=list",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -4171,9 +4171,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Beauregard Parish Jail DeRidder Louisiana photograph; Archive search — Beauregard Parish Jail DeRidder Louisiana historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Beauregard Parish Jail (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3ABeauregard_Parish_Jail.jpg | https://commons.wikimedia.org/wiki/File%3ADeRidderJail.jpg | https://npgallery.nps.gov/AssetDetail/52e5379a-dcae-4e9c-9bb2-afdd9bb10dcc/ | https://npgallery.nps.gov/GetAsset/52e5379a-dcae-4e9c-9bb2-afdd9bb10dcc | https://commons.wikimedia.org/wiki/File:Beauregard_Parish_Jail.jpg",
    "Why photo is needed": "HOLD 9feec7a8d9 — Individual subject and location evidence require desk sign-off. Compare the source item with “Beauregard Parish Jail (\"Gothic Jail\" / \"Hanging Jail\"), DeRidder — Stevens & Nelson concrete keep and 1928 double hanging” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -4216,7 +4216,7 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Charity_Hospital_in_New_Orleans.jpg",
    "Why photo is needed": "HOLD 0a6c3b2cfa — Individual subject and location evidence require desk sign-off. Compare the source item with “Charity Hospital (\"Big Charity\"), New Orleans — 1939 Art Deco landmark hospital entering Tulane adaptive reuse” before releasing this image.",
    "Next desk or field action": "Desk — archival period photograph only",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "ARCHIVAL-ONLY",
    "Gap": "no lawful ground photo — not a field task",
    "Access decision": "The dossier provides no current, ordinary public viewpoint of this subject."
@@ -4246,9 +4246,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Fort Jesup State Historic Site  Louisiana photograph; Archive search — Fort Jesup State Historic Site  Louisiana historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Fort Jesup State Historic Site (request failed); Candidate records — https://home.nps.gov/places/fort-jesup-state-historic-site.htm | https://npgallery.nps.gov/AssetDetail/NRIS/66000381",
    "Why photo is needed": "Desk review pending. Search returned leads, but no image has completed both the ground and rights check.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -4366,9 +4366,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Hope_Haven_from_Barataria_Blvd,_Marrero,_Louisiana_August_2026_-_5.jpg",
    "Why photo is needed": "HOLD 9134703db4 — Individual subject and location evidence require desk sign-off. Compare the source item with “Hope Haven Center (Hope Haven and Madonna Manor), Marrero — 1925–1941 Spanish Colonial Revival orphanage campus” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -4411,9 +4411,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:AngolaLAPrison.jpg",
    "Why photo is needed": "HOLD f926715ba2 — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “Louisiana State Penitentiary (Angola) — Tunica Hills plantation prison, Red Hat Cell Block, and Point Lookout” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -4441,9 +4441,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Magnolia Plantation NPS unit  Louisiana photograph; Archive search — Magnolia Plantation NPS unit  Louisiana historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Magnolia Plantation NPS unit (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AMagnolia_Plantation%3B_Natchitoches_Parish%2C_LA_IMG_3472.JPG | https://commons.wikimedia.org/wiki/File:Magnolia_Plantation;_Natchitoches_Parish,_LA_IMG_3472.JPG | https://home.nps.gov/cari/learn/historyculture/magnolia-plantation-history.htm | https://www.nps.gov/places/magnolia-plantation.htm",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -4456,9 +4456,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Melrose Plantation Melrose Louisiana photograph; Archive search — Melrose Plantation Melrose Louisiana historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Melrose Plantation (request failed); Candidate records — https://www.loc.gov/item/la0376/ | https://npgallery.nps.gov/GetAsset/7eb96fe1-ce15-45f6-bbca-a236af154089 | https://commons.wikimedia.org/wiki/File:Melrose_Plantation,_African_House,_State_Highway_119,_Melrose,_Natchitoches_Parish,_LA_HABS_LA,35-MELRO,1B-9.tif",
    "Why photo is needed": "HOLD afaaf7b16a — Individual subject and location evidence require desk sign-off. Compare the source item with “Melrose Plantation — Yucca Plantation of the Metoyers, Isle Brevelle” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -4516,9 +4516,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Oakland_Plantation.jpg",
    "Why photo is needed": "HOLD 7b1d6fb147 — Individual subject and location evidence require desk sign-off. Compare the source item with “Oakland Plantation public unit” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -4530,10 +4530,10 @@
    "Entry URL": "https://onoldground.com/sites/LA-old-louisiana-state-penitentiary-baton-rouge",
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Warden%27s_House-Old_Louisiana_State_Penitentiary.jpg",
    "Why photo is needed": "HOLD 0c705d0a22 — Individual subject and location evidence require desk sign-off. Compare the source item with “Old Louisiana State Penitentiary Site (Warden's House / Prison Store), Baton Rouge — 1835–1925 urban penitentiary and surviving 1838–39 brick office” before releasing this image.",
-   "Next desk or field action": "Field option — Public sidewalk at the Warden’s House, 703 Laurel Street.",
-   "Coverage": "none",
-   "Eligibility": "PUBLIC GROUND",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -4636,9 +4636,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Texas_and_Pacific_Railroad_Depot,_Natchitoches.jpg",
    "Why photo is needed": "HOLD 7116c75ee8 — Individual subject and location evidence require desk sign-off. Compare the source item with “Texas and Pacific Railway Depot, Natchitoches” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {

@@ -79,6 +79,8 @@ Local ghost-tour promotion and paranormal anecdotes circulate around the 1928 do
 
 - **Photo Point:** Blank.
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** The former Beauregard Parish jail in DeRidder in July 2008, photographed by Chris in Nacogdoches and licensed CC BY 2.0 via Wikimedia Commons: crenellated tower, red tile roof, barred windows, Tudor-arched porch. Identity confirmed by inspection against the National Register record. Exterior view only — no event or lore claim rides on the frame. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Candidate finds
 
 **DISABLED — NO HUNT ACTIVATION.** Per Theme Sweep standing rules, all answer keys remain blank, no scored finds exist, and no Photo Points are activated.

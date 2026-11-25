@@ -40,6 +40,8 @@ Begin at the signed downtown park entrance. Read the operator’s interpretation
 
 **No historical site photo adopted.** Smithsonian National Museum of American History, American Petroleum Institute Photograph and Film Collection, NMAH.AC.0711_ref467, box 10 folder 7, dated 1921 by the catalog. The record gave no inspectable frame or item-specific open rights. Frame contents and photographer are unknown. Candidate credit if both are verified would start with *Smithsonian National Museum of American History Archives Center, NMAH.AC.0711_ref467, photographer unlisted, catalog date 1921*. The January 11 newspaper image was inspected separately and shows the news column and unrelated photographs, not the well. Historical matching frame and Photo Point absent. [3, 9]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** The Busey well derrick in September 1921, after abandonment, reproduced as Plate I (p. 9) of Bell and Kerr's 1922 report The El Dorado, Arkansas, Oil and Gas Field (University of California Libraries copy via Internet Archive; public domain by 1922 U.S. publication). Identity confirmed from the printed caption on the plate itself. The frame is the historic well — not a gusher image, not Oil Heritage Park, and it establishes no access to the well site. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 A contribution is voluntary and awaits a human field check, Gene’s authorization and independent review. This dossier has no cleared contribution location. Reading and planning are free and available without an account, location sharing or contribution.

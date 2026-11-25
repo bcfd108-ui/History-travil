@@ -39,6 +39,8 @@ At the visitor center, read the deed excerpt before beginning the signed approac
 
 **Survey lead held as photo evidence.** Library of Congress HABS AR-31, digital survey AR0028, provides measured drawings and data pages of the actual house. The collection describes the sheets, not a period photograph for this dossier. No archival photo with verified item, depicted ground and open rights has been adopted. No historic/current pair or Photo Point. [5]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** The Lakeport Plantation house in October 2022, photographed by Kenneth C. Zirkel and licensed CC BY-SA 4.0 via Wikimedia Commons: pale clapboard, blue shutters, columned porch, brick chimneys, and a bell in the foreground. Identity confirmed by inspection against the museum's own record. The frame is a present-day view of the museum house — not a period image. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 Quiet witness only. Reading and planning are free and available without an account, location sharing or contribution.

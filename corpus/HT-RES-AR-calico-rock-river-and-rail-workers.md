@@ -27,6 +27,8 @@ The independent Arkansas encyclopedia dates arrival of freight and passenger ser
 ## 7. Historical photo records
 No inspected, reuse-cleared photograph. Map sheet metadata is not a photo and is not assigned a Photo Point.
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** Main Street in the Calico Rock Historic District in September 2015, photographed by Valis55 and licensed CC BY-SA 3.0 via Wikimedia Commons: the uphill stone and brick commercial block, terraced sidewalk, and the Calico Rock mural. Identity confirmed by inspection against the Arkansas Heritage walking-tour record. The frame shows the historic street fabric the entry covers — not a museum entrance or a railroad-work scene. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo observations
 None adopted pending field and rights checks.
 

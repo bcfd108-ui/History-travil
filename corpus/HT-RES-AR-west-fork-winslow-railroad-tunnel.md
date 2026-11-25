@@ -39,6 +39,8 @@ Start at the city’s signed museum entrance. Read the 1882 chronology against t
 
 **Two inspected candidates, reuse held.** Frisco Railroad Museum, *All Aboard*, vol. 11, no. 1 (1997), p. 4 left and right, the publication’s exact page/frame locators. The left pixels show a curved masonry opening beneath brush and a block over the crown. The right pixels show rails curving into the enlarged portal. Printed credits and dates are “Frisco photo” (1967, prior to rebuild) and “R.E. Napper photo” (December 25, 1988). Credit for cleared reuse would be *Frisco Railroad Museum, All Aboard, 11(1), p. 4 left, Frisco photo (individual photographer unlisted), 1967* and *Frisco Railroad Museum, All Aboard, 11(1), p. 4 right, R.E. Napper, December 25, 1988*. Neither caption supplies an open release. The study pair shows physical change in the same opening. No modern then-and-now match or lawful Photo Point. [2]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** The Winslow Tunnel in a photograph published by the Frisco railroad in 1903 in There Is Something to See Along the Frisco System (Library of Congress copy, digitized by Internet Archive, leaf n16; public domain): curved track approaching the masonry portal, the printed caption “Winslow Tunnel — Through Boston Mountains, Ark.” visible in the frame. Identity confirmed from the printed caption in the pixels. Archival view only; no track access is shown or implied. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 Quiet witness only. Reading and planning are free and available without an account, location sharing or contribution.

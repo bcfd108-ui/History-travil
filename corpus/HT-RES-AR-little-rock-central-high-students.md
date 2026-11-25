@@ -40,6 +40,8 @@ Begin with the visitor center timeline, or use its digital version on a closed d
 
 **Inspected candidate, held.** NPS NPGallery, cf4f36b794c546c5af7af04140506c2c, integration2.jpg. The 500-pixel frame shows helmeted troops on entrance steps with students holding books in the foreground and appearing to come down the steps. The asset is marked public domain, but the surrounding caption interprets the September 4 Guard blockade; the pixels alone establish neither the unit nor day. Photographer unlisted; precise exposure date unconfirmed. Candidate credit if the context is resolved: *U.S. National Park Service, NPGallery asset cf4f36b794c546c5af7af04140506c2c, photographer unlisted, 1957*. No adopted frame or Photo Point. [9]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** Little Rock Central High School's front elevation and reflecting pool, photographed by Carol M. Highsmith for her Library of Congress archive (LC-DIG-highsm-12881); the Library's rights advisory for the item reads “No known restrictions on publication,” carried as written. Identity confirmed by inspection: symmetrical brick facade, lettering, sculptures over the central doors. The frame shows the active school's exterior — not the visitor center and not the 1957 events. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 Quiet witness only. Reading and planning are free and available without an account, location sharing or contribution.
