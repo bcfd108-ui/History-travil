@@ -9615,11 +9615,131 @@
    "corpusFile": "HT-RES-PA-valley-forge.md",
    "queueState": "queued",
    "attempts": []
+  },
+  {
+   "id": "vq_AK-anchorage-turnagain-heights-earthquake-park",
+   "slug": "AK-anchorage-turnagain-heights-earthquake-park",
+   "name": "HT-RES-AK-anchorage-turnagain-heights-earthquake-park — Anchorage: the Turnagain Heights slide and the park that keeps its ground",
+   "town": "Anchorage",
+   "state": "AK",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-AK-anchorage-turnagain-heights-earthquake-park.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_AK-independence-mine",
+   "slug": "AK-independence-mine",
+   "name": "HT-RES-AK-independence-mine — Independence Mine: the Hatcher Pass gold camp that became a state historical park",
+   "town": "Hatcher Pass vicinity (Matanuska-Susitna Borough)",
+   "state": "AK",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-AK-independence-mine.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_AK-portage-1964-ghost-townsite",
+   "slug": "AK-portage-1964-ghost-townsite",
+   "name": "HT-RES-AK-portage-1964-ghost-townsite — Portage: the town the 1964 earthquake lowered into the tide",
+   "town": "Portage (head of Turnagain Arm)",
+   "state": "AK",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-AK-portage-1964-ghost-townsite.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_AK-skagway-1915",
+   "slug": "AK-skagway-1915",
+   "name": "HT-RES-AK-skagway-1915 — Skagway in 1915: the Klondike gateway town in a panorama",
+   "town": "Skagway (Municipality of Skagway Borough)",
+   "state": "AK",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-AK-skagway-1915.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_CT-farmington-first-church",
+   "slug": "CT-farmington-first-church",
+   "name": "HT-RES-CT-farmington-first-church — First Church of Christ, Farmington: the 1771 meetinghouse that hosted the Amistad Mende",
+   "town": "Farmington (Hartford County)",
+   "state": "CT",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-CT-farmington-first-church.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_CT-hartford-mark-twain-house",
+   "slug": "CT-hartford-mark-twain-house",
+   "name": "HT-RES-CT-hartford-mark-twain-house — The Mark Twain House: the Hartford house where Clemens wrote his major books",
+   "town": "Hartford (Hartford County)",
+   "state": "CT",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-CT-hartford-mark-twain-house.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_DE-newcastle-old-arsenal",
+   "slug": "DE-newcastle-old-arsenal",
+   "name": "HT-RES-DE-newcastle-old-arsenal — The Old Arsenal on the Green: New Castle's 1809 federal arsenal turned school",
+   "town": "New Castle (New Castle County)",
+   "state": "DE",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-DE-newcastle-old-arsenal.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IN-madison-shrewsbury-house",
+   "slug": "IN-madison-shrewsbury-house",
+   "name": "HT-RES-IN-madison-shrewsbury-house — The Shrewsbury House: Costigan's classical Madison house and its freestanding spiral stair",
+   "town": "Madison (Jefferson County)",
+   "state": "IN",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IN-madison-shrewsbury-house.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_IN-mansfield-covered-bridge",
+   "slug": "IN-mansfield-covered-bridge",
+   "name": "HT-RES-IN-mansfield-covered-bridge — Mansfield Covered Bridge: Daniels's 1867 Burr-arch bridge over Big Raccoon Creek",
+   "town": "Mansfield (Parke County)",
+   "state": "IN",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-IN-mansfield-covered-bridge.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_ME-portland-head-light",
+   "slug": "ME-portland-head-light",
+   "name": "HT-RES-ME-portland-head-light — Portland Head Light: the first lighthouse lighted by the United States government",
+   "town": "Cape Elizabeth (Cumberland County)",
+   "state": "ME",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-ME-portland-head-light.md",
+   "queueState": "queued",
+   "attempts": []
   }
  ],
  "counts": {
-  "items": 801,
-  "dated": 560,
+  "items": 811,
+  "dated": 570,
   "unrecorded": 241
  }
 }
