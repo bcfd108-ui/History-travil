@@ -5161,9 +5161,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Anchuca,_Vicksburg,_MS.JPG",
    "Why photo is needed": "HOLD 3c28802720 — Individual subject and location evidence require desk sign-off. Compare the source item with “Anchuca, the frame house behind a merchant’s brick front” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -6031,9 +6031,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:McRaven_House.jpg",
    "Why photo is needed": "HOLD 640268f412 — Individual subject and location evidence require desk sign-off. Compare the source item with “McRaven and the brickmaker’s house” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -6510,10 +6510,10 @@
    "Entry URL": "https://onoldground.com/sites/MS-st-mary-basilica-natchez",
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: St Natchez Mississippi photograph; Archive search — St Natchez Mississippi historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — St (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AView_on_Natchez.jpg | https://commons.wikimedia.org/wiki/File%3ASilver_St%2C_Natchez_MS.jpg | https://digitalcollections.iu.edu/concern/images/ff365598r?locale=en | https://npgallery.nps.gov/GetAsset/e4c74ba1-6be4-4154-a4ef-0684aaf40f8b",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
-   "Next desk or field action": "Field option — Public sidewalk on South Union Street facing St. Mary Basilica.",
-   "Coverage": "none",
-   "Eligibility": "PUBLIC GROUND",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -7531,9 +7531,9 @@
    "What was searched": "Dossier source opened — https://loc.gov/pictures/resource/npcc.20182/; Dossier source opened — https://mths.mt.gov/about/MHC; Commons file search — site:commons.wikimedia.org/wiki/File: rankin suffrage Helena Montana photograph; Archive search — rankin suffrage Helena Montana historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — rankin suffrage (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3ARep._Jeanette_Rankin_276027v.jpg | https://commons.wikimedia.org/wiki/File%3AMiss_Jeannette_Rankin%2C_of_Montana%2C_speaking_from_the_balcony_of_the_National_American_Woman_Suffrage_Association%2C_Monday%2C_April_2%2C_1917._LOC.jpg | https://blogs.loc.gov/picturethis/2020/11/jeannette-rankin-first-woman-elected-to-congress/ | https://scholarworks.montana.edu/bitstreams/0188cce3-36ca-4798-929d-e91ebf609767/download",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {

@@ -61,3 +61,5 @@ A voluntary dated check may confirm ordinary tour entry or stair access with sta
 | Official register listing URL |  |
 | Governing regulation |  |
 | Official manager/operator | McRaven Tour Home |
+
+Adopted first photograph: McRaven House in Vicksburg as photographed on October 19, 2016 — the two-story gallery and front facade dressed for Halloween, with purple bunting on the rails. The seasonal decorations are part of the day's record, not historic fabric. (Zamburak, CC BY-SA 4.0.) Display file derived from the repository file; no credit or copy is burned into the image.

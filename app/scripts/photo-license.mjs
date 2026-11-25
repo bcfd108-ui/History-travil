@@ -98,6 +98,13 @@ const reviewedLoc = new Map([
   ["NE-niobrara-town-relocations", [
     "https://www.loc.gov/item/ne0010/", federal,
   ]],
+  ["MT-rankin-suffrage", [
+    "https://www.loc.gov/item/2016867570/", noKnown,
+  ]],
+  ["MS-st-mary-basilica-natchez", [
+    "https://commons.wikimedia.org/wiki/File:St._Mary%27s_Cathedral,_Natchez,_Miss._%288080223546%29.jpg",
+    "No known copyright restrictions",
+  ]],
 ]);
 const centraliaSource = "https://commons.wikimedia.org/wiki/File:A421,_Centralia,_Pennsylvania,_USA,_Route_61,_abandoned_section_above_coal_mine_fire,_2016.jpg";
 
