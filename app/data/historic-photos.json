@@ -4347,5 +4347,34 @@
    "targetSlug": "NE-grand-island-railroad-workers",
    "targetId": "HT-NE-grand-island-railroad-workers"
   }
+ ],
+ "NE-homestead-claim-households": [
+  {
+   "src": "/photos/ne-homestead-claim-households-58b614dee4.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 1904,
+   "title": "The Freeman homestead, Gage County, Nebraska, 1904.",
+   "caption": "The Freeman homestead in Gage County, Nebraska, in 1904 — the house and its entry ramp, a smaller building beside it, woodpiles in the foreground. The photographer and the person on the ramp are not identified, and this is not the original 1860s log cabin.",
+   "alt": "The Freeman homestead house in 1904: a house with an entry ramp, a smaller building to its left, woodpiles in the foreground, and a large tree behind.",
+   "credit": "Photographer unknown, 1904. Library of Congress, Prints and Photographs Division, LC-USZ62-20063.",
+   "license": "No known restrictions on publication",
+   "licenseUrl": "https://www.loc.gov/item/2012646764/",
+   "sourceName": "Library of Congress, Prints and Photographs Division",
+   "sourceUrl": "https://www.loc.gov/item/2012646764/",
+   "imageUrl": "https://tile.loc.gov/storage-services/master/pnp/cph/3a20000/3a21000/3a21200/3a21279u.tif",
+   "sha256": "58b614dee49ce34834095de733700b5dad40640e532434ddf020b15645f1cfe3",
+   "width": 1024,
+   "height": 848,
+   "dateNote": "1904.",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 24, 2026: the homestead house with its entry ramp and a figure standing on it, a smaller building at left, woodpiles in the foreground, a windmill at right, and the original title card below the frame ('The First Homestead in the United States, U.S.A.') — the Freeman homestead as the LOC record identifies it; not represented as the original 1860s log cabin.",
+   "rightsReview": "LOC item 2012646764 (Homesteaders and Homesteading subject file, cph.3a21279 / LC-USZ62-20063): rights advisory verbatim, 'No known restrictions on publication.' Desk-verified Nov 24, 2026.",
+   "adoptedAt": "2026-11-25T05:58:20Z",
+   "rowId": "2c6b3ffc5b",
+   "targetSlug": "NE-homestead-claim-households",
+   "targetId": "HT-NE-homestead-claim-households"
+  }
  ]
 }
