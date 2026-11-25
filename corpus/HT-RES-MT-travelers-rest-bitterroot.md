@@ -115,3 +115,5 @@ Only the public address/entrance description is used. FWP prints a general park 
 ## Connected ground — The Lewis and Clark Expedition, 1804–1806
 
 The Corps of Discovery camped at this Lolo Creek crossroads September 9–11, 1805, before the Lolo Trail crossing, and again June 30–July 3, 1806, when the captains divided the party here for the journey home — the only ground in this set the expedition used in both directions.
+
+Adopted first photograph: The view northeast over the Traveler's Rest ground near Lolo, Montana, in May 1984 — grass and fence posts in the foreground, the treed valley, and the rounded mountains beyond. A general landscape survey view of the listed ground, photographed for the Historic American Engineering Record. (Craig Holstine or Glenn Hartmann, May 1984. Library of Congress, Prints and Photographs Division, Historic American Engineering Record, HAER MONT,32-LOLO.V,1-1. No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.) Display file derived from the Library of Congress master; no credit or copy is burned into the image.

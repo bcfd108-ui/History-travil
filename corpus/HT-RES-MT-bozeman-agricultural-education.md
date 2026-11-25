@@ -123,3 +123,5 @@ Find 3 key:
 - Operator: Museum of the Rockies [1–3]
 
 No upload, outreach, booking, permission change, route activation or field acceptance performed.
+
+Adopted first photograph: The Montana State College campus in 1911 — a partial view across open ground and a curving walk, mostly the agricultural buildings, with a flagpole at center. The archive's offered download is small (400x270) and is published at its native size. (Photographer unknown, 1911. Montana State University Historical Photos, Montana State University Library, ark:/75788/m4319s25r. No Copyright — United States.) Display file derived from the archive's offered download; no credit or copy is burned into the image.

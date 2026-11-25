@@ -105,6 +105,9 @@ const reviewedLoc = new Map([
     "https://commons.wikimedia.org/wiki/File:St._Mary%27s_Cathedral,_Natchez,_Miss._%288080223546%29.jpg",
     "No known copyright restrictions",
   ]],
+  ["MT-travelers-rest-bitterroot", [
+    "https://www.loc.gov/pictures/item/mt0144/", federal,
+  ]],
 ]);
 const centraliaSource = "https://commons.wikimedia.org/wiki/File:A421,_Centralia,_Pennsylvania,_USA,_Route_61,_abandoned_section_above_coal_mine_fire,_2016.jpg";
 

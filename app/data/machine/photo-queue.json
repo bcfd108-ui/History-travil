@@ -7231,9 +7231,9 @@
    "What was searched": "Dossier source opened — https://rightsstatements.org/vocab/NoC-US/1.0/; Dossier source opened — https://arc.lib.montana.edu/msu-photos/item.php?id=191; Dossier source opened — https://arc.lib.montana.edu/msu-photos/about.php; Commons file search — site:commons.wikimedia.org/wiki/File: Museum of the Rockies Bozeman Montana photograph; Archive search — Museum of the Rockies Bozeman Montana historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Museum of the Rockies (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AMuseum_of_the_Rockies.JPG | https://commons.wikimedia.org/wiki/File%3AMuseum_Of_The_Rockies_Montana1.jpg | https://arc.lib.montana.edu/mor/ | https://arc.lib.montana.edu/mor/schlechten_info.php | https://commons.wikimedia.org/wiki/File:Museum_of_the_Rockies.JPG",
    "Why photo is needed": "HOLD 089935cae7 — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “Bozeman agricultural education: who gets counted as a successful farmer?” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -7546,9 +7546,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Traveler%27s_Rest,_Lolo.jpg",
    "Why photo is needed": "HOLD f331ea6e8e — The dossier uses an institutional anchor. Verify that the photograph depicts the entry’s own ground or object. Compare the source item with “Travelers’ Rest: a homeland crossroads, not history's starting line” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {

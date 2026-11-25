@@ -4637,5 +4637,63 @@
    "targetSlug": "MT-rankin-suffrage",
    "targetId": "HT-MT-rankin-suffrage"
   }
+ ],
+ "MT-travelers-rest-bitterroot": [
+  {
+   "src": "/photos/mt-travelers-rest-bitterroot-15fdcbd2ee.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 1984,
+   "title": "Traveler's Rest and the Lolo Trail ground, May 1984.",
+   "caption": "The view northeast over the Traveler's Rest ground near Lolo, Montana, in May 1984 — grass and fence posts in the foreground, the treed valley, and the rounded mountains beyond. A general landscape survey view of the listed ground, photographed for the Historic American Engineering Record.",
+   "alt": "Black-and-white landscape view northeast over the Traveler's Rest ground: grass, fence posts, dense trees, a settled valley and rounded mountains.",
+   "credit": "Craig Holstine or Glenn Hartmann, May 1984. Library of Congress, Prints and Photographs Division, Historic American Engineering Record, HAER MONT,32-LOLO.V,1-1.",
+   "license": "No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.",
+   "licenseUrl": "https://www.loc.gov/pictures/item/mt0144/",
+   "sourceName": "Library of Congress, Prints and Photographs Division",
+   "sourceUrl": "https://www.loc.gov/pictures/item/mt0144/",
+   "imageUrl": "https://tile.loc.gov/storage-services/master/pnp/habshaer/mt/mt0100/mt0144/photos/100698pu.tif",
+   "sha256": "15fdcbd2eea81985f026daf6a12eca1b5d94727fb88a44273ecf817c97016494",
+   "width": 1024,
+   "height": 818,
+   "dateNote": "May 1984.",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 24, 2026: the HAER MT-42-1 frame — northeast view over grass and fence posts, dense trees, the settled valley and rounded mountains, 'TRAVELER'S REST/LOLO TRAIL HAER MT42-1' in the negative border — the holding collection's survey view of the listed ground; a general landscape, not a deposit location or entrance.",
+   "rightsReview": "LOC item mt0144 (HAER MT-42): 'No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.' MT-42-1 is a HAER field photograph (Holstine or Hartmann, May 1984). Desk-verified Nov 24, 2026.",
+   "adoptedAt": "2026-11-25T08:11:29Z",
+   "rowId": "f331ea6e8e",
+   "targetSlug": "MT-travelers-rest-bitterroot",
+   "targetId": "HT-MT-travelers-rest-bitterroot"
+  }
+ ],
+ "MT-bozeman-agricultural-education": [
+  {
+   "src": "/photos/mt-bozeman-agricultural-education-161128af98.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 1911,
+   "title": "Montana State College campus, agricultural buildings, 1911.",
+   "caption": "The Montana State College campus in 1911 — a partial view across open ground and a curving walk, mostly the agricultural buildings, with a flagpole at center. The archive's offered download is small (400x270) and is published at its native size.",
+   "alt": "The Montana State College campus in 1911: open ground, a curving walk, planted trees, agricultural buildings and a flagpole.",
+   "credit": "Photographer unknown, 1911. Montana State University Historical Photos, Montana State University Library, ark:/75788/m4319s25r.",
+   "license": "Public domain",
+   "licenseUrl": "https://rightsstatements.org/vocab/NoC-US/1.0/",
+   "sourceName": "Montana State University Library, Montana State University Historical Photos",
+   "sourceUrl": "https://arc.lib.montana.edu/msu-photos/item.php?id=191",
+   "imageUrl": "https://arc.lib.montana.edu/msu-photos/objects/parc-000191.jpg",
+   "sha256": "161128af98f96666c7e716f2e753a4c603dae3f32bc5d4d8754aeb6f8673d46b",
+   "width": 400,
+   "height": 270,
+   "dateNote": "1911.",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 24, 2026: a wide monochrome campus view — curving foreground walk, open ground, planted trees, several agricultural and institutional buildings and a central flagpole — the MSU archive's 1911 Montana State College frame; the repository download is 400x270 and no enlargement was made.",
+   "rightsReview": "MSU Library item 191 (Montana State University Historical Photos, ark:/75788/m4319s25r): rights field verbatim 'https://rightsstatements.org/vocab/NoC-US/1.0/' — No Copyright, United States. Desk-verified Nov 24, 2026.",
+   "adoptedAt": "2026-11-25T08:11:29Z",
+   "rowId": "089935cae7",
+   "targetSlug": "MT-bozeman-agricultural-education",
+   "targetId": "HT-MT-bozeman-agricultural-education"
+  }
  ]
 }
