@@ -9737,6 +9737,18 @@
    "attempts": []
   },
   {
+   "id": "vq_MD-annapolis-chase-lloyd-house",
+   "slug": "MD-annapolis-chase-lloyd-house",
+   "name": "HT-RES-MD-annapolis-chase-lloyd-house — Annapolis: the mansion a signer began",
+   "town": "Annapolis",
+   "state": "MD",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MD-annapolis-chase-lloyd-house.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_MD-annapolis-maryland-state-house",
    "slug": "MD-annapolis-maryland-state-house",
    "name": "HT-RES-MD-annapolis-maryland-state-house — Annapolis: the room where Washington handed the power back",
@@ -9769,6 +9781,18 @@
    "verifiedOn": "2026-11-25",
    "verifiedOnSource": "corpus-checked-line",
    "corpusFile": "HT-RES-ME-portland-head-light.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_ME-south-portland-breakwater-lighthouse",
+   "slug": "ME-south-portland-breakwater-lighthouse",
+   "name": "HT-RES-ME-south-portland-breakwater-lighthouse — South Portland: Bug Light, the cast-iron tower",
+   "town": "South Portland",
+   "state": "ME",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-ME-south-portland-breakwater-lighthouse.md",
    "queueState": "queued",
    "attempts": []
   },
@@ -9810,8 +9834,8 @@
   }
  ],
  "counts": {
-  "items": 817,
-  "dated": 576,
+  "items": 819,
+  "dated": 578,
   "unrecorded": 241
  }
 }

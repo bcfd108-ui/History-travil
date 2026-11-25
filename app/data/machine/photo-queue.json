@@ -4867,6 +4867,36 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-ME-south-portland-breakwater-lighthouse",
+   "Slug": "ME-south-portland-breakwater-lighthouse",
+   "Entry": "HT-RES-ME-south-portland-breakwater-lighthouse — South Portland: Bug Light, the cast-iron tower",
+   "Town": "South Portland",
+   "State": "Maine",
+   "Entry URL": "https://onoldground.com/sites/ME-south-portland-breakwater-lighthouse",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-MD-annapolis-chase-lloyd-house",
+   "Slug": "MD-annapolis-chase-lloyd-house",
+   "Entry": "HT-RES-MD-annapolis-chase-lloyd-house — Annapolis: the mansion a signer began",
+   "Town": "Annapolis",
+   "State": "Maryland",
+   "Entry URL": "https://onoldground.com/sites/MD-annapolis-chase-lloyd-house",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-MD-annapolis-maryland-state-house",
    "Slug": "MD-annapolis-maryland-state-house",
    "Entry": "HT-RES-MD-annapolis-maryland-state-house — Annapolis: the room where Washington handed the power back",
@@ -12203,6 +12233,6 @@
   }
  ],
  "counts": {
-  "items": 813
+  "items": 815
  }
 }
