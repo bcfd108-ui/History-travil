@@ -4867,6 +4867,36 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-MD-annapolis-maryland-state-house",
+   "Slug": "MD-annapolis-maryland-state-house",
+   "Entry": "HT-RES-MD-annapolis-maryland-state-house — Annapolis: the room where Washington handed the power back",
+   "Town": "Annapolis",
+   "State": "Maryland",
+   "Entry URL": "https://onoldground.com/sites/MD-annapolis-maryland-state-house",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-MD-baltimore-fort-mchenry",
+   "Slug": "MD-baltimore-fort-mchenry",
+   "Entry": "HT-RES-MD-baltimore-fort-mchenry — Baltimore: the flag that was still there",
+   "Town": "Baltimore",
+   "State": "Maryland",
+   "Entry URL": "https://onoldground.com/sites/MD-baltimore-fort-mchenry",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-MN-grand-marais-lighthouse-keepers",
    "Slug": "MN-grand-marais-lighthouse-keepers",
    "Entry": "Grand Marais — A light to come in by",
@@ -12113,6 +12143,6 @@
   }
  ],
  "counts": {
-  "items": 807
+  "items": 809
  }
 }

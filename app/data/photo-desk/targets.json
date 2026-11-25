@@ -1,6 +1,6 @@
 {
- "commit": "35355dde309af0ccb59ef2a35a52e7dbee82305b",
- "catalogCount": 811,
+ "commit": "620901bf43410d79ee8f431694c87f5311b8932a",
+ "catalogCount": 813,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -17156,6 +17156,136 @@
      {
       "key": "Status",
       "value": "research draft; Maine seed catalog."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MD-annapolis-maryland-state-house",
+   "slug": "MD-annapolis-maryland-state-house",
+   "title": "HT-RES-MD-annapolis-maryland-state-house — Annapolis: the room where Washington handed the power back",
+   "town": "Annapolis",
+   "state": "Maryland",
+   "stateCode": "MD",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MD-annapolis-maryland-state-house — Annapolis: the room where Washington handed the power back",
+   "stableName": "** Maryland State House",
+   "address": "",
+   "locator": {
+    "stableName": "** Maryland State House",
+    "address": "",
+    "latitude": "**",
+    "longitude": "**",
+    "coordinateSource": "** Blank pending two-source agreement within approximately 10 m",
+    "nrhp": "** NRIS 66000385",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "** HABS MD-245; LOC control number md0068",
+    "registerUrl": "",
+    "operator": "** State House Trust / State of Maryland",
+    "extra": [
+     {
+      "key": "Prospective stable ID / slug",
+      "value": "** `MD-annapolis-maryland-state-house`"
+     },
+     {
+      "key": "Town",
+      "value": "Annapolis"
+     },
+     {
+      "key": "Historic location",
+      "value": "** State Circle, Annapolis, Anne Arundel County, Maryland"
+     },
+     {
+      "key": "Public anchor",
+      "value": "** Designated public entrance to the Maryland State House, State Circle"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "** Public State Circle walks, screened public entrance, and rooms opened on the official visitor route; excludes offices, controlled corridors, security areas, closed chambers, and work zones"
+     },
+     {
+      "key": "Visitor access check",
+      "value": "** Confirm posted hours, government closures, picture-ID requirement, screening rules, and photography restrictions on the day of visit"
+     },
+     {
+      "key": "Visitor photo subject",
+      "value": "** Exterior 1772–79 block and dome from a lawful State Circle viewpoint; interior only where currently permitted"
+     },
+     {
+      "key": "Hunts",
+      "value": "** DISABLED"
+     },
+     {
+      "key": "Photo Points",
+      "value": "** None"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MD-baltimore-fort-mchenry",
+   "slug": "MD-baltimore-fort-mchenry",
+   "title": "HT-RES-MD-baltimore-fort-mchenry — Baltimore: the flag that was still there",
+   "town": "Baltimore",
+   "state": "Maryland",
+   "stateCode": "MD",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "HT-RES-MD-baltimore-fort-mchenry — Baltimore: the flag that was still there",
+   "stableName": "** Fort McHenry National Monument and Historic Shrine",
+   "address": "",
+   "locator": {
+    "stableName": "** Fort McHenry National Monument and Historic Shrine",
+    "address": "",
+    "latitude": "**",
+    "longitude": "**",
+    "coordinateSource": "** Blank pending two-source agreement within approximately 10 m",
+    "nrhp": "** National Park Service unit; HABS MD-63",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "** LOC control number md0905; frame HABS MD,4-BALT,5--3",
+    "registerUrl": "",
+    "operator": "** National Park Service",
+    "extra": [
+     {
+      "key": "Prospective stable ID / slug",
+      "value": "** `MD-baltimore-fort-mchenry`"
+     },
+     {
+      "key": "Town",
+      "value": "Baltimore"
+     },
+     {
+      "key": "Historic location",
+      "value": "** East Fort Avenue at Whetstone Point, Baltimore, Maryland"
+     },
+     {
+      "key": "Public anchor",
+      "value": "** National Park Service visitor center and official Star Fort Historic Zone entrance"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "** NPS-open visitor center, maintained public paths, paid historic zone, opened rooms, and designated exterior grounds; excludes closed rooms, seawalls and lawns behind barriers, piers, service areas, and neighboring industrial property"
+     },
+     {
+      "key": "Visitor access check",
+      "value": "** Confirm operating hours, holiday closures, last admission, Star Fort fee, accessibility conditions, and ceremony or event restrictions"
+     },
+     {
+      "key": "Visitor photo subject",
+      "value": "** Star Fort exterior from the maintained public approach or an NPS-designated public viewpoint"
+     },
+     {
+      "key": "Hunts",
+      "value": "** DISABLED"
+     },
+     {
+      "key": "Photo Points",
+      "value": "** None"
      }
     ]
    }
