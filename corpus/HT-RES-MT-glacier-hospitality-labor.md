@@ -127,3 +127,5 @@ Research-only candidate: compare a worker's published account with a permitted p
 - Visitor boundary: archive-only now; future admitted public hotel area only, no staff areas, cultural places or winter route.
 - Rights gate: image verification and reproduction review HOLD; no permissions requested.
 - Release state: local QC draft; no upload, contact, booking, approval or activation.
+
+Adopted first photograph: Many Glacier Hotel on Swiftcurrent Lake in an archival view by T. J. Hileman — the great timber hotel buildings under the mountains, reflected in the water. The exact date of the photograph is not established; the hotel opened in 1915. (T. J. Hileman, date not established. James Willard Schultz papers, Montana State University Library, ark:/75788/m41h3v. No Copyright — United States.) Display file derived from the repository's offered download at its native size; no credit or copy is burned into the image.

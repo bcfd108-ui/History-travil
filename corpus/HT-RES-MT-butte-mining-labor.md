@@ -124,3 +124,5 @@ All blank. Public museum observation and reading only; no collecting, industrial
 - Visitor boundary: admitted above-ground museum areas only, subject to actual closure signs; no underground or industrial extension.
 - Rights gate: archival photograph and commercial on-site imagery HOLD; interview reuse permission not obtained.
 - Release state: local draft for QC; conditional November museum gate, no upload, contact, booking, approval or activation.
+
+Adopted first photograph: Miners and other diners at a boarding house in Butte, Montana, in October 1942 — Russell Lee's photograph of the crowded dining room where miners of many nationalities ate. No one in the frame is identified. (Russell Lee, October 1942. Library of Congress, Prints and Photographs Division, FSA/OWI Collection, LC-DIG-fsa-8d22850. Public domain.) Display file derived from the Library of Congress master; no credit or copy is burned into the image.

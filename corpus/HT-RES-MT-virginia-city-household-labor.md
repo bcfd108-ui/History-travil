@@ -127,3 +127,5 @@ Find 3 key:
 - Operator: Montana Heritage Commission, for the seasonal visitor anchor [1]
 
 No upload, contact, booking, mine or private access, route activation or acceptance approval performed.
+
+Adopted first photograph: The Virginia City Water Company's office as Arthur Rothstein photographed it in June 1939 — the small 'OFFICE / V. CITY WATER CO.' sign beside the door of the weathered building Sarah Bickford ran the utility from until her death in 1931. The two men on the boardwalk are not identified. (Arthur Rothstein, June 1939. Library of Congress, Prints and Photographs Division, FSA/OWI Collection, LC-USF34-027274-D. Public domain.) Display file derived from the Library of Congress master; no credit or copy is burned into the image.

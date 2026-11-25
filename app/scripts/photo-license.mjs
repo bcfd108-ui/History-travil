@@ -95,6 +95,9 @@ const reviewedLoc = new Map([
   ["NE-homestead-claim-households", [
     "https://www.loc.gov/item/2012646764/", noKnown,
   ]],
+  ["NE-niobrara-town-relocations", [
+    "https://www.loc.gov/item/ne0010/", federal,
+  ]],
 ]);
 const centraliaSource = "https://commons.wikimedia.org/wiki/File:A421,_Centralia,_Pennsylvania,_USA,_Route_61,_abandoned_section_above_coal_mine_fire,_2016.jpg";
 
