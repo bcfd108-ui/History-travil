@@ -117,3 +117,5 @@ No answers to extract from sacred knowledge, no objects to locate, and no reques
 - Operator: Confederated Salish and Kootenai Tribes [1][3][4]
 
 Operator-printed visitor-center address: 58355 Bison Range Road, Charlo, MT 59824. No inferred coordinates, route numbers, internal features, wildlife positions, or cultural-site locations. Blank fields mean unverified here, not nonexistent. **a historic road or district pin is not a public entrance.**
+
+Adopted first photograph: The headquarters and work buildings of the National Bison Range on September 1, 1947 — the house, barns and sheds in the lower ground, fenced fields and broad hills beyond. The range was then federal; it was returned to the Confederated Salish and Kootenai Tribes in 2022 and is now the CSKT Bison Range. A historical view of the former headquarters ground only. (E. P. Haddon, September 1, 1947. U.S. Fish and Wildlife Service. Public domain.) Display file derived from the archive's offered original; no credit or copy is burned into the image.

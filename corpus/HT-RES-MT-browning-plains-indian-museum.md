@@ -122,3 +122,5 @@ No copying designs, making ceremonial objects, decoding restricted knowledge, co
 - Operator: U.S. Department of the Interior, Indian Arts and Crafts Board [1][7]
 
 Public physical address: 19 Museum Loop, Browning, MT 59417. Tourism metadata prints general museum coordinates, but exact entrance scope was not established, so coordinates are withheld. No private or cultural-location points. **a historic road or district pin is not a public entrance.**
+
+Adopted first photograph: A tipi-pole structure standing on the Museum of the Plains Indian ground at Browning, Montana, in 1987 — gravel and grass in the foreground, open plains and the Rocky Mountain Front beyond. A historical exterior view only; the frame does not show a current entrance or exhibition. (John Margolies, 1987. John Margolies Roadside America photograph archive (1972-2008), Library of Congress, Prints and Photographs Division. No known restrictions on publication.) Display file derived from the Library of Congress master; no credit or copy is burned into the image.

@@ -108,6 +108,10 @@ const reviewedLoc = new Map([
   ["MT-travelers-rest-bitterroot", [
     "https://www.loc.gov/pictures/item/mt0144/", federal,
   ]],
+  ["MT-browning-plains-indian-museum", [
+    "https://www.loc.gov/pictures/item/2017705864/",
+    "No known restrictions on publication",
+  ]],
 ]);
 const centraliaSource = "https://commons.wikimedia.org/wiki/File:A421,_Centralia,_Pennsylvania,_USA,_Route_61,_abandoned_section_above_coal_mine_fire,_2016.jpg";
 

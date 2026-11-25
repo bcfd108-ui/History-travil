@@ -4695,5 +4695,63 @@
    "targetSlug": "MT-bozeman-agricultural-education",
    "targetId": "HT-MT-bozeman-agricultural-education"
   }
+ ],
+ "MT-browning-plains-indian-museum": [
+  {
+   "src": "/photos/mt-browning-plains-indian-museum-065bca525b.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 1987,
+   "title": "Tipi-pole structure at the Museum of the Plains Indian, Browning, 1987.",
+   "caption": "A tipi-pole structure standing on the Museum of the Plains Indian ground at Browning, Montana, in 1987 — gravel and grass in the foreground, open plains and the Rocky Mountain Front beyond. A historical exterior view only; the frame does not show a current entrance or exhibition.",
+   "alt": "A bare tipi-pole frame on gravel at the Museum of the Plains Indian in Browning, Montana, with open plains and distant mountains.",
+   "credit": "John Margolies, 1987. John Margolies Roadside America photograph archive (1972-2008), Library of Congress, Prints and Photographs Division.",
+   "license": "No known restrictions on publication",
+   "licenseUrl": "https://www.loc.gov/pictures/item/2017705864/",
+   "sourceName": "Library of Congress, Prints and Photographs Division",
+   "sourceUrl": "https://www.loc.gov/pictures/item/2017705864/",
+   "imageUrl": "https://tile.loc.gov/storage-services/master/pnp/mrg/03700/03756u.tif",
+   "sha256": "065bca525b26bb22d0101612b5b1560f32c6a76b83a54677a076b1777b1620f1",
+   "width": 1024,
+   "height": 1497,
+   "dateNote": "1987.",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: a bare tipi-pole frame standing on gravel and grass, one tree, open plains and the Rocky Mountain Front beyond, the transparency border visible — the Margolies frame the LOC title ties to the Museum of the Plains Indian ground at Browning; historical exterior context only.",
+   "rightsReview": "LOC item 2017705864 (John Margolies Roadside America photograph archive): rights statement verbatim 'No known restrictions on publication.' Desk-verified Nov 25, 2026.",
+   "adoptedAt": "2026-11-25T09:02:12Z",
+   "rowId": "7282be872c",
+   "targetSlug": "MT-browning-plains-indian-museum",
+   "targetId": "HT-MT-browning-plains-indian-museum"
+  }
+ ],
+ "MT-cskt-bison-range": [
+  {
+   "src": "/photos/mt-cskt-bison-range-69f43a6af1.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 1947,
+   "title": "National Bison Range headquarters, September 1, 1947.",
+   "caption": "The headquarters and work buildings of the National Bison Range on September 1, 1947 — the house, barns and sheds in the lower ground, fenced fields and broad hills beyond. The range was then federal; it was returned to the Confederated Salish and Kootenai Tribes in 2022 and is now the CSKT Bison Range. A historical view of the former headquarters ground only.",
+   "alt": "The National Bison Range headquarters complex in 1947: a house, barns and work buildings in a fenced valley under broad hills.",
+   "credit": "E. P. Haddon, September 1, 1947. U.S. Fish and Wildlife Service.",
+   "license": "Public domain",
+   "licenseUrl": "https://www.fws.gov/media/national-bison-range-headquarters-1947",
+   "sourceName": "U.S. Fish and Wildlife Service Digital Media Library",
+   "sourceUrl": "https://www.fws.gov/media/national-bison-range-headquarters-1947",
+   "imageUrl": "https://www.fws.gov/sites/default/files/images/2024-03/fws32.jpg",
+   "sha256": "69f43a6af1fbb77ce5e6f7ba693efc07e83ba4965f4e9c524d3e1d77b18b5806",
+   "width": 1024,
+   "height": 839,
+   "dateNote": "September 1, 1947.",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the 1947 headquarters complex — house, barns and work buildings in the lower foreground, fenced fields, trees, open valley and broad hills — the FWS archive's own view of the former federal headquarters ground, print border retained.",
+   "rightsReview": "U.S. Fish and Wildlife Service media record for this image states Media Usage Rights/License verbatim 'Public Domain.' Desk-verified Nov 25, 2026.",
+   "adoptedAt": "2026-11-25T09:02:12Z",
+   "rowId": "81e45c0ec6",
+   "targetSlug": "MT-cskt-bison-range",
+   "targetId": "HT-MT-cskt-bison-range"
+  }
  ]
 }
