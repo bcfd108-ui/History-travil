@@ -37,6 +37,8 @@ The local journal distinguishes Maledon stories from the roles of the judge, mar
 
 **Candidate held.** Library of Congress HABS ARK,66-FOSM,1-B-, survey record AR0117, two captioned images. Their actual frames, photographers, dates and eligibility were not verified on this pass. The collection’s U.S. government rights statement distinguishes photographs copied from other sources. No adopted historical frame or present repetition point. [6]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** The Fort Smith barracks building in October 2007, photographed by Ed Schipul and licensed CC BY-SA 2.0 via Wikimedia Commons (Flickr license review recorded on the item): brick barracks/courthouse/jail exterior, porch, stairs, adjoining wing. Identity confirmed by inspection against the National Park Service record for the site. The frame shows the historic-site building only — not the modern courthouse or a court scene. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 Quiet witness only. Reading and trip planning are free and available without an account, location sharing or a contribution. 

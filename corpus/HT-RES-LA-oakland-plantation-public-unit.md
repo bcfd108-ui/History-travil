@@ -48,6 +48,8 @@ Use the NPS’s published directions to the Oakland pavilion and designated park
 
 Photo Point held. The caption gives the historic view facing southwest and the diagram records the survey camera position near a historic fence line. Current matching pixels and a lawful repeat stance are unverified. The archive photograph carries no visitor direction. [2, 9, 12–13]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** The overseer's house at Oakland Plantation, south view, in a National Park Service survey photograph held in NPGallery (public domain, Full Granting Rights): the house on piers under a broad metal roof, braced side porch. Identity confirmed by inspection against the Park Service survey record. The frame shows a public-unit building — not the main house, and not evidence of interior access. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo and access observations
 
 Quiet witness. If you were already at the open public anchor, a voluntary text note can help. Was the Oakland store's public doorway open, and was the posted cabin walk available? Record what a sign or ranger said if the route changed. Include the public place and date observed. If photography was permitted, you may offer your own current photo of the store entrance or a public information sign. Contributions remain pending review. We ask permission and your credit preference before any public photo use. One observation records that date and cannot change the operator’s restrictions. Reading and planning are free and require no account, checkout, location sharing, or contribution.

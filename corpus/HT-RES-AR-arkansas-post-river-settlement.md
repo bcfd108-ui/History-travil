@@ -40,6 +40,8 @@ Begin in the visitor center. Use Treat’s account to read how a river shipment 
 
 Historical site frame absent. The structural history establishes the work of recovering and comparing land and building records. No inspected, openly reusable photograph fixes Treat’s house or a historically matched view from this public approach. No Photo Point. [3, 7]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** The Arkansas Post National Memorial visitor center in May 2014, photographed by Brandonrush and licensed CC BY-SA 3.0 via Wikimedia Commons: signed low brick NPS building, flags, front crosswalk. Identity confirmed by inspection against the National Park Service record. The frame shows the modern interpretive anchor only — not the trading house or the historic settlement. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo-tag observations
 
 Quiet witness only. Reading and planning are free and available without an account, location sharing or contribution.

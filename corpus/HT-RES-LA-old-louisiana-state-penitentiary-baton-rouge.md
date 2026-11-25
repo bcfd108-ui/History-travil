@@ -70,6 +70,8 @@ No haunted-place folklore is carried here. All history rests on the 1974 NRHP fi
 
 - **Photo Point:** Blank.
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** The surviving Louisiana State Prison Store, known as the Warden's House, in June 2008, photographed by Tjean314 and licensed CC BY-SA 3.0 via Wikimedia Commons: two-story brick, shuttered upper bays, shaped end wall with lunette, adjoining wing. Identity confirmed by inspection against the National Register nomination and HABS LA-1140, which name the building and its 703 Laurel Street address. The frame shows the surviving store building only — not the demolished penitentiary compound. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Candidate finds
 
 **DISABLED — NO HUNT ACTIVATION.** Per Theme Sweep standing rules, all answer keys remain blank, no scored finds exist, and no Photo Points are activated.

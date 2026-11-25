@@ -75,6 +75,8 @@ No haunted-place folklore is claimed or carried here. Charity Hospital's weight 
 
 - **Photo Point:** Blank.
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** Charity Hospital, New Orleans, from Tulane Avenue and LaSalle Street in October 2014, photographed by Infrogmation of New Orleans and licensed CC BY-SA 4.0 via Wikimedia Commons: the 1939 hospital's light-stone elevations and exposed exterior stair. Identity confirmed by inspection. The frame is held as documentary archive only — it is not captioned as a present-day anchor and implies no interior access, field task, or current construction condition. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Candidate finds
 
 **DISABLED — NO HUNT ACTIVATION.** Per Theme Sweep standing rules, all answer keys remain blank, no scored finds exist, and no Photo Points are activated.

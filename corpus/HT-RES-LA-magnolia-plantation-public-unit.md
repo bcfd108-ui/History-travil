@@ -48,6 +48,8 @@ Follow the NPS road directions to the Magnolia unit. Its signed arrival and the 
 
 Photo Point held. The caption establishes the documented camera side, approximately west-southwest of the subject facing east-northeast. The lawful repeat stance and a current frame matching the same cabin and the rear building are unverified. This is an archive view only. [2, 10–11]
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** The gin barn at Magnolia Plantation in a National Park Service survey photograph held in NPGallery (public domain, GrantingRights Full): the barn's steep light roof and dark gable across the cultivated field. Identity confirmed by inspection against the Park Service's own Magnolia gin barn record. The frame shows the public unit's gin barn only — not the private main house or a visitor entrance. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Optional photo and access observations
 
 Quiet witness. If you were already at the open public anchor, a voluntary text note can help. Was the store information point staffed, and was the public path toward the quarters open? A dated note about the posted map or path gate is enough. Include the public place and date observed. If photography was permitted, you may offer your own current photo of the public visitor-information sign or store entrance. Contributions remain pending review. We ask permission and your credit preference before any public photo use. One observation records that date and cannot change the operator’s restrictions. Reading and planning are free and require no account, checkout, location sharing, or contribution.

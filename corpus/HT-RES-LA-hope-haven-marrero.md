@@ -67,6 +67,8 @@ No haunted-place folklore is carried here. All history rests on architectural sc
 
 - **Photo Point:** Blank.
 
+**Adopted first photograph — Nov 24, 2026 (Dash QC, photo batches 010–021).** The former Hope Haven campus in Marrero from Barataria Boulevard in August 2026, photographed by Infrogmation and licensed CC BY-SA 4.0 via Wikimedia Commons: white facade, tiled roof, arcade and tower behind fencing. Identity confirmed by inspection. Desk correction carried: the staging record read the facade number as 1150; full-resolution inspection reads 1130, and no street number is printed in the caption. Exterior only — no access or on-site activity is implied. Displayed on the entry page with the credit carried in the caption record; no information is burned onto the image.
+
 ## 8. Candidate finds
 
 **DISABLED — NO HUNT ACTIVATION.** Per Theme Sweep standing rules, all answer keys remain blank, no scored finds exist, and no Photo Points are activated.
