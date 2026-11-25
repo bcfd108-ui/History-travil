@@ -9725,6 +9725,30 @@
    "attempts": []
   },
   {
+   "id": "vq_MD-annapolis-maryland-state-house",
+   "slug": "MD-annapolis-maryland-state-house",
+   "name": "HT-RES-MD-annapolis-maryland-state-house — Annapolis: the room where Washington handed the power back",
+   "town": "Annapolis",
+   "state": "MD",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MD-annapolis-maryland-state-house.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MD-baltimore-fort-mchenry",
+   "slug": "MD-baltimore-fort-mchenry",
+   "name": "HT-RES-MD-baltimore-fort-mchenry — Baltimore: the flag that was still there",
+   "town": "Baltimore",
+   "state": "MD",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MD-baltimore-fort-mchenry.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_ME-portland-head-light",
    "slug": "ME-portland-head-light",
    "name": "HT-RES-ME-portland-head-light — Portland Head Light: the first lighthouse lighted by the United States government",
@@ -9738,8 +9762,8 @@
   }
  ],
  "counts": {
-  "items": 811,
-  "dated": 570,
+  "items": 813,
+  "dated": 572,
   "unrecorded": 241
  }
 }

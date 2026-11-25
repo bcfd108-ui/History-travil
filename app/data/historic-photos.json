@@ -5014,5 +5014,63 @@
    "targetSlug": "ID-soda-springs-hudspeth-cutoff",
    "targetId": "HT-ID-soda-springs-hudspeth-cutoff"
   }
+ ],
+ "MD-annapolis-maryland-state-house": [
+  {
+   "src": "/photos/md-annapolis-maryland-state-house-268a50d6b4.webp",
+   "eraRole": "now",
+   "roleLabel": "now",
+   "year": 1970,
+   "title": "Maryland State House from State Circle, 1970.",
+   "caption": "The Maryland State House in Annapolis — the 1772 section and wooden dome from State Circle. Photograph by Jack E. Boucher, 1970. HABS MD-245.",
+   "alt": "The brick Maryland State House with its white wooden dome, seen across the State Circle lawn in autumn.",
+   "credit": "Jack E. Boucher, 1970 — Library of Congress, Historic American Buildings Survey, HABS MD-245",
+   "license": "No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.",
+   "licenseUrl": "https://www.loc.gov/item/md0068/",
+   "sourceName": "Library of Congress, Historic American Buildings Survey",
+   "sourceUrl": "https://www.loc.gov/item/md0068/",
+   "imageUrl": "https://www.loc.gov/item/md0068/",
+   "sha256": "268a50d6b4e0a01084fe156dec9d1087db01778000cc8c551eba26e48f7b11cb",
+   "width": 1024,
+   "height": 724,
+   "dateNote": "1970 (LOC frame metadata).",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the Maryland State House southeast elevation — brick 1772 section, portico, and the wooden dome over State Circle; the exact building, no replica.",
+   "rightsReview": "LOC item md0068 (HABS MD-245) rights advisory, verified on the item record Nov 25, 2026: the federal HABS advisory; the frame is the HABS photograph itself, by Jack E. Boucher.",
+   "adoptedAt": "2026-11-25T12:35:00Z",
+   "rowId": "34e5268379",
+   "targetSlug": "MD-annapolis-maryland-state-house",
+   "targetId": "HT-MD-annapolis-maryland-state-house"
+  }
+ ],
+ "MD-baltimore-fort-mchenry": [
+  {
+   "src": "/photos/md-baltimore-fort-mchenry-64cc5229df.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 1954,
+   "title": "Fort McHenry from the air, July 1954.",
+   "caption": "Aerial view looking north over Fort McHenry and Whetstone Point, Baltimore — the pentagonal star fort, parade, and waterfront. Official U.S. Navy photograph, July 1954. HABS MD-63.",
+   "alt": "Black-and-white aerial photograph of the star-shaped Fort McHenry on Whetstone Point, surrounded by water on three sides.",
+   "credit": "U.S. Navy official photograph, July 1954 — Library of Congress, Historic American Buildings Survey, HABS MD-63",
+   "license": "No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.",
+   "licenseUrl": "https://www.loc.gov/item/md0905/",
+   "sourceName": "Library of Congress, Historic American Buildings Survey",
+   "sourceUrl": "https://www.loc.gov/item/md0905/",
+   "imageUrl": "https://www.loc.gov/item/md0905/",
+   "sha256": "64cc5229dff54149671cf0a785acff6f553262e79cd4db94547cfd74f8e970ab",
+   "width": 1024,
+   "height": 672,
+   "dateNote": "July 1954 (HABS frame title).",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the pentagonal star fort on Whetstone Point from the air — parade, seawall, and the industrial waterfront north of the point; the exact fort.",
+   "rightsReview": "LOC item md0905 (HABS MD-63) rights advisory, verified on the item record Nov 25, 2026: the federal advisory; the frame is an official U.S. Navy photograph held by HABS.",
+   "adoptedAt": "2026-11-25T12:35:00Z",
+   "rowId": "ccd64a8b0b",
+   "targetSlug": "MD-baltimore-fort-mchenry",
+   "targetId": "HT-MD-baltimore-fort-mchenry"
+  }
  ]
 }

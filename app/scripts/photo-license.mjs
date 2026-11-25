@@ -3,6 +3,12 @@
 const noKnown = "No known restrictions on publication";
 const federal = "No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.";
 const reviewedLoc = new Map([
+  ["MD-annapolis-maryland-state-house", [
+    "https://www.loc.gov/item/md0068/", federal,
+  ]],
+  ["MD-baltimore-fort-mchenry", [
+    "https://www.loc.gov/item/md0905/", federal,
+  ]],
   ["ID-soda-springs-hudspeth-cutoff", [
     "https://www.loc.gov/item/95514248/", noKnown,
   ]],

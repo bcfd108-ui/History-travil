@@ -9591,1421 +9591,6 @@
    "attempts": []
   },
   {
-   "id": "lq_109e52bfdc9c0984",
-   "projectedSlug": "md-lord-baltimore-hotel",
-   "targetSlug": null,
-   "name": "Lord Baltimore Hotel",
-   "town": "Baltimore",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 312,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_14ad8dc9c3939400",
-   "projectedSlug": "md-piscataway-park-and-accokeek-foundation",
-   "targetSlug": null,
-   "name": "Piscataway Park & Accokeek Foundation",
-   "town": "Accokeek",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "NPS/partner site — Piscataway homeland, National Colonial Farm; Indigenous ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 214,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1cc8d5d1b848d3d8",
-   "projectedSlug": "md-crownsville-hospital-center-cemetery",
-   "targetSlug": null,
-   "name": "Crownsville Hospital Center Cemetery",
-   "town": "Crownsville",
-   "county": "Anne Arundel",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Public memorial ground and cemetery — ★ THEME: asylum (double weight). Cemetery of the segregated state asylum (1911–2004), hundreds of numbered graves; verify current access",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 200,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_21294ee0cb5b8d59",
-   "projectedSlug": "md-antietam-national-battlefield",
-   "targetSlug": null,
-   "name": "Antietam National Battlefield",
-   "town": "Sharpsburg",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "NPS unit — ★ THEME: military (double weight). Bloodiest single day in American history (Sept. 17, 1862); Emancipation Proclamation ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 235,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    },
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 313,
-     "dialect": "desk-sweep-4",
-     "role": "listed"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_247e67bfe81a4f06",
-   "projectedSlug": "md-fort-mchenry-national-monument-and-historic-shrine",
-   "targetSlug": null,
-   "name": "Fort McHenry National Monument & Historic Shrine",
-   "town": "Baltimore",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "NPS unit — ★ THEME: military (double weight). 1814 defense and the anthem; Civil War layer as a prison for Confederate sympathizers and political prisoners",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 179,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_27014e2c466bb1ec",
-   "projectedSlug": "md-hampton-mansion",
-   "targetSlug": null,
-   "name": "Hampton Mansion",
-   "town": "Towson",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 325,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_27d8a7000cb27c21",
-   "projectedSlug": "md-chesapeake-bay-maritime-museum",
-   "targetSlug": null,
-   "name": "Chesapeake Bay Maritime Museum",
-   "town": "St. Michaels",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Museum — working waterfront, skipjacks, 1879 Hooper Strait Lighthouse",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 226,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_27ed420764520f0c",
-   "projectedSlug": "md-casselman-river-bridge-state-park",
-   "targetSlug": null,
-   "name": "Casselman River Bridge State Park",
-   "town": "Grantsville",
-   "county": "Garrett",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "State park — 1813 National Road stone arch bridge",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 243,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_290df51cca6cbf78",
-   "projectedSlug": "md-greenbelt-museum",
-   "targetSlug": null,
-   "name": "Greenbelt Museum",
-   "town": "Greenbelt",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Museum — 1937 New Deal greenbelt town. Labor/New Deal ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 202,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_32ce416f559885f1",
-   "projectedSlug": "md-united-states-naval-academy",
-   "targetSlug": null,
-   "name": "United States Naval Academy",
-   "town": "Annapolis",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Public tours — ★ THEME: military",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 195,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_33718791417f3abb",
-   "projectedSlug": "md-edgar-allan-poe-house-and-westminster-burying-ground",
-   "targetSlug": null,
-   "name": "Edgar Allan Poe House & Westminster Burying Ground",
-   "town": "Baltimore",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Museum and public cemetery — ★ THEME: weird spot. Poe's home and grave; the \"Poe Toaster\" lore layer",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 185,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3e68133863a46faa",
-   "projectedSlug": "md-chestertown-historic-district-and-custom-house",
-   "targetSlug": null,
-   "name": "Chestertown Historic District & Custom House",
-   "town": "Chestertown",
-   "county": "Kent",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Public colonial port district — 1740s Custom House museum exhibits",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 227,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_40c15e9adb3ec10e",
-   "projectedSlug": "md-phoenix-shot-tower",
-   "targetSlug": null,
-   "name": "Phoenix Shot Tower",
-   "town": "Baltimore",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Museum tours — 1828 shot tower, tallest U.S. structure of its day; industrial ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 187,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_45631e404617f86c",
-   "projectedSlug": "md-george-washingtons-headquarters-cabin-and-canal-terminus",
-   "targetSlug": null,
-   "name": "George Washington's Headquarters cabin & canal terminus",
-   "town": "Cumberland",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Public site and visitor center — 1755 French and Indian War cabin; C&O Canal's western end",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 242,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4b0fd4ac9cab691e",
-   "projectedSlug": "md-uss-constellation-and-historic-ships-in-baltimore",
-   "targetSlug": null,
-   "name": "USS Constellation & Historic Ships in Baltimore",
-   "town": "Inner Harbor",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Museum ships — last sail-only warship built by the U.S. Navy (1854)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 181,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_54fb4ef895eab128",
-   "projectedSlug": "md-reynolds-tavern",
-   "targetSlug": null,
-   "name": "Reynolds Tavern",
-   "town": "Annapolis",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 322,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_562a2c0c50e77e36",
-   "projectedSlug": "md-monocacy-national-battlefield",
-   "targetSlug": null,
-   "name": "Monocacy National Battlefield",
-   "town": "Frederick",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "NPS unit — July 1864, \"the battle that saved Washington\"",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 236,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_56e4f91e5e2e12cd",
-   "projectedSlug": "md-maryland-state-house",
-   "targetSlug": null,
-   "name": "Maryland State House",
-   "town": "Annapolis",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Public capitol — oldest state capitol in continuous legislative use; Washington resigned his commission here (1783)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 193,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    },
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 321,
-     "dialect": "desk-sweep-4",
-     "role": "listed"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_588d3bb3bbc178ac",
-   "projectedSlug": "md-linville-manor",
-   "targetSlug": null,
-   "name": "Linville Manor",
-   "town": "Upper Marlboro",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 314,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5b506026f8c4cd0a",
-   "projectedSlug": "md-maryland-house-of-correction-site",
-   "targetSlug": null,
-   "name": "Maryland House of Correction site",
-   "town": "Jessup",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "★ THEME: prison. 1879 state prison, closed 2007 and demolished; no known public anchor — flag",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 203,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5cffda7c610c922f",
-   "projectedSlug": "md-star-spangled-banner-flag-house",
-   "targetSlug": null,
-   "name": "Star-Spangled Banner Flag House",
-   "town": "Baltimore",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Museum — Mary Pickersgill's flag-making household",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 182,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6a371ffa6dfc7f1c",
-   "projectedSlug": "md-point-lookout-state-park-and-civil-war-museum",
-   "targetSlug": null,
-   "name": "Point Lookout State Park & Civil War Museum",
-   "town": "Scotland",
-   "county": "St. Mary's",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "State park — ★ THEME: prison (double weight). Largest Union prisoner-of-war camp (Camp Hoffman, ~52,000 Confederates held; ~4,000 died); earthworks and museum on the ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 212,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_729285427e7bef14",
-   "projectedSlug": "md-sotterley-plantation",
-   "targetSlug": null,
-   "name": "Sotterley Plantation",
-   "town": "Hollywood",
-   "county": "St. Mary's",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Museum — 1703 plantation with surviving slave cabin, enslaved history central",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 211,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_72e9d65bc0629fa9",
-   "projectedSlug": "md-hampton-national-historic-site",
-   "targetSlug": null,
-   "name": "Hampton National Historic Site",
-   "town": "Towson",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "NPS unit — Ridgely plantation, among the largest enslaved communities in Maryland",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 199,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_739961d14696307f",
-   "projectedSlug": "md-c-and-o-canal-national-historical-park-williamsport-and-paw-paw-tunnel",
-   "targetSlug": null,
-   "name": "C&O Canal National Historical Park — Williamsport & Paw Paw Tunnel",
-   "town": "",
-   "county": "Washington/Allegany",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "NPS unit — canal town, locks, and the 3,118-foot tunnel. Labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 239,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7e4c6430afd7a442",
-   "projectedSlug": "md-middleton-tavern",
-   "targetSlug": null,
-   "name": "Middleton Tavern",
-   "town": "Annapolis",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 327,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8722996b1ac475bf",
-   "projectedSlug": "md-atlantic-hotel",
-   "targetSlug": null,
-   "name": "Atlantic Hotel",
-   "town": "Berlin",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 323,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_87d17b9220b07243",
-   "projectedSlug": "md-st-clements-island-state-park",
-   "targetSlug": null,
-   "name": "St. Clement's Island State Park",
-   "town": "Coltons Point",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "State park (boat access) — March 1634 landing of the first Maryland colonists",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 210,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_887f1db3787e7e8d",
-   "projectedSlug": "md-dr-samuel-a-mudd-house-museum",
-   "targetSlug": null,
-   "name": "Dr. Samuel A. Mudd House Museum",
-   "town": "Waldorf",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Museum — the doctor who set Booth's broken leg",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 216,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_89074757fbfde9ae",
-   "projectedSlug": "md-colonial-annapolis-historic-district-and-william-paca-house",
-   "targetSlug": null,
-   "name": "Colonial Annapolis Historic District & William Paca House",
-   "town": "Annapolis",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Museum house and NHL district — signer's house and garden",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 194,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8c35c8d509c4e2ef",
-   "projectedSlug": "md-fort-mchenry",
-   "targetSlug": null,
-   "name": "Fort McHenry",
-   "town": "Baltimore",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "military — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 319,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_95227524d94c716d",
-   "projectedSlug": "md-national-museum-of-civil-war-medicine",
-   "targetSlug": null,
-   "name": "National Museum of Civil War Medicine",
-   "town": "Frederick",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Museum — medical and hospital history of the war",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 237,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9553b253ff498245",
-   "projectedSlug": "md-fort-frederick-state-park",
-   "targetSlug": null,
-   "name": "Fort Frederick State Park",
-   "town": "Big Pool",
-   "county": "Washington",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "State park — ★ THEME: military. 1756 stone fort of the French and Indian War, restored",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 238,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_98a7bd2e34265b39",
-   "projectedSlug": "md-piney-point-lighthouse-museum",
-   "targetSlug": null,
-   "name": "Piney Point Lighthouse Museum",
-   "town": "Piney Point",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "County museum — 1836 lighthouse and Potomac maritime ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 217,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9a128d72114d1083",
-   "projectedSlug": "md-hager-house",
-   "targetSlug": null,
-   "name": "Hager House",
-   "town": "Hagerstown",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 318,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9b30c21a6ad5e611",
-   "projectedSlug": "md-b-and-o-railroad-station-museum",
-   "targetSlug": null,
-   "name": "B&O Railroad Station Museum",
-   "town": "Ellicott City",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "County museum — oldest surviving railroad station in the U.S. (1831). Labor/rail ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 198,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a54575784f0af496",
-   "projectedSlug": "md-westminster-burying-ground",
-   "targetSlug": null,
-   "name": "Westminster Burying Ground",
-   "town": "Baltimore",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "cemetery — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 316,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a8e20f1cdf198565",
-   "projectedSlug": "md-maryland-center-for-history-and-culture",
-   "targetSlug": null,
-   "name": "Maryland Center for History and Culture",
-   "town": "Baltimore",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Museum (Maryland Historical Society) — original Star-Spangled Banner manuscript",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 186,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_aa13dcec280ced3c",
-   "projectedSlug": "md-uss-constellation",
-   "targetSlug": null,
-   "name": "USS Constellation",
-   "town": "Baltimore",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "military — anchor: museum open to the public. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 317,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b123da1a51293600",
-   "projectedSlug": "md-banneker-douglass-tubman-museum",
-   "targetSlug": null,
-   "name": "Banneker-Douglass-Tubman Museum",
-   "town": "Annapolis",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "State museum of African American heritage in the former Mt. Moriah AME Church. Civil-rights ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 196,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b3579b05db4f1171",
-   "projectedSlug": "md-dr-mudd-house",
-   "targetSlug": null,
-   "name": "Dr. Mudd House",
-   "town": "Waldorf",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 320,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b52fa71aabd39683",
-   "projectedSlug": "md-maryland-inn",
-   "targetSlug": null,
-   "name": "Maryland Inn",
-   "town": "Annapolis",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 315,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b91c6ecb622ab321",
-   "projectedSlug": "md-benjamin-banneker-historical-park-and-museum",
-   "targetSlug": null,
-   "name": "Benjamin Banneker Historical Park & Museum",
-   "town": "Oella",
-   "county": "Baltimore",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "County museum — Banneker's farmstead and reconstructed cabin",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 197,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_bd7943a49ccd9c92",
-   "projectedSlug": "md-riversdale-house-museum",
-   "targetSlug": null,
-   "name": "Riversdale House Museum",
-   "town": "Riverdale Park",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "County museum — Calvert plantation house, enslaved community interpreted",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 201,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_be0e8db988c34d1d",
-   "projectedSlug": "md-historic-st-marys-city",
-   "targetSlug": null,
-   "name": "Historic St. Mary's City",
-   "town": "St. Mary's City",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "State living-history museum — Maryland's first capital (1634), Ark and Dove ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 209,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c456fea0ce8b3aac",
-   "projectedSlug": "md-kitty-knight-house",
-   "targetSlug": null,
-   "name": "Kitty Knight House",
-   "town": "Georgetown",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "house — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 324,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cb65c77944fa3ac1",
-   "projectedSlug": "md-bucktown-village-store",
-   "targetSlug": null,
-   "name": "Bucktown Village Store",
-   "town": "Bucktown",
-   "county": "Dorchester",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Historic store on the Tubman Byway — site of Tubman's first act of defiance; exterior/visits by arrangement, verify. Civil-rights ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 224,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cf2e56daa0e9be73",
-   "projectedSlug": "md-ocean-city-life-saving-station-museum",
-   "targetSlug": null,
-   "name": "Ocean City Life-Saving Station Museum",
-   "town": "Ocean City",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Museum — 1891 life-saving station",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 228,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d268e711a832535d",
-   "projectedSlug": "md-harriet-tubman-underground-railroad-national-historical-park-and-visitor-center",
-   "targetSlug": null,
-   "name": "Harriet Tubman Underground Railroad National Historical Park & Visitor Center",
-   "town": "Church Creek",
-   "county": "Dorchester",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "NPS/state visitor center — civil-rights ground (top priority): Tubman's Dorchester County landscape, Blackwater country",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 223,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d990e79a3a246ff1",
-   "projectedSlug": "md-b-and-o-railroad-museum",
-   "targetSlug": null,
-   "name": "B&O Railroad Museum",
-   "town": "Baltimore",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Museum — birthplace of American railroading (1827); labor and strike history. Labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 180,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e033ae8f155d0908",
-   "projectedSlug": "md-reginald-f-lewis-museum",
-   "targetSlug": null,
-   "name": "Reginald F. Lewis Museum",
-   "town": "Baltimore",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "State museum of Maryland African American history. Civil-rights ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 184,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e0454a719e8777da",
-   "projectedSlug": "md-surratt-house-museum",
-   "targetSlug": null,
-   "name": "Surratt House Museum",
-   "town": "Clinton",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "County museum — Mary Surratt's tavern, Lincoln assassination conspiracy ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 215,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e22595fdd59ea0de",
-   "projectedSlug": "md-baltimore-county-almshouse",
-   "targetSlug": null,
-   "name": "Baltimore County Almshouse",
-   "town": "Cockeysville",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "other — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 328,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e2d4f155402355ce",
-   "projectedSlug": "md-south-mountain-state-battlefield-and-washington-monument-state-park",
-   "targetSlug": null,
-   "name": "South Mountain State Battlefield & Washington Monument State Park",
-   "town": "Boonsboro area",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "State parks — September 1862 passes; first monument to George Washington (1827)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 240,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e36386c51243fb1c",
-   "projectedSlug": "md-frederick-douglass-birthplace-site-tuckahoe-creek",
-   "targetSlug": null,
-   "name": "Frederick Douglass birthplace site (Tuckahoe Creek)",
-   "town": "near Cordova",
-   "county": "Talbot",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Civil-rights ground. Roadside marker only; birthplace ground is private — flag",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 229,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e4f32c7ec9599632",
-   "projectedSlug": "md-catoctin-furnace-village",
-   "targetSlug": null,
-   "name": "Catoctin Furnace Village",
-   "town": "Thurmont",
-   "county": "Frederick",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "State park village site — iron furnace worked by enslaved and immigrant labor; African American cemetery. Labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 241,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e96dfb4bfb9d3bb0",
-   "projectedSlug": "md-frederick-douglass-isaac-myers-maritime-park",
-   "targetSlug": null,
-   "name": "Frederick Douglass–Isaac Myers Maritime Park",
-   "town": "Baltimore (Fells Point)",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Museum — Douglass worked these shipyards as an enslaved caulker; first Black-owned shipyard ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 183,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ec70683ca2d4811a",
-   "projectedSlug": "md-point-lookout-lighthouse-and-state-park",
-   "targetSlug": null,
-   "name": "Point Lookout Lighthouse and State Park",
-   "town": "Scotland",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "military — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 311,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f601458d1f5f47aa",
-   "projectedSlug": "md-thomas-stone-national-historic-site",
-   "targetSlug": null,
-   "name": "Thomas Stone National Historic Site",
-   "town": "Port Tobacco",
-   "county": "",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "NPS unit — signer's plantation (Haberdeventure)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 213,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f75d27d3999f1131",
-   "projectedSlug": "md-poe-house",
-   "targetSlug": null,
-   "name": "Poe House",
-   "town": "Baltimore",
-   "county": "Maryland",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 326,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f8d90a058b2a01a4",
-   "projectedSlug": "md-stanley-institute",
-   "targetSlug": null,
-   "name": "Stanley Institute",
-   "town": "near Cambridge",
-   "county": "Dorchester",
-   "state": "MD",
-   "tier": null,
-   "anchorPosture": "Historic Black one-room school (1867), community museum — verify program. Civil-rights ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 225,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
    "id": "lq_000f54ec088f1308",
    "projectedSlug": "nj-clara-barton-schoolhouse",
    "targetSlug": null,
@@ -159750,6 +158335,1421 @@
    "attempts": []
   },
   {
+   "id": "lq_109e52bfdc9c0984",
+   "projectedSlug": "md-lord-baltimore-hotel",
+   "targetSlug": null,
+   "name": "Lord Baltimore Hotel",
+   "town": "Baltimore",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 312,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_14ad8dc9c3939400",
+   "projectedSlug": "md-piscataway-park-and-accokeek-foundation",
+   "targetSlug": null,
+   "name": "Piscataway Park & Accokeek Foundation",
+   "town": "Accokeek",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "NPS/partner site — Piscataway homeland, National Colonial Farm; Indigenous ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 214,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1cc8d5d1b848d3d8",
+   "projectedSlug": "md-crownsville-hospital-center-cemetery",
+   "targetSlug": null,
+   "name": "Crownsville Hospital Center Cemetery",
+   "town": "Crownsville",
+   "county": "Anne Arundel",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Public memorial ground and cemetery — ★ THEME: asylum (double weight). Cemetery of the segregated state asylum (1911–2004), hundreds of numbered graves; verify current access",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 200,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_21294ee0cb5b8d59",
+   "projectedSlug": "md-antietam-national-battlefield",
+   "targetSlug": null,
+   "name": "Antietam National Battlefield",
+   "town": "Sharpsburg",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "NPS unit — ★ THEME: military (double weight). Bloodiest single day in American history (Sept. 17, 1862); Emancipation Proclamation ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 235,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    },
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 313,
+     "dialect": "desk-sweep-4",
+     "role": "listed"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_247e67bfe81a4f06",
+   "projectedSlug": "md-fort-mchenry-national-monument-and-historic-shrine",
+   "targetSlug": "MD-baltimore-fort-mchenry",
+   "name": "Fort McHenry National Monument & Historic Shrine",
+   "town": "Baltimore",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "NPS unit — ★ THEME: military (double weight). 1814 defense and the anthem; Civil War layer as a prison for Confederate sympathizers and political prisoners",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 179,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_27014e2c466bb1ec",
+   "projectedSlug": "md-hampton-mansion",
+   "targetSlug": null,
+   "name": "Hampton Mansion",
+   "town": "Towson",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 325,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_27d8a7000cb27c21",
+   "projectedSlug": "md-chesapeake-bay-maritime-museum",
+   "targetSlug": null,
+   "name": "Chesapeake Bay Maritime Museum",
+   "town": "St. Michaels",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Museum — working waterfront, skipjacks, 1879 Hooper Strait Lighthouse",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 226,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_27ed420764520f0c",
+   "projectedSlug": "md-casselman-river-bridge-state-park",
+   "targetSlug": null,
+   "name": "Casselman River Bridge State Park",
+   "town": "Grantsville",
+   "county": "Garrett",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "State park — 1813 National Road stone arch bridge",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 243,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_290df51cca6cbf78",
+   "projectedSlug": "md-greenbelt-museum",
+   "targetSlug": null,
+   "name": "Greenbelt Museum",
+   "town": "Greenbelt",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Museum — 1937 New Deal greenbelt town. Labor/New Deal ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 202,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_32ce416f559885f1",
+   "projectedSlug": "md-united-states-naval-academy",
+   "targetSlug": null,
+   "name": "United States Naval Academy",
+   "town": "Annapolis",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Public tours — ★ THEME: military",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 195,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_33718791417f3abb",
+   "projectedSlug": "md-edgar-allan-poe-house-and-westminster-burying-ground",
+   "targetSlug": null,
+   "name": "Edgar Allan Poe House & Westminster Burying Ground",
+   "town": "Baltimore",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Museum and public cemetery — ★ THEME: weird spot. Poe's home and grave; the \"Poe Toaster\" lore layer",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 185,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3e68133863a46faa",
+   "projectedSlug": "md-chestertown-historic-district-and-custom-house",
+   "targetSlug": null,
+   "name": "Chestertown Historic District & Custom House",
+   "town": "Chestertown",
+   "county": "Kent",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Public colonial port district — 1740s Custom House museum exhibits",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 227,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_40c15e9adb3ec10e",
+   "projectedSlug": "md-phoenix-shot-tower",
+   "targetSlug": null,
+   "name": "Phoenix Shot Tower",
+   "town": "Baltimore",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Museum tours — 1828 shot tower, tallest U.S. structure of its day; industrial ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 187,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_45631e404617f86c",
+   "projectedSlug": "md-george-washingtons-headquarters-cabin-and-canal-terminus",
+   "targetSlug": null,
+   "name": "George Washington's Headquarters cabin & canal terminus",
+   "town": "Cumberland",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Public site and visitor center — 1755 French and Indian War cabin; C&O Canal's western end",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 242,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4b0fd4ac9cab691e",
+   "projectedSlug": "md-uss-constellation-and-historic-ships-in-baltimore",
+   "targetSlug": null,
+   "name": "USS Constellation & Historic Ships in Baltimore",
+   "town": "Inner Harbor",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Museum ships — last sail-only warship built by the U.S. Navy (1854)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 181,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_54fb4ef895eab128",
+   "projectedSlug": "md-reynolds-tavern",
+   "targetSlug": null,
+   "name": "Reynolds Tavern",
+   "town": "Annapolis",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 322,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_562a2c0c50e77e36",
+   "projectedSlug": "md-monocacy-national-battlefield",
+   "targetSlug": null,
+   "name": "Monocacy National Battlefield",
+   "town": "Frederick",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "NPS unit — July 1864, \"the battle that saved Washington\"",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 236,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_56e4f91e5e2e12cd",
+   "projectedSlug": "md-maryland-state-house",
+   "targetSlug": "MD-annapolis-maryland-state-house",
+   "name": "Maryland State House",
+   "town": "Annapolis",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Public capitol — oldest state capitol in continuous legislative use; Washington resigned his commission here (1783)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 193,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    },
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 321,
+     "dialect": "desk-sweep-4",
+     "role": "listed"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_588d3bb3bbc178ac",
+   "projectedSlug": "md-linville-manor",
+   "targetSlug": null,
+   "name": "Linville Manor",
+   "town": "Upper Marlboro",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 314,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5b506026f8c4cd0a",
+   "projectedSlug": "md-maryland-house-of-correction-site",
+   "targetSlug": null,
+   "name": "Maryland House of Correction site",
+   "town": "Jessup",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "★ THEME: prison. 1879 state prison, closed 2007 and demolished; no known public anchor — flag",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 203,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5cffda7c610c922f",
+   "projectedSlug": "md-star-spangled-banner-flag-house",
+   "targetSlug": null,
+   "name": "Star-Spangled Banner Flag House",
+   "town": "Baltimore",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Museum — Mary Pickersgill's flag-making household",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 182,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6a371ffa6dfc7f1c",
+   "projectedSlug": "md-point-lookout-state-park-and-civil-war-museum",
+   "targetSlug": null,
+   "name": "Point Lookout State Park & Civil War Museum",
+   "town": "Scotland",
+   "county": "St. Mary's",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "State park — ★ THEME: prison (double weight). Largest Union prisoner-of-war camp (Camp Hoffman, ~52,000 Confederates held; ~4,000 died); earthworks and museum on the ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 212,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_729285427e7bef14",
+   "projectedSlug": "md-sotterley-plantation",
+   "targetSlug": null,
+   "name": "Sotterley Plantation",
+   "town": "Hollywood",
+   "county": "St. Mary's",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Museum — 1703 plantation with surviving slave cabin, enslaved history central",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 211,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_72e9d65bc0629fa9",
+   "projectedSlug": "md-hampton-national-historic-site",
+   "targetSlug": null,
+   "name": "Hampton National Historic Site",
+   "town": "Towson",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "NPS unit — Ridgely plantation, among the largest enslaved communities in Maryland",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 199,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_739961d14696307f",
+   "projectedSlug": "md-c-and-o-canal-national-historical-park-williamsport-and-paw-paw-tunnel",
+   "targetSlug": null,
+   "name": "C&O Canal National Historical Park — Williamsport & Paw Paw Tunnel",
+   "town": "",
+   "county": "Washington/Allegany",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "NPS unit — canal town, locks, and the 3,118-foot tunnel. Labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 239,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7e4c6430afd7a442",
+   "projectedSlug": "md-middleton-tavern",
+   "targetSlug": null,
+   "name": "Middleton Tavern",
+   "town": "Annapolis",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 327,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8722996b1ac475bf",
+   "projectedSlug": "md-atlantic-hotel",
+   "targetSlug": null,
+   "name": "Atlantic Hotel",
+   "town": "Berlin",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 323,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_87d17b9220b07243",
+   "projectedSlug": "md-st-clements-island-state-park",
+   "targetSlug": null,
+   "name": "St. Clement's Island State Park",
+   "town": "Coltons Point",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "State park (boat access) — March 1634 landing of the first Maryland colonists",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 210,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_887f1db3787e7e8d",
+   "projectedSlug": "md-dr-samuel-a-mudd-house-museum",
+   "targetSlug": null,
+   "name": "Dr. Samuel A. Mudd House Museum",
+   "town": "Waldorf",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Museum — the doctor who set Booth's broken leg",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 216,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_89074757fbfde9ae",
+   "projectedSlug": "md-colonial-annapolis-historic-district-and-william-paca-house",
+   "targetSlug": null,
+   "name": "Colonial Annapolis Historic District & William Paca House",
+   "town": "Annapolis",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Museum house and NHL district — signer's house and garden",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 194,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8c35c8d509c4e2ef",
+   "projectedSlug": "md-fort-mchenry",
+   "targetSlug": null,
+   "name": "Fort McHenry",
+   "town": "Baltimore",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "military — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 319,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_95227524d94c716d",
+   "projectedSlug": "md-national-museum-of-civil-war-medicine",
+   "targetSlug": null,
+   "name": "National Museum of Civil War Medicine",
+   "town": "Frederick",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Museum — medical and hospital history of the war",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 237,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_9553b253ff498245",
+   "projectedSlug": "md-fort-frederick-state-park",
+   "targetSlug": null,
+   "name": "Fort Frederick State Park",
+   "town": "Big Pool",
+   "county": "Washington",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "State park — ★ THEME: military. 1756 stone fort of the French and Indian War, restored",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 238,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_98a7bd2e34265b39",
+   "projectedSlug": "md-piney-point-lighthouse-museum",
+   "targetSlug": null,
+   "name": "Piney Point Lighthouse Museum",
+   "town": "Piney Point",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "County museum — 1836 lighthouse and Potomac maritime ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 217,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_9a128d72114d1083",
+   "projectedSlug": "md-hager-house",
+   "targetSlug": null,
+   "name": "Hager House",
+   "town": "Hagerstown",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 318,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_9b30c21a6ad5e611",
+   "projectedSlug": "md-b-and-o-railroad-station-museum",
+   "targetSlug": null,
+   "name": "B&O Railroad Station Museum",
+   "town": "Ellicott City",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "County museum — oldest surviving railroad station in the U.S. (1831). Labor/rail ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 198,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a54575784f0af496",
+   "projectedSlug": "md-westminster-burying-ground",
+   "targetSlug": null,
+   "name": "Westminster Burying Ground",
+   "town": "Baltimore",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "cemetery — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 316,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a8e20f1cdf198565",
+   "projectedSlug": "md-maryland-center-for-history-and-culture",
+   "targetSlug": null,
+   "name": "Maryland Center for History and Culture",
+   "town": "Baltimore",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Museum (Maryland Historical Society) — original Star-Spangled Banner manuscript",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 186,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_aa13dcec280ced3c",
+   "projectedSlug": "md-uss-constellation",
+   "targetSlug": null,
+   "name": "USS Constellation",
+   "town": "Baltimore",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "military — anchor: museum open to the public. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 317,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b123da1a51293600",
+   "projectedSlug": "md-banneker-douglass-tubman-museum",
+   "targetSlug": null,
+   "name": "Banneker-Douglass-Tubman Museum",
+   "town": "Annapolis",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "State museum of African American heritage in the former Mt. Moriah AME Church. Civil-rights ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 196,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b3579b05db4f1171",
+   "projectedSlug": "md-dr-mudd-house",
+   "targetSlug": null,
+   "name": "Dr. Mudd House",
+   "town": "Waldorf",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 320,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b52fa71aabd39683",
+   "projectedSlug": "md-maryland-inn",
+   "targetSlug": null,
+   "name": "Maryland Inn",
+   "town": "Annapolis",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 315,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b91c6ecb622ab321",
+   "projectedSlug": "md-benjamin-banneker-historical-park-and-museum",
+   "targetSlug": null,
+   "name": "Benjamin Banneker Historical Park & Museum",
+   "town": "Oella",
+   "county": "Baltimore",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "County museum — Banneker's farmstead and reconstructed cabin",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 197,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_bd7943a49ccd9c92",
+   "projectedSlug": "md-riversdale-house-museum",
+   "targetSlug": null,
+   "name": "Riversdale House Museum",
+   "town": "Riverdale Park",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "County museum — Calvert plantation house, enslaved community interpreted",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 201,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_be0e8db988c34d1d",
+   "projectedSlug": "md-historic-st-marys-city",
+   "targetSlug": null,
+   "name": "Historic St. Mary's City",
+   "town": "St. Mary's City",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "State living-history museum — Maryland's first capital (1634), Ark and Dove ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 209,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c456fea0ce8b3aac",
+   "projectedSlug": "md-kitty-knight-house",
+   "targetSlug": null,
+   "name": "Kitty Knight House",
+   "town": "Georgetown",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "house — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 324,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cb65c77944fa3ac1",
+   "projectedSlug": "md-bucktown-village-store",
+   "targetSlug": null,
+   "name": "Bucktown Village Store",
+   "town": "Bucktown",
+   "county": "Dorchester",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Historic store on the Tubman Byway — site of Tubman's first act of defiance; exterior/visits by arrangement, verify. Civil-rights ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 224,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cf2e56daa0e9be73",
+   "projectedSlug": "md-ocean-city-life-saving-station-museum",
+   "targetSlug": null,
+   "name": "Ocean City Life-Saving Station Museum",
+   "town": "Ocean City",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Museum — 1891 life-saving station",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 228,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d268e711a832535d",
+   "projectedSlug": "md-harriet-tubman-underground-railroad-national-historical-park-and-visitor-center",
+   "targetSlug": null,
+   "name": "Harriet Tubman Underground Railroad National Historical Park & Visitor Center",
+   "town": "Church Creek",
+   "county": "Dorchester",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "NPS/state visitor center — civil-rights ground (top priority): Tubman's Dorchester County landscape, Blackwater country",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 223,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d990e79a3a246ff1",
+   "projectedSlug": "md-b-and-o-railroad-museum",
+   "targetSlug": null,
+   "name": "B&O Railroad Museum",
+   "town": "Baltimore",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Museum — birthplace of American railroading (1827); labor and strike history. Labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 180,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e033ae8f155d0908",
+   "projectedSlug": "md-reginald-f-lewis-museum",
+   "targetSlug": null,
+   "name": "Reginald F. Lewis Museum",
+   "town": "Baltimore",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "State museum of Maryland African American history. Civil-rights ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 184,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e0454a719e8777da",
+   "projectedSlug": "md-surratt-house-museum",
+   "targetSlug": null,
+   "name": "Surratt House Museum",
+   "town": "Clinton",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "County museum — Mary Surratt's tavern, Lincoln assassination conspiracy ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 215,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e22595fdd59ea0de",
+   "projectedSlug": "md-baltimore-county-almshouse",
+   "targetSlug": null,
+   "name": "Baltimore County Almshouse",
+   "town": "Cockeysville",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "other — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 328,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e2d4f155402355ce",
+   "projectedSlug": "md-south-mountain-state-battlefield-and-washington-monument-state-park",
+   "targetSlug": null,
+   "name": "South Mountain State Battlefield & Washington Monument State Park",
+   "town": "Boonsboro area",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "State parks — September 1862 passes; first monument to George Washington (1827)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 240,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e36386c51243fb1c",
+   "projectedSlug": "md-frederick-douglass-birthplace-site-tuckahoe-creek",
+   "targetSlug": null,
+   "name": "Frederick Douglass birthplace site (Tuckahoe Creek)",
+   "town": "near Cordova",
+   "county": "Talbot",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Civil-rights ground. Roadside marker only; birthplace ground is private — flag",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 229,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e4f32c7ec9599632",
+   "projectedSlug": "md-catoctin-furnace-village",
+   "targetSlug": null,
+   "name": "Catoctin Furnace Village",
+   "town": "Thurmont",
+   "county": "Frederick",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "State park village site — iron furnace worked by enslaved and immigrant labor; African American cemetery. Labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 241,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e96dfb4bfb9d3bb0",
+   "projectedSlug": "md-frederick-douglass-isaac-myers-maritime-park",
+   "targetSlug": null,
+   "name": "Frederick Douglass–Isaac Myers Maritime Park",
+   "town": "Baltimore (Fells Point)",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Museum — Douglass worked these shipyards as an enslaved caulker; first Black-owned shipyard ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 183,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ec70683ca2d4811a",
+   "projectedSlug": "md-point-lookout-lighthouse-and-state-park",
+   "targetSlug": null,
+   "name": "Point Lookout Lighthouse and State Park",
+   "town": "Scotland",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "military — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 311,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f601458d1f5f47aa",
+   "projectedSlug": "md-thomas-stone-national-historic-site",
+   "targetSlug": null,
+   "name": "Thomas Stone National Historic Site",
+   "town": "Port Tobacco",
+   "county": "",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "NPS unit — signer's plantation (Haberdeventure)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 213,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f75d27d3999f1131",
+   "projectedSlug": "md-poe-house",
+   "targetSlug": null,
+   "name": "Poe House",
+   "town": "Baltimore",
+   "county": "Maryland",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 326,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f8d90a058b2a01a4",
+   "projectedSlug": "md-stanley-institute",
+   "targetSlug": null,
+   "name": "Stanley Institute",
+   "town": "near Cambridge",
+   "county": "Dorchester",
+   "state": "MD",
+   "tier": null,
+   "anchorPosture": "Historic Black one-room school (1867), community museum — verify program. Civil-rights ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 225,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
    "id": "lq_053ce05a91c73780",
    "projectedSlug": "de-zwaanendael-museum",
    "targetSlug": null,
@@ -179646,8 +179646,8 @@
   "byQueueState": {
    "checked-dead": 23,
    "held": 27,
-   "published": 45,
-   "queued": 6935
+   "published": 47,
+   "queued": 6933
   },
   "byState": {
    "AK": 121,
