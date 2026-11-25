@@ -56,3 +56,5 @@ No visitor contribution prompt for historic cave or archaeological ground.
 - Official register listing URL:
 - Governing CFR/agency specification:
 - Official manager/operator: National Park Service, Mammoth Cave National Park
+
+Adopted first photograph: The historic entrance to Mammoth Cave, photographed by Jet Lowe in December 1986 — the dark opening beneath the limestone overhang, with steps and railings descending toward it. The entrance as the survey found it, not a portrait of Stephen Bishop. (Jet Lowe, December 1986. Historic American Engineering Record, HAER KY-18-1. Library of Congress, Prints and Photographs Division, ky0272.photos.070453p. No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.) Display file derived from the Library of Congress master; no credit or copy is burned into the image.

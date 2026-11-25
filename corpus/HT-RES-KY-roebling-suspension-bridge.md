@@ -56,3 +56,5 @@ Anyone already at the ordinary Covington public approach may optionally report t
 - Official register listing URL: https://npgallery.nps.gov/AssetDetail/NRIS/75000786
 - Governing CFR/agency specification:
 - Official manager/operator: Kentucky Transportation Cabinet District 6 for the posted access work [1–2]
+
+Adopted first photograph: Looking north through the Covington portal of the John A. Roebling Suspension Bridge, July 1982 — Jack E. Boucher's barrel shot between the masonry approach walls, the stone south tower ahead. (Jack E. Boucher, July 1982. Historic American Engineering Record, HAER OH-28-5. Library of Congress, Prints and Photographs Division, oh0104.photos.127312p. No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.) Display file derived from the Library of Congress master; no credit or copy is burned into the image.
