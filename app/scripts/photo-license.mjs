@@ -105,6 +105,27 @@ const reviewedLoc = new Map([
     "https://commons.wikimedia.org/wiki/File:St._Mary%27s_Cathedral,_Natchez,_Miss._%288080223546%29.jpg",
     "No known copyright restrictions",
   ]],
+  ["AK-independence-mine", [
+    "https://www.loc.gov/item/ak0011/", federal,
+  ]],
+  ["AK-skagway-1915", [
+    "https://www.loc.gov/item/2007661322/", noKnown,
+  ]],
+  ["CT-farmington-first-church", [
+    "https://www.loc.gov/item/ct0272/", federal,
+  ]],
+  ["CT-hartford-mark-twain-house", [
+    "https://www.loc.gov/item/ct0332/", federal,
+  ]],
+  ["DE-newcastle-old-arsenal", [
+    "https://www.loc.gov/item/de0078/", federal,
+  ]],
+  ["IN-madison-shrewsbury-house", [
+    "https://www.loc.gov/item/in0131/", federal,
+  ]],
+  ["ME-portland-head-light", [
+    "https://www.loc.gov/item/me0026/", federal,
+  ]],
 ]);
 const centraliaSource = "https://commons.wikimedia.org/wiki/File:A421,_Centralia,_Pennsylvania,_USA,_Route_61,_abandoned_section_above_coal_mine_fire,_2016.jpg";
 
