@@ -4897,6 +4897,36 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-MA-boston-old-state-house",
+   "Slug": "MA-boston-old-state-house",
+   "Entry": "HT-RES-MA-boston-old-state-house — Boston: the room where the argument started",
+   "Town": "Boston",
+   "State": "Massachusetts",
+   "Entry URL": "https://onoldground.com/sites/MA-boston-old-state-house",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-MI-mackinac-island-fort-mackinac",
+   "Slug": "MI-mackinac-island-fort-mackinac",
+   "Entry": "HT-RES-MI-mackinac-island-fort-mackinac — Mackinac Island: the fort above the straits",
+   "Town": "Mackinac Island",
+   "State": "Michigan",
+   "Entry URL": "https://onoldground.com/sites/MI-mackinac-island-fort-mackinac",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-MN-grand-marais-lighthouse-keepers",
    "Slug": "MN-grand-marais-lighthouse-keepers",
    "Entry": "Grand Marais — A light to come in by",
@@ -12143,6 +12173,6 @@
   }
  ],
  "counts": {
-  "items": 809
+  "items": 811
  }
 }
