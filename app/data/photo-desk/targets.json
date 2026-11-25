@@ -1,6 +1,6 @@
 {
- "commit": "846f064b6326e4170af237256b7cfa8fb399d9de",
- "catalogCount": 815,
+ "commit": "441314f8676e06bea29315ca8b175a3c549962bd",
+ "catalogCount": 817,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -29778,6 +29778,148 @@
      {
       "key": "CFR/spec",
       "value": "**"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NH-portsmouth-wentworth-coolidge-mansion",
+   "slug": "NH-portsmouth-wentworth-coolidge-mansion",
+   "title": "HT-RES-NH-portsmouth-wentworth-coolidge-mansion — Portsmouth: the governor’s house at Little Harbor",
+   "town": "Portsmouth",
+   "state": "New Hampshire",
+   "stateCode": "NH",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NH-portsmouth-wentworth-coolidge-mansion — Portsmouth: the governor’s house at Little Harbor",
+   "stableName": "** Wentworth–Coolidge Mansion State Historic Site",
+   "address": "",
+   "locator": {
+    "stableName": "** Wentworth–Coolidge Mansion State Historic Site",
+    "address": "",
+    "latitude": "**",
+    "longitude": "**",
+    "coordinateSource": "** Blank pending two-source agreement within approximately 10 m",
+    "nrhp": "** NRIS 68000011",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "** LOC 2016808927; LC-DIG-det-4a09274",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Portsmouth"
+     },
+     {
+      "key": "Prospective stable ID / slug",
+      "value": "** `NH-portsmouth-wentworth-coolidge-mansion`"
+     },
+     {
+      "key": "Historic location",
+      "value": "** Little Harbor, Portsmouth, Rockingham County, New Hampshire"
+     },
+     {
+      "key": "Public anchor",
+      "value": "** Official parking area and opened grounds at 375 Little Harbor Road; staffed mansion entrance when the interior is seasonally open"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "** Open lawn, maintained state-site grounds, Little Harbor Loop Trail, and the operator’s opened interior route; excludes closed rooms, staff/support areas, preservation work, neighboring parcels, docks, and unmaintained shoreline edges"
+     },
+     {
+      "key": "Visitor access check",
+      "value": "** Confirm mansion season, tour availability, fees, parking, trail/weather conditions, and temporary closures with New Hampshire State Parks"
+     },
+     {
+      "key": "Visitor photo subject",
+      "value": "** Mansion exterior and connected wings from the public lawn; interior only when open and photography is permitted"
+     },
+     {
+      "key": "Owner / operator",
+      "value": "** State of New Hampshire, Bureau of Historic Sites / New Hampshire State Parks"
+     },
+     {
+      "key": "Hunts",
+      "value": "** DISABLED"
+     },
+     {
+      "key": "Photo Points",
+      "value": "** None"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NH-portsmouth-wheelwright-house-strawbery-banke",
+   "slug": "NH-portsmouth-wheelwright-house-strawbery-banke",
+   "title": "HT-RES-NH-portsmouth-wheelwright-house-strawbery-banke — Portsmouth: the house with two names",
+   "town": "Portsmouth",
+   "state": "New Hampshire",
+   "stateCode": "NH",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NH-portsmouth-wheelwright-house-strawbery-banke — Portsmouth: the house with two names",
+   "stableName": "** Wheelwright House at Strawbery Banke Museum",
+   "address": "",
+   "locator": {
+    "stableName": "** Wheelwright House at Strawbery Banke Museum",
+    "address": "",
+    "latitude": "**",
+    "longitude": "**",
+    "coordinateSource": "** Blank pending two-source agreement within approximately 10 m",
+    "nrhp": "** Strawbery Banke Historic District, NRIS 75000236",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "** HABS NH-85; `nh0091.photos.105886p`; photograph NH-85-1",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Portsmouth"
+     },
+     {
+      "key": "Prospective stable ID / slug",
+      "value": "** `NH-portsmouth-wheelwright-house-strawbery-banke`"
+     },
+     {
+      "key": "Archival alternate name",
+      "value": "** John Clark House; HABS NH-85"
+     },
+     {
+      "key": "Historic location",
+      "value": "** 95 Jefferson Street, Puddle Dock neighborhood, Portsmouth, Rockingham County, New Hampshire"
+     },
+     {
+      "key": "Public anchor",
+      "value": "** Staffed Strawbery Banke Museum visitor entrance and ticketed public route"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "** Opened museum paths, Wheelwright House rooms when included on the public route, and designated interpretation areas; excludes closed houses, staff/storage space, exhibit barriers, active hearth work zones, and neighboring parcels"
+     },
+     {
+      "key": "Visitor access check",
+      "value": "** Confirm museum season, admission or event ticket, Wheelwright House opening, foodways demonstration staffing, accessibility conditions, and photography rules"
+     },
+     {
+      "key": "Visitor photo subject",
+      "value": "** Wheelwright House exterior from an opened museum path; interior or demonstration only when permitted and safe"
+     },
+     {
+      "key": "Owner / operator",
+      "value": "** Strawbery Banke Museum"
+     },
+     {
+      "key": "Hunts",
+      "value": "** DISABLED"
+     },
+     {
+      "key": "Photo Points",
+      "value": "** None"
      }
     ]
    }

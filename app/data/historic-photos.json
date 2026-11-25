@@ -5130,5 +5130,63 @@
    "targetSlug": "MI-mackinac-island-fort-mackinac",
    "targetId": "HT-MI-mackinac-island-fort-mackinac"
   }
+ ],
+ "NH-portsmouth-wentworth-coolidge-mansion": [
+  {
+   "src": "/photos/nh-portsmouth-wentworth-coolidge-mansion-f93581761e.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": null,
+   "title": "Wentworth–Coolidge Mansion at Little Harbor, c. 1900.",
+   "caption": "The Wentworth–Coolidge Mansion at Little Harbor, Portsmouth — the grown-together saltbox, ell, and governor’s wing. Detroit Publishing Co. glass negative, circa 1900. LC-DIG-det-4a09274.",
+   "alt": "Black-and-white photograph of the many-gabled Wentworth–Coolidge Mansion behind trees and lawn at Little Harbor, Portsmouth.",
+   "credit": "Detroit Publishing Co., c. 1900 — Library of Congress, Prints & Photographs Division, LC-DIG-det-4a09274",
+   "license": "No known restrictions on publication",
+   "licenseUrl": "https://www.loc.gov/item/2016808927/",
+   "sourceName": "Library of Congress, Prints & Photographs Division",
+   "sourceUrl": "https://www.loc.gov/item/2016808927/",
+   "imageUrl": "https://www.loc.gov/item/2016808927/",
+   "sha256": "f93581761e0c90d664d5eb036f80ceadf1fdd6d0be295fe80e973040506ed863",
+   "width": 1024,
+   "height": 812,
+   "dateNote": "Circa 1900 (LOC catalog).",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the multi-wing mansion at Little Harbor with the original Detroit caption in the negative — the exact house, no replica.",
+   "rightsReview": "LOC item 2016808927 rights advisory, verified on the item record Nov 25, 2026: \"No known restrictions on publication.\"",
+   "adoptedAt": "2026-11-25T14:35:00Z",
+   "rowId": "cce185647d",
+   "targetSlug": "NH-portsmouth-wentworth-coolidge-mansion",
+   "targetId": "HT-NH-portsmouth-wentworth-coolidge-mansion"
+  }
+ ],
+ "NH-portsmouth-wheelwright-house-strawbery-banke": [
+  {
+   "src": "/photos/nh-portsmouth-wheelwright-house-strawbery-banke-ddd15f6d58.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 1961,
+   "title": "Wheelwright House (HABS: John Clark House), south front, December 1961.",
+   "caption": "The house Strawbery Banke interprets as Wheelwright House, photographed by Jack E. Boucher for HABS in December 1961, before restoration — the survey recorded it as the John Clark House. HABS NH-85.",
+   "alt": "Black-and-white photograph of a weathered clapboard house on a Portsmouth side street, photographed in 1961 before restoration.",
+   "credit": "Jack E. Boucher, December 1961 — Library of Congress, Historic American Buildings Survey, HABS NH-85",
+   "license": "No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.",
+   "licenseUrl": "https://www.loc.gov/pictures/item/nh0091/",
+   "sourceName": "Library of Congress, Historic American Buildings Survey",
+   "sourceUrl": "https://www.loc.gov/pictures/item/nh0091/",
+   "imageUrl": "https://www.loc.gov/pictures/item/nh0091/",
+   "sha256": "ddd15f6d5889780b4386787345de16f2238a3ecbfb183bc620396c8d406c1992",
+   "width": 1024,
+   "height": 1386,
+   "dateNote": "December 1961 (HABS record).",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the HABS NH-85-1 south front — the surviving clapboard house on its street corner, pre-restoration condition; the exact building.",
+   "rightsReview": "LOC HABS item nh0091 rights advisory, verified on the item record Nov 25, 2026: the federal HABS advisory; the frame is the original 1961 HABS photograph by Jack E. Boucher.",
+   "adoptedAt": "2026-11-25T14:35:00Z",
+   "rowId": "0ed595e27c",
+   "targetSlug": "NH-portsmouth-wheelwright-house-strawbery-banke",
+   "targetId": "HT-NH-portsmouth-wheelwright-house-strawbery-banke"
+  }
  ]
 }

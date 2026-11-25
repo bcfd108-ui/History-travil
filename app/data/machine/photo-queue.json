@@ -8437,6 +8437,36 @@
    "Access decision": "The dossier provides no current, ordinary public viewpoint of this subject."
   },
   {
+   "Entry ID": "HT-NH-portsmouth-wentworth-coolidge-mansion",
+   "Slug": "NH-portsmouth-wentworth-coolidge-mansion",
+   "Entry": "HT-RES-NH-portsmouth-wentworth-coolidge-mansion — Portsmouth: the governor’s house at Little Harbor",
+   "Town": "Portsmouth",
+   "State": "New Hampshire",
+   "Entry URL": "https://onoldground.com/sites/NH-portsmouth-wentworth-coolidge-mansion",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-NH-portsmouth-wheelwright-house-strawbery-banke",
+   "Slug": "NH-portsmouth-wheelwright-house-strawbery-banke",
+   "Entry": "HT-RES-NH-portsmouth-wheelwright-house-strawbery-banke — Portsmouth: the house with two names",
+   "Town": "Portsmouth",
+   "State": "New Hampshire",
+   "Entry URL": "https://onoldground.com/sites/NH-portsmouth-wheelwright-house-strawbery-banke",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-NM-acoma-public-history",
    "Slug": "NM-acoma-public-history",
    "Entry": "Acoma public history: authorship, preservation and return",
@@ -12173,6 +12203,6 @@
   }
  ],
  "counts": {
-  "items": 811
+  "items": 813
  }
 }
