@@ -81,3 +81,5 @@ Field-only candidate: identify one exterior working-town feature from a marked S
 | Official register listing URL |  |
 | Governing CFR / agency specification |  |
 | Official manager / operator | Stuhr Museum (public interpretation) [1,2] |
+
+Adopted first photograph: Inside the Grand Island railroad depot, October 1938 — a man stands at the ticket window reaching toward the wall clock; the platform scale, tiled wall, and checkered floor of the waiting room around him. The record names no one in the frame. (John Vachon, October 1938. The New York Public Library, Miriam and Ira D. Wallach Division of Art, Prints and Photographs, Farm Security Administration Photographs, Image ID 59125237. Public domain in the United States.) Display file derived from the Library's full-size delivery; no credit or copy is burned into the image.

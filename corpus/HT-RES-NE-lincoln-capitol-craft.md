@@ -84,3 +84,5 @@ Candidate photo find, subject to field check — a visible joint between the por
 | Official register listing URL | https://npgallery.nps.gov/NRHP/GetAsset/746e84de-4657-4f0f-96d6-e8004a82cd36 |
 | Governing CFR / agency specification | State Patrol security rules and Office of the Capitol Commission use rules [9] |
 | Official manager / operator | Office of the Capitol Commission [11] |
+
+Adopted first photograph: The finished Nebraska Capitol tower, October 1938 — John Vachon's view past three strands of fence wire: the vertical stone ribs, the domed crown, and the Sower on top. (John Vachon, October 1938. Library of Congress, Prints and Photographs Division, Farm Security Administration/Office of War Information Black-and-White Negatives, LC-DIG-fsa-8a03815. Public domain.) Display file derived from the Library of Congress master; no credit or copy is burned into the image.
