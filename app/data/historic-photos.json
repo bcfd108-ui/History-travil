@@ -4147,5 +4147,33 @@
    "targetId": "HT-FL-fort-matanzas",
    "eraRole": "then"
   }
+ ],
+ "AZ-yuma-river-crossing-workers": [
+  {
+   "src": "/photos/az-yuma-river-crossing-workers-861ba60c32.webp",
+   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Warehouse_yumaquartermasterdepot.jpg",
+   "alt": "The tan, gable-roofed depot storehouse across a green lawn, framed by trees.",
+   "caption": "The historic Yuma Quartermaster Depot storehouse, photographed in 2005. River steamboats brought supplies to this depot for redistribution to Army outposts.",
+   "credit": "Ed Snook, April 2005. Wikimedia Commons, Warehouse yumaquartermasterdepot.jpg (18500923). Public domain.",
+   "license": "Public domain",
+   "licenseUrl": "https://commons.wikimedia.org/wiki/File:Warehouse_yumaquartermasterdepot.jpg",
+   "sourceName": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Warehouse_yumaquartermasterdepot.jpg",
+   "year": 2005,
+   "width": 1024,
+   "height": 1316,
+   "dateNote": "Photographed between 1920 and 1926.",
+   "sha256": "861ba60c32fcbc0bd7b1cb618616615b29ee64738dea32ac067de1ea306fc8e2",
+   "medium": "photograph",
+   "groundReview": "Desk eye-check Nov 24, 2026 against Fred's batch 005 pixel record: the tan, gable-roofed depot storehouse across a green lawn, tree-framed, with a porch-fronted building at right — the surviving Yuma Quartermaster Depot warehouse, matching the Commons file record for Warehouse_yumaquartermasterdepot.jpg.",
+   "rightsReview": "Wikimedia Commons file record (page ID 18500923): photographed and uploaded by Ed Snook (Edinyuma), April 2005, released under a public-domain dedication confirmed through the Commons API metadata. Desk-verified Nov 24, 2026.",
+   "rowId": "3deddb8b63",
+   "targetSlug": "AZ-yuma-river-crossing-workers",
+   "targetId": "HT-AZ-yuma-river-crossing-workers",
+   "eraRole": "now",
+   "roleLabel": "today",
+   "title": "The historic Yuma Quartermaster Depot storehouse, photographed in 2005. River steamboats brought supplies to this depot for redistribution to Army outposts.",
+   "adoptedAt": "2026-11-25T05:19:52Z"
+  }
  ]
 }
