@@ -9783,11 +9783,35 @@
    "corpusFile": "HT-RES-MI-mackinac-island-fort-mackinac.md",
    "queueState": "queued",
    "attempts": []
+  },
+  {
+   "id": "vq_NH-portsmouth-wentworth-coolidge-mansion",
+   "slug": "NH-portsmouth-wentworth-coolidge-mansion",
+   "name": "HT-RES-NH-portsmouth-wentworth-coolidge-mansion — Portsmouth: the governor’s house at Little Harbor",
+   "town": "Portsmouth",
+   "state": "NH",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NH-portsmouth-wentworth-coolidge-mansion.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NH-portsmouth-wheelwright-house-strawbery-banke",
+   "slug": "NH-portsmouth-wheelwright-house-strawbery-banke",
+   "name": "HT-RES-NH-portsmouth-wheelwright-house-strawbery-banke — Portsmouth: the house with two names",
+   "town": "Portsmouth",
+   "state": "NH",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NH-portsmouth-wheelwright-house-strawbery-banke.md",
+   "queueState": "queued",
+   "attempts": []
   }
  ],
  "counts": {
-  "items": 815,
-  "dated": 574,
+  "items": 817,
+  "dated": 576,
   "unrecorded": 241
  }
 }

@@ -1,7 +1,7 @@
 {
   "generatedFrom": "corpus dossiers (~/workspace/history-travel/corpus + home-bench root)",
-  "filesSeen": 822,
-  "sitesConverted": 815,
+  "filesSeen": 824,
+  "sitesConverted": 817,
   "perState": {
     "AL": 10,
     "AK": 4,
@@ -30,6 +30,7 @@
     "MT": 24,
     "NE": 20,
     "NV": 24,
+    "NH": 2,
     "NM": 24,
     "NY": 10,
     "NC": 7,
@@ -50,12 +51,12 @@
     "locatorFields": 88,
     "printedPair": 10
   },
-  "withAnyLocatorId": 630,
-  "withNrhp": 341,
+  "withAnyLocatorId": 632,
+  "withNrhp": 343,
   "withHmdb": 82,
-  "blankCoordinates": 717,
+  "blankCoordinates": 719,
   "reflection": 289,
-  "view": 526,
+  "view": 528,
   "reflectionSignals": {
     "slug": 47,
     "candSec": 194,
@@ -72,10 +73,10 @@
   "sec8FieldLinesDropped": 51,
   "candidateFindsSurfaced": 19,
   "sitesWithCandidates": 8,
-  "townsRecorded": 659,
+  "townsRecorded": 661,
   "emptyAccess": 4,
   "emptyStory": 0,
-  "unmappedSectionsCarried": 248,
+  "unmappedSectionsCarried": 250,
   "collisions": [
     "bayhorse: corpus (R02) vs corpus",
     "cataldo-mission: corpus (R02) vs corpus",

@@ -15,6 +15,12 @@ const reviewedLoc = new Map([
   ["MD-baltimore-fort-mchenry", [
     "https://www.loc.gov/item/md0905/", federal,
   ]],
+  ["NH-portsmouth-wentworth-coolidge-mansion", [
+    "https://www.loc.gov/item/2016808927/", noKnown,
+  ]],
+  ["NH-portsmouth-wheelwright-house-strawbery-banke", [
+    "https://www.loc.gov/pictures/item/nh0091/", federal,
+  ]],
   ["ID-soda-springs-hudspeth-cutoff", [
     "https://www.loc.gov/item/95514248/", noKnown,
   ]],

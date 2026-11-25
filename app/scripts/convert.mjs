@@ -33,7 +33,7 @@ const STATE_NAMES = {
   AL: "Alabama", TN: "Tennessee", KY: "Kentucky", GA: "Georgia", FL: "Florida", IL: "Illinois", SC: "South Carolina", NC: "North Carolina", PA: "Pennsylvania", NY: "New York",
   AK: "Alaska", CT: "Connecticut", DE: "Delaware", IN: "Indiana", ME: "Maine",
   MD: "Maryland",
-  MA: "Massachusetts", MI: "Michigan",
+  MA: "Massachusetts", MI: "Michigan", NH: "New Hampshire",
 };
 // Uncoded (home-bench) slugs: slug -> [town, stateCode]
 const LOCAL = {
