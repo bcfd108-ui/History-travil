@@ -2146,9 +2146,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Fort Hall · 1834 trading post Fort Hall Idaho photograph; Archive search — Fort Hall · 1834 trading post Fort Hall Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Fort Hall · 1834 trading post (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AFort_Hall%2C_Snake_River_above_American_Falls%2C_near_Pocatello%2C_Idaho%2C_1849_%28AL%2BCA_1477%29.jpg | https://commons.wikimedia.org/wiki/File:Fort_Hall,_Snake_River_above_American_Falls,_near_Pocatello,_Idaho,_1849_(AL%2BCA_1477).jpg | https://archives.lib.byu.edu/subjects/16196 | https://npgallery.nps.gov/AssetDetail/NRIS/66000306",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -2311,9 +2311,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:A-17._Massacre_Rocks_State_Park_(west_of_American_Falls)_on_the_California_and_Oregon_National_Historic_Trails_(2007)_(25e04de9-accc-487f-a82a-95efa4df712f).jpg",
    "Why photo is needed": "HOLD 07a114fa02 — Individual subject and location evidence require desk sign-off. Compare the source item with “HT-RES-ID — Massacre Rocks” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -2386,9 +2386,9 @@
    "What was searched": "Commons file search — site:commons.wikimedia.org/wiki/File: Sheep Rock/Soda Point Interpretive Site Soda Springs Idaho photograph; Archive search — Sheep Rock/Soda Point Interpretive Site Soda Springs Idaho historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Sheep Rock/Soda Point Interpretive Site (request failed); Candidate records — https://www.nps.gov/places/sheep-rock-soda-point-interpretive-site.htm | https://www.nps.gov/orgs/1453/upload/National-Historic-Trails-Auto-Tour-Route-Interpretive-Guide-Across-Idaho.pdf",
    "Why photo is needed": "Desk review pending. Search returned leads, but no image has completed both the ground and rights check.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {

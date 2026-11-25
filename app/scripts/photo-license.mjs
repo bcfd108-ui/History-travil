@@ -3,6 +3,9 @@
 const noKnown = "No known restrictions on publication";
 const federal = "No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.";
 const reviewedLoc = new Map([
+  ["ID-soda-springs-hudspeth-cutoff", [
+    "https://www.loc.gov/item/95514248/", noKnown,
+  ]],
   ["PA-gettysburg-national-military-park", [
     "https://www.loc.gov/pictures/item/2018670709/",
     noKnown + '. For information, see "Civil war photographs, 1861-1865,"',
