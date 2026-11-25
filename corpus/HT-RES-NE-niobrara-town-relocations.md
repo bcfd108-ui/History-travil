@@ -87,3 +87,5 @@ Reflection only. Read from the present-day public library or remotely. Answer ke
 | Official register listing URL | |
 | Governing CFR / agency specification | |
 | Official manager / operator | Village of Niobrara and Niobrara Public Library for the reading venue [1,8] |
+
+Adopted first photograph: The former Knox County Courthouse and Odd Fellows lodge on Niobrara's second townsite, photographed by Sam Amato in October 1977. The federal survey records the building as vacant, and it was demolished in 1978 — a building left behind by the town's second relocation. (Sam Amato, October 1977. Historic American Buildings Survey, Library of Congress, Prints and Photographs Division, HABS NE-27-1. No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.) Display file derived from the Library of Congress master; no credit or copy is burned into the image.

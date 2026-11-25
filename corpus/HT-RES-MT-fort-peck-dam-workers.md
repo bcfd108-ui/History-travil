@@ -127,3 +127,5 @@ Research-only candidate: a documented worker-life passage paired with an actuall
 - Visitor boundary: admitted public museum interior only; no working dam, powerhouse, restricted property or water/shoreline extension.
 - Rights gate: interview reproduction and historical photograph HOLD.
 - Release state: local QC draft; conditional November gate with operator-copy conflict; no upload, contact, booking, approval or activation.
+
+Adopted first photograph: The spillway at the Fort Peck project under construction on September 11, 1936, in a U.S. Army Corps of Engineers aerial photograph — the repeated gate structure, the channel cut, and the river plain beyond. This is the spillway, not the main dam embankment. (Photographer unknown, September 11, 1936. Office of History, HQ, U.S. Army Corps of Engineers, Digital Visual Library 18867. Public domain.) Display file derived from the repository's full-resolution delivery; no credit or copy is burned into the image.

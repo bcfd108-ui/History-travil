@@ -7261,9 +7261,9 @@
    "What was searched": "Dossier source unavailable — https://www.loc.gov/resource/fsa.8d22850/; Dossier source opened — https://miningmuseum.org/faq; Dossier source opened — https://scholarworks.umt.edu/butte_oralhistory/12/; Commons file search — site:commons.wikimedia.org/wiki/File: World Museum of Mining Butte Montana photograph; Archive search — World Museum of Mining Butte Montana historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — World Museum of Mining (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3A20210806_55_World_Museum_of_Mining%2C_Butte%2C_Montana.jpg | https://commons.wikimedia.org/wiki/File%3AHeadFrame.jpg | https://www.loc.gov/pictures/item/2023698278/ | https://libguides.msubillings.edu/c.php?g=953721&p=6881071",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -7306,9 +7306,9 @@
    "What was searched": "Dossier source opened — https://www.nga.gov/artworks/165921-fort-peck-dam-montana; Dossier source opened — https://scholarworks.umt.edu/nelsonfamily_oralhistory/1/; Dossier source opened — https://scholarworks.umt.edu/cgi/viewcontent.cgi?article=1001&context=nelsonfamily_oralhistory&filename=0&type=additional; Commons file search — site:commons.wikimedia.org/wiki/File: Fort Peck Interpretive Center Fort Peck Montana photograph; Archive search — Fort Peck Interpretive Center Fort Peck Montana historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Fort Peck Interpretive Center (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3ADancer_and_audience_conversing.jpg | https://commons.wikimedia.org/wiki/File%3AFort_Peck_Lake.jpeg | https://www.loc.gov/pictures/item/2014704363/ | https://americanindian.si.edu/collections-search/edan-record/ead_component%3Asova-nmai-ac-058-ref779 | https://commons.wikimedia.org/wiki/File:Fort_Peck_Lake.jpeg",
    "Why photo is needed": "HOLD dd2de88b7b — Individual subject and location evidence require desk sign-off. Compare the source item with “Fort Peck workers: a shared Sunday” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -7321,7 +7321,7 @@
    "What was searched": "Dossier source opened — https://arc.lib.montana.edu/schultz-0010/item.php?id=250; Commons file search — site:commons.wikimedia.org/wiki/File: published NPS Headwaters transcript now  Montana photograph; Archive search — published NPS Headwaters transcript now  Montana historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — published NPS Headwaters transcript now (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AHeadwaters_of_Tower_Creek_%2855604368828%29.jpg | https://commons.wikimedia.org/wiki/File%3ARecording_Interviews_for_Headwaters_%2854136180033%29.jpg | https://www.nps.gov/podcasts/headwaters.htm?hiderightrail=true&maxrows=10&reinit=false&season=0&sortby=date-desc&startrow=11 | https://home.nps.gov/subjects/museums/search-collections.htm",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — archival period photograph only",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "ARCHIVAL-ONLY",
    "Gap": "no lawful ground photo — not a field task",
    "Access decision": "The dossier provides no current, ordinary public viewpoint of this subject."
@@ -7561,7 +7561,7 @@
    "What was searched": "Dossier source opened — https://montanawomenshistory.mt.gov/News/news-articles/Celebrating-Sarah-Gammon-Bickford; Dossier source opened — https://mhs.mt.gov/Shpo/AfricanAmericans/ResourcesResearch/MHSCollections; Commons file search — site:commons.wikimedia.org/wiki/File: Virginia City Depot and Visitor Information Center Virginia City Montana photograph; Archive search — Virginia City Depot and Visitor Information Center Virginia City Montana historic photograph site:loc.gov OR site:nps.gov OR site:archives.gov OR site:edu; Library of Congress search — Virginia City Depot and Visitor Information Center (request failed); Candidate records — https://commons.wikimedia.org/wiki/File%3AVirginia_City.jpg | https://commons.wikimedia.org/wiki/File%3AMain_street_in_Virginia_City.jpg | https://arc.lib.montana.edu/picture-collection/item.php?id=1333 | https://www.loc.gov/resource/hhh.mt0290.photos",
    "Why photo is needed": "The inspected candidate could not be confirmed as a qualifying photograph of this entry’s specific ground or subject. Other leads require desk review.",
    "Next desk or field action": "Desk — archival period photograph only",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "ARCHIVAL-ONLY",
    "Gap": "no lawful ground photo — not a field task",
    "Access decision": "The dossier provides no current, ordinary public viewpoint of this subject."
@@ -7756,9 +7756,9 @@
    "What was searched": "Individual dossier and linked source records | https://commons.wikimedia.org/wiki/File:Niobrara,_Nebraska_downtown_2.JPG",
    "Why photo is needed": "HOLD 6afc061b0a — Individual subject and location evidence require desk sign-off. Compare the source item with “Niobrara — drawing a town again” before releasing this image.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "none",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "FIRST PHOTO NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
