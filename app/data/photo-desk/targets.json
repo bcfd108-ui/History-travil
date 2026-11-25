@@ -1,6 +1,6 @@
 {
- "commit": "d2651f635d0985499344e6ff0cf964fec8691b54",
- "catalogCount": 801,
+ "commit": "35355dde309af0ccb59ef2a35a52e7dbee82305b",
+ "catalogCount": 811,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -617,6 +617,178 @@
    }
   },
   {
+   "id": "HT-AK-anchorage-turnagain-heights-earthquake-park",
+   "slug": "AK-anchorage-turnagain-heights-earthquake-park",
+   "title": "HT-RES-AK-anchorage-turnagain-heights-earthquake-park — Anchorage: the Turnagain Heights slide and the park that keeps its ground",
+   "town": "Anchorage",
+   "state": "Alaska",
+   "stateCode": "AK",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "HT-RES-AK-anchorage-turnagain-heights-earthquake-park — Anchorage: the Turnagain Heights slide and the park that keeps its ground",
+   "stableName": "Earthquake Park / Turnagain Heights landslide western lobe",
+   "address": "",
+   "locator": {
+    "stableName": "Earthquake Park / Turnagain Heights landslide western lobe",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are supplied; a pair of independent sources agreeing to the required tolerance was not established during this build.",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "USGS Photographic Library ake00087; Alaska Earthquakes slide collection, no. 87ct",
+    "registerUrl": "",
+    "operator": "Municipality of Anchorage, Parks and Recreation",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Anchorage"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Municipality of Anchorage Earthquake Park parking area and maintained public trail from West Northern Lights Boulevard"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Signed municipal parking, maintained trail, interpretive area and overlook only"
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Alaska seed catalog; reflection-first disaster ground; hunts disabled."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-AK-independence-mine",
+   "slug": "AK-independence-mine",
+   "title": "HT-RES-AK-independence-mine — Independence Mine: the Hatcher Pass gold camp that became a state historical park",
+   "town": "Hatcher Pass vicinity (Matanuska-Susitna Borough)",
+   "state": "Alaska",
+   "stateCode": "AK",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-AK-independence-mine — Independence Mine: the Hatcher Pass gold camp that became a state historical park",
+   "stableName": "Independence Mine State Historical Park",
+   "address": "",
+   "locator": {
+    "stableName": "Independence Mine State Historical Park",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "Listed 1974 (National Register of Historic Places)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress, Historic American Engineering Record, HAER AK-8 (item ak0011)",
+    "registerUrl": "",
+    "operator": "Alaska State Parks",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Hatcher Pass vicinity (Matanuska-Susitna Borough)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Park entrance and visitor center (former manager's house) on Hatcher Pass Road"
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Alaska seed catalog."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-AK-portage-1964-ghost-townsite",
+   "slug": "AK-portage-1964-ghost-townsite",
+   "title": "HT-RES-AK-portage-1964-ghost-townsite — Portage: the town the 1964 earthquake lowered into the tide",
+   "town": "Portage (head of Turnagain Arm)",
+   "state": "Alaska",
+   "stateCode": "AK",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "HT-RES-AK-portage-1964-ghost-townsite — Portage: the town the 1964 earthquake lowered into the tide",
+   "stableName": "Old Portage Townsite / 1964 earthquake remnants",
+   "address": "",
+   "locator": {
+    "stableName": "Old Portage Townsite / 1964 earthquake remnants",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are supplied; a pair of independent sources agreeing to the required tolerance was not established during this build.",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "USGS media record village-portage-alaska; original asset 9_earthquake1964.jpg",
+    "registerUrl": "",
+    "operator": "Alaska Department of Transportation and Public Facilities for the highway interpretive site; U.S. Forest Service for the separate Begich, Boggs Visitor Center",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Portage (head of Turnagain Arm)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Signed Portage Townsite interpretive site, Seward Highway mile 80.2, across from the Whittier train station"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Designated roadside interpretive ground and any signed public paths only; no mudflats, ruins, railroad operating land or private property"
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Alaska seed catalog; reflection-first disaster ground; hunts disabled."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-AK-skagway-1915",
+   "slug": "AK-skagway-1915",
+   "title": "HT-RES-AK-skagway-1915 — Skagway in 1915: the Klondike gateway town in a panorama",
+   "town": "Skagway (Municipality of Skagway Borough)",
+   "state": "Alaska",
+   "stateCode": "AK",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-AK-skagway-1915 — Skagway in 1915: the Klondike gateway town in a panorama",
+   "stableName": "Skagway historic district / Klondike Gold Rush National Historical Park (Skagway unit)",
+   "address": "",
+   "locator": {
+    "stableName": "Skagway historic district / Klondike Gold Rush National Historical Park (Skagway unit)",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress, Panoramic Photographs, item 2007661322 (pan.6a16901)",
+    "registerUrl": "",
+    "operator": "National Park Service (historic district core); Municipality of Skagway",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Skagway (Municipality of Skagway Borough)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Klondike Gold Rush National Historical Park visitor center, Broadway"
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Alaska seed catalog."
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-AZ-bisbee-deportation-reflection",
    "slug": "AZ-bisbee-deportation-reflection",
    "title": "Bisbee: expulsion, a suitcase, and the right to belong",
@@ -1221,6 +1393,10 @@
      {
       "key": "Status",
       "value": "local draft; museum seasonal gate documented, holiday/field gate unresolved, direct worker-voice and page-image checks open. No upload, contact or route activation."
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "The historic Yuma Quartermaster Depot storehouse, photographed in 2005. River steamboats brought supplies to this depot for redistribution to Army outposts. (Ed Snook, April 2005. Wikimedia Commons, Warehouse yumaquartermasterdepot.jpg. Public domain.) Display file derived from the Commons original; no credit or copy is burned into the image."
      }
     ]
    }
@@ -5430,6 +5606,129 @@
      {
       "key": "Governing CFR/spec",
       "value": ""
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-CT-farmington-first-church",
+   "slug": "CT-farmington-first-church",
+   "title": "HT-RES-CT-farmington-first-church — First Church of Christ, Farmington: the 1771 meetinghouse that hosted the Amistad Mende",
+   "town": "Farmington (Hartford County)",
+   "state": "Connecticut",
+   "stateCode": "CT",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-CT-farmington-first-church — First Church of Christ, Farmington: the 1771 meetinghouse that hosted the Amistad Mende",
+   "stableName": "First Church of Christ, Congregational, Farmington",
+   "address": "Main Street, between School & Church Streets, Farmington",
+   "locator": {
+    "stableName": "First Church of Christ, Congregational, Farmington",
+    "address": "Main Street, between School & Church Streets, Farmington",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "National Historic Landmark, designated 1975",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress, Historic American Buildings Survey, HABS CT-224 (item ct0272)",
+    "registerUrl": "",
+    "operator": "First Church of Christ, Congregational (active congregation)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Farmington (Hartford County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Main Street sidewalk and village green, Farmington"
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Connecticut seed catalog."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-CT-hartford-mark-twain-house",
+   "slug": "CT-hartford-mark-twain-house",
+   "title": "HT-RES-CT-hartford-mark-twain-house — The Mark Twain House: the Hartford house where Clemens wrote his major books",
+   "town": "Hartford (Hartford County)",
+   "state": "Connecticut",
+   "stateCode": "CT",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-CT-hartford-mark-twain-house — The Mark Twain House: the Hartford house where Clemens wrote his major books",
+   "stableName": "Mark Twain House",
+   "address": "351 Farmington Avenue, Hartford",
+   "locator": {
+    "stableName": "Mark Twain House",
+    "address": "351 Farmington Avenue, Hartford",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "National Historic Landmark, designated 1962",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress, Historic American Buildings Survey, HABS CT-359 (item ct0332)",
+    "registerUrl": "",
+    "operator": "The Mark Twain House & Museum",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Hartford (Hartford County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Mark Twain House & Museum visitor center, 351 Farmington Avenue"
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Connecticut seed catalog."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-DE-newcastle-old-arsenal",
+   "slug": "DE-newcastle-old-arsenal",
+   "title": "HT-RES-DE-newcastle-old-arsenal — The Old Arsenal on the Green: New Castle's 1809 federal arsenal turned school",
+   "town": "New Castle (New Castle County)",
+   "state": "Delaware",
+   "stateCode": "DE",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-DE-newcastle-old-arsenal — The Old Arsenal on the Green: New Castle's 1809 federal arsenal turned school",
+   "stableName": "Old Arsenal, The Green, New Castle",
+   "address": "The Green, New Castle",
+   "locator": {
+    "stableName": "Old Arsenal, The Green, New Castle",
+    "address": "The Green, New Castle",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "Within the New Castle National Historic Landmark District",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress, Historic American Buildings Survey, HABS DE-133 (item de0078)",
+    "registerUrl": "",
+    "operator": "New Castle Historical Society (headquarters); Delaware Division of Historical and Cultural Affairs",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "New Castle (New Castle County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The Green and Market Street, New Castle"
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Delaware seed catalog."
      }
     ]
    }
@@ -11351,6 +11650,88 @@
    }
   },
   {
+   "id": "HT-IN-madison-shrewsbury-house",
+   "slug": "IN-madison-shrewsbury-house",
+   "title": "HT-RES-IN-madison-shrewsbury-house — The Shrewsbury House: Costigan's classical Madison house and its freestanding spiral stair",
+   "town": "Madison (Jefferson County)",
+   "state": "Indiana",
+   "stateCode": "IN",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-IN-madison-shrewsbury-house — The Shrewsbury House: Costigan's classical Madison house and its freestanding spiral stair",
+   "stableName": "Captain Charles L. Shrewsbury House",
+   "address": "301 West First Street, Madison",
+   "locator": {
+    "stableName": "Captain Charles L. Shrewsbury House",
+    "address": "301 West First Street, Madison",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "Listed on the National Register of Historic Places; within the Madison Historic District",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress, Historic American Buildings Survey, HABS IN-8 (item in0131)",
+    "registerUrl": "",
+    "operator": "Historic Madison, Inc.",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Madison (Jefferson County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "West First Street sidewalk, Madison Historic District"
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Indiana seed catalog."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-IN-mansfield-covered-bridge",
+   "slug": "IN-mansfield-covered-bridge",
+   "title": "HT-RES-IN-mansfield-covered-bridge — Mansfield Covered Bridge: Daniels's 1867 Burr-arch bridge over Big Raccoon Creek",
+   "town": "Mansfield (Parke County)",
+   "state": "Indiana",
+   "stateCode": "IN",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-IN-mansfield-covered-bridge — Mansfield Covered Bridge: Daniels's 1867 Burr-arch bridge over Big Raccoon Creek",
+   "stableName": "Mansfield Covered Bridge",
+   "address": "Mansfield Road over Big Raccoon Creek, Mansfield",
+   "locator": {
+    "stableName": "Mansfield Covered Bridge",
+    "address": "Mansfield Road over Big Raccoon Creek, Mansfield",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "Listed 1978, Parke County Covered Bridges thematic resource",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress, Historic American Engineering Record, HAER IN-44 (item in0220 — drawings/data only)",
+    "registerUrl": "",
+    "operator": "Parke County (roadway); Indiana Department of Natural Resources (Mansfield Roller Mill State Historic Site)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Mansfield (Parke County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Bridge approaches and Mansfield Roller Mill grounds, Mansfield Road"
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Indiana seed catalog."
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-IA-amana-woolen-mill-workers",
    "slug": "IA-amana-woolen-mill-workers",
    "title": "Amana — The weaver who went out to buy wool",
@@ -14622,6 +15003,10 @@
      {
       "key": "Official manager/operator",
       "value": "National Park Service, Mammoth Cave National Park"
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "The historic entrance to Mammoth Cave, photographed by Jet Lowe in December 1986 — the dark opening beneath the limestone overhang, with steps and railings descending toward it. The entrance as the survey found it, not a portrait of Stephen Bishop. (Jet Lowe, December 1986. Historic American Engineering Record, HAER KY-18-1. Library of Congress, Prints and Photographs Division, ky0272.photos.070453p. No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.) Display file derived from the Library of Congress master; no credit or copy is burned into the image."
      }
     ]
    }
@@ -14683,6 +15068,10 @@
      {
       "key": "Official manager/operator",
       "value": "Kentucky Transportation Cabinet District 6 for the posted access work [1–2]"
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "Looking north through the Covington portal of the John A. Roebling Suspension Bridge, July 1982 — Jack E. Boucher's barrel shot between the masonry approach walls, the stone south tower ahead. (Jack E. Boucher, July 1982. Historic American Engineering Record, HAER OH-28-5. Library of Congress, Prints and Photographs Division, oh0104.photos.127312p. No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.) Display file derived from the Library of Congress master; no credit or copy is burned into the image."
      }
     ]
    }
@@ -16731,6 +17120,47 @@
    }
   },
   {
+   "id": "HT-ME-portland-head-light",
+   "slug": "ME-portland-head-light",
+   "title": "HT-RES-ME-portland-head-light — Portland Head Light: the first lighthouse lighted by the United States government",
+   "town": "Cape Elizabeth (Cumberland County)",
+   "state": "Maine",
+   "stateCode": "ME",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-ME-portland-head-light — Portland Head Light: the first lighthouse lighted by the United States government",
+   "stableName": "Portland Head Light",
+   "address": "Portland Head, approximately 1/2 mile east of Shore Road, Cape Elizabeth",
+   "locator": {
+    "stableName": "Portland Head Light",
+    "address": "Portland Head, approximately 1/2 mile east of Shore Road, Cape Elizabeth",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress, Historic American Buildings Survey, HABS ME-123 (item me0026)",
+    "registerUrl": "",
+    "operator": "Town of Cape Elizabeth (Fort Williams Park); U.S. Coast Guard (active aid to navigation)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Cape Elizabeth (Cumberland County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Fort Williams Park, Portland Head"
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Maine seed catalog."
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-MN-grand-marais-lighthouse-keepers",
    "slug": "MN-grand-marais-lighthouse-keepers",
    "title": "Grand Marais — A light to come in by",
@@ -18277,6 +18707,10 @@
      {
       "key": "Official manager/operator",
       "value": "Anchuca Historic Mansion & Inn"
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "The front (north) elevation of Anchuca, also known as the Victor Wilson House, at 1010 First East Street in Vicksburg, photographed by James Butters for the Historic American Buildings Survey on July 16, 1936 — the four-column portico and centered balcony. (James Butters, July 16, 1936. Library of Congress, Prints & Photographs Division, HABS MISS,75-VICK,13-1. Public domain.) Display file derived from the repository file; no credit or copy is burned into the image."
      }
     ]
    }
@@ -21532,6 +21966,10 @@
      {
       "key": "Official manager/operator",
       "value": "McRaven Tour Home"
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "McRaven House in Vicksburg as photographed on October 19, 2016 — the two-story gallery and front facade dressed for Halloween, with purple bunting on the rails. The seasonal decorations are part of the day's record, not historic fabric. (Zamburak, CC BY-SA 4.0.) Display file derived from the repository file; no credit or copy is burned into the image."
      }
     ]
    }
@@ -23413,6 +23851,10 @@
      {
       "key": "Official manager/operator",
       "value": "St. Mary Basilica parish"
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "An undated postcard view of St. Mary's Cathedral in Natchez — the Gothic Revival facade, tower, clock faces and spire over the Union Street frontage. The image is undated; the archive's 2008 scan date is not the picture's date. (Courtesy of the Mississippi Department of Archives and History. No known copyright restrictions.) Display file derived from the repository file; no credit or copy is burned into the image."
      }
     ]
    }
@@ -25915,6 +26357,10 @@
      {
       "key": "Release state",
       "value": "local draft for QC; conditional November museum gate, no upload, contact, booking, approval or activation."
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "Miners and other diners at a boarding house in Butte, Montana, in October 1942 — Russell Lee's photograph of the crowded dining room where miners of many nationalities ate. No one in the frame is identified. (Russell Lee, October 1942. Library of Congress, Prints and Photographs Division, FSA/OWI Collection, LC-DIG-fsa-8d22850. Public domain.) Display file derived from the Library of Congress master; no credit or copy is burned into the image."
      }
     ]
    }
@@ -26078,6 +26524,10 @@
      {
       "key": "Release state",
       "value": "local QC draft; conditional November gate with operator-copy conflict; no upload, contact, booking, approval or activation."
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "The spillway at the Fort Peck project under construction on September 11, 1936, in a U.S. Army Corps of Engineers aerial photograph — the repeated gate structure, the channel cut, and the river plain beyond. This is the spillway, not the main dam embankment. (Photographer unknown, September 11, 1936. Office of History, HQ, U.S. Army Corps of Engineers, Digital Visual Library 18867. Public domain.) Display file derived from the repository's full-resolution delivery; no credit or copy is burned into the image."
      }
     ]
    }
@@ -26143,6 +26593,10 @@
      {
       "key": "Release state",
       "value": "local QC draft; no upload, contact, booking, approval or activation."
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "Many Glacier Hotel on Swiftcurrent Lake in an archival view by T. J. Hileman — the great timber hotel buildings under the mountains, reflected in the water. The exact date of the photograph is not established; the hotel opened in 1915. (T. J. Hileman, date not established. James Willard Schultz papers, Montana State University Library, ark:/75788/m41h3v. No Copyright — United States.) Display file derived from the repository's offered download at its native size; no credit or copy is burned into the image."
      }
     ]
    }
@@ -26790,6 +27244,10 @@
      {
       "key": "CFR/spec",
       "value": ""
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "Jeannette Rankin in a motorcar amid suffragists outside the National American Woman Suffrage Association headquarters in Washington, D.C., in 1917 — news cameras in the foreground, the association's sign over the door. The Library of Congress cautions that the catalog title comes from unverified caption data; the photograph is Washington ground, made after Montana's 1914 suffrage vote. (Harris & Ewing, photographer. Library of Congress, Prints and Photographs Division, Harris & Ewing photograph collection, LC-DIG-hec-08242. No known restrictions on publication.) Display file derived from the Library of Congress master; no credit or copy is burned into the image."
      }
     ]
    }
@@ -26864,6 +27322,10 @@
      {
       "key": "Governing CFR/spec",
       "value": ""
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "The Virginia City Water Company's office as Arthur Rothstein photographed it in June 1939 — the small 'OFFICE / V. CITY WATER CO.' sign beside the door of the weathered building Sarah Bickford ran the utility from until her death in 1931. The two men on the boardwalk are not identified. (Arthur Rothstein, June 1939. Library of Congress, Prints and Photographs Division, FSA/OWI Collection, LC-USF34-027274-D. Public domain.) Display file derived from the Library of Congress master; no credit or copy is burned into the image."
      }
     ]
    }
@@ -27272,6 +27734,10 @@
      {
       "key": "Official manager / operator",
       "value": "Stuhr Museum (public interpretation) [1,2]"
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "Inside the Grand Island railroad depot, October 1938 — a man stands at the ticket window reaching toward the wall clock; the platform scale, tiled wall, and checkered floor of the waiting room around him. The record names no one in the frame. (John Vachon, October 1938. The New York Public Library, Miriam and Ira D. Wallach Division of Art, Prints and Photographs, Farm Security Administration Photographs, Image ID 59125237. Public domain in the United States.) Display file derived from the Library's full-size delivery; no credit or copy is burned into the image."
      }
     ]
    }
@@ -27321,6 +27787,10 @@
      {
       "key": "Official manager / operator",
       "value": "National Park Service — Homestead National Historical Park [1,2]"
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "The Freeman homestead in Gage County, Nebraska, in 1904 — the house and its entry ramp, a smaller building beside it, woodpiles in the foreground. The photographer and the person on the ramp are not identified, and this is not the original 1860s log cabin. (Photographer unknown, 1904. Library of Congress, Prints and Photographs Division, LC-USZ62-20063. No known restrictions on publication.) Display file derived from the Library of Congress master; no credit or copy is burned into the image."
      }
     ]
    }
@@ -27427,6 +27897,10 @@
      {
       "key": "Official manager / operator",
       "value": "Office of the Capitol Commission [11]"
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "The finished Nebraska Capitol tower, October 1938 — John Vachon's view past three strands of fence wire: the vertical stone ribs, the domed crown, and the Sower on top. (John Vachon, October 1938. Library of Congress, Prints and Photographs Division, Farm Security Administration/Office of War Information Black-and-White Negatives, LC-DIG-fsa-8a03815. Public domain.) Display file derived from the Library of Congress master; no credit or copy is burned into the image."
      }
     ]
    }
@@ -27533,6 +28007,10 @@
      {
       "key": "Official manager / operator",
       "value": "Village of Niobrara and Niobrara Public Library for the reading venue [1,8]"
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "The former Knox County Courthouse and Odd Fellows lodge on Niobrara's second townsite, photographed by Sam Amato in October 1977. The federal survey records the building as vacant, and it was demolished in 1978 — a building left behind by the town's second relocation. (Sam Amato, October 1977. Historic American Buildings Survey, Library of Congress, Prints and Photographs Division, HABS NE-27-1. No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.) Display file derived from the Library of Congress master; no credit or copy is burned into the image."
      }
     ]
    }
@@ -27741,6 +28219,10 @@
      {
       "key": "Official manager / operator",
       "value": "The Durham Museum [1]"
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "6:30 a.m. in front of Union Station, Omaha, October 1938 — John Vachon's street-level frame: a streetcar boarding passengers, a man waiting by the streetlamp, the station's stonework at the edge of the frame. (John Vachon, October 1938. Library of Congress, Prints and Photographs Division, Farm Security Administration/Office of War Information Black-and-White Negatives, LC-DIG-fsa-8a03545. Public domain.) Display file derived from the Library of Congress master; no credit or copy is burned into the image."
      }
     ]
    }
@@ -27892,6 +28374,10 @@
      {
       "key": "Official manager / operator",
       "value": "National Park Service [1,2]"
+     },
+     {
+      "key": "Adopted first photograph",
+      "value": "The north-side cliff at the summit of Mitchell Pass, Scotts Bluff, 1932 — George A. Grant's photograph of the layered bluff above the eroded ridges, the Oregon Trail crossing in the foreground. (George A. Grant, 1932. National Park Service History Collection, Harpers Ferry Center, Historic Photograph Collection HFCA 1607, HPC-000756. Public domain.) Display file derived from the NPGallery original; no credit or copy is burned into the image."
      }
     ]
    }
