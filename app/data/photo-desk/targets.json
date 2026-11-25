@@ -1,6 +1,6 @@
 {
- "commit": "620901bf43410d79ee8f431694c87f5311b8932a",
- "catalogCount": 813,
+ "commit": "846f064b6326e4170af237256b7cfa8fb399d9de",
+ "catalogCount": 815,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -17278,6 +17278,144 @@
      {
       "key": "Visitor photo subject",
       "value": "** Star Fort exterior from the maintained public approach or an NPS-designated public viewpoint"
+     },
+     {
+      "key": "Hunts",
+      "value": "** DISABLED"
+     },
+     {
+      "key": "Photo Points",
+      "value": "** None"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MA-boston-old-state-house",
+   "slug": "MA-boston-old-state-house",
+   "title": "HT-RES-MA-boston-old-state-house — Boston: the room where the argument started",
+   "town": "Boston",
+   "state": "Massachusetts",
+   "stateCode": "MA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MA-boston-old-state-house — Boston: the room where the argument started",
+   "stableName": "** Old State House",
+   "address": "",
+   "locator": {
+    "stableName": "** Old State House",
+    "address": "",
+    "latitude": "**",
+    "longitude": "**",
+    "coordinateSource": "** Blank pending two-source agreement within approximately 10 m",
+    "nrhp": "** Old State House / Second Town House, National Historic Landmark",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "** LOC 2016795031; LC-DIG-det-4a13548",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Boston"
+     },
+     {
+      "key": "Prospective stable ID / slug",
+      "value": "** `MA-boston-old-state-house`"
+     },
+     {
+      "key": "Historic location",
+      "value": "** King Street at Cornhill/Queen Street; present State Street at Washington Street, Boston, Suffolk County, Massachusetts"
+     },
+     {
+      "key": "Public anchor",
+      "value": "** Revolutionary Spaces Old State House museum entrance, 206 Washington Street"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "** Lawful public paving surrounding the building and the ticketed museum route; excludes transit, roof, tower, service, preservation, staff, and closed exhibit spaces"
+     },
+     {
+      "key": "Visitor access check",
+      "value": "** Confirm current hours, closure dates, ticket terms, photography policy, stair requirements, and available accommodations before travel"
+     },
+     {
+      "key": "Visitor photo subject",
+      "value": "** The Old State House exterior from public paving; interior galleries only where photography is currently allowed"
+     },
+     {
+      "key": "Owner / operator",
+      "value": "** City of Boston / Revolutionary Spaces"
+     },
+     {
+      "key": "Hunts",
+      "value": "** DISABLED"
+     },
+     {
+      "key": "Photo Points",
+      "value": "** None"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MI-mackinac-island-fort-mackinac",
+   "slug": "MI-mackinac-island-fort-mackinac",
+   "title": "HT-RES-MI-mackinac-island-fort-mackinac — Mackinac Island: the fort above the straits",
+   "town": "Mackinac Island",
+   "state": "Michigan",
+   "stateCode": "MI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MI-mackinac-island-fort-mackinac — Mackinac Island: the fort above the straits",
+   "stableName": "** Fort Mackinac",
+   "address": "",
+   "locator": {
+    "stableName": "** Fort Mackinac",
+    "address": "",
+    "latitude": "**",
+    "longitude": "**",
+    "coordinateSource": "** Blank pending two-source agreement within approximately 10 m",
+    "nrhp": "** NRIS 70000280",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "** LOC 2016810163; LC-DIG-det-4a18489; HABS MI-213",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Mackinac Island"
+     },
+     {
+      "key": "Prospective stable ID / slug",
+      "value": "** `MI-mackinac-island-fort-mackinac`"
+     },
+     {
+      "key": "Historic location",
+      "value": "** Bluff above Haldimand Bay, Mackinac Island, Mackinac County, Michigan"
+     },
+     {
+      "key": "Public anchor",
+      "value": "** Staffed Fort Mackinac entrance; South Sally Port from Fort Street or north entrance/Avenue of Flags from Huron Road"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "** Ticketed fort grounds, opened buildings, maintained paths, exhibits, and designated viewpoints; excludes wall edges, closed structures, staff areas, preservation work, and off-route bluff slopes"
+     },
+     {
+      "key": "Visitor access check",
+      "value": "** Confirm seasonal operating dates, ticket terms, island transportation, demonstration schedule, accessible entrance conditions, building barriers, and weather before travel"
+     },
+     {
+      "key": "Visitor photo subject",
+      "value": "** Fort walls and original garrison buildings from a lawful public route; demonstrations only where photography is permitted and safe"
+     },
+     {
+      "key": "Owner / operator",
+      "value": "** Mackinac Island State Park Commission / Mackinac State Historic Parks"
      },
      {
       "key": "Hunts",

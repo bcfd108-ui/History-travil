@@ -9725,6 +9725,18 @@
    "attempts": []
   },
   {
+   "id": "vq_MA-boston-old-state-house",
+   "slug": "MA-boston-old-state-house",
+   "name": "HT-RES-MA-boston-old-state-house — Boston: the room where the argument started",
+   "town": "Boston",
+   "state": "MA",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MA-boston-old-state-house.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_MD-annapolis-maryland-state-house",
    "slug": "MD-annapolis-maryland-state-house",
    "name": "HT-RES-MD-annapolis-maryland-state-house — Annapolis: the room where Washington handed the power back",
@@ -9759,11 +9771,23 @@
    "corpusFile": "HT-RES-ME-portland-head-light.md",
    "queueState": "queued",
    "attempts": []
+  },
+  {
+   "id": "vq_MI-mackinac-island-fort-mackinac",
+   "slug": "MI-mackinac-island-fort-mackinac",
+   "name": "HT-RES-MI-mackinac-island-fort-mackinac — Mackinac Island: the fort above the straits",
+   "town": "Mackinac Island",
+   "state": "MI",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MI-mackinac-island-fort-mackinac.md",
+   "queueState": "queued",
+   "attempts": []
   }
  ],
  "counts": {
-  "items": 813,
-  "dated": 572,
+  "items": 815,
+  "dated": 574,
   "unrecorded": 241
  }
 }

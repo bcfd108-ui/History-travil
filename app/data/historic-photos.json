@@ -5072,5 +5072,63 @@
    "targetSlug": "MD-baltimore-fort-mchenry",
    "targetId": "HT-MD-baltimore-fort-mchenry"
   }
+ ],
+ "MA-boston-old-state-house": [
+  {
+   "src": "/photos/ma-boston-old-state-house-c933e5dc7b.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": null,
+   "title": "Old State House from Washington Street, Boston, c. 1900–1906.",
+   "caption": "The Old State House in Boston from Washington Street — the east gable with its recreated lion and unicorn, the tower behind. Detroit Publishing Co. glass negative, between 1900 and 1906. LC-DIG-det-4a13548.",
+   "alt": "Black-and-white photograph of Boston’s brick Old State House from Washington Street, with two boys standing in the cobbled street.",
+   "credit": "Detroit Publishing Co., c. 1900–1906 — Library of Congress, Prints & Photographs Division, LC-DIG-det-4a13548",
+   "license": "No known restrictions on publication",
+   "licenseUrl": "https://www.loc.gov/item/2016795031/",
+   "sourceName": "Library of Congress, Prints & Photographs Division",
+   "sourceUrl": "https://www.loc.gov/item/2016795031/",
+   "imageUrl": "https://www.loc.gov/item/2016795031/",
+   "sha256": "c933e5dc7bce186ad945fbed82460da05cb61e4a8437e8be8de0f9628829d0da",
+   "width": 1024,
+   "height": 1265,
+   "dateNote": "Between 1900 and 1906 (LOC catalog).",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the Old State House east end from Washington Street — lion and unicorn on the gable, tower and cupola behind, period streetscape; the exact building.",
+   "rightsReview": "LOC item 2016795031 rights advisory, verified on the item record Nov 25, 2026: \"No known restrictions on publication.\"",
+   "adoptedAt": "2026-11-25T13:45:00Z",
+   "rowId": "8198921aab",
+   "targetSlug": "MA-boston-old-state-house",
+   "targetId": "HT-MA-boston-old-state-house"
+  }
+ ],
+ "MI-mackinac-island-fort-mackinac": [
+  {
+   "src": "/photos/mi-mackinac-island-fort-mackinac-4778249472.webp",
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": null,
+   "title": "Fort Mackinac above the village, c. 1900–1910.",
+   "caption": "Fort Mackinac on its bluff above the village and harbor of Mackinac Island — white walls and blockhouse, the church below, cattle in the foreground pasture. Detroit Publishing Co. glass negative, between 1900 and 1910. LC-DIG-det-4a18489.",
+   "alt": "Black-and-white photograph of Fort Mackinac’s white walls on the bluff above Mackinac Island village, with cattle grazing in the foreground.",
+   "credit": "Detroit Publishing Co., c. 1900–1910 — Library of Congress, Prints & Photographs Division, LC-DIG-det-4a18489",
+   "license": "No known restrictions on publication",
+   "licenseUrl": "https://www.loc.gov/item/2016810163/",
+   "sourceName": "Library of Congress, Prints & Photographs Division",
+   "sourceUrl": "https://www.loc.gov/item/2016810163/",
+   "imageUrl": "https://www.loc.gov/item/2016810163/",
+   "sha256": "47782494728de2931d46cf631c740afe777a88e9ca12061609b5d1e1408897bf",
+   "width": 1024,
+   "height": 778,
+   "dateNote": "Between 1900 and 1910 (LOC catalog).",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: Fort Mackinac’s white walls and blockhouse on the bluff, flag flying, church and village below, pasture in the foreground; the exact fort. Emulsion damage at the lower right is the original negative’s condition.",
+   "rightsReview": "LOC item 2016810163 rights advisory, verified on the item record Nov 25, 2026: \"No known restrictions on publication.\"",
+   "adoptedAt": "2026-11-25T13:45:00Z",
+   "rowId": "589f7a4e3f",
+   "targetSlug": "MI-mackinac-island-fort-mackinac",
+   "targetId": "HT-MI-mackinac-island-fort-mackinac"
+  }
  ]
 }
