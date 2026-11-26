@@ -1,6 +1,6 @@
 {
- "commit": "4310568bb0657734b6d69ec5554f308cf538edab",
- "catalogCount": 869,
+ "commit": "45497a0a2d028c7df7de19b8dffcf4b2e453f3b6",
+ "catalogCount": 874,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -30625,6 +30625,145 @@
    }
   },
   {
+   "id": "HT-NH-canterbury-shaker-village",
+   "slug": "NH-canterbury-shaker-village",
+   "title": "HT-RES-NH-canterbury-shaker-village — Hands to Work, and Hearts to God",
+   "town": "Canterbury",
+   "state": "New Hampshire",
+   "stateCode": "NH",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NH-canterbury-shaker-village — Hands to Work, and Hearts to God",
+   "stableName": "Canterbury Shaker Village (National Register name: Canterbury Shaker Village; also carried as Shaker Village)",
+   "address": "288 Shaker Road, Canterbury, NH 03224",
+   "locator": {
+    "stableName": "Canterbury Shaker Village (National Register name: Canterbury Shaker Village; also carried as Shaker Village)",
+    "address": "288 Shaker Road, Canterbury, NH 03224",
+    "latitude": "**blank**",
+    "longitude": "**blank**",
+    "coordinateSource": "The National Historic Landmark nomination's geographical data define the property by eight UTM boundary references in Zone 19 for the 694-acre district and give no point scoped to the village; the nomination's location block prints the street address, 288 Shaker Road, Canterbury, NH 03224. On this catalog's rule, coordinates print only from a primary record's point for the property itself, so the fields are left blank. No coordinates were taken from photograph metadata, aggregators, or map sites.",
+    "nrhp": "75000129 (listed June 17, 1975); National Historic Landmark District, designated 1993",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "NPGallery Asset IDs 11e8b199-7515-47b8-84ad-c4cf2ee21951 and 105d0641-03dd-4564-a1b1-35516de77132; the nomination records Historic American Buildings Survey documentation on file but the survey number is blank in the digitized copy, and none is claimed",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/75000129",
+    "operator": "Canterbury Shaker Village, Inc. (Shaker Village, Inc.), nonprofit museum",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Canterbury, New Hampshire (Merrimack County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Canterbury Shaker Village museum, 288 Shaker Road"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Museum buildings open seasonally on the museum's ticket, closed in winter with private tours by advance arrangement; grounds and nature trails open daily from dawn to dusk, free."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NH-fort-at-no-4",
+   "slug": "NH-fort-at-no-4",
+   "title": "HT-RES-NH-fort-at-no-4 — The Fortified Village at the Top of the River",
+   "town": "Charlestown",
+   "state": "New Hampshire",
+   "stateCode": "NH",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NH-fort-at-no-4 — The Fortified Village at the Top of the River",
+   "stableName": "Fort at No. 4 (The Fort at No. 4; also written Fort at Number 4)",
+   "address": "267 Springfield Road, Charlestown, NH 03603",
+   "locator": {
+    "stableName": "Fort at No. 4 (The Fort at No. 4; also written Fort at Number 4)",
+    "address": "267 Springfield Road, Charlestown, NH 03603",
+    "latitude": "**blank**",
+    "longitude": "**blank**",
+    "coordinateSource": "No primary record fetched in this pass gives a point scoped to this property, so no coordinates are printed. The Division of Historical Resources' marker list does publish GPS coordinates (43.23312, −72.42397), but they are scoped to Highway Marker No. 2 on Route 12 in the village, not to the museum property on Springfield Road; the points carried by encyclopedia and map sites are aggregator values. Neither is carried here.",
+    "nrhp": "**blank** — the property is not in the National Register of Historic Places",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "New Hampshire Historical Highway Marker No. 2 (state marker for the original fort, in the village); no HABS/HAER survey number verified in this pass",
+    "registerUrl": "https://mm.nh.gov/files/uploads/dhr/documents/highway-markers-by-number.pdf",
+    "operator": "The Fort at No. 4, an independent 501(c)(3) nonprofit open-air museum",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Charlestown, New Hampshire (Sullivan County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The Fort at No. 4 museum entrance, 267 Springfield Road"
+     },
+     {
+      "key": "NH State Register",
+      "value": "listed July 2020 (announced by the New Hampshire Department of Natural and Cultural Resources, July 29, 2020)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Open seasonally (the museum's posted 2026 season runs May 2 – November 8), Friday–Sunday only outside special events, last tickets 30 minutes before closing; the standing fort is the 1960 reconstruction near the original site."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NH-mount-washington-cog-railway",
+   "slug": "NH-mount-washington-cog-railway",
+   "title": "HT-RES-NH-mount-washington-cog-railway — The Railway to the Moon",
+   "town": "Mount Washington",
+   "state": "New Hampshire",
+   "stateCode": "NH",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NH-mount-washington-cog-railway — The Railway to the Moon",
+   "stableName": "Mount Washington Cog Railway (The Cog; The Mount Washington Railway Company)",
+   "address": "3168 Base Station Road, Mount Washington, NH 03589",
+   "locator": {
+    "stableName": "Mount Washington Cog Railway (The Cog; The Mount Washington Railway Company)",
+    "address": "3168 Base Station Road, Mount Washington, NH 03589",
+    "latitude": "**blank**",
+    "longitude": "**blank**",
+    "coordinateSource": "No coordinates are carried. No primary record read in this pass gives a point scoped to the railway or to Marshfield Base Station; the ASCE landmark record's unscoped point is recorded in §6 rather than carried here. No coordinates were taken from photograph metadata, aggregators, or map sites.",
+    "nrhp": "**blank** — no National Register listing for the railway itself was located in this pass; the Register-listed property at the summit is the Tip Top House (Mount Washington Commission record). The railway's designation is the engineering landmark below.",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "New Hampshire Historical Highway Marker No. 45 (New Hampshire Division of Historical Resources); National Historic Civil and Mechanical Engineering Landmark (ASCE/ASME), designated June 26, 1976",
+    "registerUrl": "https://www.asce.org/about-civil-engineering/history-and-heritage/historic-landmarks/mount-washington-cog-railway",
+    "operator": "The Mount Washington Railway Company (private)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Mount Washington, New Hampshire (Coös County) — as the railway's own address prints it; the ground itself is in Thompson and Meserve's Purchase (base) and Sargent's Purchase (summit end), unincorporated townships (see §6)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Marshfield Base Station, 3168 Base Station Road, six miles east of Route 302 near Bretton Woods"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Boarding only at Marshfield Base Station, open year-round except Thanksgiving Day and Christmas; summit trains late April–late October with about an hour at the summit (Mount Washington State Park facilities, on the park's own season); winter trains terminate at Waumbek Station (4,000 feet)."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-NH-portsmouth-wentworth-coolidge-mansion",
    "slug": "NH-portsmouth-wentworth-coolidge-mansion",
    "title": "HT-RES-NH-portsmouth-wentworth-coolidge-mansion — Portsmouth: the governor’s house at Little Harbor",
@@ -30762,6 +30901,103 @@
      {
       "key": "Photo Points",
       "value": "** None"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NH-saint-gaudens",
+   "slug": "NH-saint-gaudens",
+   "title": "HT-RES-NH-saint-gaudens — The Sculptor's House Above the Connecticut",
+   "town": "Cornish",
+   "state": "New Hampshire",
+   "stateCode": "NH",
+   "coordinates": {
+    "lat": 43.492195,
+    "lon": -72.378163
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-NH-saint-gaudens — The Sculptor's House Above the Connecticut",
+   "stableName": "Saint-Gaudens National Historical Park (National Register name: Saint-Gaudens National Historical Park; also known as Aspet)",
+   "address": "139 Saint Gaudens Road, Cornish, NH 03745",
+   "locator": {
+    "stableName": "Saint-Gaudens National Historical Park (National Register name: Saint-Gaudens National Historical Park; also known as Aspet)",
+    "address": "139 Saint Gaudens Road, Cornish, NH 03745",
+    "latitude": "43.492195",
+    "longitude": "-72.378163",
+    "coordinateSource": "The point converts from the National Register nomination's UTM reference for this property (Zone 18, E 711992, N 4818814), as carried in the nomination information for the site. It is the nomination's reference point for the historic property, not the modern entrance — it falls roughly a kilometre southwest of the present visitor-center ground, a discrepancy flagged in §6 rather than reconciled. No coordinates were taken from photograph metadata, aggregators, or map sites.",
+    "nrhp": "66000120 (listed October 15, 1966); boundary increase 13000802 (October 2, 2013)",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "NPGallery Asset ID 0bb35232-bada-4d96-a4e8-94665ee2638f",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/0bb35232-bada-4d96-a4e8-94665ee2638f",
+    "operator": "National Park Service, U.S. Department of the Interior",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Cornish, New Hampshire (Sullivan County) — the Register record locates the property as \"Cornish ; S of Plainfield off NH 12-a\""
+     },
+     {
+      "key": "Public anchor",
+      "value": "Saint-Gaudens National Historical Park visitor center, 139 Saint Gaudens Road"
+     },
+     {
+      "key": "NHL",
+      "value": "National Historic Landmark District, designated June 13, 1962"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Grounds and trails open year-round in daylight; buildings open seasonally, Thursday–Monday from Memorial Day weekend to October 31, with Aspet open select hours as staffing allows; entry fee or pass required on the grounds in season."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NH-strawbery-banke",
+   "slug": "NH-strawbery-banke",
+   "title": "HT-RES-NH-strawbery-banke — The Neighborhood That Refused the Bulldozer",
+   "town": "Portsmouth",
+   "state": "New Hampshire",
+   "stateCode": "NH",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NH-strawbery-banke — The Neighborhood That Refused the Bulldozer",
+   "stableName": "Strawbery Banke (Strawbery Banke Museum; National Register name: Strawbery Banke Historic District)",
+   "address": "14 Hancock Street, Portsmouth, NH 03801",
+   "locator": {
+    "stableName": "Strawbery Banke (Strawbery Banke Museum; National Register name: Strawbery Banke Historic District)",
+    "address": "14 Hancock Street, Portsmouth, NH 03801",
+    "latitude": "**blank**",
+    "longitude": "**blank**",
+    "coordinateSource": "**blank** — the National Register nomination defines the district by verbal boundary (Court Street north, Marcy Street east, the Hancock Street houses' south property lines south, Washington Street west) and by UTM corner references illegible in the digitized copy consulted; the Museum's published material gives the street address only. No coordinates were taken from photograph metadata, aggregators, or map sites.",
+    "nrhp": "75000236 (listed June 20, 1975)",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "NPGallery Asset ID c46404bd-0d8f-42bc-94ef-31b30229704e; HABS coverage of individual district houses is recorded in the nomination, but no single HABS/HAER survey number for the district was verified in this pass",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/75000236",
+    "operator": "Strawbery Banke, Inc.",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Portsmouth, New Hampshire (Rockingham County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Strawbery Banke Museum, 14 Hancock Street"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Ticketed museum campus at 14 Hancock Street; the National Register district extends beyond the campus fence and includes privately owned houses on the bounding streets, which are residences, not exhibits."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
      }
     ]
    }
