@@ -1687,6 +1687,36 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-CT-hartford-old-state-house",
+   "Slug": "CT-hartford-old-state-house",
+   "Entry": "HT-RES-CT-hartford-old-state-house — Hartford: where Connecticut helped shape the republic",
+   "Town": "Hartford",
+   "State": "Connecticut",
+   "Entry URL": "https://onoldground.com/sites/CT-hartford-old-state-house",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-CT-new-london-custom-house",
+   "Slug": "CT-new-london-custom-house",
+   "Entry": "HT-RES-CT-new-london-custom-house — New London: where commerce met the struggle for freedom",
+   "Town": "New London",
+   "State": "Connecticut",
+   "Entry URL": "https://onoldground.com/sites/CT-new-london-custom-house",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-DE-newcastle-old-arsenal",
    "Slug": "DE-newcastle-old-arsenal",
    "Entry": "HT-RES-DE-newcastle-old-arsenal — The Old Arsenal on the Green: New Castle's 1809 federal arsenal turned school",
@@ -12263,6 +12293,6 @@
   }
  ],
  "counts": {
-  "items": 817
+  "items": 819
  }
 }
