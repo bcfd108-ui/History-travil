@@ -1,7 +1,7 @@
 {
   "generatedFrom": "corpus dossiers (~/workspace/history-travel/corpus + home-bench root)",
-  "filesSeen": 889,
-  "sitesConverted": 882,
+  "filesSeen": 891,
+  "sitesConverted": 884,
   "perState": {
     "AL": 10,
     "AK": 4,
@@ -50,7 +50,7 @@
     "VA": 10,
     "WA": 25,
     "WV": 2,
-    "WI": 8,
+    "WI": 10,
     "WY": 25
   },
   "withCoordinates": 112,
@@ -58,12 +58,12 @@
     "locatorFields": 102,
     "printedPair": 10
   },
-  "withAnyLocatorId": 689,
-  "withNrhp": 400,
-  "withHmdb": 103,
-  "blankCoordinates": 770,
+  "withAnyLocatorId": 691,
+  "withNrhp": 402,
+  "withHmdb": 104,
+  "blankCoordinates": 772,
   "reflection": 292,
-  "view": 590,
+  "view": 592,
   "reflectionSignals": {
     "slug": 48,
     "candSec": 194,
@@ -74,13 +74,13 @@
     "boldSection1": 305,
     "altLocatorScheme": 14
   },
-  "sec8ApparatusSeen": 353,
-  "sec8BulletsSeen": 633,
+  "sec8ApparatusSeen": 355,
+  "sec8BulletsSeen": 639,
   "sec8QuestionPromptsDropped": 11,
   "sec8FieldLinesDropped": 51,
   "candidateFindsSurfaced": 19,
   "sitesWithCandidates": 8,
-  "townsRecorded": 726,
+  "townsRecorded": 728,
   "emptyAccess": 12,
   "emptyStory": 0,
   "unmappedSectionsCarried": 269,
