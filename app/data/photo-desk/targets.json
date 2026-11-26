@@ -1,6 +1,6 @@
 {
  "commit": "e2d2a4c845f0d1803542ec223ecd267ff1855701",
- "catalogCount": 882,
+ "catalogCount": 884,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -43777,6 +43777,96 @@
      {
       "key": "Visitor boundary",
       "value": "The island is reached only across the causeway — on foot over a rocky pathway or by the operator's complimentary tractor-drawn wagon on its limited schedule — and only within the operator's stated season and hours (May–October, 10 a.m.–5 p.m., last tower climb 4:30 p.m.). The operator states that high lake levels sometimes put water over the causeway and that weather closures occur; the tower gallery is reached by 97 spiral steps and is not an accessible route. The offshore wreck is a dive site, no part of the land visit, and nothing beyond the county park's ground is part of this stop."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Wisconsin seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-WI-circus-world-baraboo",
+   "slug": "WI-circus-world-baraboo",
+   "title": "HT-RES-WI-circus-world-baraboo — A winter's worth of barns: the circus as a Baraboo industry",
+   "town": "Baraboo",
+   "state": "Wisconsin",
+   "stateCode": "WI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-WI-circus-world-baraboo — A winter's worth of barns: the circus as a Baraboo industry",
+   "stableName": "Ringling Brothers Circus Winter Quarters (National Register listing name; the operating site is Circus World)",
+   "address": "Water Street, Baraboo, WI 53913 (the Register record bounds the district by Water, Briar, Lynn, and East Streets; no street number for the site appears in the primary sources checked — see §6)",
+   "locator": {
+    "stableName": "Ringling Brothers Circus Winter Quarters (National Register listing name; the operating site is Circus World)",
+    "address": "Water Street, Baraboo, WI 53913 (the Register record bounds the district by Water, Briar, Lynn, and East Streets; no street number for the site appears in the primary sources checked — see §6)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No point is carried by any primary source checked. The National Park Service record for NRIS 69000032 carries no coordinates and its digitized file is a photograph file; the Society's Register record locates the property by its bounding streets only. Coordinates published by secondary catalogs are not used, and the fields above stay blank rather than carry an unverified point.",
+    "nrhp": "69000032 — Ringling Brothers Circus Winter Quarters; listed August 4, 1969, with National Historic Landmark status granted August 4, 1969 (State Register: January 1, 1989); period of significance 1884–1918",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Wisconsin National Register record NR1972",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/bf3fd51c-2d61-4d7f-adf8-eb29483d4706/",
+    "operator": "Wisconsin Historical Society (owner; the Circus World Museum Foundation operated the museum on the state's behalf from 1960, per the Legislative Fiscal Bureau's 2017 paper, with the 2017–19 budget providing for operation as a historic site within the Society)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Baraboo (Sauk County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Circus World, the Wisconsin Historical Society historic site on the winter quarters ground along Water Street — seasonal operation under the Society's published schedule"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Per the Wisconsin Historical Society's National Register record: \"Some of the Ringling buildings are open to the public as part of the Circus World Museum, while others remain privately owned. Please respect the privacy of the owners.\" The district is a public street grid; privately owned quarters buildings are exterior readings at most and are not stops."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Wisconsin seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-WI-hh-bennett-studio",
+   "slug": "WI-hh-bennett-studio",
+   "title": "HT-RES-WI-hh-bennett-studio — The storefront that sold the Dells to America, one stereograph at a time",
+   "town": "Wisconsin Dells",
+   "state": "Wisconsin",
+   "stateCode": "WI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-WI-hh-bennett-studio — The storefront that sold the Dells to America, one stereograph at a time",
+   "stableName": "H. H. Bennett Studio (National Register listing name: Bennett, H. H., Studio)",
+   "address": "215 Broadway, Wisconsin Dells, WI 53965 (Architecture and History Inventory record: 213–215 Broadway)",
+   "locator": {
+    "stableName": "H. H. Bennett Studio (National Register listing name: Bennett, H. H., Studio)",
+    "address": "215 Broadway, Wisconsin Dells, WI 53965 (Architecture and History Inventory record: 213–215 Broadway)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "The 1976 National Register nomination carries a point for the nominated property in its Geographical Data section, as a UTM reference — Zone 16, Easting 276170, Northing 4834090 — for a property of less than 1.0 acre. That point prints here exactly in the form and scope the nomination gives it. No decimal latitude/longitude prints, because no primary source checked carries the point in that form; coordinates published by secondary catalogs are not used.",
+    "nrhp": "76000054 — Bennett, H. H., Studio; listed October 8, 1976 (State Register: January 1, 1989)",
+    "hmdb": "Kilbourn Landmark marker at the studio (erected 1976); Leaping the Chasm marker (WHI 2101) at the Stand Rock boat landing",
+    "ark": "",
+    "archiveId": "Wisconsin Architecture and History Inventory HI3780",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/32a84efd-2f48-4acb-9e38-3c91b641567b/",
+    "operator": "Wisconsin Historical Society (H.H. Bennett Studio & Museum), 608-253-3523 as the Society publishes it",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Wisconsin Dells (Columbia County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The studio building at 215 Broadway, a Wisconsin Historical Society historic site — seasonal; the Society's site page (checked November 26, 2026) states it reopens in May 2027"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The interior is the Society's museum, entered through the Society in season; the site was closed for the season when checked in November 2026, with a stated May 2027 reopening. The exterior stands on a public street. The Dells formations in Bennett's photographs are river ground reached from the Wisconsin River; the studio is not a landing or trailhead for them, and the 1886 Stand Rock leap was a staged demonstration, not a visitor activity."
      },
      {
       "key": "Status",
