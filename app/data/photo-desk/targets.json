@@ -1,6 +1,6 @@
 {
- "commit": "e47f604525e99005e7061829e0e9f64db5bff3fc",
- "catalogCount": 859,
+ "commit": "13ffd74df86637f65bcac8cbbd12f1e0e5f6f342",
+ "catalogCount": 864,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -17578,6 +17578,54 @@
    }
   },
   {
+   "id": "HT-MA-adams-peacefield",
+   "slug": "MA-adams-peacefield",
+   "title": "HT-RES-MA-adams-peacefield — Four Generations Under One Gambrel Roof",
+   "town": "Quincy",
+   "state": "Massachusetts",
+   "stateCode": "MA",
+   "coordinates": {
+    "lat": 42.2528800964355,
+    "lon": -71.0022735595703
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-MA-adams-peacefield — Four Generations Under One Gambrel Roof",
+   "stableName": "Peacefield — the Old House at Adams National Historical Park",
+   "address": "135 Adams St., Quincy, MA 02169",
+   "locator": {
+    "stableName": "Peacefield — the Old House at Adams National Historical Park",
+    "address": "135 Adams St., Quincy, MA 02169",
+    "latitude": "42.2528800964355",
+    "longitude": "-71.0022735595703",
+    "coordinateSource": "Point carried in the Locations field of the NPS HABS asset record for \"Adams Mansion, Quincy, Massachusetts\" (Vassal House / Old House), 135 Adams Street, in NPGallery; scoped to the Old House. The nomination's UTM block was not legible as consulted and was not used.",
+    "nrhp": "Adams National Historic Site, NRIS ID 66000051 (district; National Register record published 10/15/1966 per NPGallery)",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "HABS survey MASS,11-QUI,5- (Library of Congress, Prints and Photographs Division)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000051",
+    "operator": "National Park Service (Adams National Historical Park)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Quincy, Massachusetts"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Old House at Peace field, Adams National Historical Park"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Old House and Stone Library interiors by guided tour only, with entrance pass and day-of reservation; grounds open without a pass, sunrise to sunset when the homes are closed; pets not allowed in the homes or the formal garden."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-MA-boston-old-state-house",
    "slug": "MA-boston-old-state-house",
    "title": "HT-RES-MA-boston-old-state-house — Boston: the room where the argument started",
@@ -17642,6 +17690,186 @@
      {
       "key": "Photo Points",
       "value": "** None"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MA-longfellow-house",
+   "slug": "MA-longfellow-house",
+   "title": "HT-RES-MA-longfellow-house — The House That Sugar Built, and the Family Who Took Their Freedom Back",
+   "town": "Cambridge",
+   "state": "Massachusetts",
+   "stateCode": "MA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MA-longfellow-house — The House That Sugar Built, and the Family Who Took Their Freedom Back",
+   "stableName": "Longfellow House–Washington's Headquarters National Historic Site (Vassall-Craigie-Longfellow House)",
+   "address": "105 Brattle Street, Cambridge, MA 02138",
+   "locator": {
+    "stableName": "Longfellow House–Washington's Headquarters National Historic Site (Vassall-Craigie-Longfellow House)",
+    "address": "105 Brattle Street, Cambridge, MA 02138",
+    "latitude": "**blank**",
+    "longitude": "**blank**",
+    "coordinateSource": "No primary record consulted — NPS pages, the park brochure, or the National Historic Landmark file — carries a scoped coordinate point for the house, so the fields are left blank rather than taken from any aggregator.",
+    "nrhp": "National Historic Landmark; National Register reference number 66000049",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "**blank** — the landmark file notes HABS documentation (13 sheets, 1935); its LOC survey number was not verified in this pass.",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/66000049_text",
+    "operator": "National Park Service",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Cambridge, Massachusetts"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The historic house and grounds; tours enter through the Visitor Center"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "House interior by guided tour only, groups of twelve maximum, on the marked pathway; grounds open year-round, dawn to dusk; exterior porches always closed."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MA-lowell-boott-mills",
+   "slug": "MA-lowell-boott-mills",
+   "title": "HT-RES-MA-lowell-boott-mills — The Mill That Still Weaves",
+   "town": "Lowell",
+   "state": "Massachusetts",
+   "stateCode": "MA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MA-lowell-boott-mills — The Mill That Still Weaves",
+   "stableName": "Boott Cotton Mills",
+   "address": "115 John Street, Lowell, MA",
+   "locator": {
+    "stableName": "Boott Cotton Mills",
+    "address": "115 John Street, Lowell, MA",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No primary record consulted carries a point scoped to the Boott Mills complex; the National Register record is a district record for the Lowell Locks and Canals Historic District, with no building-level point. Coordinates are left blank rather than taken from an aggregator.",
+    "nrhp": "Contributing complex within the Lowell Locks and Canals Historic District, NRIS ID 76001972 (nomination published August 13, 1976); the park's later Register file is titled \"Lowell National Historical Park\" (1985).",
+    "hmdb": "Marker 117814, \"In the Shadow of the Mills,\" French Street at Boarding House Park — an NPS marker for the Boott boardinghouse block across from the museum; no HMdb record for the mill complex itself was consulted.",
+    "ark": "",
+    "archiveId": "Documented by the Historic American Buildings Survey / Historic American Engineering Record (Boott Mills Recording Project, HAER, 1986), records at the Library of Congress; survey number not verified from a primary record consulted.",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/43d9758b-3a8b-4fe2-9e64-e748b9766a6f",
+    "operator": "National Park Service, Lowell National Historical Park",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Lowell"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Boott Cotton Mills Museum, Lowell National Historical Park"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The ticketed public interior is the museum building at 115 John Street. The wider millyard mixes park facilities, residences, and offices; visitor ground is the museum, the courtyard and canal-side public ways, and the park's other public sites."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MA-salem-derby-wharf",
+   "slug": "MA-salem-derby-wharf",
+   "title": "HT-RES-MA-salem-derby-wharf — Made Land in the Harbor: The Derby Family's Wharf at Salem",
+   "town": "Salem",
+   "state": "Massachusetts",
+   "stateCode": "MA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MA-salem-derby-wharf — Made Land in the Harbor: The Derby Family's Wharf at Salem",
+   "stableName": "Derby Wharf",
+   "address": "160 Derby Street, Salem, MA 01970 (park address as listed by the National Park Service)",
+   "locator": {
+    "stableName": "Derby Wharf",
+    "address": "160 Derby Street, Salem, MA 01970 (park address as listed by the National Park Service)",
+    "latitude": "**blank**",
+    "longitude": "**blank**",
+    "coordinateSource": "No primary record checked carries a point scoped to Derby Wharf itself, so no coordinates print. The HABS record for the light station (MA-1350) carries a center point for that structure only, not the wharf, and prints it with its latitude and longitude labels transposed; it is not carried here.",
+    "nrhp": "Derby Wharf Light Station listed June 15, 1987, NRIS 87001466 (Lighthouses of Massachusetts TR); the wharf stands within Salem Maritime National Historical Park. No Register record number for the wharves as such was verified in this pass.",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "HABS No. MA-1350 (Derby Wharf Light Station)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/87001466",
+    "operator": "National Park Service",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Salem, Massachusetts"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Salem Maritime National Historical Park"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Wharf and park grounds open 24/7, free; caution after dark and in inclement weather (operator's terms). Buildings free, seasonal hours, closed Thanksgiving, Christmas Day, and New Year's Day."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MA-saugus-iron-works",
+   "slug": "MA-saugus-iron-works",
+   "title": "HT-RES-MA-saugus-iron-works — Hammersmith, 1646: Where American Iron Began",
+   "town": "Saugus",
+   "state": "Massachusetts",
+   "stateCode": "MA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MA-saugus-iron-works — Hammersmith, 1646: Where American Iron Began",
+   "stableName": "Saugus Iron Works National Historic Site (historic name: Hammersmith)",
+   "address": "244 Central Street, Saugus, MA 01906",
+   "locator": {
+    "stableName": "Saugus Iron Works National Historic Site (historic name: Hammersmith)",
+    "address": "244 Central Street, Saugus, MA 01906",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No scoped coordinate point is carried in the National Register nomination record or the NPGallery asset record for NRHP 66000047; both records locate the district by its street address, 244 Central Street. Latitude and longitude are therefore left blank. No coordinates were taken from aggregators, map sites, or photograph metadata.",
+    "nrhp": "66000047",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "NPGallery Asset ID 4bfe8081-154c-4ed2-a63e-60d4dde620d8",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/4bfe8081-154c-4ed2-a63e-60d4dde620d8",
+    "operator": "National Park Service",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Saugus, Massachusetts (Essex County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Broadhearth Visitor Center, Iron Works House, 244 Central Street"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Park grounds and nature trail open 24/7; museum, visitor center, and industrial site buildings open seasonally, Wednesday – Sunday, per the park's published hours. The slag pile is original seventeenth-century manufacturing waste and a protected archaeological resource — it is viewed from the riverbank paths and dock and is not public ground."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
      }
     ]
    }
