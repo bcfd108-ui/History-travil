@@ -1,6 +1,6 @@
 {
- "commit": "8e4d05024fbb5aeff60f85e9fca93f1ad315355d",
- "catalogCount": 819,
+ "commit": "725645c189f39d50ca2256fb1337d0793a8cf86b",
+ "catalogCount": 821,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -29991,6 +29991,39 @@
    }
   },
   {
+   "id": "HT-NJ-paterson-great-falls",
+   "slug": "NJ-paterson-great-falls",
+   "title": "HT-RES-NJ-paterson-great-falls — Paterson: the falls that powered a planned industrial city",
+   "town": "Paterson",
+   "state": "New Jersey",
+   "stateCode": "NJ",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NJ-paterson-great-falls — Paterson: the falls that powered a planned industrial city",
+   "stableName": "",
+   "address": "",
+   "locator": {
+    "stableName": "",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Paterson"
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-NM-acoma-public-history",
    "slug": "NM-acoma-public-history",
    "title": "Acoma public history: authorship, preservation and return",
@@ -40103,6 +40136,39 @@
      {
       "key": "Release state",
       "value": "LOCAL RESEARCH DRAFT / PRIMARY VERBAL VOICE GAPPED; no publication, upload, contact, itinerary activation or acceptance claim"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VT-vermont-state-house",
+   "slug": "VT-vermont-state-house",
+   "title": "HT-RES-VT-vermont-state-house — Montpelier: the capitol that rose from the ashes",
+   "town": "Montpelier",
+   "state": "Vermont",
+   "stateCode": "VT",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-VT-vermont-state-house — Montpelier: the capitol that rose from the ashes",
+   "stableName": "",
+   "address": "",
+   "locator": {
+    "stableName": "",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Montpelier"
      }
     ]
    }
