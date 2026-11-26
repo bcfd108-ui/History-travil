@@ -8497,6 +8497,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-NJ-paterson-great-falls",
+   "Slug": "NJ-paterson-great-falls",
+   "Entry": "HT-RES-NJ-paterson-great-falls — Paterson: the falls that powered a planned industrial city",
+   "Town": "Paterson",
+   "State": "New Jersey",
+   "Entry URL": "https://onoldground.com/sites/NJ-paterson-great-falls",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-NM-acoma-public-history",
    "Slug": "NM-acoma-public-history",
    "Entry": "Acoma public history: authorship, preservation and return",
@@ -11497,6 +11512,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-VT-vermont-state-house",
+   "Slug": "VT-vermont-state-house",
+   "Entry": "HT-RES-VT-vermont-state-house — Montpelier: the capitol that rose from the ashes",
+   "Town": "Montpelier",
+   "State": "Vermont",
+   "Entry URL": "https://onoldground.com/sites/VT-vermont-state-house",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-WA-clarkston-asotin-river",
    "Slug": "WA-clarkston-asotin-river",
    "Entry": "Asotin: a river town addressed to someone at home",
@@ -12233,6 +12263,6 @@
   }
  ],
  "counts": {
-  "items": 815
+  "items": 817
  }
 }

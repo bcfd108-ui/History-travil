@@ -9831,11 +9831,35 @@
    "corpusFile": "HT-RES-NH-portsmouth-wheelwright-house-strawbery-banke.md",
    "queueState": "queued",
    "attempts": []
+  },
+  {
+   "id": "vq_NJ-paterson-great-falls",
+   "slug": "NJ-paterson-great-falls",
+   "name": "HT-RES-NJ-paterson-great-falls — Paterson: the falls that powered a planned industrial city",
+   "town": "Paterson",
+   "state": "NJ",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NJ-paterson-great-falls.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_VT-vermont-state-house",
+   "slug": "VT-vermont-state-house",
+   "name": "HT-RES-VT-vermont-state-house — Montpelier: the capitol that rose from the ashes",
+   "town": "Montpelier",
+   "state": "VT",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VT-vermont-state-house.md",
+   "queueState": "queued",
+   "attempts": []
   }
  ],
  "counts": {
-  "items": 819,
-  "dated": 578,
+  "items": 821,
+  "dated": 580,
   "unrecorded": 241
  }
 }
