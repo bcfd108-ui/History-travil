@@ -5,1898 +5,6 @@
  "orderRule": "Seeding (zero live entries) by tier then march order; then depth in march order. States outside the march follow Alaska, by postal code. Unknown tier sorts last. See app/lib/machine-queue.mjs.",
  "items": [
   {
-   "id": "lq_005c80eece287d5c",
-   "projectedSlug": "oh-inscription-rock-and-glacial-grooves-kelleys-island",
-   "targetSlug": null,
-   "name": "Inscription Rock & Glacial Grooves, Kelleys Island",
-   "town": "Kelleys Island",
-   "county": "Erie",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "State memorial / park — Indigenous petroglyphs and glacial grooves",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 214,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_006e727aa7381f53",
-   "projectedSlug": "oh-buxton-inn",
-   "targetSlug": null,
-   "name": "Buxton Inn",
-   "town": "Granville",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 419,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0bc69c7f4ae1c355",
-   "projectedSlug": "oh-paul-laurence-dunbar-house",
-   "targetSlug": null,
-   "name": "Paul Laurence Dunbar House",
-   "town": "Dayton",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "National park unit / state site — Black poet's home",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 279,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0d17880e6bff3233",
-   "projectedSlug": "oh-campus-martius-and-ohio-river-museum",
-   "targetSlug": null,
-   "name": "Campus Martius & Ohio River Museum",
-   "town": "Marietta",
-   "county": "Washington",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Ohio History Connection — 1788 first organized settlement of the Northwest Territory; W.P. Snyder Jr. sternwheeler",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 291,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1026f081f0f7885b",
-   "projectedSlug": "oh-fallen-timbers-battlefield",
-   "targetSlug": null,
-   "name": "Fallen Timbers Battlefield",
-   "town": "Maumee",
-   "county": "Lucas",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Metropark / NPS-affiliated — 1794 battle that broke the Western Confederacy (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 222,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_13e17c136baeb1d1",
-   "projectedSlug": "oh-toledo-state-hospital-cemeteries",
-   "targetSlug": null,
-   "name": "Toledo State Hospital cemeteries",
-   "town": "Toledo",
-   "county": "Lucas",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Hospital demolished; two patient cemeteries survive with a memorial — no developed site (ASYLUM) — flag",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 298,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1401133fa850815e",
-   "projectedSlug": "oh-ohio-history-center-and-ohio-village",
-   "targetSlug": null,
-   "name": "Ohio History Center & Ohio Village",
-   "town": "Columbus",
-   "county": "Franklin",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Museum — state history museum and recreated 1890s village",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 260,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1434cc3730e63595",
-   "projectedSlug": "oh-mortuary-manor",
-   "targetSlug": null,
-   "name": "Mortuary Manor",
-   "town": "Toledo",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "other — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 413,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_15e6787982abf507",
-   "projectedSlug": "oh-charles-young-house-charles-young-buffalo-soldiers-national-monument",
-   "targetSlug": null,
-   "name": "Charles Young House (Charles Young Buffalo Soldiers National Monument)",
-   "town": "Wilberforce",
-   "county": "Greene",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "National park unit — highest-ranking Black officer of his era, beside Wilberforce University (military / civil rights)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 280,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1adcee9783af2f90",
-   "projectedSlug": "oh-leo-petroglyph-state-memorial",
-   "targetSlug": null,
-   "name": "Leo Petroglyph State Memorial",
-   "town": "Jackson",
-   "county": "Jackson",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "State memorial — Fort Ancient-era petroglyph panel",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 294,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1c1abda844f7a0dd",
-   "projectedSlug": "oh-akron-civic-theatre",
-   "targetSlug": null,
-   "name": "Akron Civic Theatre",
-   "town": "Akron",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 423,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1d2714fc6b165a77",
-   "projectedSlug": "oh-oberlin-underground-railroad-and-abolition-cluster",
-   "targetSlug": null,
-   "name": "Oberlin Underground Railroad & abolition cluster",
-   "town": "Oberlin",
-   "county": "Lorain",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Heritage Center tours — Oberlin-Wellington Rescue, Evans and Langston houses, college ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 235,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1fa540e5e9274820",
-   "projectedSlug": "oh-fort-meigs",
-   "targetSlug": null,
-   "name": "Fort Meigs",
-   "town": "Perrysburg",
-   "county": "Wood",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Ohio History Connection — War of 1812 fort, reconstructed (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 221,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_25acc678bf06a2ce",
-   "projectedSlug": "oh-national-underground-railroad-freedom-center",
-   "targetSlug": null,
-   "name": "National Underground Railroad Freedom Center",
-   "town": "Cincinnati",
-   "county": "Hamilton",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Museum — on the Ohio River freedom crossing",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 273,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_2cff04f63c26d42c",
-   "projectedSlug": "oh-hopewell-culture-national-historical-park",
-   "targetSlug": null,
-   "name": "Hopewell Culture National Historical Park",
-   "town": "Chillicothe",
-   "county": "Ross",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "National park unit / UNESCO — Mound City and the Hopewell ceremonial landscape",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 287,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_32c96588925d65dd",
-   "projectedSlug": "oh-majestic-theatre",
-   "targetSlug": null,
-   "name": "Majestic Theatre",
-   "town": "Chillicothe",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 420,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3595921b6c395617",
-   "projectedSlug": "oh-firelands-museum-firelands-historical-society",
-   "targetSlug": null,
-   "name": "Firelands Museum (Firelands Historical Society)",
-   "town": "Norwalk",
-   "county": "Huron",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Museum — the Firelands' own historical society collection, in Norwalk since 1857",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 205,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3bf4c27845c139cb",
-   "projectedSlug": "oh-licking-county-historic-jail",
-   "targetSlug": null,
-   "name": "Licking County Historic Jail",
-   "town": "Newark",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Tours and events — 1889 Richardsonian jail (JAIL)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 266,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3c5b8b5a883f6de8",
-   "projectedSlug": "oh-ohio-veterans-home-museum",
-   "targetSlug": null,
-   "name": "Ohio Veterans Home Museum",
-   "town": "Sandusky",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Museum on the veterans' home grounds, est. 1888 (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 211,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3c923f4358ac13b6",
-   "projectedSlug": "oh-sauder-village",
-   "targetSlug": null,
-   "name": "Sauder Village",
-   "town": "Archbold",
-   "county": "Fulton",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Living-history museum — northwest Ohio farm village",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 226,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3d1715311d65a6fa",
-   "projectedSlug": "oh-mccook-house-state-memorial",
-   "targetSlug": null,
-   "name": "McCook House State Memorial",
-   "town": "Carrollton",
-   "county": "Carroll",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "State memorial — the \"Fighting McCooks\" Civil War family (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 247,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3d5432c6c4bf97e1",
-   "projectedSlug": "oh-victoria-theatre",
-   "targetSlug": null,
-   "name": "Victoria Theatre",
-   "town": "Dayton",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 416,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4a565e80de0d2640",
-   "projectedSlug": "oh-uss-cod-submarine-memorial",
-   "targetSlug": null,
-   "name": "USS Cod Submarine Memorial",
-   "town": "Cleveland",
-   "county": "Cuyahoga",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Museum ship — WWII fleet submarine built at Portsmouth, crewed tours (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 232,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4b60538b5d67024d",
-   "projectedSlug": "oh-lafayette-hotel",
-   "targetSlug": null,
-   "name": "Lafayette Hotel",
-   "town": "Marietta",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 422,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4cbdd395d804ef10",
-   "projectedSlug": "oh-cincinnati-museum-center-at-union-terminal",
-   "targetSlug": null,
-   "name": "Cincinnati Museum Center at Union Terminal",
-   "town": "Cincinnati",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Museum — 1933 rail terminal, WWII troop-train ground (labor / rail; military-adjacent)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 276,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4d7137f028dc8dfb",
-   "projectedSlug": "oh-cincinnati-music-hall",
-   "targetSlug": null,
-   "name": "Cincinnati Music Hall",
-   "town": "Cincinnati",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 412,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4d7ac1dd136af86b",
-   "projectedSlug": "oh-cooke-dorn-house",
-   "targetSlug": null,
-   "name": "Cooke-Dorn House",
-   "town": "Sandusky",
-   "county": "Erie",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Ohio History Connection house — harbor merchant's home, Underground Railroad associations",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 208,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_50987c80d7ba1e67",
-   "projectedSlug": "oh-mound-cemetery",
-   "targetSlug": null,
-   "name": "Mound Cemetery",
-   "town": "Marietta",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Public cemetery — Conus Mound ringed by Revolutionary officers' graves",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 292,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_566b65106eb52648",
-   "projectedSlug": "oh-prospect-place",
-   "targetSlug": null,
-   "name": "Prospect Place",
-   "town": "Trinway",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 409,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_567affc121723611",
-   "projectedSlug": "oh-john-rankin-house",
-   "targetSlug": null,
-   "name": "John Rankin House",
-   "town": "Ripley",
-   "county": "Brown",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Ohio History Connection — the great Ohio River UGRR station above the river",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 277,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_66d824260a746959",
-   "projectedSlug": "oh-newark-earthworks-great-circle-and-octagon",
-   "targetSlug": null,
-   "name": "Newark Earthworks (Great Circle & Octagon)",
-   "town": "Newark / Heath",
-   "county": "Licking",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "State site / UNESCO World Heritage — largest geometric earthworks complex in the world; Octagon access arranged around a golf lease, verify terms",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 265,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_685f9c91723abd68",
-   "projectedSlug": "oh-buffington-island-battlefield-memorial-park",
-   "targetSlug": null,
-   "name": "Buffington Island Battlefield Memorial Park",
-   "town": "Portland",
-   "county": "Meigs",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Ohio History Connection — Morgan's Raid, the only major Civil War battle in Ohio (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 295,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6b5bb739fe2136c6",
-   "projectedSlug": "oh-poasttown-elementary",
-   "targetSlug": null,
-   "name": "Poasttown Elementary",
-   "town": "Middletown",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "other — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 411,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7168b90f23c885d1",
-   "projectedSlug": "oh-schoenbrunn-village-state-historic-site",
-   "targetSlug": null,
-   "name": "Schoenbrunn Village State Historic Site",
-   "town": "New Philadelphia",
-   "county": "Tuscarawas",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "State historic site — Moravian mission town among the Delaware, 1772",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 246,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7481617b76ce94ef",
-   "projectedSlug": "oh-historic-lyme-village",
-   "targetSlug": null,
-   "name": "Historic Lyme Village",
-   "town": "Bellevue",
-   "county": "Huron/Seneca",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Open-air museum — Firelands pioneer village and Wright mansion",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 212,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8139c8c54bdfa712",
-   "projectedSlug": "oh-milan-museum-sayles-history-galleries",
-   "targetSlug": null,
-   "name": "Milan Museum / Sayles History Galleries",
-   "town": "Milan",
-   "county": "Erie",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Museum — Firelands settlement, Moravian mission origins, Milan Canal port",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 206,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_818abcf3896a5ce5",
-   "projectedSlug": "oh-jay-cooke-house-gibraltar-island",
-   "targetSlug": null,
-   "name": "Jay Cooke House, Gibraltar Island",
-   "town": "Put-in-Bay",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Civil War financier's island home — now Ohio State's Stone Laboratory, no general public access — flag",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 215,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_88a07b129d9ca671",
-   "projectedSlug": "oh-john-brown-house",
-   "targetSlug": null,
-   "name": "John Brown House",
-   "town": "Akron",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "County historical society museum — Brown's Akron years",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 237,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8a8503f5fa1bdad8",
-   "projectedSlug": "oh-ohio-state-reformatory",
-   "targetSlug": null,
-   "name": "Ohio State Reformatory",
-   "town": "Mansfield",
-   "county": "Richland",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Museum and tours — 1896–1990 reformatory, the *Shawshank* prison (PRISON)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 253,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8cf8a40c1d3a1bce",
-   "projectedSlug": "oh-ohio-penitentiary-site",
-   "targetSlug": null,
-   "name": "Ohio Penitentiary site",
-   "town": "Columbus",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "1930 Easter Monday fire killed 322 prisoners — prison demolished, ground now the Arena District (PRISON) — flag",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 264,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8e8f6e7b47a93925",
-   "projectedSlug": "oh-golden-lamb",
-   "targetSlug": null,
-   "name": "Golden Lamb",
-   "town": "Lebanon",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 418,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8f8028d43968de98",
-   "projectedSlug": "oh-stan-hywet-hall-and-gardens",
-   "targetSlug": null,
-   "name": "Stan Hywet Hall & Gardens",
-   "town": "Akron",
-   "county": "Summit",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "House museum — Goodyear co-founder Seiberling's estate (labor / rubber, owner's side)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 236,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_92342c5a15b79bbe",
-   "projectedSlug": "oh-maritime-museum-of-sandusky",
-   "targetSlug": null,
-   "name": "Maritime Museum of Sandusky",
-   "town": "Sandusky",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Museum — lake shipping, fishing, and ice-harvest labor",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 210,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_97e6aa64d7072c06",
-   "projectedSlug": "oh-perrys-victory-and-international-peace-memorial",
-   "targetSlug": null,
-   "name": "Perry's Victory and International Peace Memorial",
-   "town": "Put-in-Bay",
-   "county": "Ottawa",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "National park unit — Battle of Lake Erie, 1813 (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 213,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9f07bb588843912b",
-   "projectedSlug": "oh-follett-house-museum",
-   "targetSlug": null,
-   "name": "Follett House Museum",
-   "town": "Sandusky",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Museum — Sandusky's Underground Railroad waterfront and abolitionist press ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 209,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9ff9528e97800d3b",
-   "projectedSlug": "oh-squires-castle",
-   "targetSlug": null,
-   "name": "Squire's Castle",
-   "town": "Willoughby Hills",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "house — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 424,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a0be7c19857fddc5",
-   "projectedSlug": "oh-malabar-farm-state-park",
-   "targetSlug": null,
-   "name": "Malabar Farm State Park",
-   "town": "Lucas",
-   "county": "Richland",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "State park — Louis Bromfield's farm and the Big House",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 254,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a0c2dd254860002c",
-   "projectedSlug": "oh-dayton-aviation-heritage-national-historical-park",
-   "targetSlug": null,
-   "name": "Dayton Aviation Heritage National Historical Park",
-   "town": "Dayton",
-   "county": "Montgomery",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "National park unit — Wright brothers' cycle shop, Huffman Prairie, Wright Flyer III (military aviation ground)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 278,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a64c2f66f43f5570",
-   "projectedSlug": "oh-bissman-building",
-   "targetSlug": null,
-   "name": "Bissman Building",
-   "town": "Mansfield",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "other — anchor: ticketed tours / ghost tours run here. Source: worldurbanlegend.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 425,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a6f93fcbdd600a1b",
-   "projectedSlug": "oh-mckinley-presidential-library-museum-and-national-memorial",
-   "targetSlug": null,
-   "name": "McKinley Presidential Library, Museum & National Memorial",
-   "town": "Canton",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Museum and memorial tomb",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 243,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a7d0cccb7036a1f6",
-   "projectedSlug": "oh-thurber-house",
-   "targetSlug": null,
-   "name": "Thurber House",
-   "town": "Columbus",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "House museum — James Thurber's childhood home",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 262,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_af873137656bea7f",
-   "projectedSlug": "oh-the-ridges-athens-lunatic-asylum",
-   "targetSlug": null,
-   "name": "The Ridges (Athens Lunatic Asylum)",
-   "town": "Athens",
-   "county": "Athens",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Ohio University grounds — 1874 Kirkbride asylum; exteriors and cemeteries public, Kennedy Museum on site, interiors limited (ASYLUM)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 290,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b065c95155c404bc",
-   "projectedSlug": "oh-franklin-castle",
-   "targetSlug": null,
-   "name": "Franklin Castle",
-   "town": "Cleveland",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "house — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 414,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b1ccef2ef9c687e2",
-   "projectedSlug": "oh-edison-birthplace-museum",
-   "targetSlug": null,
-   "name": "Edison Birthplace Museum",
-   "town": "Milan",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Museum — Thomas Edison's 1847 birthplace above the canal basin",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 207,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b2adb08f00acb997",
-   "projectedSlug": "oh-buckeye-furnace-state-memorial",
-   "targetSlug": null,
-   "name": "Buckeye Furnace State Memorial",
-   "town": "Wellston",
-   "county": "Jackson",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Ohio History Connection — reconstructed charcoal iron furnace (labor / industry)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 293,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b2f101f3b6bd5ef6",
-   "projectedSlug": "oh-lake-view-cemetery-and-garfield-monument",
-   "targetSlug": null,
-   "name": "Lake View Cemetery & Garfield Monument",
-   "town": "Cleveland",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Public cemetery — Garfield tomb, Rockefeller, the \"Haserot Angel\"",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 240,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b65fd80fe7622441",
-   "projectedSlug": "oh-ohio-statehouse",
-   "targetSlug": null,
-   "name": "Ohio Statehouse",
-   "town": "Columbus",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Public building with tours — includes the Civil War-era statehouse ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 261,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    },
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 426,
-     "dialect": "desk-sweep-4",
-     "role": "listed"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b7ae65dcfb900919",
-   "projectedSlug": "oh-fort-laurens-state-memorial",
-   "targetSlug": null,
-   "name": "Fort Laurens State Memorial",
-   "town": "Bolivar",
-   "county": "Tuscarawas",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "State memorial and museum — Ohio's only Revolutionary War fort, 1778 (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 245,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b826c07953dd5417",
-   "projectedSlug": "oh-zoar-village-state-historic-site",
-   "targetSlug": null,
-   "name": "Zoar Village State Historic Site",
-   "town": "Zoar",
-   "county": "Tuscarawas",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "State historic site — German Separatist communal village, 1817",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 244,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_bb73b50190955e5f",
-   "projectedSlug": "oh-fort-ancient-earthworks-and-nature-preserve",
-   "targetSlug": null,
-   "name": "Fort Ancient Earthworks & Nature Preserve",
-   "town": "Oregonia",
-   "county": "Warren",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Ohio History Connection / UNESCO — largest ancient hilltop enclosure in North America",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 281,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_bc9150fd292fa1b2",
-   "projectedSlug": "oh-johnsons-island-confederate-cemetery",
-   "targetSlug": null,
-   "name": "Johnson's Island Confederate Cemetery",
-   "town": "Marblehead",
-   "county": "Ottawa",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Public cemetery (causeway access) — Confederate officers' POW camp ground, 1862–65 (PRISON / military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 204,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_bd3366dc5c45c6b5",
-   "projectedSlug": "oh-sedamsville-rectory",
-   "targetSlug": null,
-   "name": "Sedamsville Rectory",
-   "town": "Cincinnati",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "house — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 421,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_beff1b60380d4ab8",
-   "projectedSlug": "oh-kirtland-temple",
-   "targetSlug": null,
-   "name": "Kirtland Temple",
-   "town": "Kirtland",
-   "county": "Lake",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Historic site with tours — 1836 Latter Day Saint temple",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 234,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_bffd9608cee2a4b8",
-   "projectedSlug": "oh-first-ladies-national-historic-site",
-   "targetSlug": null,
-   "name": "First Ladies National Historic Site",
-   "town": "Canton",
-   "county": "Stark",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "National park unit — Saxton-McKinley house and education center",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 242,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c022e3403b7f6666",
-   "projectedSlug": "oh-armstrong-air-and-space-museum",
-   "targetSlug": null,
-   "name": "Armstrong Air & Space Museum",
-   "town": "Wapakoneta",
-   "county": "Auglaize",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Museum — Neil Armstrong's hometown",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 225,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c4ddf7f326bd4c7f",
-   "projectedSlug": "oh-shrum-mound-campbell-park",
-   "targetSlug": null,
-   "name": "Shrum Mound (Campbell Park)",
-   "town": "Columbus",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Public park — Adena burial mound in a city park",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 263,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d0245d2358f81774",
-   "projectedSlug": "oh-the-ridges",
-   "targetSlug": null,
-   "name": "The Ridges",
-   "town": "Athens",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "asylum — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 410,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d2943b1835ed7362",
-   "projectedSlug": "oh-woodland-cemetery",
-   "targetSlug": null,
-   "name": "Woodland Cemetery",
-   "town": "Dayton",
-   "county": "Ohio",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "cemetery — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 417,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d4c6df918d12bf2c",
-   "projectedSlug": "oh-serpent-mound",
-   "targetSlug": null,
-   "name": "Serpent Mound",
-   "town": "Peebles",
-   "county": "Adams",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "State memorial — the great serpent effigy",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 289,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d6d931d7c06e7585",
-   "projectedSlug": "oh-rendville",
-   "targetSlug": null,
-   "name": "Rendville",
-   "town": "Rendville",
-   "county": "Perry",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Public village ground — Ohio's oldest Black-founded incorporated town, coal-mining community (labor / coal + civil rights); verify interpretation on site",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 297,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_dbee3207962b2735",
-   "projectedSlug": "oh-flint-ridge-ancient-quarries-and-nature-preserve",
-   "targetSlug": null,
-   "name": "Flint Ridge Ancient Quarries & Nature Preserve",
-   "town": "Glenford",
-   "county": "Licking",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Ohio History Connection — Indigenous flint quarry pits across 500 acres",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 267,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e1729916e4115e86",
-   "projectedSlug": "oh-moonville-tunnel",
-   "targetSlug": null,
-   "name": "Moonville Tunnel",
-   "town": "Zaleski State Forest",
-   "county": "Vinton",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Public rail trail — abandoned mining-town tunnel, ghost lore recorded as lore",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 296,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e1a25b03f26ee31e",
-   "projectedSlug": "oh-dr-bobs-home",
-   "targetSlug": null,
-   "name": "Dr. Bob's Home",
-   "town": "Akron",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Museum — Alcoholics Anonymous founding site, 1935",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 238,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e645c45443238212",
-   "projectedSlug": "oh-fort-recovery-state-museum",
-   "targetSlug": null,
-   "name": "Fort Recovery State Museum",
-   "town": "Fort Recovery",
-   "county": "Mercer",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "State museum — St. Clair's Defeat (1791) and Fort Recovery (1794) ground (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 223,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e9382208ff0104af",
-   "projectedSlug": "oh-hale-farm-and-village",
-   "targetSlug": null,
-   "name": "Hale Farm & Village",
-   "town": "Bath",
-   "county": "Summit",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Living-history museum — Western Reserve farm village",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 239,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ef43f9ac2cefcc5a",
-   "projectedSlug": "oh-james-a-garfield-national-historic-site",
-   "targetSlug": null,
-   "name": "James A. Garfield National Historic Site",
-   "town": "Mentor",
-   "county": "Lake",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "National park unit — \"Lawnfield,\" first front-porch campaign",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 233,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f1d781b2dae0d4c0",
-   "projectedSlug": "oh-william-howard-taft-national-historic-site",
-   "targetSlug": null,
-   "name": "William Howard Taft National Historic Site",
-   "town": "Cincinnati",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "National park unit",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 275,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f82eb1ecfdc6010f",
-   "projectedSlug": "oh-camp-sherman-ground",
-   "targetSlug": null,
-   "name": "Camp Sherman ground",
-   "town": "Chillicothe",
-   "county": "Ross",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "WWI cantonment of 40,000 — ground largely absorbed by the VA and later development (military) — flag",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 299,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fa4a264bab0b92dd",
-   "projectedSlug": "oh-helltown-boston-township",
-   "targetSlug": null,
-   "name": "Helltown (Boston Township)",
-   "town": "Boston Township",
-   "county": "Summit",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "1970s federal buyout emptied the village inside Cuyahoga Valley NP — few structures, heavy lore, no developed site — flag (weird spot)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 241,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fbff689a886e4364",
-   "projectedSlug": "oh-fort-amanda-and-fort-jefferson-memorial-parks",
-   "targetSlug": null,
-   "name": "Fort Amanda & Fort Jefferson Memorial Parks",
-   "town": "Lima / Greenville areas",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Memorial parks — War of 1812 supply forts (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 224,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fca57d47713b9afe",
-   "projectedSlug": "oh-harriet-beecher-stowe-house",
-   "targetSlug": null,
-   "name": "Harriet Beecher Stowe House",
-   "town": "Cincinnati",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Ohio History Connection — Stowe's 1830s Cincinnati years",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 274,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fdbe15e9067d4fa7",
-   "projectedSlug": "oh-adena-mansion-and-gardens",
-   "targetSlug": null,
-   "name": "Adena Mansion & Gardens",
-   "town": "Chillicothe",
-   "county": "",
-   "state": "OH",
-   "tier": null,
-   "anchorPosture": "Ohio History Connection — Thomas Worthington's estate, first capital era",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "IL-IN-OH-first-sweep.md",
-     "row": 288,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
    "id": "lq_032ebd7abaa9dbbc",
    "projectedSlug": "wi-wisconsin-historical-museum-and-state-capitol",
    "targetSlug": null,
@@ -149071,6 +147179,1898 @@
    "attempts": []
   },
   {
+   "id": "lq_005c80eece287d5c",
+   "projectedSlug": "oh-inscription-rock-and-glacial-grooves-kelleys-island",
+   "targetSlug": null,
+   "name": "Inscription Rock & Glacial Grooves, Kelleys Island",
+   "town": "Kelleys Island",
+   "county": "Erie",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "State memorial / park — Indigenous petroglyphs and glacial grooves",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 214,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_006e727aa7381f53",
+   "projectedSlug": "oh-buxton-inn",
+   "targetSlug": null,
+   "name": "Buxton Inn",
+   "town": "Granville",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 419,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0bc69c7f4ae1c355",
+   "projectedSlug": "oh-paul-laurence-dunbar-house",
+   "targetSlug": null,
+   "name": "Paul Laurence Dunbar House",
+   "town": "Dayton",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "National park unit / state site — Black poet's home",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 279,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0d17880e6bff3233",
+   "projectedSlug": "oh-campus-martius-and-ohio-river-museum",
+   "targetSlug": null,
+   "name": "Campus Martius & Ohio River Museum",
+   "town": "Marietta",
+   "county": "Washington",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Ohio History Connection — 1788 first organized settlement of the Northwest Territory; W.P. Snyder Jr. sternwheeler",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 291,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1026f081f0f7885b",
+   "projectedSlug": "oh-fallen-timbers-battlefield",
+   "targetSlug": null,
+   "name": "Fallen Timbers Battlefield",
+   "town": "Maumee",
+   "county": "Lucas",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Metropark / NPS-affiliated — 1794 battle that broke the Western Confederacy (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 222,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_13e17c136baeb1d1",
+   "projectedSlug": "oh-toledo-state-hospital-cemeteries",
+   "targetSlug": null,
+   "name": "Toledo State Hospital cemeteries",
+   "town": "Toledo",
+   "county": "Lucas",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Hospital demolished; two patient cemeteries survive with a memorial — no developed site (ASYLUM) — flag",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 298,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1401133fa850815e",
+   "projectedSlug": "oh-ohio-history-center-and-ohio-village",
+   "targetSlug": null,
+   "name": "Ohio History Center & Ohio Village",
+   "town": "Columbus",
+   "county": "Franklin",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Museum — state history museum and recreated 1890s village",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 260,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1434cc3730e63595",
+   "projectedSlug": "oh-mortuary-manor",
+   "targetSlug": null,
+   "name": "Mortuary Manor",
+   "town": "Toledo",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "other — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 413,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_15e6787982abf507",
+   "projectedSlug": "oh-charles-young-house-charles-young-buffalo-soldiers-national-monument",
+   "targetSlug": null,
+   "name": "Charles Young House (Charles Young Buffalo Soldiers National Monument)",
+   "town": "Wilberforce",
+   "county": "Greene",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "National park unit — highest-ranking Black officer of his era, beside Wilberforce University (military / civil rights)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 280,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1adcee9783af2f90",
+   "projectedSlug": "oh-leo-petroglyph-state-memorial",
+   "targetSlug": null,
+   "name": "Leo Petroglyph State Memorial",
+   "town": "Jackson",
+   "county": "Jackson",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "State memorial — Fort Ancient-era petroglyph panel",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 294,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1c1abda844f7a0dd",
+   "projectedSlug": "oh-akron-civic-theatre",
+   "targetSlug": null,
+   "name": "Akron Civic Theatre",
+   "town": "Akron",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 423,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1d2714fc6b165a77",
+   "projectedSlug": "oh-oberlin-underground-railroad-and-abolition-cluster",
+   "targetSlug": null,
+   "name": "Oberlin Underground Railroad & abolition cluster",
+   "town": "Oberlin",
+   "county": "Lorain",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Heritage Center tours — Oberlin-Wellington Rescue, Evans and Langston houses, college ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 235,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1fa540e5e9274820",
+   "projectedSlug": "oh-fort-meigs",
+   "targetSlug": "OH-fort-meigs",
+   "name": "Fort Meigs",
+   "town": "Perrysburg",
+   "county": "Wood",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Ohio History Connection — War of 1812 fort, reconstructed (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 221,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_25acc678bf06a2ce",
+   "projectedSlug": "oh-national-underground-railroad-freedom-center",
+   "targetSlug": null,
+   "name": "National Underground Railroad Freedom Center",
+   "town": "Cincinnati",
+   "county": "Hamilton",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Museum — on the Ohio River freedom crossing",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 273,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_2cff04f63c26d42c",
+   "projectedSlug": "oh-hopewell-culture-national-historical-park",
+   "targetSlug": null,
+   "name": "Hopewell Culture National Historical Park",
+   "town": "Chillicothe",
+   "county": "Ross",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "National park unit / UNESCO — Mound City and the Hopewell ceremonial landscape",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 287,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_32c96588925d65dd",
+   "projectedSlug": "oh-majestic-theatre",
+   "targetSlug": null,
+   "name": "Majestic Theatre",
+   "town": "Chillicothe",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 420,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3595921b6c395617",
+   "projectedSlug": "oh-firelands-museum-firelands-historical-society",
+   "targetSlug": null,
+   "name": "Firelands Museum (Firelands Historical Society)",
+   "town": "Norwalk",
+   "county": "Huron",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Museum — the Firelands' own historical society collection, in Norwalk since 1857",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 205,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3bf4c27845c139cb",
+   "projectedSlug": "oh-licking-county-historic-jail",
+   "targetSlug": null,
+   "name": "Licking County Historic Jail",
+   "town": "Newark",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Tours and events — 1889 Richardsonian jail (JAIL)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 266,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3c5b8b5a883f6de8",
+   "projectedSlug": "oh-ohio-veterans-home-museum",
+   "targetSlug": null,
+   "name": "Ohio Veterans Home Museum",
+   "town": "Sandusky",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Museum on the veterans' home grounds, est. 1888 (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 211,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3c923f4358ac13b6",
+   "projectedSlug": "oh-sauder-village",
+   "targetSlug": null,
+   "name": "Sauder Village",
+   "town": "Archbold",
+   "county": "Fulton",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Living-history museum — northwest Ohio farm village",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 226,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3d1715311d65a6fa",
+   "projectedSlug": "oh-mccook-house-state-memorial",
+   "targetSlug": null,
+   "name": "McCook House State Memorial",
+   "town": "Carrollton",
+   "county": "Carroll",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "State memorial — the \"Fighting McCooks\" Civil War family (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 247,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3d5432c6c4bf97e1",
+   "projectedSlug": "oh-victoria-theatre",
+   "targetSlug": null,
+   "name": "Victoria Theatre",
+   "town": "Dayton",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 416,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4a565e80de0d2640",
+   "projectedSlug": "oh-uss-cod-submarine-memorial",
+   "targetSlug": null,
+   "name": "USS Cod Submarine Memorial",
+   "town": "Cleveland",
+   "county": "Cuyahoga",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Museum ship — WWII fleet submarine built at Portsmouth, crewed tours (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 232,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4b60538b5d67024d",
+   "projectedSlug": "oh-lafayette-hotel",
+   "targetSlug": null,
+   "name": "Lafayette Hotel",
+   "town": "Marietta",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 422,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4cbdd395d804ef10",
+   "projectedSlug": "oh-cincinnati-museum-center-at-union-terminal",
+   "targetSlug": null,
+   "name": "Cincinnati Museum Center at Union Terminal",
+   "town": "Cincinnati",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Museum — 1933 rail terminal, WWII troop-train ground (labor / rail; military-adjacent)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 276,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4d7137f028dc8dfb",
+   "projectedSlug": "oh-cincinnati-music-hall",
+   "targetSlug": null,
+   "name": "Cincinnati Music Hall",
+   "town": "Cincinnati",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 412,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4d7ac1dd136af86b",
+   "projectedSlug": "oh-cooke-dorn-house",
+   "targetSlug": null,
+   "name": "Cooke-Dorn House",
+   "town": "Sandusky",
+   "county": "Erie",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Ohio History Connection house — harbor merchant's home, Underground Railroad associations",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 208,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_50987c80d7ba1e67",
+   "projectedSlug": "oh-mound-cemetery",
+   "targetSlug": null,
+   "name": "Mound Cemetery",
+   "town": "Marietta",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Public cemetery — Conus Mound ringed by Revolutionary officers' graves",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 292,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_566b65106eb52648",
+   "projectedSlug": "oh-prospect-place",
+   "targetSlug": null,
+   "name": "Prospect Place",
+   "town": "Trinway",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 409,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_567affc121723611",
+   "projectedSlug": "oh-john-rankin-house",
+   "targetSlug": "OH-john-rankin-house",
+   "name": "John Rankin House",
+   "town": "Ripley",
+   "county": "Brown",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Ohio History Connection — the great Ohio River UGRR station above the river",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 277,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_66d824260a746959",
+   "projectedSlug": "oh-newark-earthworks-great-circle-and-octagon",
+   "targetSlug": null,
+   "name": "Newark Earthworks (Great Circle & Octagon)",
+   "town": "Newark / Heath",
+   "county": "Licking",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "State site / UNESCO World Heritage — largest geometric earthworks complex in the world; Octagon access arranged around a golf lease, verify terms",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 265,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_685f9c91723abd68",
+   "projectedSlug": "oh-buffington-island-battlefield-memorial-park",
+   "targetSlug": null,
+   "name": "Buffington Island Battlefield Memorial Park",
+   "town": "Portland",
+   "county": "Meigs",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Ohio History Connection — Morgan's Raid, the only major Civil War battle in Ohio (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 295,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6b5bb739fe2136c6",
+   "projectedSlug": "oh-poasttown-elementary",
+   "targetSlug": null,
+   "name": "Poasttown Elementary",
+   "town": "Middletown",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "other — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 411,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7168b90f23c885d1",
+   "projectedSlug": "oh-schoenbrunn-village-state-historic-site",
+   "targetSlug": null,
+   "name": "Schoenbrunn Village State Historic Site",
+   "town": "New Philadelphia",
+   "county": "Tuscarawas",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "State historic site — Moravian mission town among the Delaware, 1772",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 246,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7481617b76ce94ef",
+   "projectedSlug": "oh-historic-lyme-village",
+   "targetSlug": null,
+   "name": "Historic Lyme Village",
+   "town": "Bellevue",
+   "county": "Huron/Seneca",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Open-air museum — Firelands pioneer village and Wright mansion",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 212,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8139c8c54bdfa712",
+   "projectedSlug": "oh-milan-museum-sayles-history-galleries",
+   "targetSlug": null,
+   "name": "Milan Museum / Sayles History Galleries",
+   "town": "Milan",
+   "county": "Erie",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Museum — Firelands settlement, Moravian mission origins, Milan Canal port",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 206,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_818abcf3896a5ce5",
+   "projectedSlug": "oh-jay-cooke-house-gibraltar-island",
+   "targetSlug": null,
+   "name": "Jay Cooke House, Gibraltar Island",
+   "town": "Put-in-Bay",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Civil War financier's island home — now Ohio State's Stone Laboratory, no general public access — flag",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 215,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_88a07b129d9ca671",
+   "projectedSlug": "oh-john-brown-house",
+   "targetSlug": null,
+   "name": "John Brown House",
+   "town": "Akron",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "County historical society museum — Brown's Akron years",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 237,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8a8503f5fa1bdad8",
+   "projectedSlug": "oh-ohio-state-reformatory",
+   "targetSlug": null,
+   "name": "Ohio State Reformatory",
+   "town": "Mansfield",
+   "county": "Richland",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Museum and tours — 1896–1990 reformatory, the *Shawshank* prison (PRISON)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 253,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8cf8a40c1d3a1bce",
+   "projectedSlug": "oh-ohio-penitentiary-site",
+   "targetSlug": null,
+   "name": "Ohio Penitentiary site",
+   "town": "Columbus",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "1930 Easter Monday fire killed 322 prisoners — prison demolished, ground now the Arena District (PRISON) — flag",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 264,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8e8f6e7b47a93925",
+   "projectedSlug": "oh-golden-lamb",
+   "targetSlug": null,
+   "name": "Golden Lamb",
+   "town": "Lebanon",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 418,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8f8028d43968de98",
+   "projectedSlug": "oh-stan-hywet-hall-and-gardens",
+   "targetSlug": null,
+   "name": "Stan Hywet Hall & Gardens",
+   "town": "Akron",
+   "county": "Summit",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "House museum — Goodyear co-founder Seiberling's estate (labor / rubber, owner's side)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 236,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_92342c5a15b79bbe",
+   "projectedSlug": "oh-maritime-museum-of-sandusky",
+   "targetSlug": null,
+   "name": "Maritime Museum of Sandusky",
+   "town": "Sandusky",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Museum — lake shipping, fishing, and ice-harvest labor",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 210,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_97e6aa64d7072c06",
+   "projectedSlug": "oh-perrys-victory-and-international-peace-memorial",
+   "targetSlug": null,
+   "name": "Perry's Victory and International Peace Memorial",
+   "town": "Put-in-Bay",
+   "county": "Ottawa",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "National park unit — Battle of Lake Erie, 1813 (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 213,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_9f07bb588843912b",
+   "projectedSlug": "oh-follett-house-museum",
+   "targetSlug": null,
+   "name": "Follett House Museum",
+   "town": "Sandusky",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Museum — Sandusky's Underground Railroad waterfront and abolitionist press ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 209,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_9ff9528e97800d3b",
+   "projectedSlug": "oh-squires-castle",
+   "targetSlug": null,
+   "name": "Squire's Castle",
+   "town": "Willoughby Hills",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "house — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 424,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a0be7c19857fddc5",
+   "projectedSlug": "oh-malabar-farm-state-park",
+   "targetSlug": null,
+   "name": "Malabar Farm State Park",
+   "town": "Lucas",
+   "county": "Richland",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "State park — Louis Bromfield's farm and the Big House",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 254,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a0c2dd254860002c",
+   "projectedSlug": "oh-dayton-aviation-heritage-national-historical-park",
+   "targetSlug": null,
+   "name": "Dayton Aviation Heritage National Historical Park",
+   "town": "Dayton",
+   "county": "Montgomery",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "National park unit — Wright brothers' cycle shop, Huffman Prairie, Wright Flyer III (military aviation ground)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 278,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a64c2f66f43f5570",
+   "projectedSlug": "oh-bissman-building",
+   "targetSlug": null,
+   "name": "Bissman Building",
+   "town": "Mansfield",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "other — anchor: ticketed tours / ghost tours run here. Source: worldurbanlegend.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 425,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a6f93fcbdd600a1b",
+   "projectedSlug": "oh-mckinley-presidential-library-museum-and-national-memorial",
+   "targetSlug": null,
+   "name": "McKinley Presidential Library, Museum & National Memorial",
+   "town": "Canton",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Museum and memorial tomb",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 243,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a7d0cccb7036a1f6",
+   "projectedSlug": "oh-thurber-house",
+   "targetSlug": null,
+   "name": "Thurber House",
+   "town": "Columbus",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "House museum — James Thurber's childhood home",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 262,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_af873137656bea7f",
+   "projectedSlug": "oh-the-ridges-athens-lunatic-asylum",
+   "targetSlug": null,
+   "name": "The Ridges (Athens Lunatic Asylum)",
+   "town": "Athens",
+   "county": "Athens",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Ohio University grounds — 1874 Kirkbride asylum; exteriors and cemeteries public, Kennedy Museum on site, interiors limited (ASYLUM)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 290,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b065c95155c404bc",
+   "projectedSlug": "oh-franklin-castle",
+   "targetSlug": null,
+   "name": "Franklin Castle",
+   "town": "Cleveland",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "house — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 414,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b1ccef2ef9c687e2",
+   "projectedSlug": "oh-edison-birthplace-museum",
+   "targetSlug": null,
+   "name": "Edison Birthplace Museum",
+   "town": "Milan",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Museum — Thomas Edison's 1847 birthplace above the canal basin",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 207,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b2adb08f00acb997",
+   "projectedSlug": "oh-buckeye-furnace-state-memorial",
+   "targetSlug": null,
+   "name": "Buckeye Furnace State Memorial",
+   "town": "Wellston",
+   "county": "Jackson",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Ohio History Connection — reconstructed charcoal iron furnace (labor / industry)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 293,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b2f101f3b6bd5ef6",
+   "projectedSlug": "oh-lake-view-cemetery-and-garfield-monument",
+   "targetSlug": null,
+   "name": "Lake View Cemetery & Garfield Monument",
+   "town": "Cleveland",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Public cemetery — Garfield tomb, Rockefeller, the \"Haserot Angel\"",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 240,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b65fd80fe7622441",
+   "projectedSlug": "oh-ohio-statehouse",
+   "targetSlug": null,
+   "name": "Ohio Statehouse",
+   "town": "Columbus",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Public building with tours — includes the Civil War-era statehouse ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 261,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    },
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 426,
+     "dialect": "desk-sweep-4",
+     "role": "listed"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b7ae65dcfb900919",
+   "projectedSlug": "oh-fort-laurens-state-memorial",
+   "targetSlug": null,
+   "name": "Fort Laurens State Memorial",
+   "town": "Bolivar",
+   "county": "Tuscarawas",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "State memorial and museum — Ohio's only Revolutionary War fort, 1778 (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 245,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b826c07953dd5417",
+   "projectedSlug": "oh-zoar-village-state-historic-site",
+   "targetSlug": null,
+   "name": "Zoar Village State Historic Site",
+   "town": "Zoar",
+   "county": "Tuscarawas",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "State historic site — German Separatist communal village, 1817",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 244,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_bb73b50190955e5f",
+   "projectedSlug": "oh-fort-ancient-earthworks-and-nature-preserve",
+   "targetSlug": null,
+   "name": "Fort Ancient Earthworks & Nature Preserve",
+   "town": "Oregonia",
+   "county": "Warren",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Ohio History Connection / UNESCO — largest ancient hilltop enclosure in North America",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 281,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_bc9150fd292fa1b2",
+   "projectedSlug": "oh-johnsons-island-confederate-cemetery",
+   "targetSlug": null,
+   "name": "Johnson's Island Confederate Cemetery",
+   "town": "Marblehead",
+   "county": "Ottawa",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Public cemetery (causeway access) — Confederate officers' POW camp ground, 1862–65 (PRISON / military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 204,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_bd3366dc5c45c6b5",
+   "projectedSlug": "oh-sedamsville-rectory",
+   "targetSlug": null,
+   "name": "Sedamsville Rectory",
+   "town": "Cincinnati",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "house — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 421,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_beff1b60380d4ab8",
+   "projectedSlug": "oh-kirtland-temple",
+   "targetSlug": null,
+   "name": "Kirtland Temple",
+   "town": "Kirtland",
+   "county": "Lake",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Historic site with tours — 1836 Latter Day Saint temple",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 234,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_bffd9608cee2a4b8",
+   "projectedSlug": "oh-first-ladies-national-historic-site",
+   "targetSlug": null,
+   "name": "First Ladies National Historic Site",
+   "town": "Canton",
+   "county": "Stark",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "National park unit — Saxton-McKinley house and education center",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 242,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c022e3403b7f6666",
+   "projectedSlug": "oh-armstrong-air-and-space-museum",
+   "targetSlug": null,
+   "name": "Armstrong Air & Space Museum",
+   "town": "Wapakoneta",
+   "county": "Auglaize",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Museum — Neil Armstrong's hometown",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 225,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c4ddf7f326bd4c7f",
+   "projectedSlug": "oh-shrum-mound-campbell-park",
+   "targetSlug": null,
+   "name": "Shrum Mound (Campbell Park)",
+   "town": "Columbus",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Public park — Adena burial mound in a city park",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 263,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d0245d2358f81774",
+   "projectedSlug": "oh-the-ridges",
+   "targetSlug": null,
+   "name": "The Ridges",
+   "town": "Athens",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "asylum — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 410,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d2943b1835ed7362",
+   "projectedSlug": "oh-woodland-cemetery",
+   "targetSlug": null,
+   "name": "Woodland Cemetery",
+   "town": "Dayton",
+   "county": "Ohio",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "cemetery — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 417,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d4c6df918d12bf2c",
+   "projectedSlug": "oh-serpent-mound",
+   "targetSlug": null,
+   "name": "Serpent Mound",
+   "town": "Peebles",
+   "county": "Adams",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "State memorial — the great serpent effigy",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 289,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d6d931d7c06e7585",
+   "projectedSlug": "oh-rendville",
+   "targetSlug": null,
+   "name": "Rendville",
+   "town": "Rendville",
+   "county": "Perry",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Public village ground — Ohio's oldest Black-founded incorporated town, coal-mining community (labor / coal + civil rights); verify interpretation on site",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 297,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_dbee3207962b2735",
+   "projectedSlug": "oh-flint-ridge-ancient-quarries-and-nature-preserve",
+   "targetSlug": null,
+   "name": "Flint Ridge Ancient Quarries & Nature Preserve",
+   "town": "Glenford",
+   "county": "Licking",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Ohio History Connection — Indigenous flint quarry pits across 500 acres",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 267,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e1729916e4115e86",
+   "projectedSlug": "oh-moonville-tunnel",
+   "targetSlug": null,
+   "name": "Moonville Tunnel",
+   "town": "Zaleski State Forest",
+   "county": "Vinton",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Public rail trail — abandoned mining-town tunnel, ghost lore recorded as lore",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 296,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e1a25b03f26ee31e",
+   "projectedSlug": "oh-dr-bobs-home",
+   "targetSlug": null,
+   "name": "Dr. Bob's Home",
+   "town": "Akron",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Museum — Alcoholics Anonymous founding site, 1935",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 238,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e645c45443238212",
+   "projectedSlug": "oh-fort-recovery-state-museum",
+   "targetSlug": null,
+   "name": "Fort Recovery State Museum",
+   "town": "Fort Recovery",
+   "county": "Mercer",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "State museum — St. Clair's Defeat (1791) and Fort Recovery (1794) ground (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 223,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e9382208ff0104af",
+   "projectedSlug": "oh-hale-farm-and-village",
+   "targetSlug": null,
+   "name": "Hale Farm & Village",
+   "town": "Bath",
+   "county": "Summit",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Living-history museum — Western Reserve farm village",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 239,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ef43f9ac2cefcc5a",
+   "projectedSlug": "oh-james-a-garfield-national-historic-site",
+   "targetSlug": null,
+   "name": "James A. Garfield National Historic Site",
+   "town": "Mentor",
+   "county": "Lake",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "National park unit — \"Lawnfield,\" first front-porch campaign",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 233,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f1d781b2dae0d4c0",
+   "projectedSlug": "oh-william-howard-taft-national-historic-site",
+   "targetSlug": null,
+   "name": "William Howard Taft National Historic Site",
+   "town": "Cincinnati",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "National park unit",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 275,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f82eb1ecfdc6010f",
+   "projectedSlug": "oh-camp-sherman-ground",
+   "targetSlug": null,
+   "name": "Camp Sherman ground",
+   "town": "Chillicothe",
+   "county": "Ross",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "WWI cantonment of 40,000 — ground largely absorbed by the VA and later development (military) — flag",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 299,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fa4a264bab0b92dd",
+   "projectedSlug": "oh-helltown-boston-township",
+   "targetSlug": null,
+   "name": "Helltown (Boston Township)",
+   "town": "Boston Township",
+   "county": "Summit",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "1970s federal buyout emptied the village inside Cuyahoga Valley NP — few structures, heavy lore, no developed site — flag (weird spot)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 241,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fbff689a886e4364",
+   "projectedSlug": "oh-fort-amanda-and-fort-jefferson-memorial-parks",
+   "targetSlug": null,
+   "name": "Fort Amanda & Fort Jefferson Memorial Parks",
+   "town": "Lima / Greenville areas",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Memorial parks — War of 1812 supply forts (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 224,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fca57d47713b9afe",
+   "projectedSlug": "oh-harriet-beecher-stowe-house",
+   "targetSlug": null,
+   "name": "Harriet Beecher Stowe House",
+   "town": "Cincinnati",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Ohio History Connection — Stowe's 1830s Cincinnati years",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 274,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fdbe15e9067d4fa7",
+   "projectedSlug": "oh-adena-mansion-and-gardens",
+   "targetSlug": null,
+   "name": "Adena Mansion & Gardens",
+   "town": "Chillicothe",
+   "county": "",
+   "state": "OH",
+   "tier": null,
+   "anchorPosture": "Ohio History Connection — Thomas Worthington's estate, first capital era",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "IL-IN-OH-first-sweep.md",
+     "row": 288,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
    "id": "lq_09ba9a6ae3be5931",
    "projectedSlug": "mi-calumet-historic-district-and-calumet-theatre",
    "targetSlug": null,
@@ -179646,8 +179646,8 @@
   "byQueueState": {
    "checked-dead": 23,
    "held": 27,
-   "published": 53,
-   "queued": 6927
+   "published": 55,
+   "queued": 6925
   },
   "byState": {
    "AK": 121,

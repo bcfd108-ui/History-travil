@@ -1,6 +1,6 @@
 {
- "commit": "6e06bebd0c09976a900339ac9e08ed134cbe6cd1",
- "catalogCount": 839,
+ "commit": "51cbeaa26ceddec36c20fc349441c80002d8ed05",
+ "catalogCount": 849,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -33342,6 +33342,461 @@
      {
       "key": "CFR/spec",
       "value": "**"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-OH-dayton-aviation-heritage",
+   "slug": "OH-dayton-aviation-heritage",
+   "title": "HT-RES-OH-dayton-aviation-heritage — A pasture eight miles from home where flight learned to turn",
+   "town": "Dayton",
+   "state": "Ohio",
+   "stateCode": "OH",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-OH-dayton-aviation-heritage — A pasture eight miles from home where flight learned to turn",
+   "stableName": "Dayton Aviation Heritage National Historical Park — Huffman Prairie Flying Field and Wright Cycle Company complex",
+   "address": "22 South Williams Street, Dayton, OH 45402 (Wright Cycle Company building, per its NHL nomination); Huffman Prairie Flying Field, Gate 16A off State Route 444, Wright-Patterson AFB, OH 45433 (flying field unit)",
+   "locator": {
+    "stableName": "Dayton Aviation Heritage National Historical Park — Huffman Prairie Flying Field and Wright Cycle Company complex",
+    "address": "22 South Williams Street, Dayton, OH 45402 (Wright Cycle Company building, per its NHL nomination); Huffman Prairie Flying Field, Gate 16A off State Route 444, Wright-Patterson AFB, OH 45433 (flying field unit)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates printed. No primary source consulted for this draft — neither the LOC photograph record (its place latitude/longitude fields are blank), the NHL nominations, nor the NPS landscape record — carries a verified point for either unit, and lead-list coordinates were not used.",
+    "nrhp": "71000640 (Huffman Prairie Flying Field, National Historic Landmark); 86000236 (Wright Cycle Company building, National Historic Landmark)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress item 2001696497 (LC-DIG-ppprs-00616), first-photograph record",
+    "registerUrl": "http://npgallery.nps.gov/NRHP/GetAsset/NHLS/71000640_text",
+    "operator": "National Park Service (partnership park; flying-field land owned by Wright-Patterson Air Force Base)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Dayton (Huffman Prairie unit at Wright-Patterson Air Force Base, Fairborn vicinity)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Huffman Prairie Flying Field Interpretive Center, 2380 Memorial Road, Wright-Patterson AFB; and Wright-Dunbar Interpretive Center, 16 South Williams Street, Dayton"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Two separated public units — the Wright Cycle Company complex in west Dayton and Huffman Prairie Flying Field inside Wright-Patterson Air Force Base, the latter subject to unannounced closure as an active military installation; the remaining park units are separate grounds with their own records."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-OH-edison-birthplace",
+   "slug": "OH-edison-birthplace",
+   "title": "HT-RES-OH-edison-birthplace — The inventor's first address was a canal town's brick cottage, and the canal is still in the yard",
+   "town": "Milan",
+   "state": "Ohio",
+   "stateCode": "OH",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-OH-edison-birthplace — The inventor's first address was a canal town's brick cottage, and the canal is still in the yard",
+   "stableName": "Thomas A. Edison Birthplace — National Register listing: Thomas Edison Birthplace",
+   "address": "9 N. Edison Dr., Milan, OH 44846 (operator's address; the nomination carries Edison Drive without a number, and the 1934 HABS survey titles the corner Front Street & Choate Avenue — see §6)",
+   "locator": {
+    "stableName": "Thomas A. Edison Birthplace — National Register listing: Thomas Edison Birthplace",
+    "address": "9 N. Edison Dr., Milan, OH 44846 (operator's address; the nomination carries Edison Drive without a number, and the 1934 HABS survey titles the corner Front Street & Choate Avenue — see §6)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No latitude/longitude prints. The National Register nomination carries a UTM reference only — Zone 17, Easting 365620, Northing 4573080 — read directly from the form's Geographical Data section and printed here in its own form rather than converted. The nominated lot is 66 feet by 115.5 feet, less than one acre, per the nomination's verbal boundary description.",
+    "nrhp": "66000608 — Thomas Edison Birthplace (National Historic Landmark, designated 1965; entered in the National Register October 15, 1966)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress HABS OH-22-22 (item oh0271); first-photograph frame oh0271.photos.126590p, HABS OHIO,22-MILA,1--1",
+    "registerUrl": "https://npgallery.nps.gov/GetAsset/6a961176-b528-43bf-b59e-245848ea4de3/",
+    "operator": "Edison Birthplace Association, Inc. (Thomas Edison Birthplace Museum)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Milan, Erie County, Ohio"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Thomas Edison Birthplace Museum, the birthplace house on its original lot, west side of Edison Drive"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the museum visit — the Birthplace home and museum grounds at 9 N. Edison Dr. on the operator's seasonal, guided-tour terms as stated in §1. The Milan Canal Basin ground to the north is separate ground with its own marker record and is not part of this entry's boundary."
+     },
+     {
+      "key": "Status",
+      "value": "Ohio seed catalog — research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-OH-fort-meigs",
+   "slug": "OH-fort-meigs",
+   "title": "HT-RES-OH-fort-meigs — A ten-acre log fort on a Maumee bluff that two armies could not take",
+   "town": "Perrysburg",
+   "state": "Ohio",
+   "stateCode": "OH",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-OH-fort-meigs — A ten-acre log fort on a Maumee bluff that two armies could not take",
+   "stableName": "Fort Meigs",
+   "address": "29100 West River Road, Perrysburg, OH (Ohio History Connection site page)",
+   "locator": {
+    "stableName": "Fort Meigs",
+    "address": "29100 West River Road, Perrysburg, OH (Ohio History Connection site page)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinate is printed. The National Register record consulted carries the location line \"1.3 mi. SW of Perrysburg\" and no coordinate scoped to a defined point; none was taken from lead lists or inferred. See §6.",
+    "nrhp": "69000151 — listed and designated a National Historic Landmark August 4, 1969 (NPS National Register record)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Wikimedia Commons file page 5864988, File:Fort Meigs 03.jpg (first photo record)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/6b917aac-0102-493e-8e44-f1ec15a560ae",
+    "operator": "Ohio History Connection (managed locally by the Fort Meigs Association, per its site page)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Perrysburg"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The reconstructed fort and museum in the Fort Meigs State Memorial park on West River Road, at the western edge of Perrysburg (nomination)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The reconstructed fort and museum are the visit as the operator shapes it — fort open April–October, museum year-round, on the stated hours; the wider 65-acre park, with the obelisk and cemetery area, is the same site's ground."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-OH-hopewell-culture-mound-city",
+   "slug": "OH-hopewell-culture-mound-city",
+   "title": "HT-RES-OH-hopewell-culture-mound-city — Twenty-five mounds inside a low wall, flattened by an army camp, raised again",
+   "town": "Chillicothe",
+   "state": "Ohio",
+   "stateCode": "OH",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "HT-RES-OH-hopewell-culture-mound-city — Twenty-five mounds inside a low wall, flattened by an army camp, raised again",
+   "stableName": "Mound City Group — Hopewell Culture National Historical Park",
+   "address": "16062 State Route 104, Chillicothe, OH 45601 (address as the National Park Service carries it)",
+   "locator": {
+    "stableName": "Mound City Group — Hopewell Culture National Historical Park",
+    "address": "16062 State Route 104, Chillicothe, OH 45601 (address as the National Park Service carries it)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates printed. The Register record consulted carries none, and the only point in the first photo's NPGallery record is a repeated placeholder — the identical point appears on a Seip Earthworks asset record — so no primary source verified a point for Mound City's own ground in this pass. See §6.",
+    "nrhp": "66000119 — listed October 15, 1966 (per the NPS Register record; the Cultural Landscape Inventory states 1978 — unresolved in §6)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "NPGallery asset d829d8d4-bdb5-458d-bb2b-f849817b20a0 (first photo record)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000119",
+    "operator": "National Park Service (HOCU)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Chillicothe, Ross County"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Mound City Group Visitor Center, on State Route 104 about 2 miles north of U.S. 35"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The Mound City unit's public ground — visitor center, the enclosure interior on foot among (never on) the mounds and walls, the nature trail, and the river walk — during posted hours: grounds dawn to dusk, visitor center 9:00 a.m. to 4:00 p.m. This entry covers the Mound City unit only; the park's other units are separate grounds."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; reflection stop; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-OH-john-rankin-house",
+   "slug": "OH-john-rankin-house",
+   "title": "HT-RES-OH-john-rankin-house — A brick house on a hill that a river could read",
+   "town": "Ripley",
+   "state": "Ohio",
+   "stateCode": "OH",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-OH-john-rankin-house — A brick house on a hill that a river could read",
+   "stableName": "John Rankin House",
+   "address": "6152 Rankin Hill Road, Ripley, OH 45167 (operator's current form; the NHL nomination's location block reads \"6152 Rankin Road\" — see §6)",
+   "locator": {
+    "stableName": "John Rankin House",
+    "address": "6152 Rankin Hill Road, Ripley, OH 45167 (operator's current form; the NHL nomination's location block reads \"6152 Rankin Road\" — see §6)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates printed. The LOC HABS record for this house carries blank latitude/longitude fields, and the NHL nomination consulted verifies an address and boundary, not a coordinate point; differing coordinate pairs in lead-list material were not used.",
+    "nrhp": "70000485 — listed November 10, 1970; designated a National Historic Landmark February 18, 1997 (dates as the nomination and Register-derived record carry them)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress HABS OH-630 (survey record oh0042; frame HABS OHIO,8-RIP,1--1)",
+    "registerUrl": "https://npgallery.nps.gov/GetAsset/8fe8a500-a088-4038-920f-6abae4a07159",
+    "operator": "Ohio History Connection (State of Ohio owner)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Ripley"
+     },
+     {
+      "key": "Public anchor",
+      "value": "John Rankin House visitor centre, on the hill above Ripley off Rankin Hill Road (County Road 556)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The state historic site on the hill — house, visitor centre, grounds, and hillside steps — is the visit; the John P. Parker House and the Front Street district in Ripley below are separate grounds with their own operators and records."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-OH-marietta-campus-martius",
+   "slug": "OH-marietta-campus-martius",
+   "title": "HT-RES-OH-marietta-campus-martius — A whole pioneer house, kept indoors, on the ground where Ohio began",
+   "town": "Marietta (Washington County)- Public anchor: Campus Martius Museum, corner of 2nd and Washington Streets — the museum building enclosing the Rufus Putnam House, with the Land Office on its grounds",
+   "state": "Ohio",
+   "stateCode": "OH",
+   "coordinates": {
+    "lat": 39.421111,
+    "lon": -81.461389
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-OH-marietta-campus-martius — A whole pioneer house, kept indoors, on the ground where Ohio began",
+   "stableName": "Campus Martius Museum (Rufus Putnam House and Ohio Company Land Office)",
+   "address": "601 2nd Street, Marietta, OH (address as the Ohio History Connection and the local manager both carry it)",
+   "locator": {
+    "stableName": "Campus Martius Museum (Rufus Putnam House and Ohio Company Land Office)",
+    "address": "601 2nd Street, Marietta, OH (address as the Ohio History Connection and the local manager both carry it)",
+    "latitude": "39.421111",
+    "longitude": "-81.461389",
+    "coordinateSource": "Converted from the degrees-minutes-seconds entry in the National Register nomination for the Ohio Company Land Office (National Archives, NRHP 70000523), whose geographical-data section gives latitude 39° 25′ 16″ and longitude 81° 27′ 41″ under the form's heading for the coordinates defining the center point of a property of less than ten acres. The point scopes to that nomination center point within the Campus Martius memorial ground; it is not a surveyed museum entrance, and no coordinate was taken from any lead list.",
+    "nrhp": "70000524 (Putnam, Rufus, House) and 70000523 (Ohio Company Land Office) — both listed November 10, 1970 (dates as the NPS Register records publish them)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Internet Archive item historyofmariett00summ (identifier-ark ark:/13960/t1fj2rj14) — record for the first photograph's source",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/70000524",
+    "operator": "Ohio History Connection (owner), managed locally by the Northwest Territory Museum Society",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Marietta (Washington County)- Public anchor: Campus Martius Museum, corner of 2nd and Washington Streets — the museum building enclosing the Rufus Putnam House, with the Land Office on its grounds"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The museum building and its grounds at 601 2nd Street — the enclosed Putnam House, the museum galleries, and the Land Office beside the building. The wider Marietta Historic District is outside this entry's ground."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-OH-oberlin-abolition-ground",
+   "slug": "OH-oberlin-abolition-ground",
+   "title": "HT-RES-OH-oberlin-abolition-ground — A town that answered a kidnapping in daylight by emptying itself down the road to Wellington",
+   "town": "Oberlin",
+   "state": "Ohio",
+   "stateCode": "OH",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-OH-oberlin-abolition-ground — A town that answered a kidnapping in daylight by emptying itself down the road to Wellington",
+   "stableName": "Oberlin — the abolition ground (Oberlin-Wellington Rescue ground)",
+   "address": "First Church in Oberlin, 106 N. Main Street, Oberlin, OH 44074 (per the Heritage Center's walk listing); the Heritage Center is at 73 1/2 S. Professor St., Oberlin, OH 44074. No street address for the park is stated in the sources checked.",
+   "locator": {
+    "stableName": "Oberlin — the abolition ground (Oberlin-Wellington Rescue ground)",
+    "address": "First Church in Oberlin, 106 N. Main Street, Oberlin, OH 44074 (per the Heritage Center's walk listing); the Heritage Center is at 73 1/2 S. Professor St., Oberlin, OH 44074. No street address for the park is stated in the sources checked.",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No latitude/longitude prints. No primary source checked verifies a point for this ground; the HABS record locates the First Church by street corner (North Main & West Lorain Streets) only, and coordinates were not taken from any lead list or inferred. See §6.",
+    "nrhp": "(blank — no National Register nomination for the rescue ground was found in the primary records checked; its federal recognition there is the Network to Freedom listing below)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress HABS OH-2117 (item oh0099); first-photograph frame oh0099.photos.127868p, HABS OHIO,47-OBER,1--1",
+    "registerUrl": "https://www.ohiolha.org/wp-content/uploads/2017/10/Ohio-NTF-Listings_Round-34.pdf",
+    "operator": "Oberlin Heritage Center (staffed interpretation); the ground is public town and college ground, and the First Church is an active congregation",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Oberlin, Lorain County, Ohio"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The First Church in Oberlin, northwest corner of North Main & West Lorain Streets, with the Oberlin-Wellington Rescue monument in Martin Luther King Jr. Park"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Public streets and park ground — Tappan Square, the First Church exterior, South Main and South Professor Streets, Martin Luther King Jr. Park — plus the Heritage Center's buildings on its stated terms (§1). Wellington's ground, eight miles south, is outside this entry's boundary."
+     },
+     {
+      "key": "Status",
+      "value": "Ohio seed catalog — research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-OH-perrys-victory",
+   "slug": "OH-perrys-victory",
+   "title": "HT-RES-OH-perrys-victory — Six officers from two fleets under one stone floor, and a column built for peace",
+   "town": "Put-in-Bay, South Bass Island",
+   "state": "Ohio",
+   "stateCode": "OH",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-OH-perrys-victory — Six officers from two fleets under one stone floor, and a column built for peace",
+   "stableName": "Perry's Victory and International Peace Memorial",
+   "address": "93 Delaware Ave, Put-In-Bay, OH (address as the NPS park listing carries it)",
+   "locator": {
+    "stableName": "Perry's Victory and International Peace Memorial",
+    "address": "93 Delaware Ave, Put-In-Bay, OH (address as the NPS park listing carries it)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinate is printed. Neither the nomination text nor the first photograph's NPGallery record carries a coordinate scoped to a defined point, and coordinates were not taken from lead lists or inferred. See §6.",
+    "nrhp": "66000118 — listed October 15, 1966 (date published in the NPS National Register record)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "NPGallery asset 2A56AE63-1DD8-B71B-0B2D6B60001362A3 (first photo record)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/5806bb02-c76e-4fe3-a076-26e061152429",
+    "operator": "National Park Service",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Put-in-Bay, South Bass Island"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The memorial column and grounds on the isthmus at the eastern edge of Put-in-Bay (nomination)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The grounds, visitor center, rotunda, plazas, and observation deck are the visit as the NPS shapes it, subject to its seasonal hours and the 2026–2027 Upper Plaza Rehabilitation closures; the island is reached by ferry, plane, or boat, which are not part of the memorial."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-OH-serpent-mound",
+   "slug": "OH-serpent-mound",
+   "title": "HT-RES-OH-serpent-mound — A quarter-mile snake in the grass no one can date",
+   "town": "Peebles, Adams County",
+   "state": "Ohio",
+   "stateCode": "OH",
+   "coordinates": {
+    "lat": 39.026416,
+    "lon": -83.431076
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "reflection",
+   "subject": "HT-RES-OH-serpent-mound — A quarter-mile snake in the grass no one can date",
+   "stableName": "Serpent Mound (Great Serpent Mound State Memorial)",
+   "address": "3850 State Route 73, Peebles, OH (as the Ohio History Connection and the HALS record carry it)",
+   "locator": {
+    "stableName": "Serpent Mound (Great Serpent Mound State Memorial)",
+    "address": "3850 State Route 73, Peebles, OH (as the Ohio History Connection and the HALS record carry it)",
+    "latitude": "39.026416",
+    "longitude": "-83.431076",
+    "coordinateSource": "Historic American Landscapes Survey record HALS OH-9 (Library of Congress), which carries this point expressly as the \"Center of the egg mound, Google Earth, Simple Cylindrical Projection, WGS84.\" It is the survey record's point at the oval at the serpent's head — not a surveyed park entrance and not this entry's photo point.",
+    "nrhp": "66000602 — listed October 15, 1966 (per the Library of Congress HALS record's NRIS field)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HALS OH-9 (Library of Congress survey record, including the first photo)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000602",
+    "operator": "Ohio History Connection",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Peebles, Adams County"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Serpent Mound museum and memorial park entrance on State Route 73"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The memorial park's public ground during posted hours only — museum, paved path beside the effigy, tower, and picnic areas. The effigy and the burial mounds are not to be walked on; access outside posted hours is not permitted, per the operator's page."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; reflection stop; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-OH-zoar-village",
+   "slug": "OH-zoar-village",
+   "title": "HT-RES-OH-zoar-village — A whole village that held everything in common, and kept its streets",
+   "town": "Zoar (Tuscarawas County)",
+   "state": "Ohio",
+   "stateCode": "OH",
+   "coordinates": {
+    "lat": 40.615353,
+    "lon": -81.419806
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-OH-zoar-village — A whole village that held everything in common, and kept its streets",
+   "stableName": "Zoar Village (Zoar Historic District; Society of Separatists of Zoar)",
+   "address": "198 Main Street, Zoar, OH (address as the Ohio History Connection's site page carries it)",
+   "locator": {
+    "stableName": "Zoar Village (Zoar Historic District; Society of Separatists of Zoar)",
+    "address": "198 Main Street, Zoar, OH (address as the Ohio History Connection's site page carries it)",
+    "latitude": "40.615353",
+    "longitude": "-81.419806",
+    "coordinateSource": "The single latitude/longitude pair printed in the National Historic Landmark nomination for the Zoar Historic District (NPS, 2016), where it appears in parentheses at the start of the verbal boundary description: the midpoint of the intersection of Fifth Street and East Street, the boundary's beginning point. It scopes to that boundary corner at the district's northeast side; it is not a village center, a surveyed entrance, or a photo point, and no coordinate was taken from any lead list. The nomination's UTM references (Zone 17) for the district's four boundary corners are carried in the same section of that document.",
+    "nrhp": "69000150 (Zoar Historic District) — listed June 23, 1969 (date as the NPS Register record publishes it); designated a National Historic Landmark District October 31, 2016 (per the 2016 nomination)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress HABS survey oh0221 (HABS OH-280) — record for the first photograph",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/69000150",
+    "operator": "Ohio History Connection (owner of the museum buildings), managed locally by the Zoar Community Association",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Zoar (Tuscarawas County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Zoar Store / Historic Zoar Village visitor start, 198 Main Street — the museum village within the Zoar Historic District"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The museum buildings and public streets of the Zoar Historic District as the operator opens them on the day. Private homes in the district are residences, not exhibits; the district's fields, cemetery, and canal corridor lie outside the museum visit as the operator shapes it."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
      }
     ]
    }
