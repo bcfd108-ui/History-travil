@@ -5304,5 +5304,63 @@
    "targetSlug": "VT-vermont-state-house",
    "targetId": "HT-VT-vermont-state-house"
   }
+ ],
+ "CT-hartford-old-state-house": [
+  {
+   "src": "/photos/ct-hartford-old-state-house-d05dd1b830.webp",
+   "eraRole": "now",
+   "roleLabel": "now",
+   "year": 2016,
+   "title": "Old State House - Hartford, CT",
+   "caption": "Connecticut's Old State House in Hartford — Bulfinch's 1796 brick capitol with its columned portico and cupola, standing against the modern towers of Main Street. Photograph by Daderot, January 21, 2016.",
+   "alt": "Photograph of a brick Federal-style state house with a white columned portico and a clock cupola topped by a gold statue, modern office towers behind it, Hartford, Connecticut.",
+   "credit": "Daderot, January 21, 2016 — Wikimedia Commons",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourceName": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_State_House_-_Hartford,_CT_-_DSC04900.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/File:Old_State_House_-_Hartford,_CT_-_DSC04900.jpg",
+   "sha256": "d05dd1b830588fdb78724fd065a6735fbb083f865e578df0625ec226ce032af4",
+   "width": 1024,
+   "height": 683,
+   "dateNote": "January 21, 2016 (Wikimedia Commons file record).",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the brick Old State House with its columned portico and cupola, modern Hartford towers behind — the exact building and the contrast the entry's photographic hunt names.",
+   "rightsReview": "Wikimedia Commons file record for File:Old_State_House_-_Hartford,_CT_-_DSC04900.jpg: CC0, photographer Daderot (January 21, 2016). The holding collection's own record clears it. Display WebP is a resized derivative of the CC0 original; no rights encumbrance.",
+   "adoptedAt": "2026-11-26T06:15:00Z",
+   "rowId": "045bc6fd17",
+   "targetSlug": "CT-hartford-old-state-house",
+   "targetId": "HT-CT-hartford-old-state-house"
+  }
+ ],
+ "CT-new-london-custom-house": [
+  {
+   "src": "/photos/ct-new-london-custom-house-5857389f80.webp",
+   "eraRole": "now",
+   "roleLabel": "now",
+   "year": 2022,
+   "title": "U.S. Custom House, New London Maritime Society, 150 Bank Street, at dusk",
+   "caption": "The granite U.S. Custom House at 150 Bank Street, New London, at dusk — Greek Revival portico under the New London Maritime Society sign. Photograph by Beyond My Ken, June 24, 2022.",
+   "alt": "Photograph at dusk of a granite custom house with a two-column portico and a New London Maritime Society sign, windows lit, New London, Connecticut.",
+   "credit": "Beyond My Ken, June 24, 2022 — Wikimedia Commons",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+   "sourceName": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:U.S._Custom_House,_New_London_Maritime_Society,_150_Bank_Street,_at_dusk.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/File:U.S._Custom_House,_New_London_Maritime_Society,_150_Bank_Street,_at_dusk.jpg",
+   "sha256": "5857389f80f32a6f0259ebe50ba618560700d4a9e3c2fb785fca5e389f230a56",
+   "width": 1024,
+   "height": 768,
+   "dateNote": "June 24, 2022 (Wikimedia Commons file record).",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the granite Custom House façade and Greek Revival entrance at dusk, Maritime Society sign over the portico — the exact building at 150 Bank Street.",
+   "rightsReview": "Wikimedia Commons file record: CC BY-SA 4.0, photographer's own work (Beyond My Ken, June 24, 2022); attribution carried in the credit line. Modification disclosed: the display WebP is resized from the original; share-alike terms preserved for the adaptation.",
+   "adoptedAt": "2026-11-26T06:15:00Z",
+   "rowId": "a390d51a74",
+   "targetSlug": "CT-new-london-custom-house",
+   "targetId": "HT-CT-new-london-custom-house"
+  }
  ]
 }
