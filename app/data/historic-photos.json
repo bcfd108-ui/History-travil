@@ -5362,5 +5362,63 @@
    "targetSlug": "CT-new-london-custom-house",
    "targetId": "HT-CT-new-london-custom-house"
   }
+ ],
+ "CT-coventry-nathan-hale-homestead": [
+  {
+   "src": "/photos/ct-coventry-nathan-hale-homestead-319f0ddb84.webp",
+   "eraRole": "now",
+   "roleLabel": "now",
+   "year": 2010,
+   "title": "Nathan Hale Homestead, Coventry, Connecticut",
+   "caption": "The Nathan Hale Homestead at 2299 South Street, Coventry — the red colonial homestead standing on the farm where Nathan Hale was born in 1755. Photograph by Sphilbrick, October 15, 2010.",
+   "alt": "Photograph of a red two-story colonial house with white-trimmed windows and a stone foundation, trees behind it, Coventry, Connecticut.",
+   "credit": "Sphilbrick, October 15, 2010 — Wikimedia Commons",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en",
+   "sourceName": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nathan_Hale_Homestead_original.JPG",
+   "imageUrl": "https://commons.wikimedia.org/wiki/File:Nathan_Hale_Homestead_original.JPG",
+   "sha256": "319f0ddb84a1ce89b406a8c5b98ec01cb5025f28713066145784e829b6d2f1d1",
+   "width": 1024,
+   "height": 771,
+   "dateNote": "October 15, 2010 (Wikimedia Commons file record).",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the red colonial homestead with white-trimmed windows on its farm lot — the Nathan Hale Homestead at Coventry, the exact house the entry names.",
+   "rightsReview": "Wikimedia Commons file record for File:Nathan Hale Homestead original.JPG: CC BY-SA 3.0, photographer's own work (Sphilbrick, October 15, 2010); attribution carried in the credit line. Modification disclosed: the display WebP is resized from the original; share-alike terms preserved for the adaptation.",
+   "adoptedAt": "2026-11-26T06:45:00Z",
+   "rowId": "0bc075c6ce",
+   "targetSlug": "CT-coventry-nathan-hale-homestead",
+   "targetId": "HT-CT-coventry-nathan-hale-homestead"
+  }
+ ],
+ "CT-woodstock-roseland-cottage": [
+  {
+   "src": "/photos/ct-woodstock-roseland-cottage-8ed604e96e.webp",
+   "eraRole": "now",
+   "roleLabel": "now",
+   "year": null,
+   "title": "Roseland Cottage, Woodstock, Connecticut",
+   "caption": "Roseland Cottage in Woodstock — Henry Bowen's pink Gothic Revival summer cottage of 1846 behind its boxwood parterre garden. Photograph by Carol M. Highsmith, Library of Congress.",
+   "alt": "Photograph of a pink Gothic Revival cottage with steep gables and decorative vergeboards, a formal boxwood parterre garden in front, Woodstock, Connecticut.",
+   "credit": "Carol M. Highsmith — Library of Congress, Prints & Photographs Division",
+   "license": "No known restrictions on publication",
+   "licenseUrl": "https://www.loc.gov/item/2011631587/",
+   "sourceName": "Library of Congress, Prints & Photographs Division",
+   "sourceUrl": "https://www.loc.gov/item/2011631587/",
+   "imageUrl": "https://www.loc.gov/item/2011631587/",
+   "sha256": "8ed604e96e2a4afa14da3a4fce15a51f372e3b93e8300eac709273a8d8519c1a",
+   "width": 1024,
+   "height": 792,
+   "dateNote": "Carol M. Highsmith Archive; LOC catalog date 1980 (item 2011631587).",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the pink Gothic Revival cottage with its boxwood parterre garden — Roseland Cottage, Woodstock, the exact house the entry names.",
+   "rightsReview": "LOC item 2011631587 rights advisory, verified on the item record Nov 25, 2026: \"No known restrictions on publication.\" Photograph by Carol M. Highsmith.",
+   "adoptedAt": "2026-11-26T06:45:00Z",
+   "rowId": "a4d7d2ca31",
+   "targetSlug": "CT-woodstock-roseland-cottage",
+   "targetId": "HT-CT-woodstock-roseland-cottage"
+  }
  ]
 }
