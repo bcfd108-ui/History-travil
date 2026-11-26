@@ -5,10 +5,14 @@ const norm = x => String(x ?? "").normalize("NFC").trim().replace(/\s+/g," ").to
 const key = (town,state,county) => [town,state,county].map(norm).join("|");
 export function matchTowns(sites, features, sourceVersion) {
   if (!sourceVersion) throw Error("GNIS source version required");
-  const index = new Map(), stateIndex = new Map();
+  const index = new Map(), stateIndex = new Map(), ids = new Map();
+  let rejectedSourceRecords = 0;
   for (const f of features) {
     if (norm(f.featureClass) !== "populated place") continue;
-    if (!f.id || !f.name || !f.state || !f.county || !Number.isFinite(f.lat) || !Number.isFinite(f.lon) || Math.abs(f.lat)>90 || Math.abs(f.lon)>180) continue;
+    if (!f.id || !f.name || !f.state || !f.county || !Number.isFinite(f.lat) || !Number.isFinite(f.lon) || Math.abs(f.lat)>90 || Math.abs(f.lon)>180) { rejectedSourceRecords++; continue; }
+    const id = String(f.id);
+    if (ids.has(id) && JSON.stringify(ids.get(id)) !== JSON.stringify(f)) throw Error('Conflicting GNIS feature '+id);
+    ids.set(id,f);
     const k = key(f.name,f.state,f.county);
     const a = index.get(k) ?? new Map();
     if (a.has(String(f.id)) && JSON.stringify(a.get(String(f.id))) !== JSON.stringify(f)) throw Error("Conflicting GNIS feature "+f.id);
@@ -17,7 +21,7 @@ export function matchTowns(sites, features, sourceVersion) {
     const sa = stateIndex.get(sk) ?? new Map();
     sa.set(String(f.id),f); stateIndex.set(sk,sa);
   }
-  const references = {}, decisions = [], towns = new Map();
+  const references = Object.create(null), decisions = [], towns = new Map(), townStates = new Set();
   for (const s of sites) {
     const k = key(s.town,s.stateCode,s.county);
     let status, f;
@@ -27,13 +31,13 @@ export function matchTowns(sites, features, sourceVersion) {
       status = a.length===1?"matched":a.length>1?"ambiguous":"unmatched";
       f=a.length===1?a[0]:null;
     }
-    if (norm(s.town)) towns.set(k,status);
+    if (norm(s.town)) { towns.set(k,status); townStates.add(key(s.town,s.stateCode,'')); }
     const protectedPoint = s.coordinates != null || s.mapPoint != null;
     decisions.push({slug:s.slug,key:k,status,protectedPoint,gnisId:f?.id??null});
     if (status==="matched" && !protectedPoint) references[s.slug]={precision:"G4",town:s.town,stateCode:s.stateCode,county:f.county,gnisId:String(f.id),lat:f.lat,lon:f.lon,source:"USGS GNIS",sourceVersion};
   }
   const tally = values => Object.fromEntries(["matched","ambiguous","unmatched","missing-key"].map(k=>[k,values.filter(v=>v===k).length]));
-  return {references,decisions,counts:{townKeys:tally([...towns.values()]),entries:tally(decisions.map(d=>d.status)),protected:decisions.filter(d=>d.protectedPoint).length,assigned:Object.keys(references).length}};
+  return {references,decisions,counts:{distinctTownStatePairs:townStates.size,rejectedSourceRecords,townKeys:tally([...towns.values()]),entries:tally(decisions.map(d=>d.status)),protected:decisions.filter(d=>d.protectedPoint).length,assigned:Object.keys(references).length}};
 }
 if (process.argv[1] && import.meta.url===pathToFileURL(process.argv[1]).href) {
   const [sitesPath,featuresPath,version,out] = process.argv.slice(2);
