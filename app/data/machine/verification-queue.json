@@ -9903,11 +9903,59 @@
    "corpusFile": "HT-RES-VT-vermont-state-house.md",
    "queueState": "queued",
    "attempts": []
+  },
+  {
+   "id": "vq_RI-new-fort-adams",
+   "slug": "RI-new-fort-adams",
+   "name": "HT-RES-RI-new-fort-adams — Newport: America's largest coastal fortress, named for John Adams",
+   "town": "Newport",
+   "state": "RI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-RI-new-fort-adams.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_RI-new-touro",
+   "slug": "RI-new-touro",
+   "name": "HT-RES-RI-new-touro — Newport: the synagogue that received Washington's promise",
+   "town": "Newport",
+   "state": "RI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-RI-new-touro.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_RI-nki-gilbert-stuart",
+   "slug": "RI-nki-gilbert-stuart",
+   "name": "HT-RES-RI-nki-gilbert-stuart — Saunderstown: the snuff-mill house that produced Washington's portraitist",
+   "town": "Saunderstown",
+   "state": "RI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-RI-nki-gilbert-stuart.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_RI-paw-slater-mill",
+   "slug": "RI-paw-slater-mill",
+   "name": "HT-RES-RI-paw-slater-mill — Pawtucket: the mill where American industry started spinning",
+   "town": "Pawtucket",
+   "state": "RI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-RI-paw-slater-mill.md",
+   "queueState": "queued",
+   "attempts": []
   }
  ],
  "counts": {
-  "items": 825,
-  "dated": 584,
+  "items": 829,
+  "dated": 588,
   "unrecorded": 241
  }
 }
