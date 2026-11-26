@@ -5017,6 +5017,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-MA-adams-peacefield",
+   "Slug": "MA-adams-peacefield",
+   "Entry": "HT-RES-MA-adams-peacefield — Four Generations Under One Gambrel Roof",
+   "Town": "Quincy",
+   "State": "Massachusetts",
+   "Entry URL": "https://onoldground.com/sites/MA-adams-peacefield",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-MA-boston-old-state-house",
    "Slug": "MA-boston-old-state-house",
    "Entry": "HT-RES-MA-boston-old-state-house — Boston: the room where the argument started",
@@ -5029,6 +5044,66 @@
    "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
    "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-MA-longfellow-house",
+   "Slug": "MA-longfellow-house",
+   "Entry": "HT-RES-MA-longfellow-house — The House That Sugar Built, and the Family Who Took Their Freedom Back",
+   "Town": "Cambridge",
+   "State": "Massachusetts",
+   "Entry URL": "https://onoldground.com/sites/MA-longfellow-house",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-MA-lowell-boott-mills",
+   "Slug": "MA-lowell-boott-mills",
+   "Entry": "HT-RES-MA-lowell-boott-mills — The Mill That Still Weaves",
+   "Town": "Lowell",
+   "State": "Massachusetts",
+   "Entry URL": "https://onoldground.com/sites/MA-lowell-boott-mills",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-MA-salem-derby-wharf",
+   "Slug": "MA-salem-derby-wharf",
+   "Entry": "HT-RES-MA-salem-derby-wharf — Made Land in the Harbor: The Derby Family's Wharf at Salem",
+   "Town": "Salem",
+   "State": "Massachusetts",
+   "Entry URL": "https://onoldground.com/sites/MA-salem-derby-wharf",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-MA-saugus-iron-works",
+   "Slug": "MA-saugus-iron-works",
+   "Entry": "HT-RES-MA-saugus-iron-works — Hammersmith, 1646: Where American Iron Began",
+   "Town": "Saugus",
+   "State": "Massachusetts",
+   "Entry URL": "https://onoldground.com/sites/MA-saugus-iron-works",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -12833,6 +12908,6 @@
   }
  ],
  "counts": {
-  "items": 855
+  "items": 860
  }
 }

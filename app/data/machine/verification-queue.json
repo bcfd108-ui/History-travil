@@ -10265,6 +10265,66 @@
    "attempts": []
   },
   {
+   "id": "vq_MA-adams-peacefield",
+   "slug": "MA-adams-peacefield",
+   "name": "HT-RES-MA-adams-peacefield — Four Generations Under One Gambrel Roof",
+   "town": "Quincy",
+   "state": "MA",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MA-adams-peacefield.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MA-longfellow-house",
+   "slug": "MA-longfellow-house",
+   "name": "HT-RES-MA-longfellow-house — The House That Sugar Built, and the Family Who Took Their Freedom Back",
+   "town": "Cambridge",
+   "state": "MA",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MA-longfellow-house.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MA-lowell-boott-mills",
+   "slug": "MA-lowell-boott-mills",
+   "name": "HT-RES-MA-lowell-boott-mills — The Mill That Still Weaves",
+   "town": "Lowell",
+   "state": "MA",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MA-lowell-boott-mills.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MA-salem-derby-wharf",
+   "slug": "MA-salem-derby-wharf",
+   "name": "HT-RES-MA-salem-derby-wharf — Made Land in the Harbor: The Derby Family's Wharf at Salem",
+   "town": "Salem",
+   "state": "MA",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MA-salem-derby-wharf.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MA-saugus-iron-works",
+   "slug": "MA-saugus-iron-works",
+   "name": "HT-RES-MA-saugus-iron-works — Hammersmith, 1646: Where American Iron Began",
+   "town": "Saugus",
+   "state": "MA",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MA-saugus-iron-works.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_RI-new-fort-adams",
    "slug": "RI-new-fort-adams",
    "name": "HT-RES-RI-new-fort-adams — Newport: America's largest coastal fortress, named for John Adams",
@@ -10314,8 +10374,8 @@
   }
  ],
  "counts": {
-  "items": 859,
-  "dated": 618,
+  "items": 864,
+  "dated": 623,
   "unrecorded": 241
  }
 }
