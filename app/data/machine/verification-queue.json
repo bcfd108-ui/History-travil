@@ -10325,6 +10325,66 @@
    "attempts": []
   },
   {
+   "id": "vq_ME-colonial-pemaquid",
+   "slug": "ME-colonial-pemaquid",
+   "name": "HT-RES-ME-colonial-pemaquid — Four Forts on One Point: The Town Beneath the Grass at Pemaquid",
+   "town": "New Harbor",
+   "state": "ME",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-ME-colonial-pemaquid.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_ME-fort-knox",
+   "slug": "ME-fort-knox",
+   "name": "HT-RES-ME-fort-knox — The Granite Fort That Never Fired a Shot",
+   "town": "Prospect",
+   "state": "ME",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-ME-fort-knox.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_ME-fort-popham",
+   "slug": "ME-fort-popham",
+   "name": "HT-RES-ME-fort-popham — The Half-Moon Fort at the Mouth of the Kennebec",
+   "town": "Phippsburg",
+   "state": "ME",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-ME-fort-popham.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_ME-fort-western",
+   "slug": "ME-fort-western",
+   "name": "HT-RES-ME-fort-western — Fort Western, 1754: The Store at the Head of the Tide",
+   "town": "Augusta",
+   "state": "ME",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-ME-fort-western.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_ME-pemaquid-point-light",
+   "slug": "ME-pemaquid-point-light",
+   "name": "HT-RES-ME-pemaquid-point-light — The Light on the Maine Quarter",
+   "town": "New Harbor",
+   "state": "ME",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-ME-pemaquid-point-light.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_RI-new-fort-adams",
    "slug": "RI-new-fort-adams",
    "name": "HT-RES-RI-new-fort-adams — Newport: America's largest coastal fortress, named for John Adams",
@@ -10374,8 +10434,8 @@
   }
  ],
  "counts": {
-  "items": 864,
-  "dated": 623,
+  "items": 869,
+  "dated": 628,
   "unrecorded": 241
  }
 }

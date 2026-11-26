@@ -1,6 +1,6 @@
 {
- "commit": "13ffd74df86637f65bcac8cbbd12f1e0e5f6f342",
- "catalogCount": 864,
+ "commit": "4310568bb0657734b6d69ec5554f308cf538edab",
+ "catalogCount": 869,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -17336,6 +17336,243 @@
      {
       "key": "Official manager/operator",
       "value": "Whitney Plantation"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-ME-colonial-pemaquid",
+   "slug": "ME-colonial-pemaquid",
+   "title": "HT-RES-ME-colonial-pemaquid — Four Forts on One Point: The Town Beneath the Grass at Pemaquid",
+   "town": "New Harbor",
+   "state": "Maine",
+   "stateCode": "ME",
+   "coordinates": {
+    "lat": 43.876111,
+    "lon": -69.523611
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-ME-colonial-pemaquid — Four Forts on One Point: The Town Beneath the Grass at Pemaquid",
+   "stableName": "Colonial Pemaquid State Historic Site (Pemaquid Archeological Site; Fort William Henry)",
+   "address": "Colonial Pemaquid Drive, New Harbor, ME 04554 (mailing: P.O. Box 117, New Harbor, ME 04554)",
+   "locator": {
+    "stableName": "Colonial Pemaquid State Historic Site (Pemaquid Archeological Site; Fort William Henry)",
+    "address": "Colonial Pemaquid Drive, New Harbor, ME 04554 (mailing: P.O. Box 117, New Harbor, ME 04554)",
+    "latitude": "43.876111",
+    "longitude": "-69.523611",
+    "coordinateSource": "Converted from the point carried in the National Register nomination for Fort William Henry (NRIS 69000021), whose coordinate table gives 43° 52′ 34″ N, 69° 31′ 25″ W for the fort property of less than one acre; the point is scoped to the fort at the northwestern tip of the peninsula. The same form's map label reads 43° 42′ 34″ N, which this dossier does not follow (see §6). No coordinates were taken from aggregators, map sites, or photograph metadata.",
+    "nrhp": "Fort William Henry, 69000021 (listed December 1, 1969); Pemaquid Archeological Site, 69000022 (listed 1969 as Pemaquid Restoration and Museum; designated a National Historic Landmark in 1993)",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "NPGallery Asset ID 7adda6ee-eca4-4d32-86c3-5c3f1e619f9f (Fort William Henry nomination); site number ME 058-1 (Pemaquid Archeological Site)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/7adda6ee-eca4-4d32-86c3-5c3f1e619f9f",
+    "operator": "Maine Bureau of Parks and Lands, Maine Department of Agriculture, Conservation and Forestry",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Bristol, Maine (Lincoln County); village of New Harbor"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Colonial Pemaquid State Historic Site, at the mouth of the Pemaquid River, New Harbor"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Buildings open seasonally, Memorial Day to Labor Day, 9:00 a.m.–5:00 p.m.; grounds open in the off season 9:00 a.m. to sunset with buildings closed. The excavated foundations, paved streets, and unexcavated deposits are protected archaeology — viewed from paths and marked exposures only."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-ME-fort-knox",
+   "slug": "ME-fort-knox",
+   "title": "HT-RES-ME-fort-knox — The Granite Fort That Never Fired a Shot",
+   "town": "Prospect",
+   "state": "Maine",
+   "stateCode": "ME",
+   "coordinates": {
+    "lat": 44.566785,
+    "lon": -68.804737
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-ME-fort-knox — The Granite Fort That Never Fired a Shot",
+   "stableName": "Fort Knox (Fort Knox State Historic Site; National Register common name: Fort Knox State Park)",
+   "address": "740 Fort Knox Road, Prospect, ME 04981",
+   "locator": {
+    "stableName": "Fort Knox (Fort Knox State Historic Site; National Register common name: Fort Knox State Park)",
+    "address": "740 Fort Knox Road, Prospect, ME 04981",
+    "latitude": "44.566785",
+    "longitude": "-68.804737",
+    "coordinateSource": "The point is printed on the Maine Bureau of Parks and Lands park page for this site, scoped to the site, and is carried here on that record. The National Register nomination defines the property by a coordinate rectangle rather than a point — northwest corner 44°34′38″N, 68°48′56″W; southeast corner 44°33′43″N, 68°48′08″W — and the Bureau's point falls inside it. No coordinates were taken from photograph metadata, aggregators, or map sites.",
+    "nrhp": "69000023 (listed October 1, 1969)",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "NPGallery Asset IDs 110b341b-f08d-4455-9ff8-0043e553d4fc and 58a607b9-be23-4dbe-a58a-0732dc2b33f5; no HABS/HAER survey number verified in this pass",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/69000023",
+    "operator": "Maine Bureau of Parks and Lands, Maine Department of Agriculture, Conservation and Forestry",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Prospect, Maine (Waldo County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Fort Knox State Historic Site gate and Guest Education Center, 740 Fort Knox Road"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Fort and observatory open seasonally, May 1 – October 31, ticketed at the gate booth; park grounds open year-round, 9:00 a.m. to sunset, with off-season entry on foot from outside the gate and facilities closed."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-ME-fort-popham",
+   "slug": "ME-fort-popham",
+   "title": "HT-RES-ME-fort-popham — The Half-Moon Fort at the Mouth of the Kennebec",
+   "town": "Phippsburg",
+   "state": "Maine",
+   "stateCode": "ME",
+   "coordinates": {
+    "lat": 43.75511,
+    "lon": -69.783374
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-ME-fort-popham — The Half-Moon Fort at the Mouth of the Kennebec",
+   "stableName": "Fort Popham (National Register name: Fort Popham Memorial)",
+   "address": "219 Popham Road, Phippsburg, ME 04562",
+   "locator": {
+    "stableName": "Fort Popham (National Register name: Fort Popham Memorial)",
+    "address": "219 Popham Road, Phippsburg, ME 04562",
+    "latitude": "43.755110",
+    "longitude": "-69.783374",
+    "coordinateSource": "Point carried in the Location line of the Maine Bureau of Parks and Lands' own park page for this site. The 1969 National Register nomination locates the property instead by a coordinate rectangle (43° 45′ 19″–20″ N, 69° 47′ 3″–4″ W), slightly west of the Bureau's point; the difference is recorded in §6. No coordinates were taken from aggregators, map sites, or photograph metadata.",
+    "nrhp": "69000012 (listed October 1, 1969, as Fort Popham Memorial)",
+    "hmdb": "Marker 52096, \"Fort Popham State Historic Site\"; Marker 52097, \"Fort Popham: Guardian of the Kennebec,\" inside the fort",
+    "ark": "**blank**",
+    "archiveId": "NPGallery Asset ID 2e17a3c9-d212-40e8-9f97-90dcda3f5348 (nomination). No HABS or HAER survey of Fort Popham was located in the Library of Congress records consulted.",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/69000012",
+    "operator": "Maine Bureau of Parks and Lands, Maine Department of Agriculture, Conservation and Forestry",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Phippsburg, Maine (Sagadahoc County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Fort Popham State Historic Site, at the end of Maine Route 209 (Popham Road), two miles past Popham Beach State Park"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Day-use state historic site. In season (April 15–October 30, per the Bureau's park page) the site is open 9:00 a.m. to sunset and a fee is charged; in the off season visitors park outside the gate and walk in during the same hours, with facilities closed. The visit is to the fort's walls, casemates, stairs, and grounds."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-ME-fort-western",
+   "slug": "ME-fort-western",
+   "title": "HT-RES-ME-fort-western — Fort Western, 1754: The Store at the Head of the Tide",
+   "town": "Augusta",
+   "state": "Maine",
+   "stateCode": "ME",
+   "coordinates": {
+    "lat": 44.3165,
+    "lon": -69.7712
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-ME-fort-western — Fort Western, 1754: The Store at the Head of the Tide",
+   "stableName": "Fort Western (Old Fort Western)",
+   "address": "16 Cony Street, Augusta, ME 04330 (visitor address per the Maine Office of Tourism listing; the nomination locates the property on Bowman Street)",
+   "locator": {
+    "stableName": "Fort Western (Old Fort Western)",
+    "address": "16 Cony Street, Augusta, ME 04330 (visitor address per the Maine Office of Tourism listing; the nomination locates the property on Bowman Street)",
+    "latitude": "44.3165",
+    "longitude": "-69.7712",
+    "coordinateSource": "Converted from the UTM reference printed in the National Register nomination (Zone 19, Easting 438500, Northing 4907100), scoped to the nominated property and recorded only to the nearest 100 metres; the converted point carries that precision, not a survey fix. No coordinates were taken from aggregators, map sites, or photograph metadata.",
+    "nrhp": "69000009 (National Historic Landmark; designation year disputed — see §6)",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "HABS No. ME-56 (Library of Congress, Prints and Photographs Division); nomination at NPGallery, Asset ID bd226fbc-1e7d-44a9-a599-76fb5a82657d",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/69000009",
+    "operator": "City of Augusta",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Augusta, Maine (Kennebec County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Old Fort Western museum entrance, 16 Cony Street"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "A seasonal museum, open late May to mid-October on the operator's published schedule, last tour at 3:30 pm; the interiors are seen on the tour. The grounds are the sub-acre parcel between Cony Street and the Kennebec River bank."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-ME-pemaquid-point-light",
+   "slug": "ME-pemaquid-point-light",
+   "title": "HT-RES-ME-pemaquid-point-light — The Light on the Maine Quarter",
+   "town": "New Harbor",
+   "state": "Maine",
+   "stateCode": "ME",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-ME-pemaquid-point-light — The Light on the Maine Quarter",
+   "stableName": "Pemaquid Point Light (Pemaquid Point Lighthouse)",
+   "address": "3115 Bristol Road, New Harbor, ME 04554",
+   "locator": {
+    "stableName": "Pemaquid Point Light (Pemaquid Point Lighthouse)",
+    "address": "3115 Bristol Road, New Harbor, ME 04554",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "The National Register nomination's geographical-data section gives the acreage (4 acres) and a UTM reference block not legible in the digitized copy consulted; no other primary record consulted carries a coordinate point scoped to the tower. Both are therefore left blank; none were taken from aggregators, map sites, or photograph metadata.",
+    "nrhp": "85000843",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "NPGallery Asset ID c86b06a8-9096-4c1a-9619-1ac155a0a339 (nomination form); second register asset af340209-4c76-472d-868f-36906267ba0b",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/85000843",
+    "operator": "Bristol Parks and Recreation Department (park grounds and buildings); the tower is U.S. Coast Guard property, leased to the American Lighthouse Foundation and operated by Friends of Pemaquid Point Lighthouse",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Bristol, Maine (Lincoln County); the park stands in the village of New Harbor"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Pemaquid Point Lighthouse Park, 3115 Bristol Road"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Park open 9 am–5 pm daily in season, mid-May to mid/late October; buildings and restrooms close at 5:00 pm; the grounds remain open to walk. The tower is climbed only when Friends docents open it, weather permitting, under a 46-inch height requirement the town states will not be waived. The ledges are the park's standing hazard, in the town's printed words: stay off the rocks in high surf — \"PEOPLE HAVE LOST THEIR LIVES HERE FROM THESE WAVES!!\""
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
      }
     ]
    }
