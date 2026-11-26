@@ -10517,6 +10517,30 @@
    "attempts": []
   },
   {
+   "id": "vq_WI-circus-world-baraboo",
+   "slug": "WI-circus-world-baraboo",
+   "name": "HT-RES-WI-circus-world-baraboo — A winter's worth of barns: the circus as a Baraboo industry",
+   "town": "Baraboo",
+   "state": "WI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WI-circus-world-baraboo.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_WI-hh-bennett-studio",
+   "slug": "WI-hh-bennett-studio",
+   "name": "HT-RES-WI-hh-bennett-studio — The storefront that sold the Dells to America, one stereograph at a time",
+   "town": "Wisconsin Dells",
+   "state": "WI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WI-hh-bennett-studio.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_WI-man-mound",
    "slug": "WI-man-mound",
    "name": "HT-RES-WI-man-mound — A horned figure walking west, cut by a road and saved for $300",
@@ -10590,8 +10614,8 @@
   }
  ],
  "counts": {
-  "items": 882,
-  "dated": 641,
+  "items": 884,
+  "dated": 643,
   "unrecorded": 241
  }
 }
