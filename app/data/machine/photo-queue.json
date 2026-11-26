@@ -4942,6 +4942,81 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-ME-colonial-pemaquid",
+   "Slug": "ME-colonial-pemaquid",
+   "Entry": "HT-RES-ME-colonial-pemaquid — Four Forts on One Point: The Town Beneath the Grass at Pemaquid",
+   "Town": "New Harbor",
+   "State": "Maine",
+   "Entry URL": "https://onoldground.com/sites/ME-colonial-pemaquid",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-ME-fort-knox",
+   "Slug": "ME-fort-knox",
+   "Entry": "HT-RES-ME-fort-knox — The Granite Fort That Never Fired a Shot",
+   "Town": "Prospect",
+   "State": "Maine",
+   "Entry URL": "https://onoldground.com/sites/ME-fort-knox",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-ME-fort-popham",
+   "Slug": "ME-fort-popham",
+   "Entry": "HT-RES-ME-fort-popham — The Half-Moon Fort at the Mouth of the Kennebec",
+   "Town": "Phippsburg",
+   "State": "Maine",
+   "Entry URL": "https://onoldground.com/sites/ME-fort-popham",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-ME-fort-western",
+   "Slug": "ME-fort-western",
+   "Entry": "HT-RES-ME-fort-western — Fort Western, 1754: The Store at the Head of the Tide",
+   "Town": "Augusta",
+   "State": "Maine",
+   "Entry URL": "https://onoldground.com/sites/ME-fort-western",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-ME-pemaquid-point-light",
+   "Slug": "ME-pemaquid-point-light",
+   "Entry": "HT-RES-ME-pemaquid-point-light — The Light on the Maine Quarter",
+   "Town": "New Harbor",
+   "State": "Maine",
+   "Entry URL": "https://onoldground.com/sites/ME-pemaquid-point-light",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-ME-portland-head-light",
    "Slug": "ME-portland-head-light",
    "Entry": "HT-RES-ME-portland-head-light — Portland Head Light: the first lighthouse lighted by the United States government",
@@ -12908,6 +12983,6 @@
   }
  ],
  "counts": {
-  "items": 860
+  "items": 865
  }
 }
