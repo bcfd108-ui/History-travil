@@ -9617,6 +9617,126 @@
    "attempts": []
   },
   {
+   "id": "vq_VA-appomattox-court-house",
+   "slug": "VA-appomattox-court-house",
+   "name": "HT-RES-VA-appomattox-court-house — The surrender was signed in a parlor, in a village named for a courthouse",
+   "town": "Appomattox",
+   "state": "VA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VA-appomattox-court-house.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_VA-arlington-house-reflection",
+   "slug": "VA-arlington-house-reflection",
+   "name": "HT-RES-VA-arlington-house-reflection — The house above the river, kept by everyone it displaced",
+   "town": "Arlington",
+   "state": "VA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VA-arlington-house-reflection.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_VA-colonial-williamsburg",
+   "slug": "VA-colonial-williamsburg",
+   "name": "HT-RES-VA-colonial-williamsburg — A capital that lost its job, kept its streets, and was rebuilt on its own foundations",
+   "town": "Williamsburg",
+   "state": "VA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VA-colonial-williamsburg.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_VA-jamestown",
+   "slug": "VA-jamestown",
+   "name": "HT-RES-VA-jamestown — The fort everyone said the river had taken, found again beside its own church tower",
+   "town": "Jamestown",
+   "state": "VA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VA-jamestown.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_VA-manassas-national-battlefield",
+   "slug": "VA-manassas-national-battlefield",
+   "name": "HT-RES-VA-manassas-national-battlefield — The stone bridge in ruins, photographed the spring after the first army crossed it",
+   "town": "Manassas",
+   "state": "VA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VA-manassas-national-battlefield.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_VA-monticello",
+   "slug": "VA-monticello",
+   "name": "HT-RES-VA-monticello — The little mountain one man designed, and the enslaved people who built and ran it",
+   "town": "Charlottesville",
+   "state": "VA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VA-monticello.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_VA-mount-vernon",
+   "slug": "VA-mount-vernon",
+   "name": "HT-RES-VA-mount-vernon — The house that grew in three campaigns, worked by a community that could not leave it",
+   "town": "Mount Vernon",
+   "state": "VA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VA-mount-vernon.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_VA-natural-bridge",
+   "slug": "VA-natural-bridge",
+   "name": "HT-RES-VA-natural-bridge — The limestone arch Jefferson bought for twenty shillings and would not let anyone deface",
+   "town": "Natural Bridge",
+   "state": "VA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VA-natural-bridge.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_VA-shenandoah-ccc-big-meadows",
+   "slug": "VA-shenandoah-ccc-big-meadows",
+   "name": "HT-RES-VA-shenandoah-ccc-big-meadows — The meadow where a park was built by hand, on land other people had to leave",
+   "town": "Luray vicinity",
+   "state": "VA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VA-shenandoah-ccc-big-meadows.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_VA-yorktown-battlefield",
+   "slug": "VA-yorktown-battlefield",
+   "name": "HT-RES-VA-yorktown-battlefield — The mile of road where one army marched out and laid down its arms",
+   "town": "Yorktown",
+   "state": "VA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VA-yorktown-battlefield.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_AK-anchorage-turnagain-heights-earthquake-park",
    "slug": "AK-anchorage-turnagain-heights-earthquake-park",
    "name": "HT-RES-AK-anchorage-turnagain-heights-earthquake-park — Anchorage: the Turnagain Heights slide and the park that keeps its ground",
@@ -9954,8 +10074,8 @@
   }
  ],
  "counts": {
-  "items": 829,
-  "dated": 588,
+  "items": 839,
+  "dated": 598,
   "unrecorded": 241
  }
 }

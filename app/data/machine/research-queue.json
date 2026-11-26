@@ -4312,1599 +4312,6 @@
    "attempts": []
   },
   {
-   "id": "lq_00086740d4d7ad5b",
-   "projectedSlug": "va-james-monroes-highland",
-   "targetSlug": null,
-   "name": "James Monroe's Highland",
-   "town": "Charlottesville",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "House museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 53,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_03c0ee45398e969e",
-   "projectedSlug": "va-saltville-salt-works-and-battle-sites",
-   "targetSlug": null,
-   "name": "Saltville salt works & battle sites",
-   "town": "Saltville",
-   "county": "Smyth",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Museum of the Middle Appalachians + public battlefield ground — Civil War salt production, 1864 battles. Industrial/labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 92,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_05f62986d38c7a98",
-   "projectedSlug": "va-sailors-creek-battlefield-historical-state-park",
-   "targetSlug": null,
-   "name": "Sailor's Creek Battlefield Historical State Park",
-   "town": "Rice",
-   "county": "Prince Edward",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "State park — last major battle of the war in Virginia (April 6, 1865)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 48,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0622f8812f785000",
-   "projectedSlug": "va-st-albans-sanatorium",
-   "targetSlug": null,
-   "name": "St. Albans Sanatorium",
-   "town": "Radford",
-   "county": "Virginia",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "asylum — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 275,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0d2f2339dbda2ad3",
-   "projectedSlug": "va-pocahontas-exhibition-coal-mine",
-   "targetSlug": null,
-   "name": "Pocahontas Exhibition Coal Mine",
-   "town": "Pocahontas",
-   "county": "Tazewell",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Town museum — 1883 mine tour, Pocahontas coalfield origin. Coal/labor ground; pairs with Bramwell, WV across the line",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 88,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1555a1415bbbfe32",
-   "projectedSlug": "va-national-museum-of-the-marine-corps",
-   "targetSlug": null,
-   "name": "National Museum of the Marine Corps",
-   "town": "Triangle",
-   "county": "Prince William",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Museum — ★ THEME: military",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 70,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1d737672e9ce48ae",
-   "projectedSlug": "va-arlington-house-and-arlington-national-cemetery",
-   "targetSlug": null,
-   "name": "Arlington House & Arlington National Cemetery",
-   "town": "Arlington",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "NPS memorial + public cemetery — Custis-Lee plantation turned burial ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 63,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_208a30e2a86e4c59",
-   "projectedSlug": "va-bacons-castle",
-   "targetSlug": null,
-   "name": "Bacon's Castle",
-   "town": "",
-   "county": "Surry",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Preservation Virginia house museum — 1665, oldest documented brick house in North America; Bacon's Rebellion occupation",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 30,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_22214bca242268e8",
-   "projectedSlug": "va-jamestown-settlement",
-   "targetSlug": null,
-   "name": "Jamestown Settlement",
-   "town": "Williamsburg",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "State living-history museum — ships, fort, Powhatan town reconstructions",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 22,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_298cfcbe06310083",
-   "projectedSlug": "va-cumberland-gap-national-historical-park",
-   "targetSlug": null,
-   "name": "Cumberland Gap National Historical Park",
-   "town": "",
-   "county": "Lee",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "NPS unit — Wilderness Road pass and Pinnacle Overlook",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 89,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_2de4a6aff86c2988",
-   "projectedSlug": "va-james-madisons-montpelier",
-   "targetSlug": null,
-   "name": "James Madison's Montpelier",
-   "town": "Orange",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "House museum — Constitution's groundwork; enslaved community memorial",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 52,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3122e6caa89d2109",
-   "projectedSlug": "va-tangier-island-and-tangier-history-museum",
-   "targetSlug": null,
-   "name": "Tangier Island & Tangier History Museum",
-   "town": "Tangier",
-   "county": "Accomack",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Ferry-accessible island community and museum — verify museum hours",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 100,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_34a3ae1555d67376",
-   "projectedSlug": "va-virginia-state-capitol-and-capitol-square",
-   "targetSlug": null,
-   "name": "Virginia State Capitol & Capitol Square",
-   "town": "Richmond",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Public capitol — Jefferson-designed, in continuous use",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 42,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3525083abf7ad1b7",
-   "projectedSlug": "va-pamunkey-indian-museum",
-   "targetSlug": null,
-   "name": "Pamunkey Indian Museum",
-   "town": "",
-   "county": "King William",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Tribal museum on the Pamunkey Reservation. Indigenous ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 54,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_38975efbc746f1d4",
-   "projectedSlug": "va-first-landing-state-park-and-cape-henry",
-   "targetSlug": null,
-   "name": "First Landing State Park & Cape Henry",
-   "town": "Virginia Beach",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "State park — 1607 first landing; Cape Henry Lighthouse reached by base shuttle, verify access",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 33,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_39bbb2da580a616f",
-   "projectedSlug": "va-cold-harbor-battlefield",
-   "targetSlug": null,
-   "name": "Cold Harbor Battlefield",
-   "town": "Mechanicsville",
-   "county": "Virginia",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "battlefield — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 276,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3bd7b969baec1b69",
-   "projectedSlug": "va-colonial-williamsburg-historic-area",
-   "targetSlug": null,
-   "name": "Colonial Williamsburg Historic Area",
-   "town": "Williamsburg",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Museum district — 18th-century capital, 89 original buildings",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 24,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3e50d1a2467d1f47",
-   "projectedSlug": "va-western-state-hospital-original-complex",
-   "targetSlug": null,
-   "name": "Western State Hospital original complex",
-   "town": "Staunton",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "1828 asylum complex, now Blackburn Inn/hotel and condos — grounds partly public, verify lawful anchor. ★ THEME: asylum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 79,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3eff6beaba52cec0",
-   "projectedSlug": "va-maggie-l-walker-national-historic-site",
-   "targetSlug": null,
-   "name": "Maggie L. Walker National Historic Site",
-   "town": "Richmond (Jackson Ward)",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "NPS unit — first Black woman bank president's home and neighborhood",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 41,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_45a534253d99126b",
-   "projectedSlug": "va-richmond-national-battlefield-park-and-tredegar",
-   "targetSlug": null,
-   "name": "Richmond National Battlefield Park & Tredegar",
-   "town": "Richmond",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "NPS sites + American Civil War Museum at Tredegar Iron Works",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 39,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4792fc685b76347f",
-   "projectedSlug": "va-poe-museum",
-   "targetSlug": null,
-   "name": "Poe Museum",
-   "town": "Richmond",
-   "county": "Virginia",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "house — anchor: museum open to the public. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 278,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_49964dda0c761506",
-   "projectedSlug": "va-lorton-workhouse-occoquan-workhouse",
-   "targetSlug": null,
-   "name": "Lorton Workhouse (Occoquan Workhouse)",
-   "town": "Lorton",
-   "county": "Fairfax",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Workhouse Arts Center + Lucy Burns Museum — ★ THEME: prison. 1917 suffragist prisoners force-fed here; later D.C. reformatory",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 65,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4c0cc09be2a564aa",
-   "projectedSlug": "va-hollywood-cemetery",
-   "targetSlug": null,
-   "name": "Hollywood Cemetery",
-   "town": "Richmond",
-   "county": "Virginia",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "cemetery — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 271,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5f43f43f6e817f6c",
-   "projectedSlug": "va-virginia-state-penitentiary-site",
-   "targetSlug": null,
-   "name": "Virginia State Penitentiary site",
-   "town": "Richmond",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "★ THEME: prison. 1798 penitentiary (Latrobe) demolished in the 1990s; no known public memorial ground — flag",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 56,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_604c3671e0c1cc15",
-   "projectedSlug": "va-frontier-culture-museum",
-   "targetSlug": null,
-   "name": "Frontier Culture Museum",
-   "town": "Staunton",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "State outdoor museum — farmsteads of the peoples who settled the Valley",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 78,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_60bd82b5add0c23d",
-   "projectedSlug": "va-st-johns-church",
-   "targetSlug": null,
-   "name": "St. John's Church",
-   "town": "Richmond",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Museum church — Patrick Henry's 1775 \"liberty or death\" speech site",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 43,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6204250a083c53bb",
-   "projectedSlug": "va-fort-monroe",
-   "targetSlug": null,
-   "name": "Fort Monroe",
-   "town": "Hampton",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "National Monument — public grounds and Casemate Museum. ★ THEME: military. Also \"Freedom's Fortress\": 1619 African landing ground and 1861 contraband decision ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 28,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    },
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 283,
-     "dialect": "desk-sweep-4",
-     "role": "listed"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_687eab61f9072760",
-   "projectedSlug": "va-monticello",
-   "targetSlug": null,
-   "name": "Monticello",
-   "town": "Charlottesville",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "House museum — Jefferson's plantation, enslaved community (Mulberry Row) interpreted",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 51,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6ab5e56734379315",
-   "projectedSlug": "va-yorktown-battlefield",
-   "targetSlug": null,
-   "name": "Yorktown Battlefield",
-   "town": "Yorktown",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "NPS unit (Colonial NHP) — 1781 siege ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 26,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6c0717e457722d5c",
-   "projectedSlug": "va-wilderness-road-state-park-martins-station",
-   "targetSlug": null,
-   "name": "Wilderness Road State Park (Martin's Station)",
-   "town": "Ewing",
-   "county": "Lee",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "State park — reconstructed frontier station",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 90,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_754510f058df2776",
-   "projectedSlug": "va-manassas-national-battlefield-park",
-   "targetSlug": null,
-   "name": "Manassas National Battlefield Park",
-   "town": "",
-   "county": "Prince William",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "NPS unit — First and Second Manassas",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 64,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_75b4f137ef993b75",
-   "projectedSlug": "va-pamplin-historical-park",
-   "targetSlug": null,
-   "name": "Pamplin Historical Park",
-   "town": "",
-   "county": "Dinwiddie",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Private museum park — April 2, 1865 Breakthrough battlefield and National Museum of the Civil War Soldier",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 45,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7882a38bbf4bd8c0",
-   "projectedSlug": "va-emancipation-oak",
-   "targetSlug": null,
-   "name": "Emancipation Oak",
-   "town": "Hampton University",
-   "county": "Hampton",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Public campus landmark — first Southern reading of the Emancipation Proclamation (1863)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 29,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7bf65679e6005c81",
-   "projectedSlug": "va-lumpkins-jail-and-shockoe-bottom-slave-trade-district",
-   "targetSlug": null,
-   "name": "Lumpkin's Jail & Shockoe Bottom slave-trade district",
-   "town": "Richmond",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "City historic site and Slave Trail — archaeological ground of the second-largest U.S. slave-trading center",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 40,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7c41b4ae603976d6",
-   "projectedSlug": "va-booker-t-washington-national-monument",
-   "targetSlug": null,
-   "name": "Booker T. Washington National Monument",
-   "town": "Hardy",
-   "county": "Franklin",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "NPS unit — birthplace farm, enslavement to freedom",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 50,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7fe7efb33b2fd642",
-   "projectedSlug": "va-executive-mansion",
-   "targetSlug": null,
-   "name": "Executive Mansion",
-   "town": "Richmond",
-   "county": "Virginia",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 282,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_82c69a1cd3f3f617",
-   "projectedSlug": "va-public-hospital-of-1773-eastern-state-hospital",
-   "targetSlug": null,
-   "name": "Public Hospital of 1773 (Eastern State Hospital)",
-   "town": "Williamsburg",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Colonial Williamsburg museum — ★ THEME: asylum. First public asylum in America (1773); reconstructed building, mental-health interpretation",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 25,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_868161deeb9d50f3",
-   "projectedSlug": "va-woodrow-wilson-presidential-library-and-museum",
-   "targetSlug": null,
-   "name": "Woodrow Wilson Presidential Library & Museum",
-   "town": "Staunton",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Museum — Wilson birthplace",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 80,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_891bcfeb96ffe936",
-   "projectedSlug": "va-belle-grove-plantation",
-   "targetSlug": null,
-   "name": "Belle Grove Plantation",
-   "town": "King George",
-   "county": "Virginia",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "plantation — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 267,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8a5dc77071cca6ff",
-   "projectedSlug": "va-american-revolution-museum-at-yorktown",
-   "targetSlug": null,
-   "name": "American Revolution Museum at Yorktown",
-   "town": "Yorktown",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "State museum — galleries and living-history farm/encampment",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 27,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8b7006ee314a62c3",
-   "projectedSlug": "va-natural-tunnel-state-park",
-   "targetSlug": null,
-   "name": "Natural Tunnel State Park",
-   "town": "",
-   "county": "Scott",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "State park — natural tunnel carrying an active railroad",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 91,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_93d33651ddc3a09c",
-   "projectedSlug": "va-ferry-plantation-house",
-   "targetSlug": null,
-   "name": "Ferry Plantation House",
-   "town": "Virginia Beach",
-   "county": "Virginia",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "house — anchor: museum open to the public. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 268,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_942c18a3abf4184f",
-   "projectedSlug": "va-george-washingtons-mount-vernon",
-   "targetSlug": null,
-   "name": "George Washington's Mount Vernon",
-   "town": "",
-   "county": "Fairfax",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "House museum — enslaved community and distillery/gristmill interpreted",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 62,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9c06260a738bcabf",
-   "projectedSlug": "va-werowocomoco",
-   "targetSlug": null,
-   "name": "Werowocomoco",
-   "town": "",
-   "county": "Gloucester",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "NPS unit — Powhatan's principal town; access by guided program, verify current schedule. Indigenous ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 23,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9cbbac638480d771",
-   "projectedSlug": "va-cyrus-mccormick-farm",
-   "targetSlug": null,
-   "name": "Cyrus McCormick Farm",
-   "town": "Steeles Tavern",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Public wayside site — reaper invention ground, Virginia Tech research station",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 81,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ab36a6392a358193",
-   "projectedSlug": "va-berkeley-plantation",
-   "targetSlug": null,
-   "name": "Berkeley Plantation",
-   "town": "",
-   "county": "Charles City",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "House museum — 1619 landing and Harrison family ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 32,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ae33d7854c14d674",
-   "projectedSlug": "va-contrabands-and-freedmen-cemetery-memorial",
-   "targetSlug": null,
-   "name": "Contrabands and Freedmen Cemetery Memorial",
-   "town": "Alexandria",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "City memorial park — burial ground of self-emancipated people",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 68,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b0c4d14668c909c0",
-   "projectedSlug": "va-wythe-house",
-   "targetSlug": null,
-   "name": "Wythe House",
-   "town": "Williamsburg",
-   "county": "Virginia",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 272,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b9f264f087a231e8",
-   "projectedSlug": "va-petersburg-national-battlefield-incl-city-point",
-   "targetSlug": null,
-   "name": "Petersburg National Battlefield (incl. City Point)",
-   "town": "Petersburg / Hopewell",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "NPS unit — 1864–65 siege and Grant's headquarters",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 44,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_bdd9a8f56ada4cb0",
-   "projectedSlug": "va-peyton-randolph-house",
-   "targetSlug": null,
-   "name": "Peyton Randolph House",
-   "town": "Williamsburg",
-   "county": "Virginia",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 270,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c593de9f6e06807b",
-   "projectedSlug": "va-wolf-creek-indian-village",
-   "targetSlug": null,
-   "name": "Wolf Creek Indian Village",
-   "town": "Bastian",
-   "county": "Bland",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Reconstructed village museum. Indigenous ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 93,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c77a78619a0fe403",
-   "projectedSlug": "va-byrd-theatre",
-   "targetSlug": null,
-   "name": "Byrd Theatre",
-   "town": "Richmond",
-   "county": "Virginia",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 279,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c8b06a0fe07ac4be",
-   "projectedSlug": "va-fort-ward-museum-and-historic-site",
-   "targetSlug": null,
-   "name": "Fort Ward Museum & Historic Site",
-   "town": "Alexandria",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "City museum park — ★ THEME: military. Best-preserved Union fort of the Washington defenses",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 67,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cc11f29c162bc090",
-   "projectedSlug": "va-freedom-house-museum",
-   "targetSlug": null,
-   "name": "Freedom House Museum",
-   "town": "Alexandria",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "City museum in the former Franklin & Armfield slave-trading firm headquarters",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 66,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cc8a2f0a020ae4e9",
-   "projectedSlug": "va-cavalier-hotel",
-   "targetSlug": null,
-   "name": "Cavalier Hotel",
-   "town": "Virginia Beach",
-   "county": "Virginia",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 274,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d29973a798b0dfe5",
-   "projectedSlug": "va-martha-washington-inn",
-   "targetSlug": null,
-   "name": "Martha Washington Inn",
-   "town": "Abingdon",
-   "county": "Virginia",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 273,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d39d4af2e04cec17",
-   "projectedSlug": "va-shirley-plantation",
-   "targetSlug": null,
-   "name": "Shirley Plantation",
-   "town": "",
-   "county": "Charles City",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "House museum — working plantation since 1613, enslaved community interpreted",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 31,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d931f8d5fb90d87c",
-   "projectedSlug": "va-blandford-church-and-cemetery",
-   "targetSlug": null,
-   "name": "Blandford Church & Cemetery",
-   "town": "Petersburg",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "City museum — 1735 church with Tiffany Confederate memorial windows",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 46,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d9f085935a23ccf4",
-   "projectedSlug": "va-appomattox-court-house-national-historical-park",
-   "targetSlug": null,
-   "name": "Appomattox Court House National Historical Park",
-   "town": "Appomattox",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "NPS unit — April 9, 1865 surrender village",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 47,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_dfc652936b4d34ef",
-   "projectedSlug": "va-robert-russa-moton-museum",
-   "targetSlug": null,
-   "name": "Robert Russa Moton Museum",
-   "town": "Farmville",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Museum in the former Moton High School — 1951 student strike, one of the five Brown v. Board cases. Civil-rights ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 49,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_dfea0e6f0b35e0e6",
-   "projectedSlug": "va-dejarnette-sanitarium",
-   "targetSlug": null,
-   "name": "DeJarnette Sanitarium",
-   "town": "Staunton",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "★ THEME: asylum. Abandoned eugenics-era sanitarium (1930s); private and posted — no lawful access. Flag",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 82,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e3d34df606926a14",
-   "projectedSlug": "va-monacan-indian-nation-museum",
-   "targetSlug": null,
-   "name": "Monacan Indian Nation Museum",
-   "town": "",
-   "county": "Amherst",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Tribal museum at Bear Mountain. Indigenous ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 55,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e4990cfa1cfe199f",
-   "projectedSlug": "va-new-market-battlefield-state-historical-park",
-   "targetSlug": null,
-   "name": "New Market Battlefield State Historical Park",
-   "town": "New Market",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "VMI park and Hall of Valor museum — 1864 battle, VMI cadets",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 77,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ea098ffb857f2785",
-   "projectedSlug": "va-wayside-inn",
-   "targetSlug": null,
-   "name": "Wayside Inn",
-   "town": "Middletown",
-   "county": "Virginia",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 281,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ece1293bd6efc47c",
-   "projectedSlug": "va-gunston-hall",
-   "targetSlug": null,
-   "name": "Gunston Hall",
-   "town": "Mason Neck",
-   "county": "",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "State house museum — George Mason, Virginia Declaration of Rights",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 69,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ed5cb99b4125d4fb",
-   "projectedSlug": "va-edgewood-plantation",
-   "targetSlug": null,
-   "name": "Edgewood Plantation",
-   "town": "Charles City",
-   "county": "Virginia",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "plantation — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 280,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f0e6648d6f55f815",
-   "projectedSlug": "va-eastville-historic-district-and-1731-courthouse",
-   "targetSlug": null,
-   "name": "Eastville Historic District & 1731 Courthouse",
-   "town": "Eastville",
-   "county": "Northampton",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "Public courthouse square — oldest continuous court records in the U.S.",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 99,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f2756589b4e14e3e",
-   "projectedSlug": "va-cedar-creek-and-belle-grove-national-historical-park",
-   "targetSlug": null,
-   "name": "Cedar Creek & Belle Grove National Historical Park",
-   "town": "",
-   "county": "Middletown/Frederick",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "NPS unit — 1864 battle and plantation house",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 76,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f8c03d5fa2008034",
-   "projectedSlug": "va-historic-jamestowne",
-   "targetSlug": null,
-   "name": "Historic Jamestowne",
-   "town": "Jamestown Island",
-   "county": "James City",
-   "state": "VA",
-   "tier": null,
-   "anchorPosture": "NPS/APVA archaeological site — 1607 fort and townsite, ongoing digs",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 21,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
    "id": "lq_0063a5906f462c2b",
    "projectedSlug": "wv-john-henry-historical-park-and-great-bend-tunnel",
    "targetSlug": null,
@@ -153102,6 +151509,1599 @@
    "attempts": []
   },
   {
+   "id": "lq_00086740d4d7ad5b",
+   "projectedSlug": "va-james-monroes-highland",
+   "targetSlug": null,
+   "name": "James Monroe's Highland",
+   "town": "Charlottesville",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "House museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 53,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_03c0ee45398e969e",
+   "projectedSlug": "va-saltville-salt-works-and-battle-sites",
+   "targetSlug": null,
+   "name": "Saltville salt works & battle sites",
+   "town": "Saltville",
+   "county": "Smyth",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Museum of the Middle Appalachians + public battlefield ground — Civil War salt production, 1864 battles. Industrial/labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 92,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_05f62986d38c7a98",
+   "projectedSlug": "va-sailors-creek-battlefield-historical-state-park",
+   "targetSlug": null,
+   "name": "Sailor's Creek Battlefield Historical State Park",
+   "town": "Rice",
+   "county": "Prince Edward",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "State park — last major battle of the war in Virginia (April 6, 1865)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 48,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0622f8812f785000",
+   "projectedSlug": "va-st-albans-sanatorium",
+   "targetSlug": null,
+   "name": "St. Albans Sanatorium",
+   "town": "Radford",
+   "county": "Virginia",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "asylum — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 275,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0d2f2339dbda2ad3",
+   "projectedSlug": "va-pocahontas-exhibition-coal-mine",
+   "targetSlug": null,
+   "name": "Pocahontas Exhibition Coal Mine",
+   "town": "Pocahontas",
+   "county": "Tazewell",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Town museum — 1883 mine tour, Pocahontas coalfield origin. Coal/labor ground; pairs with Bramwell, WV across the line",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 88,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1555a1415bbbfe32",
+   "projectedSlug": "va-national-museum-of-the-marine-corps",
+   "targetSlug": null,
+   "name": "National Museum of the Marine Corps",
+   "town": "Triangle",
+   "county": "Prince William",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Museum — ★ THEME: military",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 70,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1d737672e9ce48ae",
+   "projectedSlug": "va-arlington-house-and-arlington-national-cemetery",
+   "targetSlug": null,
+   "name": "Arlington House & Arlington National Cemetery",
+   "town": "Arlington",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "NPS memorial + public cemetery — Custis-Lee plantation turned burial ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 63,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_208a30e2a86e4c59",
+   "projectedSlug": "va-bacons-castle",
+   "targetSlug": null,
+   "name": "Bacon's Castle",
+   "town": "",
+   "county": "Surry",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Preservation Virginia house museum — 1665, oldest documented brick house in North America; Bacon's Rebellion occupation",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 30,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_22214bca242268e8",
+   "projectedSlug": "va-jamestown-settlement",
+   "targetSlug": null,
+   "name": "Jamestown Settlement",
+   "town": "Williamsburg",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "State living-history museum — ships, fort, Powhatan town reconstructions",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 22,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_298cfcbe06310083",
+   "projectedSlug": "va-cumberland-gap-national-historical-park",
+   "targetSlug": null,
+   "name": "Cumberland Gap National Historical Park",
+   "town": "",
+   "county": "Lee",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "NPS unit — Wilderness Road pass and Pinnacle Overlook",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 89,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_2de4a6aff86c2988",
+   "projectedSlug": "va-james-madisons-montpelier",
+   "targetSlug": null,
+   "name": "James Madison's Montpelier",
+   "town": "Orange",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "House museum — Constitution's groundwork; enslaved community memorial",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 52,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3122e6caa89d2109",
+   "projectedSlug": "va-tangier-island-and-tangier-history-museum",
+   "targetSlug": null,
+   "name": "Tangier Island & Tangier History Museum",
+   "town": "Tangier",
+   "county": "Accomack",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Ferry-accessible island community and museum — verify museum hours",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 100,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_34a3ae1555d67376",
+   "projectedSlug": "va-virginia-state-capitol-and-capitol-square",
+   "targetSlug": null,
+   "name": "Virginia State Capitol & Capitol Square",
+   "town": "Richmond",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Public capitol — Jefferson-designed, in continuous use",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 42,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3525083abf7ad1b7",
+   "projectedSlug": "va-pamunkey-indian-museum",
+   "targetSlug": null,
+   "name": "Pamunkey Indian Museum",
+   "town": "",
+   "county": "King William",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Tribal museum on the Pamunkey Reservation. Indigenous ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 54,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_38975efbc746f1d4",
+   "projectedSlug": "va-first-landing-state-park-and-cape-henry",
+   "targetSlug": null,
+   "name": "First Landing State Park & Cape Henry",
+   "town": "Virginia Beach",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "State park — 1607 first landing; Cape Henry Lighthouse reached by base shuttle, verify access",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 33,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_39bbb2da580a616f",
+   "projectedSlug": "va-cold-harbor-battlefield",
+   "targetSlug": null,
+   "name": "Cold Harbor Battlefield",
+   "town": "Mechanicsville",
+   "county": "Virginia",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "battlefield — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 276,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3bd7b969baec1b69",
+   "projectedSlug": "va-colonial-williamsburg-historic-area",
+   "targetSlug": null,
+   "name": "Colonial Williamsburg Historic Area",
+   "town": "Williamsburg",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Museum district — 18th-century capital, 89 original buildings",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 24,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3e50d1a2467d1f47",
+   "projectedSlug": "va-western-state-hospital-original-complex",
+   "targetSlug": null,
+   "name": "Western State Hospital original complex",
+   "town": "Staunton",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "1828 asylum complex, now Blackburn Inn/hotel and condos — grounds partly public, verify lawful anchor. ★ THEME: asylum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 79,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3eff6beaba52cec0",
+   "projectedSlug": "va-maggie-l-walker-national-historic-site",
+   "targetSlug": null,
+   "name": "Maggie L. Walker National Historic Site",
+   "town": "Richmond (Jackson Ward)",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "NPS unit — first Black woman bank president's home and neighborhood",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 41,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_45a534253d99126b",
+   "projectedSlug": "va-richmond-national-battlefield-park-and-tredegar",
+   "targetSlug": null,
+   "name": "Richmond National Battlefield Park & Tredegar",
+   "town": "Richmond",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "NPS sites + American Civil War Museum at Tredegar Iron Works",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 39,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4792fc685b76347f",
+   "projectedSlug": "va-poe-museum",
+   "targetSlug": null,
+   "name": "Poe Museum",
+   "town": "Richmond",
+   "county": "Virginia",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "house — anchor: museum open to the public. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 278,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_49964dda0c761506",
+   "projectedSlug": "va-lorton-workhouse-occoquan-workhouse",
+   "targetSlug": null,
+   "name": "Lorton Workhouse (Occoquan Workhouse)",
+   "town": "Lorton",
+   "county": "Fairfax",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Workhouse Arts Center + Lucy Burns Museum — ★ THEME: prison. 1917 suffragist prisoners force-fed here; later D.C. reformatory",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 65,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4c0cc09be2a564aa",
+   "projectedSlug": "va-hollywood-cemetery",
+   "targetSlug": null,
+   "name": "Hollywood Cemetery",
+   "town": "Richmond",
+   "county": "Virginia",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "cemetery — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 271,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5f43f43f6e817f6c",
+   "projectedSlug": "va-virginia-state-penitentiary-site",
+   "targetSlug": null,
+   "name": "Virginia State Penitentiary site",
+   "town": "Richmond",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "★ THEME: prison. 1798 penitentiary (Latrobe) demolished in the 1990s; no known public memorial ground — flag",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 56,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_604c3671e0c1cc15",
+   "projectedSlug": "va-frontier-culture-museum",
+   "targetSlug": null,
+   "name": "Frontier Culture Museum",
+   "town": "Staunton",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "State outdoor museum — farmsteads of the peoples who settled the Valley",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 78,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_60bd82b5add0c23d",
+   "projectedSlug": "va-st-johns-church",
+   "targetSlug": null,
+   "name": "St. John's Church",
+   "town": "Richmond",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Museum church — Patrick Henry's 1775 \"liberty or death\" speech site",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 43,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6204250a083c53bb",
+   "projectedSlug": "va-fort-monroe",
+   "targetSlug": null,
+   "name": "Fort Monroe",
+   "town": "Hampton",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "National Monument — public grounds and Casemate Museum. ★ THEME: military. Also \"Freedom's Fortress\": 1619 African landing ground and 1861 contraband decision ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 28,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    },
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 283,
+     "dialect": "desk-sweep-4",
+     "role": "listed"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_687eab61f9072760",
+   "projectedSlug": "va-monticello",
+   "targetSlug": "VA-monticello",
+   "name": "Monticello",
+   "town": "Charlottesville",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "House museum — Jefferson's plantation, enslaved community (Mulberry Row) interpreted",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 51,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_6ab5e56734379315",
+   "projectedSlug": "va-yorktown-battlefield",
+   "targetSlug": "VA-yorktown-battlefield",
+   "name": "Yorktown Battlefield",
+   "town": "Yorktown",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "NPS unit (Colonial NHP) — 1781 siege ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 26,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_6c0717e457722d5c",
+   "projectedSlug": "va-wilderness-road-state-park-martins-station",
+   "targetSlug": null,
+   "name": "Wilderness Road State Park (Martin's Station)",
+   "town": "Ewing",
+   "county": "Lee",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "State park — reconstructed frontier station",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 90,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_754510f058df2776",
+   "projectedSlug": "va-manassas-national-battlefield-park",
+   "targetSlug": "VA-manassas-national-battlefield",
+   "name": "Manassas National Battlefield Park",
+   "town": "",
+   "county": "Prince William",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "NPS unit — First and Second Manassas",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 64,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_75b4f137ef993b75",
+   "projectedSlug": "va-pamplin-historical-park",
+   "targetSlug": null,
+   "name": "Pamplin Historical Park",
+   "town": "",
+   "county": "Dinwiddie",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Private museum park — April 2, 1865 Breakthrough battlefield and National Museum of the Civil War Soldier",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 45,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7882a38bbf4bd8c0",
+   "projectedSlug": "va-emancipation-oak",
+   "targetSlug": null,
+   "name": "Emancipation Oak",
+   "town": "Hampton University",
+   "county": "Hampton",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Public campus landmark — first Southern reading of the Emancipation Proclamation (1863)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 29,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7bf65679e6005c81",
+   "projectedSlug": "va-lumpkins-jail-and-shockoe-bottom-slave-trade-district",
+   "targetSlug": null,
+   "name": "Lumpkin's Jail & Shockoe Bottom slave-trade district",
+   "town": "Richmond",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "City historic site and Slave Trail — archaeological ground of the second-largest U.S. slave-trading center",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 40,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7c41b4ae603976d6",
+   "projectedSlug": "va-booker-t-washington-national-monument",
+   "targetSlug": null,
+   "name": "Booker T. Washington National Monument",
+   "town": "Hardy",
+   "county": "Franklin",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "NPS unit — birthplace farm, enslavement to freedom",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 50,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7fe7efb33b2fd642",
+   "projectedSlug": "va-executive-mansion",
+   "targetSlug": null,
+   "name": "Executive Mansion",
+   "town": "Richmond",
+   "county": "Virginia",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 282,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_82c69a1cd3f3f617",
+   "projectedSlug": "va-public-hospital-of-1773-eastern-state-hospital",
+   "targetSlug": null,
+   "name": "Public Hospital of 1773 (Eastern State Hospital)",
+   "town": "Williamsburg",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Colonial Williamsburg museum — ★ THEME: asylum. First public asylum in America (1773); reconstructed building, mental-health interpretation",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 25,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_868161deeb9d50f3",
+   "projectedSlug": "va-woodrow-wilson-presidential-library-and-museum",
+   "targetSlug": null,
+   "name": "Woodrow Wilson Presidential Library & Museum",
+   "town": "Staunton",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Museum — Wilson birthplace",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 80,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_891bcfeb96ffe936",
+   "projectedSlug": "va-belle-grove-plantation",
+   "targetSlug": null,
+   "name": "Belle Grove Plantation",
+   "town": "King George",
+   "county": "Virginia",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "plantation — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 267,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8a5dc77071cca6ff",
+   "projectedSlug": "va-american-revolution-museum-at-yorktown",
+   "targetSlug": null,
+   "name": "American Revolution Museum at Yorktown",
+   "town": "Yorktown",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "State museum — galleries and living-history farm/encampment",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 27,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8b7006ee314a62c3",
+   "projectedSlug": "va-natural-tunnel-state-park",
+   "targetSlug": null,
+   "name": "Natural Tunnel State Park",
+   "town": "",
+   "county": "Scott",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "State park — natural tunnel carrying an active railroad",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 91,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_93d33651ddc3a09c",
+   "projectedSlug": "va-ferry-plantation-house",
+   "targetSlug": null,
+   "name": "Ferry Plantation House",
+   "town": "Virginia Beach",
+   "county": "Virginia",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "house — anchor: museum open to the public. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 268,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_942c18a3abf4184f",
+   "projectedSlug": "va-george-washingtons-mount-vernon",
+   "targetSlug": null,
+   "name": "George Washington's Mount Vernon",
+   "town": "",
+   "county": "Fairfax",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "House museum — enslaved community and distillery/gristmill interpreted",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 62,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_9c06260a738bcabf",
+   "projectedSlug": "va-werowocomoco",
+   "targetSlug": null,
+   "name": "Werowocomoco",
+   "town": "",
+   "county": "Gloucester",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "NPS unit — Powhatan's principal town; access by guided program, verify current schedule. Indigenous ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 23,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_9cbbac638480d771",
+   "projectedSlug": "va-cyrus-mccormick-farm",
+   "targetSlug": null,
+   "name": "Cyrus McCormick Farm",
+   "town": "Steeles Tavern",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Public wayside site — reaper invention ground, Virginia Tech research station",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 81,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ab36a6392a358193",
+   "projectedSlug": "va-berkeley-plantation",
+   "targetSlug": null,
+   "name": "Berkeley Plantation",
+   "town": "",
+   "county": "Charles City",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "House museum — 1619 landing and Harrison family ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 32,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ae33d7854c14d674",
+   "projectedSlug": "va-contrabands-and-freedmen-cemetery-memorial",
+   "targetSlug": null,
+   "name": "Contrabands and Freedmen Cemetery Memorial",
+   "town": "Alexandria",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "City memorial park — burial ground of self-emancipated people",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 68,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b0c4d14668c909c0",
+   "projectedSlug": "va-wythe-house",
+   "targetSlug": null,
+   "name": "Wythe House",
+   "town": "Williamsburg",
+   "county": "Virginia",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 272,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b9f264f087a231e8",
+   "projectedSlug": "va-petersburg-national-battlefield-incl-city-point",
+   "targetSlug": null,
+   "name": "Petersburg National Battlefield (incl. City Point)",
+   "town": "Petersburg / Hopewell",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "NPS unit — 1864–65 siege and Grant's headquarters",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 44,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_bdd9a8f56ada4cb0",
+   "projectedSlug": "va-peyton-randolph-house",
+   "targetSlug": null,
+   "name": "Peyton Randolph House",
+   "town": "Williamsburg",
+   "county": "Virginia",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 270,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c593de9f6e06807b",
+   "projectedSlug": "va-wolf-creek-indian-village",
+   "targetSlug": null,
+   "name": "Wolf Creek Indian Village",
+   "town": "Bastian",
+   "county": "Bland",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Reconstructed village museum. Indigenous ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 93,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c77a78619a0fe403",
+   "projectedSlug": "va-byrd-theatre",
+   "targetSlug": null,
+   "name": "Byrd Theatre",
+   "town": "Richmond",
+   "county": "Virginia",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 279,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c8b06a0fe07ac4be",
+   "projectedSlug": "va-fort-ward-museum-and-historic-site",
+   "targetSlug": null,
+   "name": "Fort Ward Museum & Historic Site",
+   "town": "Alexandria",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "City museum park — ★ THEME: military. Best-preserved Union fort of the Washington defenses",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 67,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cc11f29c162bc090",
+   "projectedSlug": "va-freedom-house-museum",
+   "targetSlug": null,
+   "name": "Freedom House Museum",
+   "town": "Alexandria",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "City museum in the former Franklin & Armfield slave-trading firm headquarters",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 66,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cc8a2f0a020ae4e9",
+   "projectedSlug": "va-cavalier-hotel",
+   "targetSlug": null,
+   "name": "Cavalier Hotel",
+   "town": "Virginia Beach",
+   "county": "Virginia",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 274,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d29973a798b0dfe5",
+   "projectedSlug": "va-martha-washington-inn",
+   "targetSlug": null,
+   "name": "Martha Washington Inn",
+   "town": "Abingdon",
+   "county": "Virginia",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 273,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d39d4af2e04cec17",
+   "projectedSlug": "va-shirley-plantation",
+   "targetSlug": null,
+   "name": "Shirley Plantation",
+   "town": "",
+   "county": "Charles City",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "House museum — working plantation since 1613, enslaved community interpreted",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 31,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d931f8d5fb90d87c",
+   "projectedSlug": "va-blandford-church-and-cemetery",
+   "targetSlug": null,
+   "name": "Blandford Church & Cemetery",
+   "town": "Petersburg",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "City museum — 1735 church with Tiffany Confederate memorial windows",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 46,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d9f085935a23ccf4",
+   "projectedSlug": "va-appomattox-court-house-national-historical-park",
+   "targetSlug": "VA-appomattox-court-house",
+   "name": "Appomattox Court House National Historical Park",
+   "town": "Appomattox",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "NPS unit — April 9, 1865 surrender village",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 47,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "published",
+   "reconcile": "published",
+   "attempts": []
+  },
+  {
+   "id": "lq_dfc652936b4d34ef",
+   "projectedSlug": "va-robert-russa-moton-museum",
+   "targetSlug": null,
+   "name": "Robert Russa Moton Museum",
+   "town": "Farmville",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Museum in the former Moton High School — 1951 student strike, one of the five Brown v. Board cases. Civil-rights ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 49,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_dfea0e6f0b35e0e6",
+   "projectedSlug": "va-dejarnette-sanitarium",
+   "targetSlug": null,
+   "name": "DeJarnette Sanitarium",
+   "town": "Staunton",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "★ THEME: asylum. Abandoned eugenics-era sanitarium (1930s); private and posted — no lawful access. Flag",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 82,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e3d34df606926a14",
+   "projectedSlug": "va-monacan-indian-nation-museum",
+   "targetSlug": null,
+   "name": "Monacan Indian Nation Museum",
+   "town": "",
+   "county": "Amherst",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Tribal museum at Bear Mountain. Indigenous ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 55,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e4990cfa1cfe199f",
+   "projectedSlug": "va-new-market-battlefield-state-historical-park",
+   "targetSlug": null,
+   "name": "New Market Battlefield State Historical Park",
+   "town": "New Market",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "VMI park and Hall of Valor museum — 1864 battle, VMI cadets",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 77,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ea098ffb857f2785",
+   "projectedSlug": "va-wayside-inn",
+   "targetSlug": null,
+   "name": "Wayside Inn",
+   "town": "Middletown",
+   "county": "Virginia",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 281,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ece1293bd6efc47c",
+   "projectedSlug": "va-gunston-hall",
+   "targetSlug": null,
+   "name": "Gunston Hall",
+   "town": "Mason Neck",
+   "county": "",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "State house museum — George Mason, Virginia Declaration of Rights",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 69,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ed5cb99b4125d4fb",
+   "projectedSlug": "va-edgewood-plantation",
+   "targetSlug": null,
+   "name": "Edgewood Plantation",
+   "town": "Charles City",
+   "county": "Virginia",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "plantation — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 280,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f0e6648d6f55f815",
+   "projectedSlug": "va-eastville-historic-district-and-1731-courthouse",
+   "targetSlug": null,
+   "name": "Eastville Historic District & 1731 Courthouse",
+   "town": "Eastville",
+   "county": "Northampton",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "Public courthouse square — oldest continuous court records in the U.S.",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 99,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f2756589b4e14e3e",
+   "projectedSlug": "va-cedar-creek-and-belle-grove-national-historical-park",
+   "targetSlug": null,
+   "name": "Cedar Creek & Belle Grove National Historical Park",
+   "town": "",
+   "county": "Middletown/Frederick",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "NPS unit — 1864 battle and plantation house",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 76,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f8c03d5fa2008034",
+   "projectedSlug": "va-historic-jamestowne",
+   "targetSlug": null,
+   "name": "Historic Jamestowne",
+   "town": "Jamestown Island",
+   "county": "James City",
+   "state": "VA",
+   "tier": null,
+   "anchorPosture": "NPS/APVA archaeological site — 1607 fort and townsite, ongoing digs",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 21,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
    "id": "lq_109e52bfdc9c0984",
    "projectedSlug": "md-lord-baltimore-hotel",
    "targetSlug": null,
@@ -179646,8 +179646,8 @@
   "byQueueState": {
    "checked-dead": 23,
    "held": 27,
-   "published": 49,
-   "queued": 6931
+   "published": 53,
+   "queued": 6927
   },
   "byState": {
    "AK": 121,

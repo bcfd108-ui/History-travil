@@ -156,6 +156,23 @@ const reviewedLoc = new Map([
   ["ME-portland-head-light", [
     "https://www.loc.gov/item/me0026/", federal,
   ]],
+  ["VA-yorktown-battlefield", [
+    "https://www.loc.gov/pictures/item/2002713090/", noKnown + ".",
+  ]],
+  ["VA-manassas-national-battlefield", [
+    "https://www.loc.gov/pictures/item/2012647809/", noKnown + ".",
+  ]],
+  ["VA-natural-bridge", [
+    "https://www.loc.gov/pictures/item/2016806805/", noKnown + ".",
+  ]],
+  ["VA-monticello", [
+    "https://www.loc.gov/item/va0059/",
+    federal + " https://www.loc.gov/rr/print/res/114_habs.html",
+  ]],
+  ["VA-mount-vernon", [
+    "https://www.loc.gov/item/va0436/",
+    federal + " https://www.loc.gov/rr/print/res/114_habs.html",
+  ]],
 ]);
 const centraliaSource = "https://commons.wikimedia.org/wiki/File:A421,_Centralia,_Pennsylvania,_USA,_Route_61,_abandoned_section_above_coal_mine_fire,_2016.jpg";
 
