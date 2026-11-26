@@ -12112,6 +12112,81 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-VT-billings-farm",
+   "Slug": "VT-billings-farm",
+   "Entry": "HT-RES-VT-billings-farm — The Farm That Planted Its Hills Back",
+   "Town": "Woodstock",
+   "State": "Vermont",
+   "Entry URL": "https://onoldground.com/sites/VT-billings-farm",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-VT-coolidge-homestead",
+   "Slug": "VT-coolidge-homestead",
+   "Entry": "HT-RES-VT-coolidge-homestead — The Village That Swore In a President",
+   "Town": "Plymouth",
+   "State": "Vermont",
+   "Entry URL": "https://onoldground.com/sites/VT-coolidge-homestead",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-VT-hildene",
+   "Slug": "VT-hildene",
+   "Entry": "HT-RES-VT-hildene — The Ancestral Home Above the Battenkill",
+   "Town": "Manchester",
+   "State": "Vermont",
+   "Entry URL": "https://onoldground.com/sites/VT-hildene",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-VT-old-constitution-house",
+   "Slug": "VT-old-constitution-house",
+   "Entry": "HT-RES-VT-old-constitution-house — The Republic Written in a Tavern",
+   "Town": "Windsor",
+   "State": "Vermont",
+   "Entry URL": "https://onoldground.com/sites/VT-old-constitution-house",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-VT-rokeby-museum",
+   "Slug": "VT-rokeby-museum",
+   "Entry": "HT-RES-VT-rokeby-museum — The Farm That Wrote It Down",
+   "Town": "Ferrisburgh",
+   "State": "Vermont",
+   "Entry URL": "https://onoldground.com/sites/VT-rokeby-museum",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-VT-vermont-state-house",
    "Slug": "VT-vermont-state-house",
    "Entry": "HT-RES-VT-vermont-state-house — Montpelier: the capitol that rose from the ashes",
@@ -13058,6 +13133,6 @@
   }
  ],
  "counts": {
-  "items": 870
+  "items": 875
  }
 }
