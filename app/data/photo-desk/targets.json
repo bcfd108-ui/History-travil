@@ -1,6 +1,6 @@
 {
- "commit": "0226e346e179ef4a9a47b11acaf13c0c92a6c6f5",
- "catalogCount": 825,
+ "commit": "2ebc73a30bd2b28a545e79fb56c94279c83d51c1",
+ "catalogCount": 829,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -36332,6 +36332,186 @@
      {
       "key": "Status",
       "value": "research draft; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-RI-new-fort-adams",
+   "slug": "RI-new-fort-adams",
+   "title": "HT-RES-RI-new-fort-adams — Newport: America's largest coastal fortress, named for John Adams",
+   "town": "Newport",
+   "state": "Rhode Island",
+   "stateCode": "RI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-RI-new-fort-adams — Newport: America's largest coastal fortress, named for John Adams",
+   "stableName": "Fort Adams / Fort Adams Historic District",
+   "address": "90 Fort Adams Drive, Newport, RI 02840",
+   "locator": {
+    "stableName": "Fort Adams / Fort Adams Historic District",
+    "address": "90 Fort Adams Drive, Newport, RI 02840",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are supplied; a pair of independent sources agreeing to the required tolerance was not established during this build.",
+    "nrhp": "70000014 (listed July 28, 1970; National Historic Landmark District, December 8, 1976)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Wikimedia Commons File:Fort Adams, Newport, Rhode Island.jpg",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/70000014_text",
+    "operator": "Fort Adams Trust (historic fort), within Fort Adams State Park, Rhode Island State Parks",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Newport"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Fort Adams State Park Visitor Center, north end of the state park"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The fort interior and grounds on the Trust's tours and schedule; tunnels on guided tours only; the surrounding state park on its own terms."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Rhode Island seed catalog; hunts disabled."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-RI-new-touro",
+   "slug": "RI-new-touro",
+   "title": "HT-RES-RI-new-touro — Newport: the synagogue that received Washington's promise",
+   "town": "Newport",
+   "state": "Rhode Island",
+   "stateCode": "RI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-RI-new-touro — Newport: the synagogue that received Washington's promise",
+   "stableName": "Touro Synagogue / Touro Synagogue National Historic Site",
+   "address": "85 Touro Street, Newport, RI 02840",
+   "locator": {
+    "stableName": "Touro Synagogue / Touro Synagogue National Historic Site",
+    "address": "85 Touro Street, Newport, RI 02840",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are supplied; a pair of independent sources agreeing to the required tolerance was not established during this build.",
+    "nrhp": "66000927 (National Historic Site, designated March 5, 1946)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Wikimedia Commons File:Touro Synagogue, Newport, RI.jpg; Flickr photo 37864655",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/66000927_text",
+    "operator": "Touro Synagogue Foundation (owner: Congregation Shearith Israel, New York City)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Newport"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The synagogue grounds and fence line on Touro Street; Loeb Visitors Center, 52 Spring Street"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Exterior from the public sidewalk, fence line and Patriots Park; interior on the operator's guided tours only, and not when the building is in use as a house of worship."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Rhode Island seed catalog; hunts disabled."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-RI-nki-gilbert-stuart",
+   "slug": "RI-nki-gilbert-stuart",
+   "title": "HT-RES-RI-nki-gilbert-stuart — Saunderstown: the snuff-mill house that produced Washington's portraitist",
+   "town": "Saunderstown",
+   "state": "Rhode Island",
+   "stateCode": "RI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-RI-nki-gilbert-stuart — Saunderstown: the snuff-mill house that produced Washington's portraitist",
+   "stableName": "Gilbert Stuart Birthplace & Museum",
+   "address": "815 Gilbert Stuart Road, Saunderstown, RI 02874",
+   "locator": {
+    "stableName": "Gilbert Stuart Birthplace & Museum",
+    "address": "815 Gilbert Stuart Road, Saunderstown, RI 02874",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are supplied; a pair of independent sources agreeing to the required tolerance was not established during this build.",
+    "nrhp": "66000004 (National Historic Landmark, designated December 21, 1965; listed October 15, 1966)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Wikimedia Commons File:Gilbert Stuart birthplace and barn.jpg",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/66000004_text",
+    "operator": "Gilbert Stuart Memorial, Inc. (private nonprofit museum)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "North Kingstown (Saunderstown village)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The museum grounds on Gilbert Stuart Road, in season only"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The museum house, mills and grounds in season only (2026 season: April 29 – October 25); closed October 26, 2026 – April 28, 2027; no off-season access is promised."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Rhode Island seed catalog; hunts disabled."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-RI-paw-slater-mill",
+   "slug": "RI-paw-slater-mill",
+   "title": "HT-RES-RI-paw-slater-mill — Pawtucket: the mill where American industry started spinning",
+   "town": "Pawtucket",
+   "state": "Rhode Island",
+   "stateCode": "RI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-RI-paw-slater-mill — Pawtucket: the mill where American industry started spinning",
+   "stableName": "Slater Mill / Old Slater Mill National Historic Landmark",
+   "address": "67 Roosevelt Avenue, Pawtucket, RI 02860",
+   "locator": {
+    "stableName": "Slater Mill / Old Slater Mill National Historic Landmark",
+    "address": "67 Roosevelt Avenue, Pawtucket, RI 02860",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are supplied; a pair of independent sources agreeing to the required tolerance was not established during this build.",
+    "nrhp": "66000001 (National Historic Landmark, listed November 13, 1966)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Wikimedia Commons File:Slater Mill, Pawtucket, Rhode Island.jpg",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/66000001_text",
+    "operator": "National Park Service, Blackstone River Valley National Historical Park",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Pawtucket"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Slater Mill grounds, Blackstone River Valley National Historical Park"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The park grounds and the interior of Slater Mill on its tour schedule; Wilkinson Mill and Sylvanus Brown House are exterior-only at this time."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Rhode Island seed catalog; hunts disabled."
      }
     ]
    }
