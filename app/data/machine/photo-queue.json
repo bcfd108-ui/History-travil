@@ -8737,6 +8737,51 @@
    "Access decision": "The dossier provides no current, ordinary public viewpoint of this subject."
   },
   {
+   "Entry ID": "HT-NH-canterbury-shaker-village",
+   "Slug": "NH-canterbury-shaker-village",
+   "Entry": "HT-RES-NH-canterbury-shaker-village — Hands to Work, and Hearts to God",
+   "Town": "Canterbury",
+   "State": "New Hampshire",
+   "Entry URL": "https://onoldground.com/sites/NH-canterbury-shaker-village",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-NH-fort-at-no-4",
+   "Slug": "NH-fort-at-no-4",
+   "Entry": "HT-RES-NH-fort-at-no-4 — The Fortified Village at the Top of the River",
+   "Town": "Charlestown",
+   "State": "New Hampshire",
+   "Entry URL": "https://onoldground.com/sites/NH-fort-at-no-4",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-NH-mount-washington-cog-railway",
+   "Slug": "NH-mount-washington-cog-railway",
+   "Entry": "HT-RES-NH-mount-washington-cog-railway — The Railway to the Moon",
+   "Town": "Mount Washington",
+   "State": "New Hampshire",
+   "Entry URL": "https://onoldground.com/sites/NH-mount-washington-cog-railway",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-NH-portsmouth-wentworth-coolidge-mansion",
    "Slug": "NH-portsmouth-wentworth-coolidge-mansion",
    "Entry": "HT-RES-NH-portsmouth-wentworth-coolidge-mansion — Portsmouth: the governor’s house at Little Harbor",
@@ -8764,6 +8809,36 @@
    "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
    "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-NH-saint-gaudens",
+   "Slug": "NH-saint-gaudens",
+   "Entry": "HT-RES-NH-saint-gaudens — The Sculptor's House Above the Connecticut",
+   "Town": "Cornish",
+   "State": "New Hampshire",
+   "Entry URL": "https://onoldground.com/sites/NH-saint-gaudens",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-NH-strawbery-banke",
+   "Slug": "NH-strawbery-banke",
+   "Entry": "HT-RES-NH-strawbery-banke — The Neighborhood That Refused the Bulldozer",
+   "Town": "Portsmouth",
+   "State": "New Hampshire",
+   "Entry URL": "https://onoldground.com/sites/NH-strawbery-banke",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -12983,6 +13058,6 @@
   }
  ],
  "counts": {
-  "items": 865
+  "items": 870
  }
 }
