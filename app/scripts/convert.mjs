@@ -447,6 +447,7 @@ function convert(filePath, origin) {
       sources: scrubText(S.sources?.body || ""),
       locator,
       coordinates,
+      mapPoint: coordinates ?? null,
       coordinateKind,
       candidateFinds: cand.candidates,
       publishedAs: "Published research — the record, with its gaps printed. Not yet field-proven.",
