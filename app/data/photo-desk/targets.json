@@ -1,6 +1,6 @@
 {
- "commit": "45497a0a2d028c7df7de19b8dffcf4b2e453f3b6",
- "catalogCount": 874,
+ "commit": "6f5fc57eac5f9a65559b1505dcdf0f5cfa160b22",
+ "catalogCount": 879,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -41918,6 +41918,243 @@
      {
       "key": "Release state",
       "value": "LOCAL RESEARCH DRAFT / PRIMARY VERBAL VOICE GAPPED; no publication, upload, contact, itinerary activation or acceptance claim"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VT-billings-farm",
+   "slug": "VT-billings-farm",
+   "title": "HT-RES-VT-billings-farm — The Farm That Planted Its Hills Back",
+   "town": "Woodstock",
+   "state": "Vermont",
+   "stateCode": "VT",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-VT-billings-farm — The Farm That Planted Its Hills Back",
+   "stableName": "Billings Farm & Museum (the Billings Farm, established 1871)",
+   "address": "69 Old River Road, Woodstock, VT 05091",
+   "locator": {
+    "stableName": "Billings Farm & Museum (the Billings Farm, established 1871)",
+    "address": "69 Old River Road, Woodstock, VT 05091",
+    "latitude": "**blank**",
+    "longitude": "**blank**",
+    "coordinateSource": "**blank** — no primary record consulted in this pass prints a coordinate pair scoped to the farm; the farm's own published material and the Register records give the street address. No coordinates were taken from photograph metadata, aggregators, or map sites.",
+    "nrhp": "the farm stands within the Woodstock Village Historic District, NRHP 73000274 (listed January 22, 1973), whose Register documentation treats the Billings Farm & Museum complex on the north side of the river; the Marsh-Billings-Rockefeller National Historical Park across Route 12 is NRIS 03000282 (published August 26, 1992)",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "NPGallery Asset ID aa833c1c-c6ce-4c7f-9df7-4b3e48e97d6b (Marsh--Billings--Rockefeller National Historical Park district record)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/aa833c1c-c6ce-4c7f-9df7-4b3e48e97d6b",
+    "operator": "The Woodstock Foundation, Inc.",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Woodstock, Vermont (Windsor County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Billings Farm & Museum, 69 Old River Road"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Ticketed farm and museum at 69 Old River Road; Marsh-Billings-Rockefeller National Historical Park across Vermont Route 12 is a separate federal site with its own tours and hours, sharing the farm-side parking area and visitor welcome."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VT-coolidge-homestead",
+   "slug": "VT-coolidge-homestead",
+   "title": "HT-RES-VT-coolidge-homestead — The Village That Swore In a President",
+   "town": "Plymouth",
+   "state": "Vermont",
+   "stateCode": "VT",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-VT-coolidge-homestead — The Village That Swore In a President",
+   "stableName": "Calvin Coolidge Homestead District (President Calvin Coolidge State Historic Site)",
+   "address": "3780 Route 100A, Plymouth, VT 05056",
+   "locator": {
+    "stableName": "Calvin Coolidge Homestead District (President Calvin Coolidge State Historic Site)",
+    "address": "3780 Route 100A, Plymouth, VT 05056",
+    "latitude": "**blank**",
+    "longitude": "**blank**",
+    "coordinateSource": "**blank** — the National Register nomination defines the district by verbal boundary from the intersection of Pinney Hollow Brook and Vermont Route 100A and by UTM references in Zone 18 illegible in the digitized copy consulted; the State's published material gives the street address only. No coordinates were taken from photograph metadata, aggregators, or map sites.",
+    "nrhp": "66000794 (listed October 15, 1966; National Historic Landmark designated June 23, 1965)",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "NPGallery Asset ID 2415c09c-e1d1-419c-8cc2-e98de57b1676; the district lies within the larger Plymouth Historic District",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000794",
+    "operator": "State of Vermont, Division for Historic Preservation (Vermont State Historic Sites)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Plymouth (Plymouth Notch), Vermont (Windsor County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "President Calvin Coolidge State Historic Site, 3780 Route 100A"
+     },
+     {
+      "key": "Photo record",
+      "value": "Wikimedia Commons, \"15 23 0700 coolidge homestead.jpg,\" by Dsdugan, CC0; capture date 2015-08-21 per the record's own metadata (DateTimeOriginal), so the year 2015 prints on the record's own documentation"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Seasonal state historic site in the living village of Plymouth Notch; the village roads are public roads with active traffic, some district houses remain private residences, and the Plymouth Notch Cemetery is owned by the town."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VT-hildene",
+   "slug": "VT-hildene",
+   "title": "HT-RES-VT-hildene — The Ancestral Home Above the Battenkill",
+   "town": "Manchester",
+   "state": "Vermont",
+   "stateCode": "VT",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-VT-hildene — The Ancestral Home Above the Battenkill",
+   "stableName": "Hildene (Hildene, The Lincoln Family Home; National Register name: Hildene; the nomination's common name: Robert Todd Lincoln Estate)",
+   "address": "1005 Hildene Road, Manchester, VT 05254",
+   "locator": {
+    "stableName": "Hildene (Hildene, The Lincoln Family Home; National Register name: Hildene; the nomination's common name: Robert Todd Lincoln Estate)",
+    "address": "1005 Hildene Road, Manchester, VT 05254",
+    "latitude": "**blank**",
+    "longitude": "**blank**",
+    "coordinateSource": "**blank** — the Register's additional documentation bounds the 412-acre property by UTM references in Zone 18 (five corner points), giving no point for the house; the operator publishes the street address only. No coordinates were taken from photo metadata, aggregators, or map sites.",
+    "nrhp": "77000095 (listed October 28, 1977)",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "NPGallery Asset ID d16d1648-6b3f-4e55-b2e9-db46155ea875",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/77000095",
+    "operator": "The Friends of Hildene, Inc.",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Manchester, Vermont (Bennington County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Hildene, 1005 Hildene Road"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Ticketed estate at 1005 Hildene Road, covering the mansion promontory and the dene farm below; the surrounding village of Manchester is a living town, not part of the ticket."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VT-old-constitution-house",
+   "slug": "VT-old-constitution-house",
+   "title": "HT-RES-VT-old-constitution-house — The Republic Written in a Tavern",
+   "town": "Windsor",
+   "state": "Vermont",
+   "stateCode": "VT",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-VT-old-constitution-house — The Republic Written in a Tavern",
+   "stableName": "Old Constitution House (Elijah West's tavern; the Windsor Tavern)",
+   "address": "16 North Main Street, Windsor, VT 05089",
+   "locator": {
+    "stableName": "Old Constitution House (Elijah West's tavern; the Windsor Tavern)",
+    "address": "16 North Main Street, Windsor, VT 05089",
+    "latitude": "**blank**",
+    "longitude": "**blank**",
+    "coordinateSource": "**blank** — the National Register record defines the property by its street address (16 No. Main Street, Windsor), and no primary source consulted prints a point scoped to this property. No coordinates were taken from photograph metadata, aggregators, or map sites.",
+    "nrhp": "71000075 (listed March 11, 1971)",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "NPGallery Asset ID 0748d89f-16a0-43e8-83c7-d5a3cdcd3c8a",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/0748d89f-16a0-43e8-83c7-d5a3cdcd3c8a",
+    "operator": "Vermont Division for Historic Preservation (Vermont State Historic Sites)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Windsor, Vermont (Windsor County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Old Constitution House, 16 North Main Street"
+     },
+     {
+      "key": "Photo record",
+      "value": "Wikimedia Commons, File: ConstitutionHouse WindsorVermont.JPG, by Adair Mulligan; released into the public domain by its author, Adair Mulligan; capture date 2002-06-30 from the record's EXIF (\"Date and time of data generation 15:03, 30 June 2002\"); year 2002 prints on the record's own metadata — the March 2006 upload date does not govern. SHA-256: 786406ddf6e77acab10e8a602f6f736a1e0a51363d874ab7e1507f841433d942"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The house and its lot at 16 North Main Street, Windsor; the building stands on its third site (moved 1914), and the tavern's original Main Street site in the village center is not part of the museum visit. The house is closed for renovations at this writing, with reopening planned for May 2027."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VT-rokeby-museum",
+   "slug": "VT-rokeby-museum",
+   "title": "HT-RES-VT-rokeby-museum — The Farm That Wrote It Down",
+   "town": "Ferrisburgh",
+   "state": "Vermont",
+   "stateCode": "VT",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-VT-rokeby-museum — The Farm That Wrote It Down",
+   "stableName": "Rokeby (Rokeby Museum; National Register name: Rokeby; other name: Robinson, Rowland T., House)",
+   "address": "4334 Route 7, Ferrisburgh, VT 05456",
+   "locator": {
+    "stableName": "Rokeby (Rokeby Museum; National Register name: Rokeby; other name: Robinson, Rowland T., House)",
+    "address": "4334 Route 7, Ferrisburgh, VT 05456",
+    "latitude": "**blank**",
+    "longitude": "**blank**",
+    "coordinateSource": "**blank** — the National Historic Landmark nomination defines the property by verbal boundary (Town Highway 22 / Robinson Road and US Route 7) and by four UTM corner references in Zone 18, and prints no point coordinates. No coordinates were taken from photograph metadata, aggregators, or map sites.",
+    "nrhp": "74000201 (listed June 20, 1974)",
+    "hmdb": "**blank**",
+    "ark": "**blank**",
+    "archiveId": "NPGallery Asset ID b59699ec-cd23-418e-869e-f18352e08631 (1974 Register record); NHL nomination asset ae87dc1c-b07d-4de9-b3a6-6953f31b16e6",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/b59699ec-cd23-418e-869e-f18352e08631",
+    "operator": "Rokeby Museum",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Ferrisburgh, Vermont (Addison County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Rokeby Museum, 4334 Route 7"
+     },
+     {
+      "key": "NHL",
+      "value": "designated December 9, 1997, under the Underground Railroad theme study"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Ticketed museum site at 4334 Route 7; the historic house is entered by guided tour only, the grounds and outbuildings are self-guided, and the trails are open daylight hours year-round."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
      }
     ]
    }
