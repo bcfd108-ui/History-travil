@@ -5246,5 +5246,63 @@
    "targetSlug": "ME-south-portland-breakwater-lighthouse",
    "targetId": "HT-ME-south-portland-breakwater-lighthouse"
   }
+ ],
+ "NJ-paterson-great-falls": [
+  {
+   "src": "/photos/nj-paterson-great-falls-03f54c0152.webp",
+   "eraRole": "now",
+   "roleLabel": "now",
+   "year": 2016,
+   "title": "Great Falls in Paterson",
+   "caption": "The Great Falls of the Passaic River dropping between the basalt cliffs at Paterson, with the bridges above the gorge. Photograph by Aavindraa, 2016.",
+   "alt": "Photograph of a wide waterfall dropping between dark basalt cliffs into a gorge, with bridges and autumn trees above, Paterson, New Jersey.",
+   "credit": "Aavindraa, 2016 — Wikimedia Commons",
+   "license": "CC0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourceName": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Falls_in_Paterson.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/File:Great_Falls_in_Paterson.jpg",
+   "sha256": "03f54c0152520b4cbf1c13f75e4f61cd5561aca8536e30e033caab4c85833380",
+   "width": 1024,
+   "height": 1024,
+   "dateNote": "2016 (Wikimedia Commons file record).",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the falls descending between dark basalt cliffs, the river and bridges above the gorge — the Great Falls at Paterson, matching the entry's photographic hunt.",
+   "rightsReview": "Wikimedia Commons file record for File:Great_Falls_in_Paterson.jpg: CC0, released by the photographer Aavindraa (2016). The holding collection's own record clears it.",
+   "adoptedAt": "2026-11-26T05:55:00Z",
+   "rowId": "2c25e1a9e6",
+   "targetSlug": "NJ-paterson-great-falls",
+   "targetId": "HT-NJ-paterson-great-falls"
+  }
+ ],
+ "VT-vermont-state-house": [
+  {
+   "src": "/photos/vt-vermont-state-house-3e39186b3a.webp",
+   "eraRole": "now",
+   "roleLabel": "now",
+   "year": null,
+   "title": "Vermont State House",
+   "caption": "The Vermont State House in Montpelier — granite portico and gilded dome with the agricultural statue above — in snow. Photograph by GearedBull.",
+   "alt": "Photograph of a granite capitol building with a columned portico and a gilded dome topped by a statue, snow on the ground, Montpelier, Vermont.",
+   "credit": "GearedBull — Wikimedia Commons",
+   "license": "CC BY 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.5/deed.en",
+   "sourceName": "Wikimedia Commons",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vermont_State_House.jpg",
+   "imageUrl": "https://commons.wikimedia.org/wiki/File:Vermont_State_House.jpg",
+   "sha256": "3e39186b3ad2b5d646ced4c5a4b3cce1b401800c38ec73740c6f0a0ed2eff68f",
+   "width": 1024,
+   "height": 768,
+   "dateNote": "Capture date not established on the Commons file record.",
+   "medium": "photograph",
+   "representative": false,
+   "groundReview": "Desk eye-check Nov 25, 2026: the granite State House with its columned entrance beneath the gilded dome and statue, wooded hill behind — the Montpelier capitol, matching the entry's photographic hunt.",
+   "rightsReview": "Wikimedia Commons file record for File:Vermont_State_House.jpg: CC BY 2.5, photographer GearedBull; attribution carried in the credit line. The holding collection's own record clears it with attribution.",
+   "adoptedAt": "2026-11-26T05:55:00Z",
+   "rowId": "17725f7f4a",
+   "targetSlug": "VT-vermont-state-house",
+   "targetId": "HT-VT-vermont-state-house"
+  }
  ]
 }
