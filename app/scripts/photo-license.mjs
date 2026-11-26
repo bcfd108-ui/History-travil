@@ -196,6 +196,17 @@ const reviewedLoc = new Map([
     "https://www.loc.gov/item/oh0099/",
     federal + " https://www.loc.gov/rr/print/res/114_habs.html",
   ]],
+  ["PA-eastern-state-penitentiary", [
+    "https://www.loc.gov/item/pa1207/",
+    federal + " https://www.loc.gov/rr/print/res/114_habs.html",
+  ]],
+  ["CA-alcatraz-island", [
+    "https://www.loc.gov/item/ca1498/",
+    federal + " http://www.loc.gov/rr/print/res/114_habs.html",
+  ]],
+  ["OH-ohio-state-reformatory", ["https://www.loc.gov/item/2016632461/", noKnown]],
+  ["WV-west-virginia-penitentiary", ["https://www.loc.gov/item/2015632114/", noKnown]],
+  ["WV-trans-allegheny-lunatic-asylum", ["https://www.loc.gov/item/2015631730/", noKnown]],
 ]);
 const centraliaSource = "https://commons.wikimedia.org/wiki/File:A421,_Centralia,_Pennsylvania,_USA,_Route_61,_abandoned_section_above_coal_mine_fire,_2016.jpg";
 

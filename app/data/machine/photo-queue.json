@@ -1027,6 +1027,21 @@
    "Access decision": "The dossier provides no current, ordinary public viewpoint of this subject."
   },
   {
+   "Entry ID": "HT-CA-alcatraz-island",
+   "Slug": "CA-alcatraz-island",
+   "Entry": "HT-RES-CA-alcatraz-island — A fortress, a military prison, and a federal penitentiary on one bay island",
+   "Town": "San Francisco",
+   "State": "California",
+   "Entry URL": "https://onoldground.com/sites/CA-alcatraz-island",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-CA-angel-island-immigration-reflection",
    "Slug": "CA-angel-island-immigration-reflection",
    "Entry": "HT-RES-CA-angel-island-immigration-reflection — Waiting for someone else's answer",
@@ -4237,6 +4252,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-KY-waverly-hills-sanatorium",
+   "Slug": "KY-waverly-hills-sanatorium",
+   "Entry": "HT-RES-KY-waverly-hills-sanatorium — A tuberculosis sanatorium on a Louisville hill, built in two campaigns against an epidemic",
+   "Town": "Louisville",
+   "State": "Kentucky",
+   "Entry URL": "https://onoldground.com/sites/KY-waverly-hills-sanatorium",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-KY-abraham-lincoln-birthplace",
    "Slug": "KY-abraham-lincoln-birthplace",
    "Entry": "KY-abraham-lincoln-birthplace",
@@ -7237,6 +7267,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-MO-missouri-state-penitentiary",
+   "Slug": "MO-missouri-state-penitentiary",
+   "Entry": "HT-RES-MO-missouri-state-penitentiary — The stone front on Lafayette Street",
+   "Town": "Jefferson City",
+   "State": "Missouri",
+   "Entry URL": "https://onoldground.com/sites/MO-missouri-state-penitentiary",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-MO-independence-trail-departures",
    "Slug": "MO-independence-trail-departures",
    "Entry": "Independence — The wagon that left at four",
@@ -7759,6 +7804,21 @@
    "Coverage": "none",
    "Eligibility": "DESK REVIEW",
    "Gap": "FIRST PHOTO NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-MT-old-montana-prison",
+   "Slug": "MT-old-montana-prison",
+   "Entry": "HT-RES-MT-old-montana-prison — A territorial prison opened in 1871 and emptied in 1979, its wall and cell house still standing on Main Street, Deer Lodge",
+   "Town": "Deer Lodge",
+   "State": "Montana",
+   "Entry URL": "https://onoldground.com/sites/MT-old-montana-prison",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -9652,6 +9712,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-OH-ohio-state-reformatory",
+   "Slug": "OH-ohio-state-reformatory",
+   "Entry": "HT-RES-OH-ohio-state-reformatory — A limestone front built to reform young men, closed by a federal court",
+   "Town": "Mansfield",
+   "State": "Ohio",
+   "Entry URL": "https://onoldground.com/sites/OH-ohio-state-reformatory",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-OH-perrys-victory",
    "Slug": "OH-perrys-victory",
    "Entry": "HT-RES-OH-perrys-victory — Six officers from two fleets under one stone floor, and a column built for peace",
@@ -10492,6 +10567,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-PA-eastern-state-penitentiary",
+   "Slug": "PA-eastern-state-penitentiary",
+   "Entry": "HT-RES-PA-eastern-state-penitentiary — Seven cellblocks radiating from a central hub inside 30-foot granite walls",
+   "Town": "Philadelphia",
+   "State": "Pennsylvania",
+   "Entry URL": "https://onoldground.com/sites/PA-eastern-state-penitentiary",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-PA-fort-necessity",
    "Slug": "PA-fort-necessity",
    "Entry": "HT-RES-PA-fort-necessity — A 53-foot circle of sticks alone in a wide green meadow",
@@ -10999,6 +11089,21 @@
    "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
    "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-TN-brushy-mountain-penitentiary",
+   "Slug": "TN-brushy-mountain-penitentiary",
+   "Entry": "HT-RES-TN-brushy-mountain-penitentiary — The stone prison in the hollow below Frozen Head",
+   "Town": "Petros",
+   "State": "Tennessee",
+   "Entry URL": "https://onoldground.com/sites/TN-brushy-mountain-penitentiary",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
    "Access decision": ""
   },
   {
@@ -12322,6 +12427,36 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-WV-trans-allegheny-lunatic-asylum",
+   "Slug": "WV-trans-allegheny-lunatic-asylum",
+   "Entry": "HT-RES-WV-trans-allegheny-lunatic-asylum — A Kirkbride asylum in hand-cut blue sandstone, built for 250 patients and filled far beyond that",
+   "Town": "Weston",
+   "State": "West Virginia",
+   "Entry URL": "https://onoldground.com/sites/WV-trans-allegheny-lunatic-asylum",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-WV-west-virginia-penitentiary",
+   "Slug": "WV-west-virginia-penitentiary",
+   "Entry": "HT-RES-WV-west-virginia-penitentiary — A stone Gothic fortress across from an ancient mound, closed by its own state supreme court",
+   "Town": "Moundsville",
+   "State": "West Virginia",
+   "Entry URL": "https://onoldground.com/sites/WV-west-virginia-penitentiary",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-WY-buffalo-basque-shepherds",
    "Slug": "WY-buffalo-basque-shepherds",
    "Entry": "Buffalo Basque sheepherders: a familiar voice across the range",
@@ -12577,6 +12712,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-WY-wyoming-frontier-prison",
+   "Slug": "WY-wyoming-frontier-prison",
+   "Entry": "HT-RES-WY-wyoming-frontier-prison — Thirteen years from cornerstone to first prisoner, then eighty years of use behind a concrete wall in Rawlins",
+   "Town": "Rawlins",
+   "State": "Wyoming",
+   "Entry URL": "https://onoldground.com/sites/WY-wyoming-frontier-prison",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-WY-jackson-valley-tourism-labor",
    "Slug": "WY-jackson-valley-tourism-labor",
    "Entry": "Jackson valley tourism labor: the visitor's holiday, the household's work",
@@ -12683,6 +12833,6 @@
   }
  ],
  "counts": {
-  "items": 845
+  "items": 855
  }
 }

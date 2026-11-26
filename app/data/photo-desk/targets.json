@@ -1,6 +1,6 @@
 {
- "commit": "51cbeaa26ceddec36c20fc349441c80002d8ed05",
- "catalogCount": 849,
+ "commit": "e47f604525e99005e7061829e0e9f64db5bff3fc",
+ "catalogCount": 859,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -3490,6 +3490,50 @@
      {
       "key": "Digital source publishers",
       "value": "Community Alliance / kNOw Youth Media; StoryCorps No museum contact address, recording location, closed library address, private residence or community site is promoted into an active visitor locator. Local draft only."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-CA-alcatraz-island",
+   "slug": "CA-alcatraz-island",
+   "title": "HT-RES-CA-alcatraz-island — A fortress, a military prison, and a federal penitentiary on one bay island",
+   "town": "San Francisco",
+   "state": "California",
+   "stateCode": "CA",
+   "coordinates": {
+    "lat": 37.826521,
+    "lon": -122.422767
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-CA-alcatraz-island — A fortress, a military prison, and a federal penitentiary on one bay island",
+   "stableName": "Alcatraz Island — National Register listing: Alcatraz (historic names include Fort Alcatraz and United States Penitentiary at Alcatraz Island)",
+   "address": "Alcatraz Island, San Francisco Bay, San Francisco, CA (no street address)",
+   "locator": {
+    "stableName": "Alcatraz Island — National Register listing: Alcatraz (historic names include Fort Alcatraz and United States Penitentiary at Alcatraz Island)",
+    "address": "Alcatraz Island, San Francisco Bay, San Francisco, CA (no street address)",
+    "latitude": "37.826521",
+    "longitude": "-122.422767",
+    "coordinateSource": "As carried in the Library of Congress HABS survey record for the Cell House (HABS No. CA-1792-A, item ca1498), in the record's place field — a survey-record place point for the cellhouse record, not a ferry-landing or visitor-entrance point. The National Register nomination itself carries UTM references only (Zone 10, four boundary points), recorded here in their own form rather than converted.",
+    "nrhp": "76000209 — Alcatraz (district; National Historic Landmark)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress, Historic American Buildings Survey HABS No. CA-1792-A (Cell House); survey item ca1498; first-photograph frame ca1498.photos.015914p",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/76000209_text",
+    "operator": "National Park Service (Golden Gate National Recreation Area); ferry by Alcatraz City Cruises, the sole NPS-authorized provider",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "San Francisco"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Alcatraz Island, Golden Gate National Recreation Area — reached only by the Alcatraz City Cruises ferry from Pier 33, Embarcadero and Bay Street, San Francisco"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the island visit — ferry from Pier 33 to the island dock, and the island's public areas as the NPS opens them (some areas close seasonally for seabird nesting, per the NPS). No NPS entrance fee; the ferry ticket is required, at the fares stated in §1, and includes the cellhouse audio tour.- Status: research draft; prisons-asylums-tours-001; no route or hunt activation from this page."
      }
     ]
    }
@@ -14782,6 +14826,51 @@
    }
   },
   {
+   "id": "HT-KY-waverly-hills-sanatorium",
+   "slug": "KY-waverly-hills-sanatorium",
+   "title": "HT-RES-KY-waverly-hills-sanatorium — A tuberculosis sanatorium on a Louisville hill, built in two campaigns against an epidemic",
+   "town": "Louisville",
+   "state": "Kentucky",
+   "stateCode": "KY",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-KY-waverly-hills-sanatorium — A tuberculosis sanatorium on a Louisville hill, built in two campaigns against an epidemic",
+   "stableName": "Waverly Hills Sanatorium — National Register listing: Waverly Hills Tuberculosis Sanatorium Historic Buildings",
+   "address": "4400 Paralee Drive, Louisville, KY 40272 (operator's current address; National Register address of record: 8101 Dixie Highway, Louisville, KY)",
+   "locator": {
+    "stableName": "Waverly Hills Sanatorium — National Register listing: Waverly Hills Tuberculosis Sanatorium Historic Buildings",
+    "address": "4400 Paralee Drive, Louisville, KY 40272 (operator's current address; National Register address of record: 8101 Dixie Highway, Louisville, KY)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No latitude/longitude is carried in the primary records checked, and none prints. The Kentucky inventory form carries UTM references only — boundary points A–D and a midpoint of Zone 16, Easting 601580, Northing 4220780 — printed here in their own form rather than converted.",
+    "nrhp": "83002746 — Waverly Hills Tuberculosis Sanatorium Historic Buildings (listed July 12, 1983)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Kentucky Historic Resources Inventory JF-75, JF-76, JF-77",
+    "registerUrl": "https://npgallery.nps.gov/GetAsset/391d9b96-6c5c-4d0a-89db-367881bbf0c6",
+    "operator": "Waverly Hills Historical Society",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Louisville, Jefferson County, Kentucky"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Waverly Hills Sanatorium main building (1926), on its hilltop site in southwestern Jefferson County"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the ticketed tour visit — entry only through Gate A (via 4301 E. Pages Lane, per the operator), on the operator's tours as described in §1. The property is otherwise private and closed."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; prisons-asylums-tours-001; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-KY-abraham-lincoln-birthplace",
    "slug": "KY-abraham-lincoln-birthplace",
    "title": "KY-abraham-lincoln-birthplace",
@@ -25652,6 +25741,51 @@
    }
   },
   {
+   "id": "HT-MO-missouri-state-penitentiary",
+   "slug": "MO-missouri-state-penitentiary",
+   "title": "HT-RES-MO-missouri-state-penitentiary — The stone front on Lafayette Street",
+   "town": "Jefferson City",
+   "state": "Missouri",
+   "stateCode": "MO",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MO-missouri-state-penitentiary — The stone front on Lafayette Street",
+   "stableName": "Missouri State Penitentiary",
+   "address": "115 Lafayette Street, Jefferson City, MO 65101 (tours); museum at 700 E. Capitol Avenue, Jefferson City, MO 65101",
+   "locator": {
+    "stableName": "Missouri State Penitentiary",
+    "address": "115 Lafayette Street, Jefferson City, MO 65101 (tours); museum at 700 E. Capitol Avenue, Jefferson City, MO 65101",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No latitude/longitude is carried in the primary or agency records checked, and none prints. The one National Register record verified for the site — the Warden's House record — was checked in its NPGallery summary form, which carries the street address and no coordinates in the fields shown. Coordinates in secondary gazetteers were not adopted.",
+    "nrhp": "The penitentiary complex is not listed — a 2015 nomination was withdrawn and then rejected by SHPO (see §6). The Warden's House alone is listed: 91001518 — Missouri State Penitentiary Warden's House, listed October 24, 1991",
+    "hmdb": "84624 — Missouri State Penitentiary Warden's House marker, at Capitol Avenue and Lafayette Street",
+    "ark": "",
+    "archiveId": "Missouri State Archives Record Group 213 (penitentiary records) and Record Group 114 photograph collection; Commons file \"Missouri State Penitentiary, Jefferson City, MO Front.jpg\"",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/913285a4-5513-4fd6-854e-adbb7c2cc60f/",
+    "operator": "Jefferson City Convention and Visitors Bureau (Missouri Pen Tours); the site remains state-owned",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Jefferson City"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The Lafayette Street front and tour entrance, with the museum in the Marmaduke House across Capitol Avenue"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the guided tour only — tours start at 115 Lafayette Street in the March–November season, plus the museum at 700 E. Capitol Avenue. There is no unguided access to the prison interior in the operator's offer checked, and no daily tour hours are stated on its pages."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; prisons-asylums-tours-001; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-MO-independence-trail-departures",
    "slug": "MO-independence-trail-departures",
    "title": "Independence — The wagon that left at four",
@@ -27490,6 +27624,51 @@
      {
       "key": "Publication / route / access approval",
       "value": "none; local research draft only."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MT-old-montana-prison",
+   "slug": "MT-old-montana-prison",
+   "title": "HT-RES-MT-old-montana-prison — A territorial prison opened in 1871 and emptied in 1979, its wall and cell house still standing on Main Street, Deer Lodge",
+   "town": "Deer Lodge",
+   "state": "Montana",
+   "stateCode": "MT",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MT-old-montana-prison — A territorial prison opened in 1871 and emptied in 1979, its wall and cell house still standing on Main Street, Deer Lodge",
+   "stableName": "Old Montana Prison — National Register listing: Montana Territorial and State Prison",
+   "address": "1106 Main St., Deer Lodge, MT 59722 (operator; the nomination gives the historic address as 925 Main Street)",
+   "locator": {
+    "stableName": "Old Montana Prison — National Register listing: Montana Territorial and State Prison",
+    "address": "1106 Main St., Deer Lodge, MT 59722 (operator; the nomination gives the historic address as 925 Main Street)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No latitude/longitude prints. The primary records checked carry none for the district: the nomination gives a UTM grid reference only, and it is not converted here. Coordinates in secondary listings are database-supplied, not an agency record, and are not printed.",
+    "nrhp": "76001126 — Montana Territorial and State Prison, listed September 3, 1976",
+    "hmdb": "127789 (The Old Montana Prison marker); 127793 (1870–1931 Federal Building marker)",
+    "ark": "",
+    "archiveId": "NPS NPGallery NRIS 76001126; MHS collection RS-197",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/76001126_text",
+    "operator": "Powell County Museum and Arts Foundation (Old Prison Museum / Old Montana Prison Complex)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Deer Lodge, Montana"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Old Prison Museum, at the walled complex at the south end of Main Street"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the museum visit — the Old Prison Museum and its four companion museums on one admission, at 1106 Main St., on the operator's hours and pricing as stated in §1."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; prisons-asylums-tours-001; no route or hunt activation from this page."
      }
     ]
    }
@@ -33661,6 +33840,51 @@
    }
   },
   {
+   "id": "HT-OH-ohio-state-reformatory",
+   "slug": "OH-ohio-state-reformatory",
+   "title": "HT-RES-OH-ohio-state-reformatory — A limestone front built to reform young men, closed by a federal court",
+   "town": "Mansfield",
+   "state": "Ohio",
+   "stateCode": "OH",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-OH-ohio-state-reformatory — A limestone front built to reform young men, closed by a federal court",
+   "stableName": "Ohio State Reformatory — National Register listing: Ohio State Reformatory",
+   "address": "100 Reformatory Road, Mansfield, OH 44905 (the National Register record carries the location as Olivesburg Road)",
+   "locator": {
+    "stableName": "Ohio State Reformatory — National Register listing: Ohio State Reformatory",
+    "address": "100 Reformatory Road, Mansfield, OH 44905 (the National Register record carries the location as Olivesburg Road)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No latitude/longitude is carried in the primary or agency records checked, and none prints. The Register record locates the property by road (Olivesburg Road) only and its nomination file is not digitized; marker coordinates in contributor databases are contributor-supplied, not agency-carried.",
+    "nrhp": "83002039 — Ohio State Reformatory (listed April 14, 1983)",
+    "hmdb": "20683 — The Ohio State Reformatory (Ohio marker 4-70); also 172673 — East Cell Block",
+    "ark": "",
+    "archiveId": "Library of Congress item 2016632461; reproduction number LC-DIG-highsm-41643",
+    "registerUrl": "https://npgallery.nps.gov/pdfhost/docs/NRHP/Text/83002039.pdf (record not yet digitized — the file returns the National Park Service's notice to that effect)",
+    "operator": "Mansfield Reformatory Preservation Society",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Mansfield, Richland County"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The administration building front on Reformatory Road, with the 2001 state marker at the entrance"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the museum visit at 100 Reformatory Road — administration building and cellblocks on the operator's tour route. Admission and hours as stated in §1, where the operator's own pages conflict and the conflict is printed."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; prisons-asylums-tours-001; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-OH-perrys-victory",
    "slug": "OH-perrys-victory",
    "title": "HT-RES-OH-perrys-victory — Six officers from two fleets under one stone floor, and a column built for peace",
@@ -36516,6 +36740,51 @@
    }
   },
   {
+   "id": "HT-PA-eastern-state-penitentiary",
+   "slug": "PA-eastern-state-penitentiary",
+   "title": "HT-RES-PA-eastern-state-penitentiary — Seven cellblocks radiating from a central hub inside 30-foot granite walls",
+   "town": "Philadelphia",
+   "state": "Pennsylvania",
+   "stateCode": "PA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-PA-eastern-state-penitentiary — Seven cellblocks radiating from a central hub inside 30-foot granite walls",
+   "stableName": "Eastern State Penitentiary — National Register listing: Eastern State Penitentiary",
+   "address": "2027 Fairmount Avenue, Philadelphia, PA 19130 (operator's current visitor address; the HABS survey titles the property 2125 Fairmount Avenue and the National Register nomination gives 21st Street and Fairmount Avenue — see §6)",
+   "locator": {
+    "stableName": "Eastern State Penitentiary — National Register listing: Eastern State Penitentiary",
+    "address": "2027 Fairmount Avenue, Philadelphia, PA 19130 (operator's current visitor address; the HABS survey titles the property 2125 Fairmount Avenue and the National Register nomination gives 21st Street and Fairmount Avenue — see §6)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No latitude/longitude prints. The Library of Congress HABS record carries its latitude/longitude fields blank, and the National Register nomination carries UTM corner references only — Zone 18, with corner eastings and northings in the 485/4424 range as printed on the form — recorded here in their own form rather than converted.",
+    "nrhp": "66000680 — Eastern State Penitentiary (National Historic Landmark)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress, Historic American Buildings Survey HABS No. PA-1729; survey item pa1207; first-photograph frame pa1207.photos.138366p",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/66000680_text",
+    "operator": "Eastern State Penitentiary Historic Site, Inc.",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Philadelphia"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Eastern State Penitentiary Historic Site, at the Fairmount Avenue entrance through the administration building"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the historic-site visit — the walled complex entered from Fairmount Avenue, within the operator's clearly marked public areas. Admission and hours as stated in §1. The building is a stabilized semi-ruin without climate control, per the operator."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; prisons-asylums-tours-001; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-PA-fort-necessity",
    "slug": "PA-fort-necessity",
    "title": "HT-RES-PA-fort-necessity — A 53-foot circle of sticks alone in a wide green meadow",
@@ -38231,6 +38500,51 @@
      {
       "key": "Photo Points",
       "value": "None [STATE BLOCK] **Dossiers filed.** Tennessee’s first newly assigned Tier 1 row, Great Smoky Mountains National Park, anchored at Cades Cove. One dossier for one national park row. **Coverage math.** November 21, 2026 intake, approximately 3:27–3:29 a.m. Pacific: 701 live entry URLs across 23 of 49 states. Tennessee and Alabama had zero live entries. Alabama’s two assigned statewide Tier 1 drafts were found in Drive, in addition to the owner-recognized Landmark Park seed. Tennessee’s statewide sheet contains 11 Tier 1 rows, nine prior-sheet HAVE cross-references and two assigned new leads. This filing covers the first of those two. Cross-references alone earn no live credit. **Next territory.** Big South Fork, Tennessee’s second assigned Tier 1 row, then Kentucky. **Blockers.** Mill-specific attendance and matched entrance coordinates remain open. Dash controls publication. **Owner rulings adopted.** The road-trip scope is the 48 contiguous states plus Alaska via the Alaska Highway, 49 drivable states. Hawaii is a separate fly-in variant outside the march, sweep lists and coverage totals. Freely accessible primary and independent records carry the claims. Paywalled sources can supply leads only. An unavailable record leaves a printed gap. These rules apply here and to older filings when they return through the desk."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-TN-brushy-mountain-penitentiary",
+   "slug": "TN-brushy-mountain-penitentiary",
+   "title": "HT-RES-TN-brushy-mountain-penitentiary — The stone prison in the hollow below Frozen Head",
+   "town": "Petros",
+   "state": "Tennessee",
+   "stateCode": "TN",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-TN-brushy-mountain-penitentiary — The stone prison in the hollow below Frozen Head",
+   "stableName": "Brushy Mountain State Penitentiary (last named Brushy Mountain Correctional Complex)",
+   "address": "9182 Hwy 116, Petros, TN 37845",
+   "locator": {
+    "stableName": "Brushy Mountain State Penitentiary (last named Brushy Mountain Correctional Complex)",
+    "address": "9182 Hwy 116, Petros, TN 37845",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No latitude/longitude from a primary or agency source was verified, and none prints. The Department of Correction's closing release carries the address and no coordinates. Gazetteer coordinates, and the camera metadata in this entry's first photograph, are not primary or agency records and were not adopted.",
+    "nrhp": "**blank** — not verified; no listing found in NPGallery or the Morgan County listings (see §6)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "TSLA, Coal Creek Labor Saga source set; Commons file \"Brushy Mountain State Prison.jpg\"",
+    "registerUrl": "",
+    "operator": "Historic Brushy Mountain State Penitentiary (Brushy Mountain Group)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Petros, Tennessee"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The main prison building in its hollow on Highway 116, at the tour entrance"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the ticketed self-guided audio-visual tour of the prison grounds — tickets at the gift shop, in the seasonal hours the operator states (§1) — plus the museum. Former guard housing and minimum-security buildings carry no tour access. The adjoining distillery, restaurant, and event operations are separate businesses on the same grounds."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; prisons-asylums-tours-001; no route or hunt activation from this page."
      }
     ]
    }
@@ -42591,6 +42905,96 @@
    }
   },
   {
+   "id": "HT-WV-trans-allegheny-lunatic-asylum",
+   "slug": "WV-trans-allegheny-lunatic-asylum",
+   "title": "HT-RES-WV-trans-allegheny-lunatic-asylum — A Kirkbride asylum in hand-cut blue sandstone, built for 250 patients and filled far beyond that",
+   "town": "Weston",
+   "state": "West Virginia",
+   "stateCode": "WV",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-WV-trans-allegheny-lunatic-asylum — A Kirkbride asylum in hand-cut blue sandstone, built for 250 patients and filled far beyond that",
+   "stableName": "Trans-Allegheny Lunatic Asylum — National Register listing: Weston State Hospital; Landmark nomination: Weston Hospital Main Building",
+   "address": "71 Asylum Drive, Weston, WV 26452 (operator's current address; the Landmark nomination gives the location as River Street)",
+   "locator": {
+    "stableName": "Trans-Allegheny Lunatic Asylum — National Register listing: Weston State Hospital; Landmark nomination: Weston Hospital Main Building",
+    "address": "71 Asylum Drive, Weston, WV 26452 (operator's current address; the Landmark nomination gives the location as River Street)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No latitude/longitude is carried in the primary records checked, and none prints. The Landmark nomination carries UTM references for the four boundary corners of the 26.5-acre parcel only — a boundary record, not a point location — and the figures are partly illegible in the scanned form, so they are not reproduced here.",
+    "nrhp": "78002805 — Weston State Hospital (listed April 19, 1978; designated a National Historic Landmark, 1990)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress item 2015631730; reproduction number LC-DIG-highsm-31655",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/78002805",
+    "operator": "Trans-Allegheny Lunatic Asylum (private)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Weston, Lewis County, West Virginia"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Trans-Allegheny Lunatic Asylum main building, on its grounds across the West Fork River from downtown Weston"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the ticketed tour visit at 71 Asylum Drive — historic tours of the main building as described in §1, with the Medical Center and Forensics Building included only on the tours that state them."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; prisons-asylums-tours-001; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-WV-west-virginia-penitentiary",
+   "slug": "WV-west-virginia-penitentiary",
+   "title": "HT-RES-WV-west-virginia-penitentiary — A stone Gothic fortress across from an ancient mound, closed by its own state supreme court",
+   "town": "Moundsville",
+   "state": "West Virginia",
+   "stateCode": "WV",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-WV-west-virginia-penitentiary — A stone Gothic fortress across from an ancient mound, closed by its own state supreme court",
+   "stableName": "West Virginia State Penitentiary (National Register listing name identical)",
+   "address": "818 Jefferson Avenue, Moundsville, WV 26041",
+   "locator": {
+    "stableName": "West Virginia State Penitentiary (National Register listing name identical)",
+    "address": "818 Jefferson Avenue, Moundsville, WV 26041",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No latitude/longitude is carried in the primary records checked; none prints. The nomination carries UTM references only — seven Zone 17 boundary points (A: 522460, 4418080; B: 522270, 4418080; C: 522940, 4417170; D: 521920, 4417940; E: 521060, 4418940; F: 521060, 4418900; G: 521460, 4418925) — not converted.",
+    "nrhp": "96000987 — West Virginia State Penitentiary (listed September 19, 1996)",
+    "hmdb": "54890 — West Virginia Penitentiary (West Virginia Archives & History marker, 2008)",
+    "ark": "",
+    "archiveId": "Library of Congress item 2015632114; reproduction number LC-DIG-highsm-32039",
+    "registerUrl": "https://npgallery.nps.gov/pdfhost/docs/NRHP/Text/96000987.pdf",
+    "operator": "West Virginia Penitentiary Tours (Moundsville Economic Development Council)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Moundsville, Marshall County"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Administration Building front on Jefferson Avenue, across from the Grave Creek Mound"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the operator's day tour — main level, yards, and cellblocks as the route runs, in season. The Administration building is closed to everyone, per the operator; admission and schedule as stated in §1."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; prisons-asylums-tours-001; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-WY-buffalo-basque-shepherds",
    "slug": "WY-buffalo-basque-shepherds",
    "title": "Buffalo Basque sheepherders: a familiar voice across the range",
@@ -43346,6 +43750,51 @@
      {
       "key": "Evidence status",
       "value": "local research draft, reflection only; no field verification, outreach or publication approval."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-WY-wyoming-frontier-prison",
+   "slug": "WY-wyoming-frontier-prison",
+   "title": "HT-RES-WY-wyoming-frontier-prison — Thirteen years from cornerstone to first prisoner, then eighty years of use behind a concrete wall in Rawlins",
+   "town": "Rawlins",
+   "state": "Wyoming",
+   "stateCode": "WY",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-WY-wyoming-frontier-prison — Thirteen years from cornerstone to first prisoner, then eighty years of use behind a concrete wall in Rawlins",
+   "stableName": "Wyoming Frontier Prison — National Register listing: Wyoming State Penitentiary District",
+   "address": "500 West Walnut Street, Rawlins, WY 82301 (operator's contact page; the National Register nomination locates the district at Sixth and Walnut Streets)",
+   "locator": {
+    "stableName": "Wyoming Frontier Prison — National Register listing: Wyoming State Penitentiary District",
+    "address": "500 West Walnut Street, Rawlins, WY 82301 (operator's contact page; the National Register nomination locates the district at Sixth and Walnut Streets)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No latitude/longitude prints. The primary records checked carry none for the district: the nomination gives UTM grid references only, for the district's corners, and they are not converted here. Coordinates in secondary listings and in the first photograph's file record are photographer- and database-supplied, not an agency record for the site, and are not printed.",
+    "nrhp": "83003360 — Wyoming State Penitentiary District, listed May 26, 1983",
+    "hmdb": "89706 (Wyoming State Penitentiary marker)",
+    "ark": "",
+    "archiveId": "NPS NPGallery NRIS 83003360",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/NRHP/83003360_text",
+    "operator": "Wyoming Frontier Prison (Old Pen Joint Powers Board / City of Rawlins)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Rawlins, Carbon County, Wyoming"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Wyoming Frontier Prison museum, at the former penitentiary complex on West Walnut Street"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the museum visit — the free museum exhibits at 500 West Walnut Street and the prison interior on a guided tour only, on the operator's schedule and pricing as stated in §1."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; prisons-asylums-tours-001; no route or hunt activation from this page."
      }
     ]
    }

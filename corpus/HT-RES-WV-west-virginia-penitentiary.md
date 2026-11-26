@@ -1,0 +1,112 @@
+# HT-RES-WV-west-virginia-penitentiary — A stone Gothic fortress across from an ancient mound, closed by its own state supreme court
+Division prisons-asylums-tours-001 • Research draft • Checked November 22, 2026
+
+West Virginia was three years old when it decided to build a penitentiary, and it built one to last: twenty-four-foot sandstone walls, battlements and towers, a facade running three city blocks down Jefferson Avenue in Moundsville, across from the Grave Creek Mound. The state got 129 years out of the building. It also got chronic overcrowding, a death house, a decade of litigation, and a final judgment from its own supreme court that the conditions inside were unconstitutional. The walls still stand; so does the record, and the two do not always agree — this entry prints both.
+
+## 1. Trip gate
+The visit is a guided tour only: the former West Virginia Penitentiary, 818 Jefferson Avenue, Moundsville, WV 26041, operated by West Virginia Penitentiary Tours under the Moundsville Economic Development Council. The operator's day-tours page states the season as April 2 through November 30, with the last day of the operating season given on the same page as November 29. The tour is a 90-minute guided historical tour of the main level. The page's November schedule runs tours Tuesday through Friday and Sunday at 11:00 a.m., 1:00 p.m., and 3:00 p.m., and Saturday hourly from 11:00 a.m. to 4:00 p.m.; closed every Monday; the gate opens 15 minutes before the first tour. Admission as the page's admission list states it: Adults $15 +tax; Seniors 55+ $13 +tax; Military $13 +tax; Kids ages 6–16 $11 +tax; under 5 free. The price block at the top of the same page instead lists Child (ages 6 to 16) at $10, against the admission list's $11 — the page disagrees with itself, and both figures are printed rather than a merged one.
+
+The day tour, as the operator describes it, visits the recreation yards, both visitation rooms, and the cafeteria that resulted from the riot of 1986, and walks the cell blocks the operator names "The Alamo" and "New Wall." The day tour does not include: it "will NOT take you through the Sugar Shack, the Boiler Room, or the Psych Ward/Infirmary," and "[t]he Administration building is closed off to everyone." The operator also warns that there is no heat or air conditioning in the facility.
+
+## 2. The story
+The penitentiary exists because the state did. West Virginia entered the Union in 1863, in the middle of the Civil War, with no state prison; convicted felons were held in county jails. The National Register nomination records that from 1864 the legislature directed Governor Arthur Boreman to have all persons convicted of felonies confined to the Ohio County jail in Wheeling; the West Virginia Encyclopedia's account agrees. In 1866 the legislature acted: it directed the Board of Public Works to select a site of not less than ten acres in or near Moundsville and appropriated $50,000 to buy land and begin construction — the same amount appropriated again in 1867 and 1868, the 1868 act directing the money to "the finishing of the cell building now under construction... so as to render the convicts secure."
+
+The site chosen stands directly across from the Grave Creek Mound, an Adena burial mound dated by the nomination to roughly 250–150 BC. The prison that rose opposite it was built by convict and citizen labor, of sandstone the nomination says was quarried in Marshall and Wetzel Counties — at Cameron and Rosby's Rock, at 4th Street in Moundsville, at Big Grave Creek, and at Hundred. A wooden structure and stockade housed the first prisoners while the stone work went forward. The design followed the Auburn Plan — inside cell blocks on the "silent system," cells back to back in tiers within a great containing building, men working together by day and separated at night — dressed in Gothic Revival: crenellated walls, battlements, lancet windows, and a front the nomination calls one of the best examples of the high style of Gothic Revival in West Virginia: "a formidable facade, slightly intimidating."
+
+The south cell building was completed first, by 1868, of stone with a slate roof; its interior cells were finished in 1869. The foundations of the outer wall, the Warden's Residence and Administration Building, and the north cell building were begun in 1869 and completed by 1876. The north cell building served at first as kitchen, dining room, and chapel, with cells added only in the 1890s. The Administration Building, completed in 1876, housed the warden's residence on its upper floors; its second floor served as a hospital, notably during a typhoid outbreak in 1889. In 1894 a revolving cage — the "wheel" — was installed inside the main entrance, so a prisoner entering could be turned from front hall to rear hall without standing in an open passage. The present porch, by the Wheeling firm of Giesey & Paris, dates to 1908.
+
+The working prison was substantially self-supporting. An 1874 report lists its own "blacksmith and wagon shops, carpenter shop, brickyard, stoneyard, paint shop, shoe shop, and tailor shop." A farm of more than 200 acres and, from 1921, a convict-worked coal mine supplied the kitchen and the boilers. A 1926 warden's report, quoted in the nomination, records admission: the new prisoner was enrolled and numbered, bathed, shaved, dressed in cadet grey, examined, measured under the Bertillon system, photographed, and, if able-bodied, assigned to a factory inside the walls for nine hours of labor a day. Women — about eighty by the 1920s, in a separate Female Department — were held until 1947, when they were transferred to Pence Springs; the encyclopedia agrees.
+
+Executions belong in this record. Until 1899, capital punishment in West Virginia was a county responsibility. That year the legislature transferred executions to the penitentiary and an execution building was completed within the walls — the history of capital punishment in West Virginia published in *West Virginia History* (Bumgardner and Kreiser, 1996) quotes the act requiring that punishment "be executed within the walls of the West Virginia penitentiary and not elsewhere." The nomination's total is 94 executions at the penitentiary. By the nomination's account, hanging was the method from 1899 to 1949, and in 1949 the legislature adopted electrocution. The *West Virginia History* account fixes what the nomination leaves open: the first electrocutions came on March 26, 1951 (the 1949 act did not reach men already under sentence), and the state carried out its final execution on April 3, 1959. West Virginia abolished the death penalty in 1965. The separate execution building, called the Death House, was removed after abolition — the nomination's two accounts of its removal do not agree, and §6 prints both.
+
+Overcrowding was the institution's chronic condition. By the 1920s the population had grown past 2,000. Between 1929 and 1939 the state built southward from the old south wall — the section later called "New Wall" — more than doubling the housing; the old south wall became the divider between the North and South Recreation Yards. The cell blocks were renovated to federal standards in a project completed in 1959. The cells measured 5 by 7 feet, with 7-foot ceilings — a figure that would decide the prison's fate. In the maximum-security section, the nomination records, a man might spend 23 hours in his cell with one hour for recreation.
+
+The end came in two events, and the order matters. The litigation came first: *Crain v. Bordenkircher* began in 1981, when Robert Crain, a prisoner at Moundsville, filed a habeas corpus petition alleging cruel and unusual punishment. After trial in 1982, the circuit court — Judge Arthur Recht — issued a seventy-five-page opinion on June 21, 1983, detailing deficiencies that "when considered in their totality rendered the conditions of confinement at WVP unconstitutional," and ordered a compliance plan. Then, on January 1, 1986, the prison rose: in the New Year's Day riot, inmates held the facility for just over two days, took employees hostage, and three prisoners were killed. On March 27, 1986, the Supreme Court of Appeals decided *Crain* (342 S.E.2d 422), holding that the state's compliance plan did not meet the circuit court's requirements, on cell space among other grounds; further decisions followed in 1987 and 1988, and the litigation drove the construction of a replacement. The last prisoners — thirty-four men, by the *West Virginia History* account — were transferred to the new Mount Olive Correctional Complex in Fayette County on March 27, 1995. The penitentiary had served, as the nomination puts it, for 129 years.
+
+Title remains in the state — the West Virginia Code authorizes the commissioner to lease the Moundsville penitentiary — and the Moundsville Economic Development Council operates it: historical tours, events, and law-enforcement training, including the mock prison riot exercises staged there since 1997. The complex was entered in the National Register on September 19, 1996, as a historic district, under Criteria A (Government) and C (Architecture), with a period of significance of 1866–1939.
+
+## 3. Then / now
+**Then:** a wooden stockade and a rising stone wall at the edge of a small river town, felons arriving from every county in a three-year-old state, the cells finished piecemeal around the men already living in them. **Now:** the town long since grown around the walls, the full Gothic complex standing inside Moundsville's street grid — Jefferson Avenue in front, the Grave Creek Mound across the street — and the prison entered by ticket, on a guide's schedule.
+
+**Then:** cells of 5 by 7 feet, up to three men to a cell at the worst of the crowding — cells a court would finally find unconstitutional. **Now:** the same cellblocks walked in 90 minutes, the cafeteria built after the 1986 riot on the route, and the Administration Building — the warden's own residence — closed to everyone.
+
+## 4. What's still there
+- The walled rectangular complex substantially whole: 24-foot sandstone walls, 6 feet wide at the base and tapering to 18 inches at the top — the original west wall along Jefferson Avenue runs approximately 826 feet (nomination)
+- The Administration Building (completed 1876) — four stories between twin round towers, the state seal in color in its center pediment, the 1908 Giesey & Paris porch, and inside the entrance the revolving cage or "wheel" installed in 1894 (nomination; the interior is closed to tours, per the operator)
+- The North Wagon Gate — the oldest gate building, two stories of dressed stone in the north wall (nomination)
+- The North and South cellblocks, including the maximum-security section the operator's tour calls "The Alamo" and the 1929–39 southern housing the tour calls "New Wall," with cells of 5 by 7 feet (nomination; operator)
+- The North and South Recreation Yards, and the 1986–87 dining hall — noncontributing in Register terms, and, per the operator, the cafeteria that resulted from the riot of 1986
+- The Warden's House (1951), the Penitentiary Control and Administration Building (c. 1950), and the stone Garage (c. 1945) (nomination)
+- The 2008 West Virginia Archives & History marker at the front entrance (text discussed in §6)
+- Off the tour ground but part of the record: Whitegate Cemetery, about three-quarters of a mile away on Tom's Run, where unclaimed prisoners were buried from 1898 (nomination). It is not part of the operator's tour.
+
+
+## 5. Trip-shaped stop progression
+Conditional interpretation only, not an activated route:
+
+1. **Across Jefferson Avenue, at the Grave Creek Mound:** Start with the older ground — a burial mound of roughly 250–150 BC facing a nineteenth-century fortress of punishment ("directly across from the Grave Creek Mound," as the nomination sites it).
+2. **At the front gate and the 2008 state marker:** Read the marker, then look at the facade it summarizes — twin towers, state seal, battlements. Hold the marker's dates loosely; §6 explains why.
+3. **At the North Wagon Gate, on the tour:** The earliest permanent fabric on the ground, which the nomination associates — with a "may" and a "possibly" — with the prison's first years and earliest hangings.
+4. **In the cellblocks — "The Alamo" and "New Wall":** The 5-by-7-foot cell is the physical center of this entry's legal story. Stand in one and read §2's court record against its dimensions.
+5. **In the yards and at the 1986–87 cafeteria:** The riot's one constructive artifact on the operator's route, read against the litigation that predated it.
+
+## 6. Honest gaps and conflicting dates
+The opening year is stated two ways by the strongest sources, and both print. The West Virginia Encyclopedia states: "The Gothic-style West Virginia Penitentiary opened in 1867 with 840 cells for men and 32 for women." The *West Virginia History* account likewise reckons its operation "since 1867." The nomination's construction chronology cannot carry an 1867 opening of the stone prison: the south cell building was completed by 1868, its cells in 1869, and the wall, administration, and north buildings by 1876 — though the nomination records a wooden structure housing prisoners first, which an 1867 opening presumably describes. The encyclopedia's 840-and-32 cell count is carried by no other record checked; it prints here as the encyclopedia's figure, unmerged.
+
+The architect is unresolved in the record itself. The nomination form lists Architect/Builder as "N/A" and concedes: "Details as to the original architects, and contractors is sketchy at this time." The encyclopedia states: "It is believed that Joseph Fairfax was the prison's original architect." A West Virginia state media account names "Joseph S. Fairfax" outright and states his design imitated the prison at Joliet, Illinois — a prototype the nomination never names; it identifies the design concept as the Auburn Plan. This entry attributes the building to no named architect.
+
+Acreage is three figures, each labeled: the 1866 act required "not less than 10 acres," while the encyclopedia says "five acres (later expanded to ten) were acquired"; the nomination form gives 19 acres, while its own boundary description encloses "approximately 29.596 acres." The expansion's date is also split: the nomination dates the "New Wall" completion to 1939, closing its period of significance, and separately records a cell-block renovation completed in 1959; the encyclopedia states that "[t]he size of the Moundsville prison doubled in 1959 with the completion of a section that had been under construction for 30 years." The two accounts cannot both describe the same event.
+
+Executions carry the entry's sharpest conflicts. The total, 94, is agreed by the nomination and the *West Virginia History* account. Beyond that the records diverge. The 2008 state marker at the gate reads: "Capital criminals were hanged here, 1889-1950. Electric chair used until death penalty was abolished, 1965." The nomination dates hanging to 1899–1949; the *West Virginia History* account dates executions from 1899, the first electrocutions to March 26, 1951, and the last execution to April 3, 1959 — six years before the abolition the marker's wording implies the chair was used until. A breakdown of the 94 into 85 by hanging and nine by electrocution circulates in secondary summaries; neither primary-grade source states that split, and it is not asserted here. The last man's surname is spelled "Brunner" in the *West Virginia History* account and "Bruner" in most other accounts. Within the nomination itself, the Death House is "removed c. 1965" in the description section and "removed by the 1970s" in the significance section.
+
+The 1986 riot's duration is given as 53 hours in the Prison Legal News account (summarizing Useem and Kimball's *States of Siege*), which also gives seventeen employees held hostage and three prisoners killed; a West Virginia courts publication gives 52 hours. The encyclopedia's compression — that the 1986 riot "led the state Supreme Court to order the penitentiary's closing" — is printed here as a caution: *Crain* was filed in 1981, the circuit court had found the conditions unconstitutional in 1983, and the prison operated nine more years after the 1986 decision. Finally, the operator's page conflicts (child fare $10 against $11; season ending November 30 against a last day of November 29) are printed in §1 as found on November 22, 2026.
+
+## 7. Photo record
+**First photograph:** *The West Virginia State Penitentiary, a retired, gothic-style prison in Moundsville, West Virginia, that operated from 1876 to 1995* — Library of Congress, Prints and Photographs Division, Carol M. Highsmith Archive (West Virginia Collection), item 2015632114 (reproduction number LC-DIG-highsm-32039). The frame: a straight-on color view of the Administration Building's west front from across Jefferson Avenue — four stories of sandstone between two round crenellated towers, the state seal in color in the center pediment, the three-arched porch at ground level with the stone planters the nomination describes flanking the front walk, and the crenellated cellblock walls running out of frame to both sides; no people.
+
+- Source record: https://www.loc.gov/item/2015632114/
+- Credit: West Virginia Collection within the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division
+- Rights line, verbatim from the LOC record: "No known restrictions on publication."
+- Year ruling: **No year prints.** The LOC record carries a 2015 date for this item, but its own note states: "Title, date and keywords based on information provided by the photographer." A photographer-provided date does not print under the standing year law.
+- Package filename: WV-west-virginia-penitentiary-administration-front.jpg
+- SHA-256: 3ed0dfcd5256bf7ac5d33d92de6c849affec71d075a5f4c57048fcced7129354
+
+Modern project photo: **blank**. Photo point: **blank**. No photograph was field-matched for this entry.
+
+## 8. Standing on the ground
+What a visitor can check against the record, on site:
+
+- The facade against the nomination's description, element by element: twin round towers, the state seal in the pediment, the porch's three arches, the battlements.
+- The west wall's length against the record's two measures: approximately 826 feet for the original wall in the nomination, and a facade of three city blocks — both checkable by walking Jefferson Avenue.
+- The 2008 state marker's inscription against §6: its hanging dates (1889–1950) against the nomination's (1899–1949), read on the spot.
+- A cell's dimensions in "The Alamo" or "New Wall" against the 5-by-7-foot figure in the nomination and at the center of *Crain v. Bordenkircher* — verifiable with a pace and a count.
+- An absence: the Death House. The nomination describes a separate execution building in the North Recreation Yard and gives two different removal dates for it. The building is not there; that absence is the check.
+
+## 9. Source list
+[1] National Park Service — National Register nomination, West Virginia State Penitentiary, No. 96000987 (Katherine M. Jourdan, WV SHPO, April 22, 1996; listed September 19, 1996): https://npgallery.nps.gov/pdfhost/docs/NRHP/Text/96000987.pdf
+[2] Supreme Court of Appeals of West Virginia — *Crain v. Bordenkircher*, 342 S.E.2d 422 (March 27, 1986), opinion via Justia: https://law.justia.com/cases/west-virginia/supreme-court/1986/16646-1-1.html
+[3] West Virginia Code §15A-3-13 (state title; authority to lease the Moundsville penitentiary): https://code.wvlegislature.gov/15A-3-13/
+[4] Stan Bumgardner and Christine Kreiser — "'Thy Brother's Blood': Capital Punishment in West Virginia," *West Virginia History* (March 1996), as reproduced at: https://seletyn.com/2020/02/10/wv-history-of-capital-punishment/
+[5] West Virginia Encyclopedia (e-WV) — "Moundsville Penitentiary": https://wvencprod.wvnet.edu/entries/1378
+[6] West Virginia Archives & History — West Virginia Penitentiary marker (2008), inscription as transcribed by the Historical Marker Database, marker 54890: https://www.hmdb.org/m.asp?m=54890
+[7] Civil Rights Litigation Clearinghouse — *Crain v. Bordenkircher* case record: https://www.clearinghouse.net/case/1001/
+[8] Prison Legal News — "Mock Prison Disaster Program Discontinued; Mock Prison Riot Training Remains" (May 2009) (1986 riot: 53 hours, seventeen hostages, three prisoners killed): https://www.prisonlegalnews.org/news/2009/may/15/mock-prison-disaster-program-discontinued-8232mock-prison-riot-training-remains/
+[9] West Virginia Penitentiary Tours — Guided Day Tours page (season, schedule, admission, route inclusions and exclusions): https://wvpentours.com/tours/daily-tours/
+[10] Library of Congress — Carol M. Highsmith Archive, item 2015632114 (first photograph; rights advisory; photographer-provided date note): https://www.loc.gov/item/2015632114/
+
+## 10. Locator record
+- Stable name: West Virginia State Penitentiary (National Register listing name identical)
+- Town: Moundsville, Marshall County
+- Public anchor: Administration Building front on Jefferson Avenue, across from the Grave Creek Mound
+- Address: 818 Jefferson Avenue, Moundsville, WV 26041
+- Latitude:
+- Longitude:
+- Coordinate source-scope: No latitude/longitude is carried in the primary records checked; none prints. The nomination carries UTM references only — seven Zone 17 boundary points (A: 522460, 4418080; B: 522270, 4418080; C: 522940, 4417170; D: 521920, 4417940; E: 521060, 4418940; F: 521060, 4418900; G: 521460, 4418925) — not converted.
+- NRHP: 96000987 — West Virginia State Penitentiary (listed September 19, 1996)
+- HMdb: 54890 — West Virginia Penitentiary (West Virginia Archives & History marker, 2008)
+- ARK:
+- Archive ID: Library of Congress item 2015632114; reproduction number LC-DIG-highsm-32039
+- Register URL: https://npgallery.nps.gov/pdfhost/docs/NRHP/Text/96000987.pdf
+- Operator: West Virginia Penitentiary Tours (Moundsville Economic Development Council)
+- Visitor boundary: The visit is the operator's day tour — main level, yards, and cellblocks as the route runs, in season. The Administration building is closed to everyone, per the operator; admission and schedule as stated in §1.
+- Status: research draft; prisons-asylums-tours-001; no route or hunt activation from this page.
