@@ -15,3 +15,7 @@ test("invalid coordinate rejected",()=>assert.equal(run([s()],[f("1","Alpha","ID
 test("identical duplicate deduplicated",()=>assert.equal(run([s()],[f("1"),f("1")]).counts.assigned,1));
 test("conflicting duplicate rejected",()=>assert.throws(()=>run([s()],[f("1"),f("1","Alpha","ID",{lat:46})])));
 test("source version mandatory",()=>assert.throws(()=>matchTowns([s()],[f("1")],"")));
+
+test("cross county duplicate rejected",()=>assert.throws(()=>run([s()],[f("1"),f("1","Beta")])));
+test("invalid source counted",()=>assert.equal(run([s()],[f("1","Alpha","ID",{lat:91})]).counts.rejectedSourceRecords,1));
+test("distinct town pairs counted independently",()=>assert.equal(run([s(),s({slug:"other",county:"Beta"})],[f("1")]).counts.distinctTownStatePairs,1));
