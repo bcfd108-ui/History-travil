@@ -9689,6 +9689,30 @@
    "attempts": []
   },
   {
+   "id": "vq_CT-hartford-old-state-house",
+   "slug": "CT-hartford-old-state-house",
+   "name": "HT-RES-CT-hartford-old-state-house — Hartford: where Connecticut helped shape the republic",
+   "town": "Hartford",
+   "state": "CT",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-CT-hartford-old-state-house.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_CT-new-london-custom-house",
+   "slug": "CT-new-london-custom-house",
+   "name": "HT-RES-CT-new-london-custom-house — New London: where commerce met the struggle for freedom",
+   "town": "New London",
+   "state": "CT",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-CT-new-london-custom-house.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_DE-newcastle-old-arsenal",
    "slug": "DE-newcastle-old-arsenal",
    "name": "HT-RES-DE-newcastle-old-arsenal — The Old Arsenal on the Green: New Castle's 1809 federal arsenal turned school",
@@ -9858,8 +9882,8 @@
   }
  ],
  "counts": {
-  "items": 821,
-  "dated": 580,
+  "items": 823,
+  "dated": 582,
   "unrecorded": 241
  }
 }
