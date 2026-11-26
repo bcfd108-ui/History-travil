@@ -10491,11 +10491,131 @@
    "corpusFile": "HT-RES-RI-paw-slater-mill.md",
    "queueState": "queued",
    "attempts": []
+  },
+  {
+   "id": "vq_WI-aztalan",
+   "slug": "WI-aztalan",
+   "name": "HT-RES-WI-aztalan — A walled Mississippian town on the Crawfish River, misnamed for the Aztecs",
+   "town": "Lake Mills",
+   "state": "WI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WI-aztalan.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_WI-cana-island-lighthouse",
+   "slug": "WI-cana-island-lighthouse",
+   "name": "HT-RES-WI-cana-island-lighthouse — An 1869 brick tower in a steel skin, at the end of a causeway the lake covers when it pleases",
+   "town": "Baileys Harbor",
+   "state": "WI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WI-cana-island-lighthouse.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_WI-circus-world-baraboo",
+   "slug": "WI-circus-world-baraboo",
+   "name": "HT-RES-WI-circus-world-baraboo — A winter's worth of barns: the circus as a Baraboo industry",
+   "town": "Baraboo",
+   "state": "WI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WI-circus-world-baraboo.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_WI-hh-bennett-studio",
+   "slug": "WI-hh-bennett-studio",
+   "name": "HT-RES-WI-hh-bennett-studio — The storefront that sold the Dells to America, one stereograph at a time",
+   "town": "Wisconsin Dells",
+   "state": "WI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WI-hh-bennett-studio.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_WI-man-mound",
+   "slug": "WI-man-mound",
+   "name": "HT-RES-WI-man-mound — A horned figure walking west, cut by a road and saved for $300",
+   "town": "Town of Greenfield (Sauk County), Baraboo vicinity",
+   "state": "WI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WI-man-mound.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_WI-old-wade-house",
+   "slug": "WI-old-wade-house",
+   "name": "HT-RES-WI-old-wade-house — The halfway house the railroad passed by",
+   "town": "Greenbush (Sheboygan County)",
+   "state": "WI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WI-old-wade-house.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_WI-pendarvis",
+   "slug": "WI-pendarvis",
+   "name": "HT-RES-WI-pendarvis — Stone cottages a Cornish mining town built, and two men rebuilt",
+   "town": "Mineral Point (Iowa County)",
+   "state": "WI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WI-pendarvis.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_WI-swiss-historical-village",
+   "slug": "WI-swiss-historical-village",
+   "name": "HT-RES-WI-swiss-historical-village — Fourteen buildings on a colony woodlot, keeping the Swiss colony's own record",
+   "town": "New Glarus",
+   "state": "WI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WI-swiss-historical-village.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_WI-taliesin",
+   "slug": "WI-taliesin",
+   "name": "HT-RES-WI-taliesin — The shining brow above the valley, rebuilt twice out of its own ashes",
+   "town": "Spring Green",
+   "state": "WI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WI-taliesin.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_WI-villa-louis",
+   "slug": "WI-villa-louis",
+   "name": "HT-RES-WI-villa-louis — A fur-trade fortune in cream brick, standing on a mound above the Mississippi",
+   "town": "Prairie du Chien",
+   "state": "WI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WI-villa-louis.md",
+   "queueState": "queued",
+   "attempts": []
   }
  ],
  "counts": {
-  "items": 874,
-  "dated": 633,
+  "items": 884,
+  "dated": 643,
   "unrecorded": 241
  }
 }

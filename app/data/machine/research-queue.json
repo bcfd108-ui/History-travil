@@ -5,2421 +5,6 @@
  "orderRule": "Seeding (zero live entries) by tier then march order; then depth in march order. States outside the march follow Alaska, by postal code. Unknown tier sorts last. See app/lib/machine-queue.mjs.",
  "items": [
   {
-   "id": "lq_032ebd7abaa9dbbc",
-   "projectedSlug": "wi-wisconsin-historical-museum-and-state-capitol",
-   "targetSlug": null,
-   "name": "Wisconsin Historical Museum & State Capitol",
-   "town": "Madison",
-   "county": "Dane",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "State museum on Capitol Square; capitol tours",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 205,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_03731c5e1ae69b61",
-   "projectedSlug": "wi-the-grand",
-   "targetSlug": null,
-   "name": "The Grand",
-   "town": "Oshkosh",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "theater — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 461,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_04a10e969e34d597",
-   "projectedSlug": "wi-iron-county-historical-museum-and-montreal-mine-ground",
-   "targetSlug": null,
-   "name": "Iron County Historical Museum & Montreal Mine Ground",
-   "town": "Hurley",
-   "county": "Iron",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Museum on Gogebic Range iron ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 152,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_056d318c102c92aa",
-   "projectedSlug": "wi-deaths-door-maritime-museum",
-   "targetSlug": null,
-   "name": "Death's Door Maritime Museum",
-   "town": "Gills Rock",
-   "county": "Door",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Maritime museum at the Porte des Morts passage",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 178,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_08aa3028cd5cbee6",
-   "projectedSlug": "wi-wyalusing-state-park",
-   "targetSlug": null,
-   "name": "Wyalusing State Park",
-   "town": "near Bagley",
-   "county": "Grant",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "State park at the Wisconsin–Mississippi confluence — mound groups, French and Indigenous ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 242,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0c0a81febd4d7565",
-   "projectedSlug": "wi-bad-axe-battlefield-and-massacre-site",
-   "targetSlug": null,
-   "name": "Bad Axe Battlefield & Massacre Site",
-   "town": "near Victory",
-   "county": "Vernon",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "August 1832 end of the Black Hawk War on the Mississippi; sensitive ground, highway marker, no developed public anchor ★ THEME (military / Indigenous)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 244,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_10bf684e68789bca",
-   "projectedSlug": "wi-old-world-wisconsin",
-   "targetSlug": null,
-   "name": "Old World Wisconsin",
-   "town": "Eagle",
-   "county": "Waukesha",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Wisconsin Historical Society — 600-acre open-air museum of immigrant farm life",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 220,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_12c1b983c2b0539f",
-   "projectedSlug": "wi-americas-black-holocaust-museum",
-   "targetSlug": null,
-   "name": "America's Black Holocaust Museum",
-   "town": "Milwaukee",
-   "county": "Milwaukee",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Museum founded by lynching survivor James Cameron",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 189,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_13d17b6c71b6c25a",
-   "projectedSlug": "wi-black-point-estate-and-gardens",
-   "targetSlug": null,
-   "name": "Black Point Estate & Gardens",
-   "town": "Lake Geneva",
-   "county": "Walworth",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Wisconsin Historical Society lakeside estate, tours by boat and land",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 198,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_153cfe8ece910db4",
-   "projectedSlug": "wi-paul-bunyan-logging-camp-museum",
-   "targetSlug": null,
-   "name": "Paul Bunyan Logging Camp Museum",
-   "town": "Eau Claire",
-   "county": "Eau Claire",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "1930s logging camp museum in Carson Park",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 252,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_157fd15c02643587",
-   "projectedSlug": "wi-milwaukee-soldiers-home-historic-district",
-   "targetSlug": null,
-   "name": "Milwaukee Soldiers Home Historic District",
-   "town": "Milwaukee",
-   "county": "Milwaukee",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "1867 National Soldiers Home grounds; preservation-alliance tours — verify current tour program ★ THEME (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 190,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_17b283c37fec01fc",
-   "projectedSlug": "wi-the-orpheum",
-   "targetSlug": null,
-   "name": "The Orpheum",
-   "town": "Madison",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 462,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1f2e975707db71e4",
-   "projectedSlug": "wi-heritage-hill-state-historical-park",
-   "targetSlug": null,
-   "name": "Heritage Hill State Historical Park",
-   "town": "Green Bay",
-   "county": "Brown",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Living-history park — fur trade, Fort Howard buildings, Belgian farm",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 164,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_2018dc59e5e961fa",
-   "projectedSlug": "wi-fairlawn-mansion-museum",
-   "targetSlug": null,
-   "name": "Fairlawn Mansion Museum",
-   "town": "Superior",
-   "county": "Douglas",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Lumber-baron mansion museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 151,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_20391bed5cf7fd70",
-   "projectedSlug": "wi-pecatonica-battlefield",
-   "targetSlug": null,
-   "name": "Pecatonica Battlefield",
-   "town": "near Woodford",
-   "county": "Lafayette",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "June 16, 1832 Black Hawk War battle; battlefield on private farmland, roadside marker only ★ THEME (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 243,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_215286c705b81f85",
-   "projectedSlug": "wi-milton-house-museum",
-   "targetSlug": null,
-   "name": "Milton House Museum",
-   "town": "Milton",
-   "county": "Rock",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "1844 stagecoach inn and documented Underground Railroad station",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 214,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_258a99279379774a",
-   "projectedSlug": "wi-wisconsin-maritime-museum-and-uss-cobia",
-   "targetSlug": null,
-   "name": "Wisconsin Maritime Museum & USS Cobia",
-   "town": "Manitowoc",
-   "county": "Manitowoc",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Maritime museum with a WWII submarine ★ THEME (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 191,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_2687b8d8db594118",
-   "projectedSlug": "wi-pendarvis",
-   "targetSlug": null,
-   "name": "Pendarvis",
-   "town": "Mineral Point",
-   "county": "Iowa",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Wisconsin Historical Society — Cornish lead miners' stone cottages",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 230,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_27132c6add5d2a3b",
-   "projectedSlug": "wi-the-ambassador",
-   "targetSlug": null,
-   "name": "The Ambassador",
-   "town": "Milwaukee",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 464,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_2b20f479af566e02",
-   "projectedSlug": "wi-wisconsin-veterans-museum",
-   "targetSlug": null,
-   "name": "Wisconsin Veterans Museum",
-   "town": "Madison",
-   "county": "Dane",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "State military museum ★ THEME (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 206,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_31b4a78243d1c422",
-   "projectedSlug": "wi-plummer-mine-headframe",
-   "targetSlug": null,
-   "name": "Plummer Mine Headframe",
-   "town": "Pence",
-   "county": "Iron",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Last iron mine headframe standing in Wisconsin — public wayside landmark",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 153,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_358161ab5297a491",
-   "projectedSlug": "wi-stonefield-village",
-   "targetSlug": null,
-   "name": "Stonefield Village",
-   "town": "Cassville",
-   "county": "Grant",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Wisconsin Historical Society — 1900s farming village and state agricultural museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 233,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_36aaea1f8dcc2c94",
-   "projectedSlug": "wi-national-railroad-museum",
-   "targetSlug": null,
-   "name": "National Railroad Museum",
-   "town": "Green Bay",
-   "county": "Brown",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "National museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 165,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_373711fa0ebb9f24",
-   "projectedSlug": "wi-lake-view-sanatorium",
-   "targetSlug": null,
-   "name": "Lake View Sanatorium",
-   "town": "Madison",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "hospital — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 469,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3ae3d1a55d9f6049",
-   "projectedSlug": "wi-ringling-house",
-   "targetSlug": null,
-   "name": "Ringling House",
-   "town": "Baraboo",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "house — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 458,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3dec82b106141127",
-   "projectedSlug": "wi-yerkes-observatory",
-   "targetSlug": null,
-   "name": "Yerkes Observatory",
-   "town": "Williams Bay",
-   "county": "Walworth",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "1897 observatory, tours resumed under foundation operation — verify schedule",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 199,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4534e3d4aeb39737",
-   "projectedSlug": "wi-pilot-island-lighthouse",
-   "targetSlug": null,
-   "name": "Pilot Island Lighthouse",
-   "town": "off Door Peninsula",
-   "county": "Door",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Offshore light station in a national wildlife refuge — no public landing",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 180,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4617f36056e85bea",
-   "projectedSlug": "wi-pottawatomie-lighthouse",
-   "targetSlug": null,
-   "name": "Pottawatomie Lighthouse",
-   "town": "Rock Island State Park",
-   "county": "Door",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Wisconsin's oldest lighthouse (1836), ferry access",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 177,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_46c24bbd9e06af65",
-   "projectedSlug": "wi-swiss-historical-village",
-   "targetSlug": null,
-   "name": "Swiss Historical Village",
-   "town": "New Glarus",
-   "county": "Green",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Open-air museum of the 1845 Swiss colony",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 237,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_48890119735470d3",
-   "projectedSlug": "wi-maribel-caves-hotel",
-   "targetSlug": null,
-   "name": "Maribel Caves Hotel",
-   "town": "Maribel",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "hotel — no lawful public anchor found; research reading only, not visitable. Source: haunts.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 476,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_49f4c9ac7b28da68",
-   "projectedSlug": "wi-sc-johnson-johnson-wax-headquarters-tours",
-   "targetSlug": null,
-   "name": "SC Johnson — Johnson Wax Headquarters Tours",
-   "town": "Racine",
-   "county": "Racine",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Free public tours of Frank Lloyd Wright's 1936 administration building and tower",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 196,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4b9cfa4f8d65d67e",
-   "projectedSlug": "wi-aldo-leopold-shack-and-farm",
-   "targetSlug": null,
-   "name": "Aldo Leopold Shack & Farm",
-   "town": "near Baraboo",
-   "county": "Sauk",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Leopold Foundation tours of the Sand County Almanac ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 212,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4c49f64d3623c693",
-   "projectedSlug": "wi-hixon-house",
-   "targetSlug": null,
-   "name": "Hixon House",
-   "town": "La Crosse",
-   "county": "La Crosse",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Lumber-baron house museum (La Crosse County Historical Society)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 240,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4c5ea8730d33198c",
-   "projectedSlug": "wi-circus-world",
-   "targetSlug": null,
-   "name": "Circus World",
-   "town": "Baraboo",
-   "county": "Sauk",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Wisconsin Historical Society — Ringling Bros. winter quarters, NHL buildings",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 210,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4cd47c86fa6ceb7a",
-   "projectedSlug": "wi-apostle-islands-lighthouses-raspberry-and-michigan-islands",
-   "targetSlug": null,
-   "name": "Apostle Islands Lighthouses (Raspberry & Michigan Islands)",
-   "town": "Bayfield Peninsula",
-   "county": "Bayfield/Ashland",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "NPS light stations, boat and tour access",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 148,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_51293e8978a07fbc",
-   "projectedSlug": "wi-dickeyville-grotto",
-   "targetSlug": null,
-   "name": "Dickeyville Grotto",
-   "town": "Dickeyville",
-   "county": "Grant",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Folk-art religious grotto on public church grounds — classic weird spot",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 236,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_52cf0779276a1153",
-   "projectedSlug": "wi-shakers",
-   "targetSlug": null,
-   "name": "Shaker's",
-   "town": "Milwaukee",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 468,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_54922f8cfa17a720",
-   "projectedSlug": "wi-dartford-cemetery",
-   "targetSlug": null,
-   "name": "Dartford Cemetery",
-   "town": "Green Lake",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "cemetery — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 471,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5a148e16fcd96704",
-   "projectedSlug": "wi-state-capitol",
-   "targetSlug": null,
-   "name": "State Capitol",
-   "town": "Madison",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 473,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5e67736b42fd59da",
-   "projectedSlug": "wi-aztalan-state-park",
-   "targetSlug": null,
-   "name": "Aztalan State Park",
-   "town": "Lake Mills",
-   "county": "Jefferson",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Mississippian stockaded town (~1050–1200), reconstructed stockade and platform mounds",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 218,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_60c9c60fb41c2d26",
-   "projectedSlug": "wi-rogers-street-fishing-village",
-   "targetSlug": null,
-   "name": "Rogers Street Fishing Village",
-   "town": "Two Rivers",
-   "county": "Manitowoc",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Fishing village museum at the wreck site coast of the schooner Rouse Simmons story",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 192,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_66ef5980d73982ee",
-   "projectedSlug": "wi-oneida-nation-museum",
-   "targetSlug": null,
-   "name": "Oneida Nation Museum",
-   "town": "Oneida",
-   "county": "Outagamie",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Tribal museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 166,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6722c1d7e44e928a",
-   "projectedSlug": "wi-summerwind",
-   "targetSlug": null,
-   "name": "Summerwind",
-   "town": "Land O' Lakes",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "house — no lawful public anchor found; research reading only, not visitable. Source: haunts.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 475,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6a1ac7ddf00275a0",
-   "projectedSlug": "wi-hotel-retlaw",
-   "targetSlug": null,
-   "name": "Hotel Retlaw",
-   "town": "Fond du Lac",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 463,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6a290ad57bc4aee6",
-   "projectedSlug": "wi-menominee-cultural-museum",
-   "targetSlug": null,
-   "name": "Menominee Cultural Museum",
-   "town": "Keshena",
-   "county": "Menominee",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Menominee tribal museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 173,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6cfcfc8a15cade4b",
-   "projectedSlug": "wi-historic-indian-agency-house",
-   "targetSlug": null,
-   "name": "Historic Indian Agency House",
-   "town": "Portage",
-   "county": "Columbia",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "1832 Indian agency house museum — Ho-Chunk agency ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 257,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7029508fe4662ac9",
-   "projectedSlug": "wi-door-county-maritime-museum",
-   "targetSlug": null,
-   "name": "Door County Maritime Museum",
-   "town": "Sturgeon Bay",
-   "county": "Door",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Maritime museum with the tug John Purves",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 174,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_76092a7173ba96f1",
-   "projectedSlug": "wi-astor-house",
-   "targetSlug": null,
-   "name": "Astor House",
-   "town": "Green Bay",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 474,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_78bd575084c92167",
-   "projectedSlug": "wi-leinenkugels-brewery-tours",
-   "targetSlug": null,
-   "name": "Leinenkugel's Brewery Tours",
-   "town": "Chippewa Falls",
-   "county": "Chippewa",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "1867 brewery, public tours",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 253,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7c66ab8f0d0f13ba",
-   "projectedSlug": "wi-wisconsin-state-prison-historic-district-waupun",
-   "targetSlug": null,
-   "name": "Wisconsin State Prison Historic District (Waupun)",
-   "town": "Waupun",
-   "county": "Dodge",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "1851 state prison, NRHP historic district, still an active maximum-security institution — streetscape exterior only, no tours ★ THEME (prison)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 222,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7dd710eb459568fd",
-   "projectedSlug": "wi-octagon-house-museum",
-   "targetSlug": null,
-   "name": "Octagon House Museum",
-   "town": "Watertown",
-   "county": "Jefferson",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "1854 octagon house museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 219,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7f4ad67975277838",
-   "projectedSlug": "wi-fort-crawford-museum",
-   "targetSlug": null,
-   "name": "Fort Crawford Museum",
-   "town": "Prairie du Chien",
-   "county": "Crawford",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Museum of the fort and frontier military medicine ★ THEME (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 235,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_802d7b1e3d68005f",
-   "projectedSlug": "wi-national-fresh-water-fishing-hall-of-fame",
-   "targetSlug": null,
-   "name": "National Fresh Water Fishing Hall of Fame",
-   "town": "Hayward",
-   "county": "Sawyer",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Museum under a four-story musky — beloved roadside weird spot",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 157,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_84c30b58a38d002b",
-   "projectedSlug": "wi-hearthstone-historic-house-museum",
-   "targetSlug": null,
-   "name": "Hearthstone Historic House Museum",
-   "town": "Appleton",
-   "county": "Outagamie",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "First house lit by a central hydroelectric station (Edison system, 1882)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 168,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_86958a973e734770",
-   "projectedSlug": "wi-grignon-mansion",
-   "targetSlug": null,
-   "name": "Grignon Mansion",
-   "town": "Kaukauna",
-   "county": "Outagamie",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "1837 fur-trade-era mansion museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 167,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_916bde55d8494447",
-   "projectedSlug": "wi-fort-koshkonong-site",
-   "targetSlug": null,
-   "name": "Fort Koshkonong Site",
-   "town": "Fort Atkinson",
-   "county": "Jefferson",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Black Hawk War fort ground, marker in a public park — verify interpretation on site",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 239,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_954c373811bec148",
-   "projectedSlug": "wi-riverside-theater",
-   "targetSlug": null,
-   "name": "Riverside Theater",
-   "town": "Milwaukee",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 460,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_963e107ddf578164",
-   "projectedSlug": "wi-ss-meteor-whaleback-ship-museum",
-   "targetSlug": null,
-   "name": "SS Meteor Whaleback Ship Museum",
-   "town": "Superior",
-   "county": "Douglas",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Last whaleback freighter, museum ship",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 150,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_96e8daf200df9c54",
-   "projectedSlug": "wi-peshtigo-fire-museum-and-fire-cemetery",
-   "targetSlug": null,
-   "name": "Peshtigo Fire Museum & Fire Cemetery",
-   "town": "Peshtigo",
-   "county": "Marinette",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Museum in a former church; the October 8, 1871 fire — deadliest in U.S. history, same night as Chicago — with a mass-grave cemetery",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 171,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a09954f14bf35e8a",
-   "projectedSlug": "wi-national-historic-cheesemaking-center",
-   "targetSlug": null,
-   "name": "National Historic Cheesemaking Center",
-   "town": "Monroe",
-   "county": "Green",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Industry museum in a restored depot",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 238,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a78136b8d68d1351",
-   "projectedSlug": "wi-bayfield-maritime-museum",
-   "targetSlug": null,
-   "name": "Bayfield Maritime Museum",
-   "town": "Bayfield",
-   "county": "Bayfield",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Maritime museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 149,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a9377479718bed87",
-   "projectedSlug": "wi-madeline-island-museum",
-   "targetSlug": null,
-   "name": "Madeline Island Museum",
-   "town": "La Pointe",
-   "county": "Ashland",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Wisconsin Historical Society site — Ojibwe and fur-trade history on the island",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 147,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ac6cb79da33cbcf8",
-   "projectedSlug": "wi-mabel-tainter",
-   "targetSlug": null,
-   "name": "Mabel Tainter",
-   "town": "Menomonie",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 466,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b567e847ae62ba86",
-   "projectedSlug": "wi-dr-evermors-forevertron",
-   "targetSlug": null,
-   "name": "Dr. Evermor's Forevertron",
-   "town": "Sumpter",
-   "county": "Sauk",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Colossal scrap-metal sculpture park; public access intermittent and informal — verify before routing (weird spot)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 221,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b58ea024180242d3",
-   "projectedSlug": "wi-milwaukee-public-museum",
-   "targetSlug": null,
-   "name": "Milwaukee Public Museum",
-   "town": "Milwaukee",
-   "county": "Milwaukee",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Major natural/cultural history museum — note: relocating to a new building, verify venue during transition",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 186,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b8ec39f0598516aa",
-   "projectedSlug": "wi-port-washington-1860-light-station-museum",
-   "targetSlug": null,
-   "name": "Port Washington 1860 Light Station Museum",
-   "town": "Port Washington",
-   "county": "Ozaukee",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Light station museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 197,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_bff030ce9f55e8d7",
-   "projectedSlug": "wi-brumder-mansion",
-   "targetSlug": null,
-   "name": "Brumder Mansion",
-   "town": "Milwaukee",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "house — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 470,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c03f8c907064124a",
-   "projectedSlug": "wi-marinette-county-historical-logging-museum",
-   "targetSlug": null,
-   "name": "Marinette County Historical Logging Museum",
-   "town": "Marinette",
-   "county": "Marinette",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Logging museum on Stephenson Island",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 172,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c04bfbade5f419c5",
-   "projectedSlug": "wi-the-pfister",
-   "targetSlug": null,
-   "name": "The Pfister",
-   "town": "Milwaukee",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 457,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c0d55969d0075dbc",
-   "projectedSlug": "wi-harley-davidson-museum",
-   "targetSlug": null,
-   "name": "Harley-Davidson Museum",
-   "town": "Milwaukee",
-   "county": "Milwaukee",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Industry museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 188,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c1e52e5ce1ce11a1",
-   "projectedSlug": "wi-first-capitol",
-   "targetSlug": null,
-   "name": "First Capitol",
-   "town": "Belmont",
-   "county": "Lafayette",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Wisconsin Historical Society — 1836 territorial capitol buildings",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 217,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c3c2b785c18878c7",
-   "projectedSlug": "wi-roche-a-cri-state-park-petroglyphs",
-   "targetSlug": null,
-   "name": "Roche-a-Cri State Park Petroglyphs",
-   "town": "Friendship",
-   "county": "Adams",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "State park — Indigenous petroglyph and pictograph rock",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 255,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c55a90cdbb55c357",
-   "projectedSlug": "wi-camp-randall-memorial-park-and-arch",
-   "targetSlug": null,
-   "name": "Camp Randall Memorial Park & Arch",
-   "town": "Madison",
-   "county": "Dane",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Public memorial park at the Civil War training camp ground beside the stadium ★ THEME (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 207,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c83745aeca559d0d",
-   "projectedSlug": "wi-george-w-brown-jr-ojibwe-museum-and-cultural-center",
-   "targetSlug": null,
-   "name": "George W. Brown Jr. Ojibwe Museum & Cultural Center",
-   "town": "Lac du Flambeau",
-   "county": "Vilas",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Tribal museum and cultural center",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 155,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c89646afb59be335",
-   "projectedSlug": "wi-little-white-schoolhouse-birthplace-of-the-republican-party",
-   "targetSlug": null,
-   "name": "Little White Schoolhouse — Birthplace of the Republican Party",
-   "town": "Ripon",
-   "county": "Fond du Lac",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "1853 schoolhouse museum, site of the 1854 meetings",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 216,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ca020da307f1a671",
-   "projectedSlug": "wi-copper-culture-state-park",
-   "targetSlug": null,
-   "name": "Copper Culture State Park",
-   "town": "Oconto",
-   "county": "Oconto",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "State park on an Old Copper Culture burial ground (~4000–2500 BCE)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 170,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cb80d2791dc1dd8c",
-   "projectedSlug": "wi-h-h-bennett-studio-and-museum",
-   "targetSlug": null,
-   "name": "H.H. Bennett Studio & Museum",
-   "town": "Wisconsin Dells",
-   "county": "Columbia",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Wisconsin Historical Society — 1875 photography studio",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 211,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cbd14a7d4007b798",
-   "projectedSlug": "wi-cana-island-lighthouse",
-   "targetSlug": null,
-   "name": "Cana Island Lighthouse",
-   "town": "Baileys Harbor",
-   "county": "Door",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Lighthouse museum, tower climbs (Door County Maritime Museum)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 175,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cdc59b1173469032",
-   "projectedSlug": "wi-laura-ingalls-wilder-museum-and-little-house-wayside",
-   "targetSlug": null,
-   "name": "Laura Ingalls Wilder Museum & Little House Wayside",
-   "town": "Pepin",
-   "county": "Pepin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Museum and cabin site on the Lake Pepin shore",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 250,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cdf566cf88a6d643",
-   "projectedSlug": "wi-eaa-aviation-museum",
-   "targetSlug": null,
-   "name": "EAA Aviation Museum",
-   "town": "Oshkosh",
-   "county": "Winnebago",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Major aviation museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 169,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ce7571d532512240",
-   "projectedSlug": "wi-rhinelander-logging-museum-pioneer-park",
-   "targetSlug": null,
-   "name": "Rhinelander Logging Museum (Pioneer Park)",
-   "town": "Rhinelander",
-   "county": "Oneida",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Logging museum complex with narrow-gauge railroad exhibits",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 154,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cea1e2079ce33e87",
-   "projectedSlug": "wi-waswagoning-ojibwe-village",
-   "targetSlug": null,
-   "name": "Waswagoning Ojibwe Village",
-   "town": "Lac du Flambeau",
-   "county": "Vilas",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Recreated Ojibwe village with guided tours — verify current operation",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 156,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cf494b2679795520",
-   "projectedSlug": "wi-mid-continent-railway-museum",
-   "targetSlug": null,
-   "name": "Mid-Continent Railway Museum",
-   "town": "North Freedom",
-   "county": "Sauk",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Operating heritage railroad museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 213,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cf4f3397382c9076",
-   "projectedSlug": "wi-house-on-the-rock",
-   "targetSlug": null,
-   "name": "House on the Rock",
-   "town": "near Dodgeville",
-   "county": "Iowa",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Alex Jordan's hilltop attraction — the state's defining weird spot",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 209,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d2187d87e1d9e5a4",
-   "projectedSlug": "wi-fort-winnebago-surgeons-quarters",
-   "targetSlug": null,
-   "name": "Fort Winnebago Surgeons Quarters",
-   "town": "Portage",
-   "county": "Columbia",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "1828–30 fort surgeon's quarters, historic site tours ★ THEME (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 256,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d30e162549b96e52",
-   "projectedSlug": "wi-eagle-bluff-lighthouse",
-   "targetSlug": null,
-   "name": "Eagle Bluff Lighthouse",
-   "town": "Peninsula State Park",
-   "county": "Door",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Lighthouse museum in a state park",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 176,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d415dda8deb0fbe9",
-   "projectedSlug": "wi-pabst-mansion",
-   "targetSlug": null,
-   "name": "Pabst Mansion",
-   "town": "Milwaukee",
-   "county": "Milwaukee",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Brewing-baron mansion museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 187,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d42edf2dc3b6c9af",
-   "projectedSlug": "wi-mabel-tainter-center-for-the-arts",
-   "targetSlug": null,
-   "name": "Mabel Tainter Center for the Arts",
-   "town": "Menomonie",
-   "county": "Dunn",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "1889 lumber-baron memorial theater, tours",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 254,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d67f88a51f819863",
-   "projectedSlug": "wi-mining-and-rollo-jamison-museums",
-   "targetSlug": null,
-   "name": "Mining & Rollo Jamison Museums",
-   "town": "Platteville",
-   "county": "Grant",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Lead mine tour and mining museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 231,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d85a0d83c7702178",
-   "projectedSlug": "wi-fort-mccoy-history-center",
-   "targetSlug": null,
-   "name": "Fort McCoy History Center",
-   "town": "Fort McCoy",
-   "county": "Monroe",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Army installation history center exists but public access requires base visitor processing — verify before routing ★ THEME (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 258,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_db44ed2fa14db7f9",
-   "projectedSlug": "wi-badger-mine-and-museum",
-   "targetSlug": null,
-   "name": "Badger Mine & Museum",
-   "town": "Shullsburg",
-   "county": "Lafayette",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Underground lead mine tours",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 232,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e0942bcc25db1f25",
-   "projectedSlug": "wi-civil-war-museum",
-   "targetSlug": null,
-   "name": "Civil War Museum",
-   "town": "Kenosha",
-   "county": "Kenosha",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Regional Civil War museum (Kenosha Public Museums)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 193,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e26388a5115144d7",
-   "projectedSlug": "wi-southport-light-station-museum",
-   "targetSlug": null,
-   "name": "Southport Light Station Museum",
-   "town": "Kenosha",
-   "county": "Kenosha",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Lighthouse museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 194,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e743ca3c8cbaf035",
-   "projectedSlug": "wi-fairlawn",
-   "targetSlug": null,
-   "name": "Fairlawn",
-   "town": "Superior",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 465,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e7b873304cdb54d6",
-   "projectedSlug": "wi-project-elf-clam-lake-antenna-site",
-   "targetSlug": null,
-   "name": "Project ELF — Clam Lake Antenna Site",
-   "town": "Clam Lake",
-   "county": "Ashland",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Cold War Extremely Low Frequency submarine-communications station (1969–2004); decommissioned, ground restricted ★ THEME (military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 158,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e8e3248c63d15c9d",
-   "projectedSlug": "wi-taycheedah-correctional-institution-wisconsin-home-for-women",
-   "targetSlug": null,
-   "name": "Taycheedah Correctional Institution (Wisconsin Home for Women)",
-   "town": "Taycheedah",
-   "county": "Fond du Lac",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Women's prison ground since 1933 (industrial home from 1915); active facility, no public anchor ★ THEME (prison)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 223,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e9a65dd11145363e",
-   "projectedSlug": "wi-wade-house",
-   "targetSlug": null,
-   "name": "Wade House",
-   "town": "Greenbush",
-   "county": "Sheboygan",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Wisconsin Historical Society stagecoach inn and carriage museum",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 179,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_eb65efdfcfc911d7",
-   "projectedSlug": "wi-lincoln-tallman-house",
-   "targetSlug": null,
-   "name": "Lincoln-Tallman House",
-   "town": "Janesville",
-   "county": "Rock",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "House museum where Lincoln slept (1859)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 215,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ecd39a81408fa799",
-   "projectedSlug": "wi-villa-louis",
-   "targetSlug": null,
-   "name": "Villa Louis",
-   "town": "Prairie du Chien",
-   "county": "Crawford",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Wisconsin Historical Society mansion on the Fort Crawford parade ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 234,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ecddf7b50d760cf0",
-   "projectedSlug": "wi-perrot-state-park-trempealeau-mountain-and-mounds",
-   "targetSlug": null,
-   "name": "Perrot State Park — Trempealeau Mountain & Mounds",
-   "town": "Trempealeau",
-   "county": "Trempealeau",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "State park — French post ground, Indigenous mounds, sacred mountain in the river",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 241,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f2326e428abe508b",
-   "projectedSlug": "wi-mendota-mental-health-institute",
-   "targetSlug": null,
-   "name": "Mendota Mental Health Institute",
-   "town": "Madison",
-   "county": "Dane",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "State asylum ground since 1860, still active; effigy mounds on the grounds but no public program ★ THEME (asylum)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 224,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f3e1421953286168",
-   "projectedSlug": "wi-wind-point-lighthouse",
-   "targetSlug": null,
-   "name": "Wind Point Lighthouse",
-   "town": "Racine",
-   "county": "Racine",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Lighthouse grounds and tower climbs",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 195,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f8983176a16bef32",
-   "projectedSlug": "wi-taliesin",
-   "targetSlug": null,
-   "name": "Taliesin",
-   "town": "Spring Green",
-   "county": "Sauk",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Frank Lloyd Wright home/studio, UNESCO World Heritage, tours",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 208,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fa4f1ec08629f250",
-   "projectedSlug": "wi-chippewa-valley-museum",
-   "targetSlug": null,
-   "name": "Chippewa Valley Museum",
-   "town": "Eau Claire",
-   "county": "Eau Claire",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "Regional museum in Carson Park",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "MI-WI-first-sweep.md",
-     "row": 251,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_fb248d6f28223fd0",
-   "projectedSlug": "wi-science-hall",
-   "targetSlug": null,
-   "name": "Science Hall",
-   "town": "Madison",
-   "county": "Wisconsin",
-   "state": "WI",
-   "tier": null,
-   "anchorPosture": "other — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 472,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
    "id": "lq_7c933f66c04a27ef",
    "projectedSlug": "al-national-memorial-for-peace-and-justice-and-the-legacy-museum",
    "targetSlug": "AL-legacy-museum-national-memorial-montgomery",
@@ -150252,6 +147837,2421 @@
     {
      "file": "haunted-leads-sweep.md",
      "row": 435,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_032ebd7abaa9dbbc",
+   "projectedSlug": "wi-wisconsin-historical-museum-and-state-capitol",
+   "targetSlug": null,
+   "name": "Wisconsin Historical Museum & State Capitol",
+   "town": "Madison",
+   "county": "Dane",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "State museum on Capitol Square; capitol tours",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 205,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_03731c5e1ae69b61",
+   "projectedSlug": "wi-the-grand",
+   "targetSlug": null,
+   "name": "The Grand",
+   "town": "Oshkosh",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "theater — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 461,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_04a10e969e34d597",
+   "projectedSlug": "wi-iron-county-historical-museum-and-montreal-mine-ground",
+   "targetSlug": null,
+   "name": "Iron County Historical Museum & Montreal Mine Ground",
+   "town": "Hurley",
+   "county": "Iron",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Museum on Gogebic Range iron ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 152,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_056d318c102c92aa",
+   "projectedSlug": "wi-deaths-door-maritime-museum",
+   "targetSlug": null,
+   "name": "Death's Door Maritime Museum",
+   "town": "Gills Rock",
+   "county": "Door",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Maritime museum at the Porte des Morts passage",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 178,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_08aa3028cd5cbee6",
+   "projectedSlug": "wi-wyalusing-state-park",
+   "targetSlug": null,
+   "name": "Wyalusing State Park",
+   "town": "near Bagley",
+   "county": "Grant",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "State park at the Wisconsin–Mississippi confluence — mound groups, French and Indigenous ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 242,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0c0a81febd4d7565",
+   "projectedSlug": "wi-bad-axe-battlefield-and-massacre-site",
+   "targetSlug": null,
+   "name": "Bad Axe Battlefield & Massacre Site",
+   "town": "near Victory",
+   "county": "Vernon",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "August 1832 end of the Black Hawk War on the Mississippi; sensitive ground, highway marker, no developed public anchor ★ THEME (military / Indigenous)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 244,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_10bf684e68789bca",
+   "projectedSlug": "wi-old-world-wisconsin",
+   "targetSlug": null,
+   "name": "Old World Wisconsin",
+   "town": "Eagle",
+   "county": "Waukesha",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Wisconsin Historical Society — 600-acre open-air museum of immigrant farm life",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 220,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_12c1b983c2b0539f",
+   "projectedSlug": "wi-americas-black-holocaust-museum",
+   "targetSlug": null,
+   "name": "America's Black Holocaust Museum",
+   "town": "Milwaukee",
+   "county": "Milwaukee",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Museum founded by lynching survivor James Cameron",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 189,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_13d17b6c71b6c25a",
+   "projectedSlug": "wi-black-point-estate-and-gardens",
+   "targetSlug": null,
+   "name": "Black Point Estate & Gardens",
+   "town": "Lake Geneva",
+   "county": "Walworth",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Wisconsin Historical Society lakeside estate, tours by boat and land",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 198,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_153cfe8ece910db4",
+   "projectedSlug": "wi-paul-bunyan-logging-camp-museum",
+   "targetSlug": null,
+   "name": "Paul Bunyan Logging Camp Museum",
+   "town": "Eau Claire",
+   "county": "Eau Claire",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "1930s logging camp museum in Carson Park",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 252,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_157fd15c02643587",
+   "projectedSlug": "wi-milwaukee-soldiers-home-historic-district",
+   "targetSlug": null,
+   "name": "Milwaukee Soldiers Home Historic District",
+   "town": "Milwaukee",
+   "county": "Milwaukee",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "1867 National Soldiers Home grounds; preservation-alliance tours — verify current tour program ★ THEME (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 190,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_17b283c37fec01fc",
+   "projectedSlug": "wi-the-orpheum",
+   "targetSlug": null,
+   "name": "The Orpheum",
+   "town": "Madison",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 462,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1f2e975707db71e4",
+   "projectedSlug": "wi-heritage-hill-state-historical-park",
+   "targetSlug": null,
+   "name": "Heritage Hill State Historical Park",
+   "town": "Green Bay",
+   "county": "Brown",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Living-history park — fur trade, Fort Howard buildings, Belgian farm",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 164,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_2018dc59e5e961fa",
+   "projectedSlug": "wi-fairlawn-mansion-museum",
+   "targetSlug": null,
+   "name": "Fairlawn Mansion Museum",
+   "town": "Superior",
+   "county": "Douglas",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Lumber-baron mansion museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 151,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_20391bed5cf7fd70",
+   "projectedSlug": "wi-pecatonica-battlefield",
+   "targetSlug": null,
+   "name": "Pecatonica Battlefield",
+   "town": "near Woodford",
+   "county": "Lafayette",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "June 16, 1832 Black Hawk War battle; battlefield on private farmland, roadside marker only ★ THEME (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 243,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_215286c705b81f85",
+   "projectedSlug": "wi-milton-house-museum",
+   "targetSlug": null,
+   "name": "Milton House Museum",
+   "town": "Milton",
+   "county": "Rock",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "1844 stagecoach inn and documented Underground Railroad station",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 214,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_258a99279379774a",
+   "projectedSlug": "wi-wisconsin-maritime-museum-and-uss-cobia",
+   "targetSlug": null,
+   "name": "Wisconsin Maritime Museum & USS Cobia",
+   "town": "Manitowoc",
+   "county": "Manitowoc",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Maritime museum with a WWII submarine ★ THEME (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 191,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_2687b8d8db594118",
+   "projectedSlug": "wi-pendarvis",
+   "targetSlug": null,
+   "name": "Pendarvis",
+   "town": "Mineral Point",
+   "county": "Iowa",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Wisconsin Historical Society — Cornish lead miners' stone cottages",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 230,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_27132c6add5d2a3b",
+   "projectedSlug": "wi-the-ambassador",
+   "targetSlug": null,
+   "name": "The Ambassador",
+   "town": "Milwaukee",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 464,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_2b20f479af566e02",
+   "projectedSlug": "wi-wisconsin-veterans-museum",
+   "targetSlug": null,
+   "name": "Wisconsin Veterans Museum",
+   "town": "Madison",
+   "county": "Dane",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "State military museum ★ THEME (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 206,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_31b4a78243d1c422",
+   "projectedSlug": "wi-plummer-mine-headframe",
+   "targetSlug": null,
+   "name": "Plummer Mine Headframe",
+   "town": "Pence",
+   "county": "Iron",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Last iron mine headframe standing in Wisconsin — public wayside landmark",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 153,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_358161ab5297a491",
+   "projectedSlug": "wi-stonefield-village",
+   "targetSlug": null,
+   "name": "Stonefield Village",
+   "town": "Cassville",
+   "county": "Grant",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Wisconsin Historical Society — 1900s farming village and state agricultural museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 233,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_36aaea1f8dcc2c94",
+   "projectedSlug": "wi-national-railroad-museum",
+   "targetSlug": null,
+   "name": "National Railroad Museum",
+   "town": "Green Bay",
+   "county": "Brown",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "National museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 165,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_373711fa0ebb9f24",
+   "projectedSlug": "wi-lake-view-sanatorium",
+   "targetSlug": null,
+   "name": "Lake View Sanatorium",
+   "town": "Madison",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "hospital — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 469,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3ae3d1a55d9f6049",
+   "projectedSlug": "wi-ringling-house",
+   "targetSlug": null,
+   "name": "Ringling House",
+   "town": "Baraboo",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "house — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 458,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3dec82b106141127",
+   "projectedSlug": "wi-yerkes-observatory",
+   "targetSlug": null,
+   "name": "Yerkes Observatory",
+   "town": "Williams Bay",
+   "county": "Walworth",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "1897 observatory, tours resumed under foundation operation — verify schedule",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 199,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4534e3d4aeb39737",
+   "projectedSlug": "wi-pilot-island-lighthouse",
+   "targetSlug": null,
+   "name": "Pilot Island Lighthouse",
+   "town": "off Door Peninsula",
+   "county": "Door",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Offshore light station in a national wildlife refuge — no public landing",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 180,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4617f36056e85bea",
+   "projectedSlug": "wi-pottawatomie-lighthouse",
+   "targetSlug": null,
+   "name": "Pottawatomie Lighthouse",
+   "town": "Rock Island State Park",
+   "county": "Door",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Wisconsin's oldest lighthouse (1836), ferry access",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 177,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_46c24bbd9e06af65",
+   "projectedSlug": "wi-swiss-historical-village",
+   "targetSlug": null,
+   "name": "Swiss Historical Village",
+   "town": "New Glarus",
+   "county": "Green",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Open-air museum of the 1845 Swiss colony",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 237,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_48890119735470d3",
+   "projectedSlug": "wi-maribel-caves-hotel",
+   "targetSlug": null,
+   "name": "Maribel Caves Hotel",
+   "town": "Maribel",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "hotel — no lawful public anchor found; research reading only, not visitable. Source: haunts.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 476,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_49f4c9ac7b28da68",
+   "projectedSlug": "wi-sc-johnson-johnson-wax-headquarters-tours",
+   "targetSlug": null,
+   "name": "SC Johnson — Johnson Wax Headquarters Tours",
+   "town": "Racine",
+   "county": "Racine",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Free public tours of Frank Lloyd Wright's 1936 administration building and tower",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 196,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4b9cfa4f8d65d67e",
+   "projectedSlug": "wi-aldo-leopold-shack-and-farm",
+   "targetSlug": null,
+   "name": "Aldo Leopold Shack & Farm",
+   "town": "near Baraboo",
+   "county": "Sauk",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Leopold Foundation tours of the Sand County Almanac ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 212,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4c49f64d3623c693",
+   "projectedSlug": "wi-hixon-house",
+   "targetSlug": null,
+   "name": "Hixon House",
+   "town": "La Crosse",
+   "county": "La Crosse",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Lumber-baron house museum (La Crosse County Historical Society)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 240,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4c5ea8730d33198c",
+   "projectedSlug": "wi-circus-world",
+   "targetSlug": null,
+   "name": "Circus World",
+   "town": "Baraboo",
+   "county": "Sauk",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Wisconsin Historical Society — Ringling Bros. winter quarters, NHL buildings",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 210,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4cd47c86fa6ceb7a",
+   "projectedSlug": "wi-apostle-islands-lighthouses-raspberry-and-michigan-islands",
+   "targetSlug": null,
+   "name": "Apostle Islands Lighthouses (Raspberry & Michigan Islands)",
+   "town": "Bayfield Peninsula",
+   "county": "Bayfield/Ashland",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "NPS light stations, boat and tour access",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 148,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_51293e8978a07fbc",
+   "projectedSlug": "wi-dickeyville-grotto",
+   "targetSlug": null,
+   "name": "Dickeyville Grotto",
+   "town": "Dickeyville",
+   "county": "Grant",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Folk-art religious grotto on public church grounds — classic weird spot",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 236,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_52cf0779276a1153",
+   "projectedSlug": "wi-shakers",
+   "targetSlug": null,
+   "name": "Shaker's",
+   "town": "Milwaukee",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 468,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_54922f8cfa17a720",
+   "projectedSlug": "wi-dartford-cemetery",
+   "targetSlug": null,
+   "name": "Dartford Cemetery",
+   "town": "Green Lake",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "cemetery — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 471,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5a148e16fcd96704",
+   "projectedSlug": "wi-state-capitol",
+   "targetSlug": null,
+   "name": "State Capitol",
+   "town": "Madison",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 473,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5e67736b42fd59da",
+   "projectedSlug": "wi-aztalan-state-park",
+   "targetSlug": null,
+   "name": "Aztalan State Park",
+   "town": "Lake Mills",
+   "county": "Jefferson",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Mississippian stockaded town (~1050–1200), reconstructed stockade and platform mounds",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 218,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_60c9c60fb41c2d26",
+   "projectedSlug": "wi-rogers-street-fishing-village",
+   "targetSlug": null,
+   "name": "Rogers Street Fishing Village",
+   "town": "Two Rivers",
+   "county": "Manitowoc",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Fishing village museum at the wreck site coast of the schooner Rouse Simmons story",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 192,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_66ef5980d73982ee",
+   "projectedSlug": "wi-oneida-nation-museum",
+   "targetSlug": null,
+   "name": "Oneida Nation Museum",
+   "town": "Oneida",
+   "county": "Outagamie",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Tribal museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 166,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6722c1d7e44e928a",
+   "projectedSlug": "wi-summerwind",
+   "targetSlug": null,
+   "name": "Summerwind",
+   "town": "Land O' Lakes",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "house — no lawful public anchor found; research reading only, not visitable. Source: haunts.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 475,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6a1ac7ddf00275a0",
+   "projectedSlug": "wi-hotel-retlaw",
+   "targetSlug": null,
+   "name": "Hotel Retlaw",
+   "town": "Fond du Lac",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 463,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6a290ad57bc4aee6",
+   "projectedSlug": "wi-menominee-cultural-museum",
+   "targetSlug": null,
+   "name": "Menominee Cultural Museum",
+   "town": "Keshena",
+   "county": "Menominee",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Menominee tribal museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 173,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6cfcfc8a15cade4b",
+   "projectedSlug": "wi-historic-indian-agency-house",
+   "targetSlug": null,
+   "name": "Historic Indian Agency House",
+   "town": "Portage",
+   "county": "Columbia",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "1832 Indian agency house museum — Ho-Chunk agency ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 257,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7029508fe4662ac9",
+   "projectedSlug": "wi-door-county-maritime-museum",
+   "targetSlug": null,
+   "name": "Door County Maritime Museum",
+   "town": "Sturgeon Bay",
+   "county": "Door",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Maritime museum with the tug John Purves",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 174,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_76092a7173ba96f1",
+   "projectedSlug": "wi-astor-house",
+   "targetSlug": null,
+   "name": "Astor House",
+   "town": "Green Bay",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 474,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_78bd575084c92167",
+   "projectedSlug": "wi-leinenkugels-brewery-tours",
+   "targetSlug": null,
+   "name": "Leinenkugel's Brewery Tours",
+   "town": "Chippewa Falls",
+   "county": "Chippewa",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "1867 brewery, public tours",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 253,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7c66ab8f0d0f13ba",
+   "projectedSlug": "wi-wisconsin-state-prison-historic-district-waupun",
+   "targetSlug": null,
+   "name": "Wisconsin State Prison Historic District (Waupun)",
+   "town": "Waupun",
+   "county": "Dodge",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "1851 state prison, NRHP historic district, still an active maximum-security institution — streetscape exterior only, no tours ★ THEME (prison)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 222,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7dd710eb459568fd",
+   "projectedSlug": "wi-octagon-house-museum",
+   "targetSlug": null,
+   "name": "Octagon House Museum",
+   "town": "Watertown",
+   "county": "Jefferson",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "1854 octagon house museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 219,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7f4ad67975277838",
+   "projectedSlug": "wi-fort-crawford-museum",
+   "targetSlug": null,
+   "name": "Fort Crawford Museum",
+   "town": "Prairie du Chien",
+   "county": "Crawford",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Museum of the fort and frontier military medicine ★ THEME (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 235,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_802d7b1e3d68005f",
+   "projectedSlug": "wi-national-fresh-water-fishing-hall-of-fame",
+   "targetSlug": null,
+   "name": "National Fresh Water Fishing Hall of Fame",
+   "town": "Hayward",
+   "county": "Sawyer",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Museum under a four-story musky — beloved roadside weird spot",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 157,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_84c30b58a38d002b",
+   "projectedSlug": "wi-hearthstone-historic-house-museum",
+   "targetSlug": null,
+   "name": "Hearthstone Historic House Museum",
+   "town": "Appleton",
+   "county": "Outagamie",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "First house lit by a central hydroelectric station (Edison system, 1882)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 168,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_86958a973e734770",
+   "projectedSlug": "wi-grignon-mansion",
+   "targetSlug": null,
+   "name": "Grignon Mansion",
+   "town": "Kaukauna",
+   "county": "Outagamie",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "1837 fur-trade-era mansion museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 167,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_916bde55d8494447",
+   "projectedSlug": "wi-fort-koshkonong-site",
+   "targetSlug": null,
+   "name": "Fort Koshkonong Site",
+   "town": "Fort Atkinson",
+   "county": "Jefferson",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Black Hawk War fort ground, marker in a public park — verify interpretation on site",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 239,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_954c373811bec148",
+   "projectedSlug": "wi-riverside-theater",
+   "targetSlug": null,
+   "name": "Riverside Theater",
+   "town": "Milwaukee",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 460,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_963e107ddf578164",
+   "projectedSlug": "wi-ss-meteor-whaleback-ship-museum",
+   "targetSlug": null,
+   "name": "SS Meteor Whaleback Ship Museum",
+   "town": "Superior",
+   "county": "Douglas",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Last whaleback freighter, museum ship",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 150,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_96e8daf200df9c54",
+   "projectedSlug": "wi-peshtigo-fire-museum-and-fire-cemetery",
+   "targetSlug": null,
+   "name": "Peshtigo Fire Museum & Fire Cemetery",
+   "town": "Peshtigo",
+   "county": "Marinette",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Museum in a former church; the October 8, 1871 fire — deadliest in U.S. history, same night as Chicago — with a mass-grave cemetery",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 171,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a09954f14bf35e8a",
+   "projectedSlug": "wi-national-historic-cheesemaking-center",
+   "targetSlug": null,
+   "name": "National Historic Cheesemaking Center",
+   "town": "Monroe",
+   "county": "Green",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Industry museum in a restored depot",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 238,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a78136b8d68d1351",
+   "projectedSlug": "wi-bayfield-maritime-museum",
+   "targetSlug": null,
+   "name": "Bayfield Maritime Museum",
+   "town": "Bayfield",
+   "county": "Bayfield",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Maritime museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 149,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a9377479718bed87",
+   "projectedSlug": "wi-madeline-island-museum",
+   "targetSlug": null,
+   "name": "Madeline Island Museum",
+   "town": "La Pointe",
+   "county": "Ashland",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Wisconsin Historical Society site — Ojibwe and fur-trade history on the island",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 147,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ac6cb79da33cbcf8",
+   "projectedSlug": "wi-mabel-tainter",
+   "targetSlug": null,
+   "name": "Mabel Tainter",
+   "town": "Menomonie",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "theater — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 466,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b567e847ae62ba86",
+   "projectedSlug": "wi-dr-evermors-forevertron",
+   "targetSlug": null,
+   "name": "Dr. Evermor's Forevertron",
+   "town": "Sumpter",
+   "county": "Sauk",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Colossal scrap-metal sculpture park; public access intermittent and informal — verify before routing (weird spot)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 221,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b58ea024180242d3",
+   "projectedSlug": "wi-milwaukee-public-museum",
+   "targetSlug": null,
+   "name": "Milwaukee Public Museum",
+   "town": "Milwaukee",
+   "county": "Milwaukee",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Major natural/cultural history museum — note: relocating to a new building, verify venue during transition",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 186,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b8ec39f0598516aa",
+   "projectedSlug": "wi-port-washington-1860-light-station-museum",
+   "targetSlug": null,
+   "name": "Port Washington 1860 Light Station Museum",
+   "town": "Port Washington",
+   "county": "Ozaukee",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Light station museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 197,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_bff030ce9f55e8d7",
+   "projectedSlug": "wi-brumder-mansion",
+   "targetSlug": null,
+   "name": "Brumder Mansion",
+   "town": "Milwaukee",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "house — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 470,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c03f8c907064124a",
+   "projectedSlug": "wi-marinette-county-historical-logging-museum",
+   "targetSlug": null,
+   "name": "Marinette County Historical Logging Museum",
+   "town": "Marinette",
+   "county": "Marinette",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Logging museum on Stephenson Island",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 172,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c04bfbade5f419c5",
+   "projectedSlug": "wi-the-pfister",
+   "targetSlug": null,
+   "name": "The Pfister",
+   "town": "Milwaukee",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 457,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c0d55969d0075dbc",
+   "projectedSlug": "wi-harley-davidson-museum",
+   "targetSlug": null,
+   "name": "Harley-Davidson Museum",
+   "town": "Milwaukee",
+   "county": "Milwaukee",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Industry museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 188,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c1e52e5ce1ce11a1",
+   "projectedSlug": "wi-first-capitol",
+   "targetSlug": null,
+   "name": "First Capitol",
+   "town": "Belmont",
+   "county": "Lafayette",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Wisconsin Historical Society — 1836 territorial capitol buildings",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 217,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c3c2b785c18878c7",
+   "projectedSlug": "wi-roche-a-cri-state-park-petroglyphs",
+   "targetSlug": null,
+   "name": "Roche-a-Cri State Park Petroglyphs",
+   "town": "Friendship",
+   "county": "Adams",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "State park — Indigenous petroglyph and pictograph rock",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 255,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c55a90cdbb55c357",
+   "projectedSlug": "wi-camp-randall-memorial-park-and-arch",
+   "targetSlug": null,
+   "name": "Camp Randall Memorial Park & Arch",
+   "town": "Madison",
+   "county": "Dane",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Public memorial park at the Civil War training camp ground beside the stadium ★ THEME (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 207,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c83745aeca559d0d",
+   "projectedSlug": "wi-george-w-brown-jr-ojibwe-museum-and-cultural-center",
+   "targetSlug": null,
+   "name": "George W. Brown Jr. Ojibwe Museum & Cultural Center",
+   "town": "Lac du Flambeau",
+   "county": "Vilas",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Tribal museum and cultural center",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 155,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c89646afb59be335",
+   "projectedSlug": "wi-little-white-schoolhouse-birthplace-of-the-republican-party",
+   "targetSlug": null,
+   "name": "Little White Schoolhouse — Birthplace of the Republican Party",
+   "town": "Ripon",
+   "county": "Fond du Lac",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "1853 schoolhouse museum, site of the 1854 meetings",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 216,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ca020da307f1a671",
+   "projectedSlug": "wi-copper-culture-state-park",
+   "targetSlug": null,
+   "name": "Copper Culture State Park",
+   "town": "Oconto",
+   "county": "Oconto",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "State park on an Old Copper Culture burial ground (~4000–2500 BCE)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 170,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cb80d2791dc1dd8c",
+   "projectedSlug": "wi-h-h-bennett-studio-and-museum",
+   "targetSlug": null,
+   "name": "H.H. Bennett Studio & Museum",
+   "town": "Wisconsin Dells",
+   "county": "Columbia",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Wisconsin Historical Society — 1875 photography studio",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 211,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cbd14a7d4007b798",
+   "projectedSlug": "wi-cana-island-lighthouse",
+   "targetSlug": null,
+   "name": "Cana Island Lighthouse",
+   "town": "Baileys Harbor",
+   "county": "Door",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Lighthouse museum, tower climbs (Door County Maritime Museum)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 175,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cdc59b1173469032",
+   "projectedSlug": "wi-laura-ingalls-wilder-museum-and-little-house-wayside",
+   "targetSlug": null,
+   "name": "Laura Ingalls Wilder Museum & Little House Wayside",
+   "town": "Pepin",
+   "county": "Pepin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Museum and cabin site on the Lake Pepin shore",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 250,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cdf566cf88a6d643",
+   "projectedSlug": "wi-eaa-aviation-museum",
+   "targetSlug": null,
+   "name": "EAA Aviation Museum",
+   "town": "Oshkosh",
+   "county": "Winnebago",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Major aviation museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 169,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ce7571d532512240",
+   "projectedSlug": "wi-rhinelander-logging-museum-pioneer-park",
+   "targetSlug": null,
+   "name": "Rhinelander Logging Museum (Pioneer Park)",
+   "town": "Rhinelander",
+   "county": "Oneida",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Logging museum complex with narrow-gauge railroad exhibits",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 154,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cea1e2079ce33e87",
+   "projectedSlug": "wi-waswagoning-ojibwe-village",
+   "targetSlug": null,
+   "name": "Waswagoning Ojibwe Village",
+   "town": "Lac du Flambeau",
+   "county": "Vilas",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Recreated Ojibwe village with guided tours — verify current operation",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 156,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cf494b2679795520",
+   "projectedSlug": "wi-mid-continent-railway-museum",
+   "targetSlug": null,
+   "name": "Mid-Continent Railway Museum",
+   "town": "North Freedom",
+   "county": "Sauk",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Operating heritage railroad museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 213,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cf4f3397382c9076",
+   "projectedSlug": "wi-house-on-the-rock",
+   "targetSlug": null,
+   "name": "House on the Rock",
+   "town": "near Dodgeville",
+   "county": "Iowa",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Alex Jordan's hilltop attraction — the state's defining weird spot",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 209,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d2187d87e1d9e5a4",
+   "projectedSlug": "wi-fort-winnebago-surgeons-quarters",
+   "targetSlug": null,
+   "name": "Fort Winnebago Surgeons Quarters",
+   "town": "Portage",
+   "county": "Columbia",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "1828–30 fort surgeon's quarters, historic site tours ★ THEME (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 256,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d30e162549b96e52",
+   "projectedSlug": "wi-eagle-bluff-lighthouse",
+   "targetSlug": null,
+   "name": "Eagle Bluff Lighthouse",
+   "town": "Peninsula State Park",
+   "county": "Door",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Lighthouse museum in a state park",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 176,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d415dda8deb0fbe9",
+   "projectedSlug": "wi-pabst-mansion",
+   "targetSlug": null,
+   "name": "Pabst Mansion",
+   "town": "Milwaukee",
+   "county": "Milwaukee",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Brewing-baron mansion museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 187,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d42edf2dc3b6c9af",
+   "projectedSlug": "wi-mabel-tainter-center-for-the-arts",
+   "targetSlug": null,
+   "name": "Mabel Tainter Center for the Arts",
+   "town": "Menomonie",
+   "county": "Dunn",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "1889 lumber-baron memorial theater, tours",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 254,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d67f88a51f819863",
+   "projectedSlug": "wi-mining-and-rollo-jamison-museums",
+   "targetSlug": null,
+   "name": "Mining & Rollo Jamison Museums",
+   "town": "Platteville",
+   "county": "Grant",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Lead mine tour and mining museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 231,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d85a0d83c7702178",
+   "projectedSlug": "wi-fort-mccoy-history-center",
+   "targetSlug": null,
+   "name": "Fort McCoy History Center",
+   "town": "Fort McCoy",
+   "county": "Monroe",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Army installation history center exists but public access requires base visitor processing — verify before routing ★ THEME (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 258,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_db44ed2fa14db7f9",
+   "projectedSlug": "wi-badger-mine-and-museum",
+   "targetSlug": null,
+   "name": "Badger Mine & Museum",
+   "town": "Shullsburg",
+   "county": "Lafayette",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Underground lead mine tours",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 232,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e0942bcc25db1f25",
+   "projectedSlug": "wi-civil-war-museum",
+   "targetSlug": null,
+   "name": "Civil War Museum",
+   "town": "Kenosha",
+   "county": "Kenosha",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Regional Civil War museum (Kenosha Public Museums)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 193,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e26388a5115144d7",
+   "projectedSlug": "wi-southport-light-station-museum",
+   "targetSlug": null,
+   "name": "Southport Light Station Museum",
+   "town": "Kenosha",
+   "county": "Kenosha",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Lighthouse museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 194,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e743ca3c8cbaf035",
+   "projectedSlug": "wi-fairlawn",
+   "targetSlug": null,
+   "name": "Fairlawn",
+   "town": "Superior",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 465,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e7b873304cdb54d6",
+   "projectedSlug": "wi-project-elf-clam-lake-antenna-site",
+   "targetSlug": null,
+   "name": "Project ELF — Clam Lake Antenna Site",
+   "town": "Clam Lake",
+   "county": "Ashland",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Cold War Extremely Low Frequency submarine-communications station (1969–2004); decommissioned, ground restricted ★ THEME (military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 158,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e8e3248c63d15c9d",
+   "projectedSlug": "wi-taycheedah-correctional-institution-wisconsin-home-for-women",
+   "targetSlug": null,
+   "name": "Taycheedah Correctional Institution (Wisconsin Home for Women)",
+   "town": "Taycheedah",
+   "county": "Fond du Lac",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Women's prison ground since 1933 (industrial home from 1915); active facility, no public anchor ★ THEME (prison)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 223,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e9a65dd11145363e",
+   "projectedSlug": "wi-wade-house",
+   "targetSlug": null,
+   "name": "Wade House",
+   "town": "Greenbush",
+   "county": "Sheboygan",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Wisconsin Historical Society stagecoach inn and carriage museum",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 179,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_eb65efdfcfc911d7",
+   "projectedSlug": "wi-lincoln-tallman-house",
+   "targetSlug": null,
+   "name": "Lincoln-Tallman House",
+   "town": "Janesville",
+   "county": "Rock",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "House museum where Lincoln slept (1859)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 215,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ecd39a81408fa799",
+   "projectedSlug": "wi-villa-louis",
+   "targetSlug": null,
+   "name": "Villa Louis",
+   "town": "Prairie du Chien",
+   "county": "Crawford",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Wisconsin Historical Society mansion on the Fort Crawford parade ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 234,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ecddf7b50d760cf0",
+   "projectedSlug": "wi-perrot-state-park-trempealeau-mountain-and-mounds",
+   "targetSlug": null,
+   "name": "Perrot State Park — Trempealeau Mountain & Mounds",
+   "town": "Trempealeau",
+   "county": "Trempealeau",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "State park — French post ground, Indigenous mounds, sacred mountain in the river",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 241,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f2326e428abe508b",
+   "projectedSlug": "wi-mendota-mental-health-institute",
+   "targetSlug": null,
+   "name": "Mendota Mental Health Institute",
+   "town": "Madison",
+   "county": "Dane",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "State asylum ground since 1860, still active; effigy mounds on the grounds but no public program ★ THEME (asylum)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 224,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f3e1421953286168",
+   "projectedSlug": "wi-wind-point-lighthouse",
+   "targetSlug": null,
+   "name": "Wind Point Lighthouse",
+   "town": "Racine",
+   "county": "Racine",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Lighthouse grounds and tower climbs",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 195,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f8983176a16bef32",
+   "projectedSlug": "wi-taliesin",
+   "targetSlug": null,
+   "name": "Taliesin",
+   "town": "Spring Green",
+   "county": "Sauk",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Frank Lloyd Wright home/studio, UNESCO World Heritage, tours",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 208,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fa4f1ec08629f250",
+   "projectedSlug": "wi-chippewa-valley-museum",
+   "targetSlug": null,
+   "name": "Chippewa Valley Museum",
+   "town": "Eau Claire",
+   "county": "Eau Claire",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "Regional museum in Carson Park",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "MI-WI-first-sweep.md",
+     "row": 251,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_fb248d6f28223fd0",
+   "projectedSlug": "wi-science-hall",
+   "targetSlug": null,
+   "name": "Science Hall",
+   "town": "Madison",
+   "county": "Wisconsin",
+   "state": "WI",
+   "tier": null,
+   "anchorPosture": "other — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 472,
      "dialect": "desk-sweep-4",
      "role": "lead"
     }
