@@ -10385,6 +10385,66 @@
    "attempts": []
   },
   {
+   "id": "vq_NH-canterbury-shaker-village",
+   "slug": "NH-canterbury-shaker-village",
+   "name": "HT-RES-NH-canterbury-shaker-village — Hands to Work, and Hearts to God",
+   "town": "Canterbury",
+   "state": "NH",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NH-canterbury-shaker-village.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NH-fort-at-no-4",
+   "slug": "NH-fort-at-no-4",
+   "name": "HT-RES-NH-fort-at-no-4 — The Fortified Village at the Top of the River",
+   "town": "Charlestown",
+   "state": "NH",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NH-fort-at-no-4.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NH-mount-washington-cog-railway",
+   "slug": "NH-mount-washington-cog-railway",
+   "name": "HT-RES-NH-mount-washington-cog-railway — The Railway to the Moon",
+   "town": "Mount Washington",
+   "state": "NH",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NH-mount-washington-cog-railway.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NH-saint-gaudens",
+   "slug": "NH-saint-gaudens",
+   "name": "HT-RES-NH-saint-gaudens — The Sculptor's House Above the Connecticut",
+   "town": "Cornish",
+   "state": "NH",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NH-saint-gaudens.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NH-strawbery-banke",
+   "slug": "NH-strawbery-banke",
+   "name": "HT-RES-NH-strawbery-banke — The Neighborhood That Refused the Bulldozer",
+   "town": "Portsmouth",
+   "state": "NH",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NH-strawbery-banke.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_RI-new-fort-adams",
    "slug": "RI-new-fort-adams",
    "name": "HT-RES-RI-new-fort-adams — Newport: America's largest coastal fortress, named for John Adams",
@@ -10434,8 +10494,8 @@
   }
  ],
  "counts": {
-  "items": 869,
-  "dated": 628,
+  "items": 874,
+  "dated": 633,
   "unrecorded": 241
  }
 }
