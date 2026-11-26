@@ -32,7 +32,7 @@ const STATE_NAMES = {
   IA: "Iowa", MO: "Missouri", AR: "Arkansas", LA: "Louisiana", MS: "Mississippi",
   AL: "Alabama", TN: "Tennessee", KY: "Kentucky", GA: "Georgia", FL: "Florida", IL: "Illinois", SC: "South Carolina", NC: "North Carolina", PA: "Pennsylvania", NY: "New York",
   AK: "Alaska", CT: "Connecticut", DE: "Delaware", IN: "Indiana", ME: "Maine",
-  MD: "Maryland", NJ: "New Jersey", VT: "Vermont",
+  MD: "Maryland", NJ: "New Jersey", VT: "Vermont", VA: "Virginia",
   MA: "Massachusetts", MI: "Michigan", NH: "New Hampshire", RI: "Rhode Island",
 };
 // Uncoded (home-bench) slugs: slug -> [town, stateCode]
