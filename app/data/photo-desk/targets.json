@@ -1,6 +1,6 @@
 {
- "commit": "725645c189f39d50ca2256fb1337d0793a8cf86b",
- "catalogCount": 821,
+ "commit": "f33c899de788298114d19b1e564eb327feb46197",
+ "catalogCount": 823,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -5688,6 +5688,72 @@
      {
       "key": "Status",
       "value": "research draft; Connecticut seed catalog."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-CT-hartford-old-state-house",
+   "slug": "CT-hartford-old-state-house",
+   "title": "HT-RES-CT-hartford-old-state-house — Hartford: where Connecticut helped shape the republic",
+   "town": "Hartford",
+   "state": "Connecticut",
+   "stateCode": "CT",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-CT-hartford-old-state-house — Hartford: where Connecticut helped shape the republic",
+   "stableName": "",
+   "address": "",
+   "locator": {
+    "stableName": "",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Hartford"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-CT-new-london-custom-house",
+   "slug": "CT-new-london-custom-house",
+   "title": "HT-RES-CT-new-london-custom-house — New London: where commerce met the struggle for freedom",
+   "town": "New London",
+   "state": "Connecticut",
+   "stateCode": "CT",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-CT-new-london-custom-house — New London: where commerce met the struggle for freedom",
+   "stableName": "",
+   "address": "",
+   "locator": {
+    "stableName": "",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "New London"
      }
     ]
    }
