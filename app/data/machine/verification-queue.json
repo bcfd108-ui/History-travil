@@ -9497,6 +9497,126 @@
    "attempts": []
   },
   {
+   "id": "vq_OH-dayton-aviation-heritage",
+   "slug": "OH-dayton-aviation-heritage",
+   "name": "HT-RES-OH-dayton-aviation-heritage — A pasture eight miles from home where flight learned to turn",
+   "town": "Dayton",
+   "state": "OH",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-OH-dayton-aviation-heritage.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_OH-edison-birthplace",
+   "slug": "OH-edison-birthplace",
+   "name": "HT-RES-OH-edison-birthplace — The inventor's first address was a canal town's brick cottage, and the canal is still in the yard",
+   "town": "Milan",
+   "state": "OH",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-OH-edison-birthplace.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_OH-fort-meigs",
+   "slug": "OH-fort-meigs",
+   "name": "HT-RES-OH-fort-meigs — A ten-acre log fort on a Maumee bluff that two armies could not take",
+   "town": "Perrysburg",
+   "state": "OH",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-OH-fort-meigs.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_OH-hopewell-culture-mound-city",
+   "slug": "OH-hopewell-culture-mound-city",
+   "name": "HT-RES-OH-hopewell-culture-mound-city — Twenty-five mounds inside a low wall, flattened by an army camp, raised again",
+   "town": "Chillicothe",
+   "state": "OH",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-OH-hopewell-culture-mound-city.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_OH-john-rankin-house",
+   "slug": "OH-john-rankin-house",
+   "name": "HT-RES-OH-john-rankin-house — A brick house on a hill that a river could read",
+   "town": "Ripley",
+   "state": "OH",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-OH-john-rankin-house.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_OH-marietta-campus-martius",
+   "slug": "OH-marietta-campus-martius",
+   "name": "HT-RES-OH-marietta-campus-martius — A whole pioneer house, kept indoors, on the ground where Ohio began",
+   "town": "Marietta (Washington County)- Public anchor: Campus Martius Museum, corner of 2nd and Washington Streets — the museum building enclosing the Rufus Putnam House, with the Land Office on its grounds",
+   "state": "OH",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-OH-marietta-campus-martius.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_OH-oberlin-abolition-ground",
+   "slug": "OH-oberlin-abolition-ground",
+   "name": "HT-RES-OH-oberlin-abolition-ground — A town that answered a kidnapping in daylight by emptying itself down the road to Wellington",
+   "town": "Oberlin",
+   "state": "OH",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-OH-oberlin-abolition-ground.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_OH-perrys-victory",
+   "slug": "OH-perrys-victory",
+   "name": "HT-RES-OH-perrys-victory — Six officers from two fleets under one stone floor, and a column built for peace",
+   "town": "Put-in-Bay, South Bass Island",
+   "state": "OH",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-OH-perrys-victory.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_OH-serpent-mound",
+   "slug": "OH-serpent-mound",
+   "name": "HT-RES-OH-serpent-mound — A quarter-mile snake in the grass no one can date",
+   "town": "Peebles, Adams County",
+   "state": "OH",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-OH-serpent-mound.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_OH-zoar-village",
+   "slug": "OH-zoar-village",
+   "name": "HT-RES-OH-zoar-village — A whole village that held everything in common, and kept its streets",
+   "town": "Zoar (Tuscarawas County)",
+   "state": "OH",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-OH-zoar-village.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_PA-allegheny-portage-railroad",
    "slug": "PA-allegheny-portage-railroad",
    "name": "HT-RES-PA-allegheny-portage-railroad — Canal boats hauled over a mountain on rails, ten stair-steps at a time",
@@ -10074,8 +10194,8 @@
   }
  ],
  "counts": {
-  "items": 839,
-  "dated": 598,
+  "items": 849,
+  "dated": 608,
   "unrecorded": 241
  }
 }
