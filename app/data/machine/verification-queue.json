@@ -9665,6 +9665,18 @@
    "attempts": []
   },
   {
+   "id": "vq_CT-coventry-nathan-hale-homestead",
+   "slug": "CT-coventry-nathan-hale-homestead",
+   "name": "HT-RES-CT-coventry-nathan-hale-homestead — Coventry: the farm Nathan Hale grew up on",
+   "town": "Coventry",
+   "state": "CT",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-CT-coventry-nathan-hale-homestead.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_CT-farmington-first-church",
    "slug": "CT-farmington-first-church",
    "name": "HT-RES-CT-farmington-first-church — First Church of Christ, Farmington: the 1771 meetinghouse that hosted the Amistad Mende",
@@ -9709,6 +9721,18 @@
    "verifiedOn": "2026-11-25",
    "verifiedOnSource": "corpus-checked-line",
    "corpusFile": "HT-RES-CT-new-london-custom-house.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_CT-woodstock-roseland-cottage",
+   "slug": "CT-woodstock-roseland-cottage",
+   "name": "HT-RES-CT-woodstock-roseland-cottage — Woodstock: the pink cottage",
+   "town": "Woodstock",
+   "state": "CT",
+   "verifiedOn": "2026-11-25",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-CT-woodstock-roseland-cottage.md",
    "queueState": "queued",
    "attempts": []
   },
@@ -9882,8 +9906,8 @@
   }
  ],
  "counts": {
-  "items": 823,
-  "dated": 582,
+  "items": 825,
+  "dated": 584,
   "unrecorded": 241
  }
 }

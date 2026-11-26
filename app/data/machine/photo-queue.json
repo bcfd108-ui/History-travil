@@ -1657,6 +1657,21 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-CT-coventry-nathan-hale-homestead",
+   "Slug": "CT-coventry-nathan-hale-homestead",
+   "Entry": "HT-RES-CT-coventry-nathan-hale-homestead — Coventry: the farm Nathan Hale grew up on",
+   "Town": "Coventry",
+   "State": "Connecticut",
+   "Entry URL": "https://onoldground.com/sites/CT-coventry-nathan-hale-homestead",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-CT-farmington-first-church",
    "Slug": "CT-farmington-first-church",
    "Entry": "HT-RES-CT-farmington-first-church — First Church of Christ, Farmington: the 1771 meetinghouse that hosted the Amistad Mende",
@@ -1708,6 +1723,21 @@
    "Town": "New London",
    "State": "Connecticut",
    "Entry URL": "https://onoldground.com/sites/CT-new-london-custom-house",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-CT-woodstock-roseland-cottage",
+   "Slug": "CT-woodstock-roseland-cottage",
+   "Entry": "HT-RES-CT-woodstock-roseland-cottage — Woodstock: the pink cottage",
+   "Town": "Woodstock",
+   "State": "Connecticut",
+   "Entry URL": "https://onoldground.com/sites/CT-woodstock-roseland-cottage",
    "What was searched": "Awaiting first desk search",
    "Why photo is needed": "Photo research pending.",
    "Next desk or field action": "Desk — verify missing era and rights",
@@ -12293,6 +12323,6 @@
   }
  ],
  "counts": {
-  "items": 819
+  "items": 821
  }
 }
