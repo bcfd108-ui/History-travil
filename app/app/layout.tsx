@@ -3,7 +3,7 @@ import Link from "next/link";
 import "./globals.css";
 import { AccountProvider } from "@/lib/account";
 import AccountBar from "@/components/AccountBar";
-import SponsorBlock from "@/components/SponsorBlock";
+import FooterSponsor from "@/components/FooterSponsor";
 import { SITE_DESCRIPTION, SITE_NAME, SITE_URL, siteJsonLd } from "@/lib/seo";
 
 export const metadata: Metadata = {
@@ -57,7 +57,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 gaps printed. Blank locator fields are blank in the source record; nothing here is
                 invented to fill them.
               </p>
-              <SponsorBlock variant="compact" />
+              <FooterSponsor />
             </div>
           </footer>
         </AccountProvider>

@@ -248,6 +248,21 @@ form input[type="email"], form input[type="text"] { min-width: min(320px, 100%);
   border-bottom: 3px solid var(--amber); border-radius: 6px; padding: 13px 22px;
 }
 .home-search button:hover { color: var(--amber); }
+.hero-actions { margin: -12px 0 26px; }
+.near-cta {
+  display: inline-flex; align-items: center; min-height: 52px; padding: 13px 24px;
+  background: var(--amber); color: var(--charcoal); font-weight: bold; letter-spacing: 0.02em;
+  text-decoration: none; border-radius: 6px; border-bottom: 3px solid var(--charcoal);
+}
+.near-cta:hover { background: var(--amber-deep); color: var(--cream); }
+.how-it-works { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)); gap: 10px; margin: 0 0 30px; }
+.how-step { background: #fffdf6; border: 1px solid var(--line); border-left: 3px solid var(--amber); border-radius: 4px; padding: 12px 14px; }
+.how-step strong { display: block; margin-bottom: 4px; color: var(--charcoal); }
+.how-step .step-n { color: var(--amber-deep); }
+.how-step p { margin: 0; color: var(--steel); font-size: 0.95rem; line-height: 1.45; }
+.states-more { margin-top: 10px; }
+.states-more summary { cursor: pointer; font-weight: bold; color: var(--slate); padding: 10px 0; min-height: 44px; }
+.states-more .index-grid { margin-top: 6px; }
 .photo-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 18px; margin: 20px 0 8px; }
 .photo-card {
   display: block; background: var(--charcoal); border-radius: 6px; overflow: hidden;
@@ -257,6 +272,7 @@ form input[type="email"], form input[type="text"] { min-width: min(320px, 100%);
 .photo-card:hover { transform: translateY(-2px); }
 .photo-card img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; }
 .photo-card-t { display: block; color: var(--cream); font-weight: bold; font-size: 1.02rem; line-height: 1.35; padding: 12px 14px 2px; }
+.photo-card-c { display: block; color: var(--pale); font-size: 0.9rem; line-height: 1.4; padding: 0 14px 3px; }
 .photo-card-m { display: block; color: var(--rivet); font-size: 0.88rem; padding: 0 14px 13px; }
 .linkrow { margin: 30px 0 6px; font-size: 1.02rem; }
 .linkrow a { font-weight: bold; }
