@@ -1,6 +1,6 @@
 {
- "commit": "2ebc73a30bd2b28a545e79fb56c94279c83d51c1",
- "catalogCount": 829,
+ "commit": "6e06bebd0c09976a900339ac9e08ed134cbe6cd1",
+ "catalogCount": 839,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -40481,6 +40481,468 @@
      {
       "key": "Town",
       "value": "Montpelier"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VA-appomattox-court-house",
+   "slug": "VA-appomattox-court-house",
+   "title": "HT-RES-VA-appomattox-court-house — The surrender was signed in a parlor, in a village named for a courthouse",
+   "town": "Appomattox",
+   "state": "Virginia",
+   "stateCode": "VA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-VA-appomattox-court-house — The surrender was signed in a parlor, in a village named for a courthouse",
+   "stableName": "Appomattox Court House National Historical Park",
+   "address": "111 National Park Drive, Appomattox, VA 24522",
+   "locator": {
+    "stableName": "Appomattox Court House National Historical Park",
+    "address": "111 National Park Drive, Appomattox, VA 24522",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The NPS National Register record consulted for this entry (NRIS 66000827) was not re-readable in full in this session (see §6), and the park-unit location point carried in NPGallery photo-asset records is scoped to the park listing, not verified as the village or McLean House point; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "66000827 (listing date not printed; see §6)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "cbb07c89-95dc-4a3a-bf35-510aff4853a2 (NPS NPGallery asset ID for the first photograph)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000827",
+    "operator": "National Park Service",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Appomattox"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Reconstructed courthouse visitor center, Appomattox Court House National Historical Park, 111 National Park Drive, Appomattox, VA 24522 (address as NPS park listings carry it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The historic village is the visit — visitor center in the reconstructed courthouse, the McLean House, and the village buildings and lanes — free, with no entrance pass required, on the NPS's stated hours; the McLean House's winter schedule is limited, per the NPS hours page."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VA-arlington-house-reflection",
+   "slug": "VA-arlington-house-reflection",
+   "title": "HT-RES-VA-arlington-house-reflection — The house above the river, kept by everyone it displaced",
+   "town": "Arlington",
+   "state": "Virginia",
+   "stateCode": "VA",
+   "coordinates": {
+    "lat": 38.8825988769531,
+    "lon": -77.0746002197266
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "reflection",
+   "subject": "HT-RES-VA-arlington-house-reflection — The house above the river, kept by everyone it displaced",
+   "stableName": "Arlington House, The Robert E. Lee Memorial",
+   "address": "",
+   "locator": {
+    "stableName": "Arlington House, The Robert E. Lee Memorial",
+    "address": "",
+    "latitude": "38.8825988769531",
+    "longitude": "-77.0746002197266",
+    "coordinateSource": "National Park Service, NPGallery asset record for \"Arlington House, The Robert E. Lee Memorial\" (Asset ID c336bdf4-4b93-4c52-badc-2dd58a7c8830), which carries this point under Locations for the memorial. [17]",
+    "nrhp": "66000040 — as carried by the Historic American Buildings Survey record for the house. [2]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "c336bdf4-4b93-4c52-badc-2dd58a7c8830",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000040",
+    "operator": "National Park Service (park code ARHO, George Washington Memorial Parkway)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Arlington"
+     },
+     {
+      "key": "Printed public institutional locator",
+      "value": "**Arlington House, The Robert E. Lee Memorial, Arlington National Cemetery, Arlington, VA 22211** — the address as the National Park Service lists it, reached through the cemetery's entrance. [1]"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The memorial's own public ground only — mansion, museum, North and South quarters, and memorial grounds — during published hours, reached through the cemetery entrance. The surrounding cemetery is an active burial ground and is context for this site, not visitor content under this entry."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; reflection entry only; published with its gaps printed; no activation of any kind from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VA-colonial-williamsburg",
+   "slug": "VA-colonial-williamsburg",
+   "title": "HT-RES-VA-colonial-williamsburg — A capital that lost its job, kept its streets, and was rebuilt on its own foundations",
+   "town": "Williamsburg",
+   "state": "Virginia",
+   "stateCode": "VA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-VA-colonial-williamsburg — A capital that lost its job, kept its streets, and was rebuilt on its own foundations",
+   "stableName": "Williamsburg Historic District (Colonial Williamsburg)",
+   "address": "101 Visitor Center Drive, Williamsburg, VA 23185",
+   "locator": {
+    "stableName": "Williamsburg Historic District (Colonial Williamsburg)",
+    "address": "101 Visitor Center Drive, Williamsburg, VA 23185",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The NPS National Register record consulted for this entry (NRIS 66000925) carries no latitude/longitude, and no NRHP nomination, NPS asset record, or HABS record consulted carries a district coordinate; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "66000925 — listed October 15, 1966 (date published in the NPS National Register record); National Historic Landmark District",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "LC-DIG-fsac-1a34987 (Library of Congress reproduction number for the first photograph)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000925",
+    "operator": "The Colonial Williamsburg Foundation",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Williamsburg"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Colonial Williamsburg Visitor Center, 101 Visitor Center Drive, Williamsburg, VA 23185"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The Historic Area is the visit: the streets are public, and buildings, trade shops, and programming require the admission ticket the Foundation's pages describe; the district as listed on the National Register is bounded by Francis, Waller, Nicholson, N. England, Lafayette, and Nassau Streets, per the NPS record."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VA-jamestown",
+   "slug": "VA-jamestown",
+   "title": "HT-RES-VA-jamestown — The fort everyone said the river had taken, found again beside its own church tower",
+   "town": "Jamestown",
+   "state": "Virginia",
+   "stateCode": "VA",
+   "coordinates": {
+    "lat": 37.2097206115723,
+    "lon": -76.7788925170898
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-VA-jamestown — The fort everyone said the river had taken, found again beside its own church tower",
+   "stableName": "Jamestown National Historic Site (Historic Jamestowne)",
+   "address": "1368 Colonial Parkway, Jamestown, VA 23081",
+   "locator": {
+    "stableName": "Jamestown National Historic Site (Historic Jamestowne)",
+    "address": "1368 Colonial Parkway, Jamestown, VA 23081",
+    "latitude": "37.2097206115723",
+    "longitude": "-76.7788925170898",
+    "coordinateSource": "Coordinates are printed as the National Park Service's NPGallery photo asset record for \"Views of Jamestown National Historic Site\" (asset 8322778b-8356-4d42-971d-af5788048f64) carries them, in that record's Locations list against the entry \"Jamestown National Historic Site, James City County, Virginia\" — a site point as that NPS record scopes it, not a fort, church, or monument point. The NPS National Register record for the site (NRIS 66000840) carries no latitude/longitude; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "66000840 — listed October 15, 1966 (date published in the NPS National Register record)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "NPS NPGallery asset 8322778b-8356-4d42-971d-af5788048f64 (first photograph; original file name jame_churchtower_1908.jpg)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/421670ac-602b-4232-bf83-94b1bacfcfc5",
+    "operator": "National Park Service and Preservation Virginia (Jamestown Rediscovery), jointly, as part of Colonial National Historical Park",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Jamestown"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Historic Jamestowne Visitor Center, 1368 Colonial Parkway, Jamestown, VA 23081 (address as the NPS park pages carry it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The island is the visit: the fort site, church ground, and New Towne on foot, the Archaearium, and the Island Loop Drive; the two-portion admission and the hours in §1 are as the operators' own pages state them. Jamestown Settlement is a separate site and is not part of this entry."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VA-manassas-national-battlefield",
+   "slug": "VA-manassas-national-battlefield",
+   "title": "HT-RES-VA-manassas-national-battlefield — The stone bridge in ruins, photographed the spring after the first army crossed it",
+   "town": "Manassas",
+   "state": "Virginia",
+   "stateCode": "VA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-VA-manassas-national-battlefield — The stone bridge in ruins, photographed the spring after the first army crossed it",
+   "stableName": "Manassas National Battlefield Park",
+   "address": "6511 Sudley Road, Manassas, VA 20109",
+   "locator": {
+    "stableName": "Manassas National Battlefield Park",
+    "address": "6511 Sudley Road, Manassas, VA 20109",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The NPS National Register record consulted for this entry (NRIS 66000039) carries no latitude/longitude, and the expanded district nomination carries boundary UTM references for a district of more than 6,000 acres rather than a single verified point for the visit; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "66000039 — listed October 15, 1966 (date published in the NPS National Register record); expanded district 05001546 — listed January 18, 2006 (per the Virginia DHR register page)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "LC-DIG-ppmsca-32895 (Library of Congress reproduction number for the first photograph)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000039",
+    "operator": "National Park Service",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Manassas"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Henry Hill Visitor Center, 6511 Sudley Road, Manassas, VA 20109 (address as the NPS directions page carries it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The battlefield grounds are the visit; the NPS hours page states grounds are open daily from dawn until dusk, the Henry Hill Visitor Center is open 9:00 a.m. to 5:00 p.m. daily with the closures that page lists, and the Stone House and Brawner Farm Interpretive Center open only on select dates."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VA-monticello",
+   "slug": "VA-monticello",
+   "title": "HT-RES-VA-monticello — The little mountain one man designed, and the enslaved people who built and ran it",
+   "town": "Charlottesville",
+   "state": "Virginia",
+   "stateCode": "VA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-VA-monticello — The little mountain one man designed, and the enslaved people who built and ran it",
+   "stableName": "Monticello",
+   "address": "1050 Monticello Loop, Charlottesville, VA 22902",
+   "locator": {
+    "stableName": "Monticello",
+    "address": "1050 Monticello Loop, Charlottesville, VA 22902",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The NPS National Register record consulted for this entry (NRIS 66000826) carries no latitude/longitude, and no NRHP nomination or HABS record consulted carries a verified point for the house; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "66000826 — listed October 15, 1966 (date published in the NPS National Register record); National Historic Landmark designated December 19, 1960; Virginia Landmarks Register 002-0050, listed September 9, 1969 (per Virginia DHR)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS VA,2-CHAR.V,1-6 (Historic American Buildings Survey frame number for the first photograph)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/8f7b9e4d-c99a-4a86-a665-1e273bca9134/",
+    "operator": "Thomas Jefferson Foundation",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Charlottesville (Albemarle County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "David M. Rubenstein Visitor Center, 1050 Monticello Loop, Charlottesville, VA 22902 (address as the operator's pages carry it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The house, mountaintop, Mulberry Row, gardens, and graveyard are the visit, on the Foundation's tickets as its pages state them; house entry is by guided tour, and the Grounds Ticket does not include the house."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VA-mount-vernon",
+   "slug": "VA-mount-vernon",
+   "title": "HT-RES-VA-mount-vernon — The house that grew in three campaigns, worked by a community that could not leave it",
+   "town": "Mount Vernon",
+   "state": "Virginia",
+   "stateCode": "VA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-VA-mount-vernon — The house that grew in three campaigns, worked by a community that could not leave it",
+   "stableName": "Mount Vernon",
+   "address": "3200 Mount Vernon Memorial Highway, Mount Vernon, VA 22121",
+   "locator": {
+    "stableName": "Mount Vernon",
+    "address": "3200 Mount Vernon Memorial Highway, Mount Vernon, VA 22121",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The NPS National Register record consulted for this entry (NRIS 66000833) carries no latitude/longitude, and no nomination or operator source consulted carries a verified estate point; coordinates appearing in lead-list and Wikidata sources were not used.",
+    "nrhp": "66000833 — listed October 15, 1966 (date published in the NPS National Register record); National Historic Landmark December 19, 1960, and Virginia Landmarks Register 029-0054, September 9, 1969 (Virginia DHR)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS VA,30-____,2- (Library of Congress call number for the first photograph's survey)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/1175c748-fe0c-4905-9f72-cf7c87611e49/",
+    "operator": "Mount Vernon Ladies' Association",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Mount Vernon"
+     },
+     {
+      "key": "Public anchor",
+      "value": "George Washington's Mount Vernon, 3200 Mount Vernon Memorial Highway, Mount Vernon, VA 22121 (address as the operator's pages carry it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The mansion, outbuildings, gardens, tomb, memorial, and grounds are the visit, on the Association's admission and hours as its pages state them; mansion entry is by guided tour only."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VA-natural-bridge",
+   "slug": "VA-natural-bridge",
+   "title": "HT-RES-VA-natural-bridge — The limestone arch Jefferson bought for twenty shillings and would not let anyone deface",
+   "town": "Natural Bridge",
+   "state": "Virginia",
+   "stateCode": "VA",
+   "coordinates": {
+    "lat": 37.6257,
+    "lon": -79.5452
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-VA-natural-bridge — The limestone arch Jefferson bought for twenty shillings and would not let anyone deface",
+   "stableName": "Natural Bridge",
+   "address": "Intersection of Rt. 11 and Rt. 130, Natural Bridge, VA 24578",
+   "locator": {
+    "stableName": "Natural Bridge",
+    "address": "Intersection of Rt. 11 and Rt. 130, Natural Bridge, VA 24578",
+    "latitude": "37.6257",
+    "longitude": "-79.5452",
+    "coordinateSource": "Center of the bridge only — converted from the UTM reference the National Register nomination itself prints in its geographical data (\"Center of bridge: 17 628380 4165280,\" Zone 17). The point is the arch's center as the nomination scopes it; it is not a visitor-center, trailhead, or parking point, and no other coordinate is printed.",
+    "nrhp": "97001401 — listed November 18, 1997 (date published in the NPS National Register record); National Historic Landmark designated August 5, 1998 (per the Virginia DHR record)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "LC-DIG-det-4a16444 (Library of Congress reproduction number for the first photograph)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/97001401",
+    "operator": "Virginia Department of Conservation and Recreation (Virginia State Parks)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Natural Bridge"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Natural Bridge State Park Visitor Center, at the junction of U.S. Route 11 and Virginia Route 130, Natural Bridge, VA 24578 (junction and ZIP as the nomination carries them; DCR directs visitors from I-81 exits 175 or 180A to U.S. 11)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The bridge and the Cedar Creek Trail are the visit; the DCR park page states the park is open daily 8 a.m. to dusk, weather permitting, that reaching the bridge requires 137 steps with accommodations on request, and that the bridge's top carries U.S. Route 11 and is not a visitor area."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VA-shenandoah-ccc-big-meadows",
+   "slug": "VA-shenandoah-ccc-big-meadows",
+   "title": "HT-RES-VA-shenandoah-ccc-big-meadows — The meadow where a park was built by hand, on land other people had to leave",
+   "town": "Luray vicinity",
+   "state": "Virginia",
+   "stateCode": "VA",
+   "coordinates": {
+    "lat": 38.517718,
+    "lon": -78.436783
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-VA-shenandoah-ccc-big-meadows — The meadow where a park was built by hand, on land other people had to leave",
+   "stableName": "Shenandoah National Park — Big Meadows / Camp Fechner (Camp NP-2)",
+   "address": "Skyline Drive mile 51, Shenandoah National Park (no street address is carried by the NPS sources consulted)",
+   "locator": {
+    "stableName": "Shenandoah National Park — Big Meadows / Camp Fechner (Camp NP-2)",
+    "address": "Skyline Drive mile 51, Shenandoah National Park (no street address is carried by the NPS sources consulted)",
+    "latitude": "38.517718",
+    "longitude": "-78.436783",
+    "coordinateSource": "The point printed is the Byrd Visitor Center (mile 51) point as carried by a National Park Service event listing for that visitor center — a visitor-center point at the meadow's edge, printed at that scope only: not the Camp Fechner footprint, not a photo point, and not a point on any displaced family's homesite. The first photograph's record and the district's National Register record carry no Big Meadows point; no coordinate was taken from a lead-list source.",
+    "nrhp": "97000375 — Skyline Drive Historic District, listed April 28, 1997",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "1D4664B3-155D-451F-67470500C8FB6F60 (first photograph); HAER VA-119-101, Negative No. 1340",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/97000375",
+    "operator": "National Park Service",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Luray vicinity"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Harry F. Byrd Sr. Visitor Center, mile 51, Skyline Drive"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The Big Meadows developed area and the Skyline Drive corridor at mile 51 are the visit, on an NPS entrance pass as the fees page states. Camp Fechner's site is a marked footprint, not a standing compound, and no part of this entry directs a visitor onto any former homesite ground."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-VA-yorktown-battlefield",
+   "slug": "VA-yorktown-battlefield",
+   "title": "HT-RES-VA-yorktown-battlefield — The mile of road where one army marched out and laid down its arms",
+   "town": "Yorktown",
+   "state": "Virginia",
+   "stateCode": "VA",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-VA-yorktown-battlefield — The mile of road where one army marched out and laid down its arms",
+   "stableName": "Yorktown Battlefield",
+   "address": "1000 Colonial Parkway, Yorktown, VA 23690",
+   "locator": {
+    "stableName": "Yorktown Battlefield",
+    "address": "1000 Colonial Parkway, Yorktown, VA 23690",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are printed. The NPS National Register record consulted for this entry (NRIS 66000839, for Colonial National Historical Park as a district) carries no latitude/longitude, and the park-level coordinates carried in NPS gallery records describe the whole multi-unit park from Jamestown to Yorktown, not this battlefield; coordinates appearing in lead-list sources were not used.",
+    "nrhp": "66000839 — Colonial National Historical Park, listed October 15, 1966 (date published in the NPS National Register record)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "LC-DIG-ppmsca-12534 (Library of Congress reproduction number for the first photograph)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000839",
+    "operator": "National Park Service",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Yorktown"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Yorktown Battlefield Visitor Center, 1000 Colonial Parkway, Yorktown, VA 23690 (address as the NPS park pages carry it)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The battlefield, its tour roads, and the Moore House grounds are the visit; the NPS auto-tour page states the battlefield is open 9:00 a.m. to sunset, and the NPS fees page states an entrance pass is required for visitors age 16 and older, sold at the Visitor Center."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; published with its gaps printed; no route or hunt activation from this page."
      }
     ]
    }
