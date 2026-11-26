@@ -1,6 +1,6 @@
 {
- "commit": "f33c899de788298114d19b1e564eb327feb46197",
- "catalogCount": 823,
+ "commit": "0226e346e179ef4a9a47b11acaf13c0c92a6c6f5",
+ "catalogCount": 825,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -5611,6 +5611,39 @@
    }
   },
   {
+   "id": "HT-CT-coventry-nathan-hale-homestead",
+   "slug": "CT-coventry-nathan-hale-homestead",
+   "title": "HT-RES-CT-coventry-nathan-hale-homestead — Coventry: the farm Nathan Hale grew up on",
+   "town": "Coventry",
+   "state": "Connecticut",
+   "stateCode": "CT",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-CT-coventry-nathan-hale-homestead — Coventry: the farm Nathan Hale grew up on",
+   "stableName": "",
+   "address": "",
+   "locator": {
+    "stableName": "",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Coventry"
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-CT-farmington-first-church",
    "slug": "CT-farmington-first-church",
    "title": "HT-RES-CT-farmington-first-church — First Church of Christ, Farmington: the 1771 meetinghouse that hosted the Amistad Mende",
@@ -5754,6 +5787,39 @@
      {
       "key": "Town",
       "value": "New London"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-CT-woodstock-roseland-cottage",
+   "slug": "CT-woodstock-roseland-cottage",
+   "title": "HT-RES-CT-woodstock-roseland-cottage — Woodstock: the pink cottage",
+   "town": "Woodstock",
+   "state": "Connecticut",
+   "stateCode": "CT",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-CT-woodstock-roseland-cottage — Woodstock: the pink cottage",
+   "stableName": "",
+   "address": "",
+   "locator": {
+    "stableName": "",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Woodstock"
      }
     ]
    }
