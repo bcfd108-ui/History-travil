@@ -7041,5 +7041,55 @@
    "medium": "photograph",
    "modificationNote": "Converted to WebP by On Old Ground; resized to a maximum width of 1024 px; no crop or content edits."
   }
+ ],
+ "WI-hh-bennett-studio": [
+  {
+   "src": "/photos/wi-hh-bennett-studio-10857f5677.webp",
+   "imageUrl": "https://commons.wikimedia.org/wiki/File:In_and_about_the_Dells_of_Wisconsin._Stand_rock_from_the_South,_by_Bennett,_H._H._(Henry_Hamilton),_1843-1908.jpg",
+   "credit": "H. H. Bennett; New York Public Library, Robert N. Dennis collection of stereoscopic views, via Wikimedia Commons",
+   "license": "Public domain",
+   "licenseUrl": "https://commons.wikimedia.org/wiki/File:In_and_about_the_Dells_of_Wisconsin._Stand_rock_from_the_South,_by_Bennett,_H._H._(Henry_Hamilton),_1843-1908.jpg",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:In_and_about_the_Dells_of_Wisconsin._Stand_rock_from_the_South,_by_Bennett,_H._H._(Henry_Hamilton),_1843-1908.jpg",
+   "sourceName": "Wikimedia Commons",
+   "caption": "Bennett's stereograph card No. 86, 'Stand Rock from the south,' from his series In and About The Dells of the Wisconsin: the flat-topped sandstone pillar of Stand Rock with three men posed on its summit — two seated at the edge, one standing with a staff — the river gorge falling away below. Photographed and published by H. H. Bennett at Kilbourn City, the town now called Wisconsin Dells.",
+   "alt": "Bennett's stereograph card No. 86, 'Stand Rock from the south,' from his series In and About The Dells of the Wisconsin: the flat-topped sandstone pillar of Stand Rock with three men posed on its summit — two seated at the edge, one standing with a staff — the river gorge falling away below. Photographed and published by H. H. Bennett at Kilbourn City, the town now called Wisconsin Dells.",
+   "year": 1870,
+   "width": 1024,
+   "height": 532,
+   "sha256": "10857f56777b6a7a9113ff6ec93e9a01f6c600dd6e97d0ea32a636fba0d1d911",
+   "rowId": "c3e5c2977cae",
+   "targetSlug": "WI-hh-bennett-studio",
+   "targetId": "HT-WI-hh-bennett-studio",
+   "eraRole": "then",
+   "groundReview": "Seed-specific subject and source item verified in the desk package photo record for Wisconsin Seed 001 (alternate photographs); unique exact slug, source link and source SHA-256; not applied to any other entry.",
+   "rightsReview": "Rights checked at the holding record: the Commons file record of the New York Public Library item (Robert N. Dennis collection, Digital ID G92F087_030F) states the file is in the public domain in the United States, usage terms 'Public domain.' Credit retained; resized/re-encoded to WebP only, no crop or content edits. (The entry's first-selected WHS frame was held at the desk rights gate; see the dossier's §7.)",
+   "medium": "photograph",
+   "modificationNote": "Converted to WebP by On Old Ground; resized to a maximum width of 1024 px; no crop or content edits."
+  }
+ ],
+ "WI-circus-world-baraboo": [
+  {
+   "src": "/photos/wi-circus-world-baraboo-61756791c4.webp",
+   "imageUrl": "https://commons.wikimedia.org/wiki/File:Fullmer_Warehouse-Wardrobe_Department_-_panoramio.jpg",
+   "credit": "Corey Coyle",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fullmer_Warehouse-Wardrobe_Department_-_panoramio.jpg",
+   "sourceName": "Wikimedia Commons",
+   "caption": "The Fullmer Warehouse on Water Street in Baraboo — the Ringling Bros. winter quarters' wardrobe department, now part of Circus World Museum: a long green barrel-roofed barn front with glass-block windows, the museum's 'Wardrobe Dept.' sign beside the door, seen from across the street on a summer day.",
+   "alt": "The Fullmer Warehouse on Water Street in Baraboo — the Ringling Bros. winter quarters' wardrobe department, now part of Circus World Museum: a long green barrel-roofed barn front with glass-block windows, the museum's 'Wardrobe Dept.' sign beside the door, seen from across the street on a summer day.",
+   "year": 2014,
+   "width": 1024,
+   "height": 768,
+   "sha256": "61756791c4f0d41ac4f0423ee0f09ba8981bedfa20655d5fa96bc29400fcb2e6",
+   "rowId": "b3924e9ed6cd",
+   "targetSlug": "WI-circus-world-baraboo",
+   "targetId": "HT-WI-circus-world-baraboo",
+   "eraRole": "now",
+   "groundReview": "Seed-specific subject and source item verified in the desk package photo record for Wisconsin Seed 001 (alternate photographs); unique exact slug, source link and source SHA-256; not applied to any other entry.",
+   "rightsReview": "Rights checked at the holding record: the Commons file record licenses the work CC BY 3.0 with attribution to Corey Coyle (license-reviewed on import from Panoramio, 8 April 2017). Credit and license retained; resized/re-encoded to WebP only, no crop or content edits. (The entry's first-selected WHS frame was held at the desk rights gate; see the dossier's §7.)",
+   "medium": "photograph",
+   "modificationNote": "Converted to WebP by On Old Ground; resized to a maximum width of 1024 px; no crop or content edits."
+  }
  ]
 }
