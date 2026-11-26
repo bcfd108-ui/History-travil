@@ -34,6 +34,7 @@ const STATE_NAMES = {
   AK: "Alaska", CT: "Connecticut", DE: "Delaware", IN: "Indiana", ME: "Maine",
   MD: "Maryland", NJ: "New Jersey", VT: "Vermont", VA: "Virginia", OH: "Ohio", WV: "West Virginia",
   MA: "Massachusetts", MI: "Michigan", NH: "New Hampshire", RI: "Rhode Island",
+  WI: "Wisconsin",
 };
 // Uncoded (home-bench) slugs: slug -> [town, stateCode]
 const LOCAL = {
