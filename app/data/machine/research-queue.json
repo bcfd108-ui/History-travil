@@ -7153,811 +7153,6 @@
    "attempts": []
   },
   {
-   "id": "lq_017fc54b62e74c8b",
-   "projectedSlug": "ri-rose-island-lighthouse",
-   "targetSlug": null,
-   "name": "Rose Island Lighthouse",
-   "town": "Newport Harbor",
-   "county": "",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Lighthouse — seasonal boat access, overnight keeper program",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 312,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0dfb2ddad00086d6",
-   "projectedSlug": "ri-block-island-southeast-lighthouse",
-   "targetSlug": null,
-   "name": "Block Island Southeast Lighthouse",
-   "town": "Block Island (New Shoreham)",
-   "county": "Washington",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Lighthouse museum (1875, moved back from the bluff 1993) — Manisses Indigenous ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 330,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_118337dde3015f59",
-   "projectedSlug": "ri-museum-of-work-and-culture",
-   "targetSlug": null,
-   "name": "Museum of Work & Culture",
-   "town": "Woonsocket",
-   "county": "Providence",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Museum — French-Canadian mill-worker ground (theme family: mill/labor)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 294,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1240c9e9652914ea",
-   "projectedSlug": "ri-miantonomi-memorial-park-and-green-end-fort",
-   "targetSlug": null,
-   "name": "Miantonomi Memorial Park & Green End Fort",
-   "town": "Newport",
-   "county": "",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Public park — Revolutionary earthworks; memorial to Narragansett sachem Miantonomi (theme family: military/Indigenous)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 309,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_13849e28f8546ea8",
-   "projectedSlug": "ri-providence-athenaeum",
-   "targetSlug": null,
-   "name": "Providence Athenaeum",
-   "town": "Providence",
-   "county": "Rhode Island",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 599,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_196ce6f4c866f6e1",
-   "projectedSlug": "ri-john-brown-house-museum",
-   "targetSlug": null,
-   "name": "John Brown House Museum",
-   "town": "Providence",
-   "county": "",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Museum — Brown family fortune built partly on the slave trade; slavery ground told at the source",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 296,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_19b258da3eb023c5",
-   "projectedSlug": "ri-ladd-school-exeter-school-site",
-   "targetSlug": null,
-   "name": "Ladd School / Exeter School site",
-   "town": "Exeter",
-   "county": "South",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "State institution for people with developmental disabilities (1908–1994), site of documented abuse scandals; grounds restricted/redeveloped — flag (theme family: asylum/institution)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 331,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1ba4720ac543cdd8",
-   "projectedSlug": "ri-narragansett-indian-reservation-ground",
-   "targetSlug": null,
-   "name": "Narragansett Indian Reservation ground",
-   "town": "Charlestown",
-   "county": "South",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Tribal land — flag, do not route",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 322,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1d3a646683b77665",
-   "projectedSlug": "ri-linden-place",
-   "targetSlug": null,
-   "name": "Linden Place",
-   "town": "Bristol",
-   "county": "South",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Museum — DeWolf family mansion; Bristol's slave-trading fortune ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 328,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_2c854543407bc4c2",
-   "projectedSlug": "ri-rhode-island-state-house",
-   "targetSlug": null,
-   "name": "Rhode Island State House",
-   "town": "Providence",
-   "county": "",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Public building — largest unsupported marble dome; Dorr Rebellion era",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 298,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3a1068318ac64caf",
-   "projectedSlug": "ri-white-horse-tavern",
-   "targetSlug": null,
-   "name": "White Horse Tavern",
-   "town": "Newport",
-   "county": "Rhode Island",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 598,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3d4a908000264436",
-   "projectedSlug": "ri-gilbert-stuart-birthplace-and-museum",
-   "targetSlug": null,
-   "name": "Gilbert Stuart Birthplace & Museum",
-   "town": "Saunderstown (North Kingstown)",
-   "county": "South",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Museum — portraitist's 1751 birthplace and snuff mill",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 323,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_47bdb30c1801e8d4",
-   "projectedSlug": "ri-casey-farm",
-   "targetSlug": null,
-   "name": "Casey Farm",
-   "town": "Saunderstown",
-   "county": "South",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Museum farm (Historic New England)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 324,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4f5f75b7df615266",
-   "projectedSlug": "ri-fort-adams-state-park",
-   "targetSlug": null,
-   "name": "Fort Adams State Park",
-   "town": "Newport",
-   "county": "",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "State park — largest U.S. coastal fortification (theme family: military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 306,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_509c46012c96b1cc",
-   "projectedSlug": "ri-coggeshall-farm-museum",
-   "targetSlug": null,
-   "name": "Coggeshall Farm Museum",
-   "town": "Bristol",
-   "county": "Bristol",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Living history museum — 1790s tenant farm",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 327,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_54f525f3a5ae5a7f",
-   "projectedSlug": "ri-benefit-street-and-college-hill-historic-district",
-   "targetSlug": null,
-   "name": "Benefit Street & College Hill Historic District",
-   "town": "Providence",
-   "county": "",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Public historic district — dense colonial streetscape",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 297,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5f90a727a284ff87",
-   "projectedSlug": "ri-herreshoff-marine-museum",
-   "targetSlug": null,
-   "name": "Herreshoff Marine Museum",
-   "town": "Bristol",
-   "county": "South",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Museum — yacht-building labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 329,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5fb3fcded3fc9ddb",
-   "projectedSlug": "ri-tomaquag-museum",
-   "targetSlug": null,
-   "name": "Tomaquag Museum",
-   "town": "Exeter",
-   "county": "Washington",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Indigenous-led museum — Rhode Island's only Native American museum (Narragansett)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 321,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_66b539c1b7de85a3",
-   "projectedSlug": "ri-the-breakers-and-the-newport-mansions",
-   "targetSlug": null,
-   "name": "The Breakers & the Newport Mansions",
-   "town": "Newport",
-   "county": "",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Museums (Preservation Society) — Gilded Age wealth and servant-labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 307,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7b60ae045bbcf11b",
-   "projectedSlug": "ri-belcourt",
-   "targetSlug": null,
-   "name": "Belcourt",
-   "town": "Newport",
-   "county": "Rhode Island",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 600,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8e50c98d1807d132",
-   "projectedSlug": "ri-roger-williams-national-memorial",
-   "targetSlug": null,
-   "name": "Roger Williams National Memorial",
-   "town": "Providence",
-   "county": "",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "National park unit — 1636 founding ground; religious-freedom ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 295,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_8fefecb4e0a1812c",
-   "projectedSlug": "ri-newport-tower-touro-park",
-   "targetSlug": null,
-   "name": "Newport Tower, Touro Park",
-   "town": "Newport",
-   "county": "",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Public park — colonial-era stone tower; origins genuinely disputed, keep the dispute in the record",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 308,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_944ae613e541f91d",
-   "projectedSlug": "ri-general-stanton-inn",
-   "targetSlug": null,
-   "name": "General Stanton Inn",
-   "town": "Charlestown",
-   "county": "Rhode Island",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 602,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a3d5c69f8f657eb0",
-   "projectedSlug": "ri-fort-ninigret",
-   "targetSlug": null,
-   "name": "Fort Ninigret",
-   "town": "Charlestown",
-   "county": "Washington",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "State memorial park — Niantic–Narragansett fort site, among the oldest Indigenous fortifications in New England",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 320,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a9e76a4f14a42d59",
-   "projectedSlug": "ri-touro-synagogue-national-historic-site",
-   "targetSlug": null,
-   "name": "Touro Synagogue National Historic Site",
-   "town": "Newport",
-   "county": "Newport",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "NPS-affiliated site — oldest U.S. synagogue (1763); Washington's 1790 letter ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 305,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c61426a6ab19047e",
-   "projectedSlug": "ri-general-nathanael-greene-homestead",
-   "targetSlug": null,
-   "name": "General Nathanael Greene Homestead",
-   "town": "Coventry",
-   "county": "Kent",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Museum — Revolutionary general's home (theme family: military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 325,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c78b89d326c15d86",
-   "projectedSlug": "ri-smiths-castle-at-cocumscussoc",
-   "targetSlug": null,
-   "name": "Smith's Castle at Cocumscussoc",
-   "town": "North Kingstown",
-   "county": "Washington",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Museum — 1678 house on a trading-post site; King Philip's War ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 318,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c9ef054708b34918",
-   "projectedSlug": "ri-beavertail-lighthouse-museum",
-   "targetSlug": null,
-   "name": "Beavertail Lighthouse Museum",
-   "town": "Jamestown",
-   "county": "Newport",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Lighthouse museum (1749 station, third in the colonies)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 311,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_cb494d9552c9b10a",
-   "projectedSlug": "ri-adult-correctional-institutions",
-   "targetSlug": null,
-   "name": "Adult Correctional Institutions",
-   "town": "Cranston",
-   "county": "Providence",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Active state prison complex — flag (theme family: prison)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 332,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e7851e1ba95cbb94",
-   "projectedSlug": "ri-slater-mill-blackstone-river-valley-national-historical-park",
-   "targetSlug": null,
-   "name": "Slater Mill, Blackstone River Valley National Historical Park",
-   "town": "Pawtucket",
-   "county": "Providence",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "National park unit — first successful water-powered cotton mill in the U.S. (1793) (theme family: mill/labor — flagship)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 293,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e96a17d57f789c35",
-   "projectedSlug": "ri-butts-hill-fort-battle-of-rhode-island-site",
-   "targetSlug": null,
-   "name": "Butts Hill Fort / Battle of Rhode Island Site",
-   "town": "Portsmouth",
-   "county": "Newport",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Public earthworks — 1778 battle; 1st Rhode Island Regiment (Black soldiers) ground (theme family: military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 310,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f17a8534467c92d1",
-   "projectedSlug": "ri-dorr-rebellion-ground-acotes-hill",
-   "targetSlug": null,
-   "name": "Dorr Rebellion ground — Acote's Hill",
-   "town": "Chepachet (Glocester)",
-   "county": "Providence",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Public ground & markers — 1842 people's-suffrage rebellion encampment; verify current interpretation",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 299,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f5c1716abfc01851",
-   "projectedSlug": "ri-great-swamp-fight-monument",
-   "targetSlug": null,
-   "name": "Great Swamp Fight Monument",
-   "town": "South Kingstown",
-   "county": "Washington",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Public monument ground — December 1675 colonial attack on the Narragansett fortified village; reflection posture, Narragansett voice leads",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 319,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f638a1c415814a11",
-   "projectedSlug": "ri-fort-adams",
-   "targetSlug": null,
-   "name": "Fort Adams",
-   "town": "Newport",
-   "county": "Rhode Island",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "military — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 601,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f8c21e1c1437d742",
-   "projectedSlug": "ri-fort-barton",
-   "targetSlug": null,
-   "name": "Fort Barton",
-   "town": "Tiverton",
-   "county": "Newport",
-   "state": "RI",
-   "tier": null,
-   "anchorPosture": "Public site — Revolutionary earthworks above the Sakonnet (theme family: military)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "New-England-first-sweep.md",
-     "row": 326,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
    "id": "lq_7c933f66c04a27ef",
    "projectedSlug": "al-national-memorial-for-peace-and-justice-and-the-legacy-museum",
    "targetSlug": "AL-legacy-museum-national-memorial-montgomery",
@@ -166118,6 +165313,811 @@
     {
      "file": "New-England-first-sweep.md",
      "row": 247,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_017fc54b62e74c8b",
+   "projectedSlug": "ri-rose-island-lighthouse",
+   "targetSlug": null,
+   "name": "Rose Island Lighthouse",
+   "town": "Newport Harbor",
+   "county": "",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Lighthouse — seasonal boat access, overnight keeper program",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 312,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0dfb2ddad00086d6",
+   "projectedSlug": "ri-block-island-southeast-lighthouse",
+   "targetSlug": null,
+   "name": "Block Island Southeast Lighthouse",
+   "town": "Block Island (New Shoreham)",
+   "county": "Washington",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Lighthouse museum (1875, moved back from the bluff 1993) — Manisses Indigenous ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 330,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_118337dde3015f59",
+   "projectedSlug": "ri-museum-of-work-and-culture",
+   "targetSlug": null,
+   "name": "Museum of Work & Culture",
+   "town": "Woonsocket",
+   "county": "Providence",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Museum — French-Canadian mill-worker ground (theme family: mill/labor)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 294,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1240c9e9652914ea",
+   "projectedSlug": "ri-miantonomi-memorial-park-and-green-end-fort",
+   "targetSlug": null,
+   "name": "Miantonomi Memorial Park & Green End Fort",
+   "town": "Newport",
+   "county": "",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Public park — Revolutionary earthworks; memorial to Narragansett sachem Miantonomi (theme family: military/Indigenous)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 309,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_13849e28f8546ea8",
+   "projectedSlug": "ri-providence-athenaeum",
+   "targetSlug": null,
+   "name": "Providence Athenaeum",
+   "town": "Providence",
+   "county": "Rhode Island",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 599,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_196ce6f4c866f6e1",
+   "projectedSlug": "ri-john-brown-house-museum",
+   "targetSlug": null,
+   "name": "John Brown House Museum",
+   "town": "Providence",
+   "county": "",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Museum — Brown family fortune built partly on the slave trade; slavery ground told at the source",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 296,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_19b258da3eb023c5",
+   "projectedSlug": "ri-ladd-school-exeter-school-site",
+   "targetSlug": null,
+   "name": "Ladd School / Exeter School site",
+   "town": "Exeter",
+   "county": "South",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "State institution for people with developmental disabilities (1908–1994), site of documented abuse scandals; grounds restricted/redeveloped — flag (theme family: asylum/institution)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 331,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1ba4720ac543cdd8",
+   "projectedSlug": "ri-narragansett-indian-reservation-ground",
+   "targetSlug": null,
+   "name": "Narragansett Indian Reservation ground",
+   "town": "Charlestown",
+   "county": "South",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Tribal land — flag, do not route",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 322,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1d3a646683b77665",
+   "projectedSlug": "ri-linden-place",
+   "targetSlug": null,
+   "name": "Linden Place",
+   "town": "Bristol",
+   "county": "South",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Museum — DeWolf family mansion; Bristol's slave-trading fortune ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 328,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_2c854543407bc4c2",
+   "projectedSlug": "ri-rhode-island-state-house",
+   "targetSlug": null,
+   "name": "Rhode Island State House",
+   "town": "Providence",
+   "county": "",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Public building — largest unsupported marble dome; Dorr Rebellion era",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 298,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3a1068318ac64caf",
+   "projectedSlug": "ri-white-horse-tavern",
+   "targetSlug": null,
+   "name": "White Horse Tavern",
+   "town": "Newport",
+   "county": "Rhode Island",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 598,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3d4a908000264436",
+   "projectedSlug": "ri-gilbert-stuart-birthplace-and-museum",
+   "targetSlug": null,
+   "name": "Gilbert Stuart Birthplace & Museum",
+   "town": "Saunderstown (North Kingstown)",
+   "county": "South",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Museum — portraitist's 1751 birthplace and snuff mill",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 323,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_47bdb30c1801e8d4",
+   "projectedSlug": "ri-casey-farm",
+   "targetSlug": null,
+   "name": "Casey Farm",
+   "town": "Saunderstown",
+   "county": "South",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Museum farm (Historic New England)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 324,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4f5f75b7df615266",
+   "projectedSlug": "ri-fort-adams-state-park",
+   "targetSlug": null,
+   "name": "Fort Adams State Park",
+   "town": "Newport",
+   "county": "",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "State park — largest U.S. coastal fortification (theme family: military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 306,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_509c46012c96b1cc",
+   "projectedSlug": "ri-coggeshall-farm-museum",
+   "targetSlug": null,
+   "name": "Coggeshall Farm Museum",
+   "town": "Bristol",
+   "county": "Bristol",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Living history museum — 1790s tenant farm",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 327,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_54f525f3a5ae5a7f",
+   "projectedSlug": "ri-benefit-street-and-college-hill-historic-district",
+   "targetSlug": null,
+   "name": "Benefit Street & College Hill Historic District",
+   "town": "Providence",
+   "county": "",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Public historic district — dense colonial streetscape",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 297,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5f90a727a284ff87",
+   "projectedSlug": "ri-herreshoff-marine-museum",
+   "targetSlug": null,
+   "name": "Herreshoff Marine Museum",
+   "town": "Bristol",
+   "county": "South",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Museum — yacht-building labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 329,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5fb3fcded3fc9ddb",
+   "projectedSlug": "ri-tomaquag-museum",
+   "targetSlug": null,
+   "name": "Tomaquag Museum",
+   "town": "Exeter",
+   "county": "Washington",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Indigenous-led museum — Rhode Island's only Native American museum (Narragansett)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 321,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_66b539c1b7de85a3",
+   "projectedSlug": "ri-the-breakers-and-the-newport-mansions",
+   "targetSlug": null,
+   "name": "The Breakers & the Newport Mansions",
+   "town": "Newport",
+   "county": "",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Museums (Preservation Society) — Gilded Age wealth and servant-labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 307,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7b60ae045bbcf11b",
+   "projectedSlug": "ri-belcourt",
+   "targetSlug": null,
+   "name": "Belcourt",
+   "town": "Newport",
+   "county": "Rhode Island",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 600,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8e50c98d1807d132",
+   "projectedSlug": "ri-roger-williams-national-memorial",
+   "targetSlug": null,
+   "name": "Roger Williams National Memorial",
+   "town": "Providence",
+   "county": "",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "National park unit — 1636 founding ground; religious-freedom ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 295,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_8fefecb4e0a1812c",
+   "projectedSlug": "ri-newport-tower-touro-park",
+   "targetSlug": null,
+   "name": "Newport Tower, Touro Park",
+   "town": "Newport",
+   "county": "",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Public park — colonial-era stone tower; origins genuinely disputed, keep the dispute in the record",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 308,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_944ae613e541f91d",
+   "projectedSlug": "ri-general-stanton-inn",
+   "targetSlug": null,
+   "name": "General Stanton Inn",
+   "town": "Charlestown",
+   "county": "Rhode Island",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 602,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a3d5c69f8f657eb0",
+   "projectedSlug": "ri-fort-ninigret",
+   "targetSlug": null,
+   "name": "Fort Ninigret",
+   "town": "Charlestown",
+   "county": "Washington",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "State memorial park — Niantic–Narragansett fort site, among the oldest Indigenous fortifications in New England",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 320,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a9e76a4f14a42d59",
+   "projectedSlug": "ri-touro-synagogue-national-historic-site",
+   "targetSlug": null,
+   "name": "Touro Synagogue National Historic Site",
+   "town": "Newport",
+   "county": "Newport",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "NPS-affiliated site — oldest U.S. synagogue (1763); Washington's 1790 letter ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 305,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c61426a6ab19047e",
+   "projectedSlug": "ri-general-nathanael-greene-homestead",
+   "targetSlug": null,
+   "name": "General Nathanael Greene Homestead",
+   "town": "Coventry",
+   "county": "Kent",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Museum — Revolutionary general's home (theme family: military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 325,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c78b89d326c15d86",
+   "projectedSlug": "ri-smiths-castle-at-cocumscussoc",
+   "targetSlug": null,
+   "name": "Smith's Castle at Cocumscussoc",
+   "town": "North Kingstown",
+   "county": "Washington",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Museum — 1678 house on a trading-post site; King Philip's War ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 318,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c9ef054708b34918",
+   "projectedSlug": "ri-beavertail-lighthouse-museum",
+   "targetSlug": null,
+   "name": "Beavertail Lighthouse Museum",
+   "town": "Jamestown",
+   "county": "Newport",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Lighthouse museum (1749 station, third in the colonies)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 311,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_cb494d9552c9b10a",
+   "projectedSlug": "ri-adult-correctional-institutions",
+   "targetSlug": null,
+   "name": "Adult Correctional Institutions",
+   "town": "Cranston",
+   "county": "Providence",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Active state prison complex — flag (theme family: prison)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 332,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e7851e1ba95cbb94",
+   "projectedSlug": "ri-slater-mill-blackstone-river-valley-national-historical-park",
+   "targetSlug": null,
+   "name": "Slater Mill, Blackstone River Valley National Historical Park",
+   "town": "Pawtucket",
+   "county": "Providence",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "National park unit — first successful water-powered cotton mill in the U.S. (1793) (theme family: mill/labor — flagship)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 293,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e96a17d57f789c35",
+   "projectedSlug": "ri-butts-hill-fort-battle-of-rhode-island-site",
+   "targetSlug": null,
+   "name": "Butts Hill Fort / Battle of Rhode Island Site",
+   "town": "Portsmouth",
+   "county": "Newport",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Public earthworks — 1778 battle; 1st Rhode Island Regiment (Black soldiers) ground (theme family: military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 310,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f17a8534467c92d1",
+   "projectedSlug": "ri-dorr-rebellion-ground-acotes-hill",
+   "targetSlug": null,
+   "name": "Dorr Rebellion ground — Acote's Hill",
+   "town": "Chepachet (Glocester)",
+   "county": "Providence",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Public ground & markers — 1842 people's-suffrage rebellion encampment; verify current interpretation",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 299,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f5c1716abfc01851",
+   "projectedSlug": "ri-great-swamp-fight-monument",
+   "targetSlug": null,
+   "name": "Great Swamp Fight Monument",
+   "town": "South Kingstown",
+   "county": "Washington",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Public monument ground — December 1675 colonial attack on the Narragansett fortified village; reflection posture, Narragansett voice leads",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 319,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f638a1c415814a11",
+   "projectedSlug": "ri-fort-adams",
+   "targetSlug": null,
+   "name": "Fort Adams",
+   "town": "Newport",
+   "county": "Rhode Island",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "military — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 601,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f8c21e1c1437d742",
+   "projectedSlug": "ri-fort-barton",
+   "targetSlug": null,
+   "name": "Fort Barton",
+   "town": "Tiverton",
+   "county": "Newport",
+   "state": "RI",
+   "tier": null,
+   "anchorPosture": "Public site — Revolutionary earthworks above the Sakonnet (theme family: military)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "New-England-first-sweep.md",
+     "row": 326,
      "dialect": "desk-sweep-4",
      "role": "lead"
     }

@@ -10432,6 +10432,66 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-RI-new-fort-adams",
+   "Slug": "RI-new-fort-adams",
+   "Entry": "HT-RES-RI-new-fort-adams — Newport: America's largest coastal fortress, named for John Adams",
+   "Town": "Newport",
+   "State": "Rhode Island",
+   "Entry URL": "https://onoldground.com/sites/RI-new-fort-adams",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-RI-new-touro",
+   "Slug": "RI-new-touro",
+   "Entry": "HT-RES-RI-new-touro — Newport: the synagogue that received Washington's promise",
+   "Town": "Newport",
+   "State": "Rhode Island",
+   "Entry URL": "https://onoldground.com/sites/RI-new-touro",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-RI-nki-gilbert-stuart",
+   "Slug": "RI-nki-gilbert-stuart",
+   "Entry": "HT-RES-RI-nki-gilbert-stuart — Saunderstown: the snuff-mill house that produced Washington's portraitist",
+   "Town": "Saunderstown",
+   "State": "Rhode Island",
+   "Entry URL": "https://onoldground.com/sites/RI-nki-gilbert-stuart",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-RI-paw-slater-mill",
+   "Slug": "RI-paw-slater-mill",
+   "Entry": "HT-RES-RI-paw-slater-mill — Pawtucket: the mill where American industry started spinning",
+   "Town": "Pawtucket",
+   "State": "Rhode Island",
+   "Entry URL": "https://onoldground.com/sites/RI-paw-slater-mill",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-SC-fort-sumter-fort-moultrie",
    "Slug": "SC-fort-sumter-fort-moultrie",
    "Entry": "Fort Sumter and Fort Moultrie",
@@ -12323,6 +12383,6 @@
   }
  ],
  "counts": {
-  "items": 821
+  "items": 825
  }
 }
