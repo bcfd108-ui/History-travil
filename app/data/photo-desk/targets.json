@@ -1,6 +1,6 @@
 {
- "commit": "45497a0a2d028c7df7de19b8dffcf4b2e453f3b6",
- "catalogCount": 874,
+ "commit": "e2d2a4c845f0d1803542ec223ecd267ff1855701",
+ "catalogCount": 882,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -43691,6 +43691,366 @@
      {
       "key": "Status",
       "value": "research draft; prisons-asylums-tours-001; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-WI-aztalan",
+   "slug": "WI-aztalan",
+   "title": "HT-RES-WI-aztalan — A walled Mississippian town on the Crawfish River, misnamed for the Aztecs",
+   "town": "Lake Mills",
+   "state": "Wisconsin",
+   "stateCode": "WI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-WI-aztalan — A walled Mississippian town on the Crawfish River, misnamed for the Aztecs",
+   "stableName": "Aztalan — Aztalan State Park",
+   "address": "N6200 Cty Hwy Q, Lake Mills, WI 53551",
+   "locator": {
+    "stableName": "Aztalan — Aztalan State Park",
+    "address": "N6200 Cty Hwy Q, Lake Mills, WI 53551",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "The landmark nomination carries a latitude/longitude table defining a rectangle around the property, but its figures are not reliably legible in the scanned copy checked, and no primary source checked carries a single verified point. No coordinates print.",
+    "nrhp": "66000022",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "Wisconsin Department of Natural Resources (Aztalan State Park; the site is also State Natural Area No. 408, Ancient Aztalan Village)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Aztalan, Lake Mills vicinity (Jefferson County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The state park entrance and trail system, N6200 County Highway Q (Wisconsin DNR)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "State park hours and vehicle admission sticker per the DNR park page (§1; the DNR's natural-areas page gives a closing hour one hour earlier — see §6). The ground is a Native American village, ceremonial, and burial ground: the DNR's natural-area rules bar collecting archaeological artifacts or any natural material. The visit stays on the park's trails and public ground; the stockade and two mounds are reconstructions and are read as such; the landmark's Historical Society and private parcels at the site's edge are not stops."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Wisconsin seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-WI-cana-island-lighthouse",
+   "slug": "WI-cana-island-lighthouse",
+   "title": "HT-RES-WI-cana-island-lighthouse — An 1869 brick tower in a steel skin, at the end of a causeway the lake covers when it pleases",
+   "town": "Baileys Harbor",
+   "state": "Wisconsin",
+   "stateCode": "WI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-WI-cana-island-lighthouse — An 1869 brick tower in a steel skin, at the end of a causeway the lake covers when it pleases",
+   "stableName": "Cana Island Lighthouse — Cana Island Light Station",
+   "address": "8800 East Cana Island Road, Baileys Harbor, WI 54202",
+   "locator": {
+    "stableName": "Cana Island Lighthouse — Cana Island Light Station",
+    "address": "8800 East Cana Island Road, Baileys Harbor, WI 54202",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "The 1976 National Register nomination form carries a UTM reference for the property, printed here exactly as the source carries it and not converted: Zone 16, Easting 496200, Northing 4992550 — the nomination's property reference point for the station on the island's east side, as filed. No latitude/longitude point is printed: the form predates modern datums, a converted point is not a verified point, and secondary register listings print a latitude (45.0883) roughly 200 meters north of where the nomination's reference falls; the difference is flagged in §6. (Desk correction, November 26, 2026: an earlier draft of this entry carried a hand-converted decimal point in these fields; the desk removed it — conversions do not print, per the package rule applied in the Man Mound and Bennett entries.)",
+    "nrhp": "Cana Island Lighthouse — listed November 21, 1976 — Reference No. 76000201",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "NARA 45707039 (photograph); HABS WI-376 (measured drawings)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/d2d55e3f-c483-4b3e-8fa1-d8ff906bf408/",
+    "operator": "Door County Maritime Museum, operating for Door County (owner since the Bureau of Land Management transfer of April 27, 2006)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Baileys Harbor (Door County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The mainland parking and the foot of the causeway at 8800 East Cana Island Road (operator; Door County)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The island is reached only across the causeway — on foot over a rocky pathway or by the operator's complimentary tractor-drawn wagon on its limited schedule — and only within the operator's stated season and hours (May–October, 10 a.m.–5 p.m., last tower climb 4:30 p.m.). The operator states that high lake levels sometimes put water over the causeway and that weather closures occur; the tower gallery is reached by 97 spiral steps and is not an accessible route. The offshore wreck is a dive site, no part of the land visit, and nothing beyond the county park's ground is part of this stop."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Wisconsin seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-WI-man-mound",
+   "slug": "WI-man-mound",
+   "title": "HT-RES-WI-man-mound — A horned figure walking west, cut by a road and saved for $300",
+   "town": "Town of Greenfield (Sauk County), Baraboo vicinity",
+   "state": "Wisconsin",
+   "stateCode": "WI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-WI-man-mound — A horned figure walking west, cut by a road and saved for $300",
+   "stableName": "Man Mound — Greenfield Man Mound; Man Mound Park (site 47SK27)",
+   "address": "Man Mound Road, Town of Greenfield, WI (no street number is carried in the primary sources checked; the numbered address in secondary listings is not printed)",
+   "locator": {
+    "stableName": "Man Mound — Greenfield Man Mound; Man Mound Park (site 47SK27)",
+    "address": "Man Mound Road, Town of Greenfield, WI (no street number is carried in the primary sources checked; the numbered address in secondary listings is not printed)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "The landmark nomination carries a UTM reference for the property, printed here exactly as the source carries it and not converted: Zone 16, Easting 0283960, Northing 4818538 — scoped by the nomination as the site's location on the USGS 1975 Baraboo 7.5′ topographic map (Figure 3) and as the property's UTM reference in its geographical data section. No latitude/longitude point is printed.",
+    "nrhp": "78000138 (listed November 30, 1978); boundary increase 10000211 (listed April 26, 2010); National Historic Landmark 16000861 (designated October 31, 2016)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "Sauk County Parks and Recreation (management under lease; majority ownership Sauk County Historical Society, with a Sauk County-owned parcel east of the parking lot)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Town of Greenfield (Sauk County), Baraboo vicinity"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Man Mound County Park parking area east of the mound, Man Mound Road (National Historic Landmark nomination)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "No entrance fee (Sauk County). The Historical Society states the mound \"may be visited during regular park hours\"; no source checked states specific hours. The property is a cataloged burial site monitored by the Wisconsin Historical Society and the mounds are protected by state law: the figure is viewed from the park ground, the fence line, and the public road, and is not walked on. The feet north of Man Mound Road are on private property and are viewed from the road only; the painted legs and plastic feet are modern markers, not the mound."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Wisconsin seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-WI-old-wade-house",
+   "slug": "WI-old-wade-house",
+   "title": "HT-RES-WI-old-wade-house — The halfway house the railroad passed by",
+   "town": "Greenbush (Sheboygan County)",
+   "state": "Wisconsin",
+   "stateCode": "WI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-WI-old-wade-house — The halfway house the railroad passed by",
+   "stableName": "Old Wade House — Sylvanus Wade House stagecoach inn",
+   "address": "At the junction of WI 23 and Kettle Moraine Drive, Greenbush, Wisconsin 53026 (as the nomination carries it; no street number is stated in the sources checked)",
+   "locator": {
+    "stableName": "Old Wade House — Sylvanus Wade House stagecoach inn",
+    "address": "At the junction of WI 23 and Kettle Moraine Drive, Greenbush, Wisconsin 53026 (as the nomination carries it; no street number is stated in the sources checked)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "The 1971 nomination carries boundary-rectangle corner coordinates only, and the northwest corner's longitude is partly illegible in the file copy consulted (N 43° 46′ 36″, W 88° 05′ —). No single verified point for the house is carried in the primary sources checked; secondary listings publish points, and under this entry's rule they are not used. No coordinates print.",
+    "nrhp": "Wade, Sylvanus, House — listed in the National Register October 26, 1971; reference number 71000041 (NPGallery NRIS record; Wisconsin Historical Society Register record, Unique ID NR1800)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS WI-122 (survey); LOC item wi0109",
+    "registerUrl": "https://www.wisconsinhistory.org/record/national-register/NR1800/redirect",
+    "operator": "Wisconsin Historical Society",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Greenbush (Sheboygan County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The Wisconsin Historical Society's Wade House Historic Site, at the junction of Wisconsin Highway 23 and Kettle Moraine Drive (nomination)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The inn and the core historic buildings are seasonal museum space on the operator's terms — as checked November 26, 2026, they reopen for general admission in May 2027, while the Wesley W. Jung Carriage Museum is open year-round (operator). The site is visited as the Society's museum ground; no part of this entry directs a visitor anywhere the operator does not admit the public."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Wisconsin seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-WI-pendarvis",
+   "slug": "WI-pendarvis",
+   "title": "HT-RES-WI-pendarvis — Stone cottages a Cornish mining town built, and two men rebuilt",
+   "town": "Mineral Point (Iowa County)",
+   "state": "Wisconsin",
+   "stateCode": "WI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-WI-pendarvis — Stone cottages a Cornish mining town built, and two men rebuilt",
+   "stableName": "Pendarvis — Cornish miners' cottages, Shake Rag Street",
+   "address": "114 Shake Rag Street, Mineral Point, Wisconsin 53565 (National Register nomination)",
+   "locator": {
+    "stableName": "Pendarvis — Cornish miners' cottages, Shake Rag Street",
+    "address": "114 Shake Rag Street, Mineral Point, Wisconsin 53565 (National Register nomination)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "The 1970 nomination carries boundary-rectangle corner coordinates only — its northwest corner reads N 42° 51′ 50″, W 90° 10′ 21″ — and no single verified point for the site is carried in the primary sources checked. Secondary listings publish points for Pendarvis; under this entry's rule they are not used, and no coordinates print.",
+    "nrhp": "Pendarvis — listed in the National Register January 25, 1971 (Wisconsin Historical Society Register record, Unique ID NR1806); NPS reference number 71000038, as carried by the property's authority file",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS WI-28 (survey); LOC item wi0079",
+    "registerUrl": "https://www.wisconsinhistory.org/Records/NationalRegister/NR1806",
+    "operator": "Wisconsin Historical Society",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Mineral Point (Iowa County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The Wisconsin Historical Society's Pendarvis historic site, 114 Shake Rag Street — seasonal, guided tours by costumed interpreters (operator and Register record)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Seasonal site — as checked November 26, 2026, closed for the 2026 season, reopening for general admission in May 2027 (operator). House interiors are museum space on the operator's tours. Shake Rag Street is a public street in a lived-in historic neighborhood; the site's restored houses are the exhibit and neighboring stone houses are private homes."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Wisconsin seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-WI-swiss-historical-village",
+   "slug": "WI-swiss-historical-village",
+   "title": "HT-RES-WI-swiss-historical-village — Fourteen buildings on a colony woodlot, keeping the Swiss colony's own record",
+   "town": "New Glarus",
+   "state": "Wisconsin",
+   "stateCode": "WI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-WI-swiss-historical-village — Fourteen buildings on a colony woodlot, keeping the Swiss colony's own record",
+   "stableName": "Swiss Historical Village — Swiss Historical Village & Museum",
+   "address": "612 7th Avenue, New Glarus, WI 53574",
+   "locator": {
+    "stableName": "Swiss Historical Village — Swiss Historical Village & Museum",
+    "address": "612 7th Avenue, New Glarus, WI 53574",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates for the museum property are carried in the primary sources checked, and none print. The state inventory record locates the property by its street address only, as checked.",
+    "nrhp": "Not listed (Wisconsin AHI record HI230375, checked November 26, 2026)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Wisconsin AHI HI230375",
+    "registerUrl": "",
+    "operator": "New Glarus Historical Society",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "New Glarus (Green County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The museum entrance at 612 7th Avenue, New Glarus (operator; Wisconsin AHI record HI230375)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "A ticketed museum ground, open only in the operator's stated season and hours (2026: May 23–October 11, Tuesday–Sunday 10 a.m.–4 p.m.). The visit is the museum ground and the buildings the operator admits visitors to; the operator states two of its fourteen buildings are not accessible. The surrounding village, church, and cemetery are the living community's own and no part of this stop."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Wisconsin seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-WI-taliesin",
+   "slug": "WI-taliesin",
+   "title": "HT-RES-WI-taliesin — The shining brow above the valley, rebuilt twice out of its own ashes",
+   "town": "Spring Green",
+   "state": "Wisconsin",
+   "stateCode": "WI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-WI-taliesin — The shining brow above the valley, rebuilt twice out of its own ashes",
+   "stableName": "Taliesin — Taliesin East; Frank Lloyd Wright Home and Studio Estate",
+   "address": "5607 County Highway C, Spring Green, WI 53588 (Taliesin Preservation, the operator's published address)",
+   "locator": {
+    "stableName": "Taliesin — Taliesin East; Frank Lloyd Wright Home and Studio Estate",
+    "address": "5607 County Highway C, Spring Green, WI 53588 (Taliesin Preservation, the operator's published address)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates print. The National Register record checked carries the location textually (\"2 mi. S of Spring Green on WI 23\") and no verified point scoped by a primary source was carried in the records checked in this pass; points published by secondary catalogs are not copied under this entry's rule.",
+    "nrhp": "Reference 73000081 (district; listed 1973); National Historic Landmark designated January 7, 1976; UNESCO World Heritage Site 2019 (part of \"The 20th-Century Architecture of Frank Lloyd Wright\")",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "Library of Congress HABS survey WI-339 (Taliesin); §7 photograph LC-DIG-highsm-14171",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/a7f9cdb9-e134-4049-be6e-4a27e2002798",
+    "operator": "Taliesin Preservation, Inc. (tours); owner, Frank Lloyd Wright Foundation",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Spring Green (Iowa County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Frank Lloyd Wright Visitor Center, 5607 County Highway C, Spring Green — all tours begin there and shuttle to the estate (operator)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Ticketed tours only, on the operator's published terms (§1): tours start at the Frank Lloyd Wright Visitor Center and reach the estate by the operator's shuttle; advance reservations strongly recommended; House Tour ages 8 and older. No unguided access to the estate is offered in the operator's terms, and this entry gives no other way in."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Wisconsin seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-WI-villa-louis",
+   "slug": "WI-villa-louis",
+   "title": "HT-RES-WI-villa-louis — A fur-trade fortune in cream brick, standing on a mound above the Mississippi",
+   "town": "Prairie du Chien",
+   "state": "Wisconsin",
+   "stateCode": "WI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-WI-villa-louis — A fur-trade fortune in cream brick, standing on a mound above the Mississippi",
+   "stableName": "Villa Louis — Dousman Mansion; Hercules Louis Dousman Estate",
+   "address": "521 N Villa Louis Road, Prairie du Chien, WI 53821",
+   "locator": {
+    "stableName": "Villa Louis — Dousman Mansion; Hercules Louis Dousman Estate",
+    "address": "521 N Villa Louis Road, Prairie du Chien, WI 53821",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates print. The nomination-era property map form references the USGS Prairie du Chien quadrangle and prints boundary latitude/longitude references for the mapped property corners, not a single verified point for the site, and no primary source checked in this pass carries a point scoped as the site's own; points published by secondary catalogs are not copied under this entry's rule.",
+    "nrhp": "Reference 66000123 (listed October 15, 1966); National Historic Landmark designated October 9, 1960",
+    "hmdb": "Marker 474 (Villa Louis Historical Marker, erected 2002 by the Wisconsin Historical Society)",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/911b0ac0-aea2-4478-a233-0ac1b014fa0d",
+    "operator": "Wisconsin Historical Society (state historic site; opened to the public April 1952)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Prairie du Chien (Crawford County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Villa Louis historic site entrance, 521 N Villa Louis Road, Prairie du Chien (Wisconsin Historical Society)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "A Wisconsin Historical Society historic site, visited on the Society's terms — hours, admission, and tour schedule are taken from the Society before traveling, as none is printed in this entry (§6). The mansion stands on an Indigenous mound; visitors stay on the ground and paths the operator maintains. Nothing in this entry directs a visitor onto any other ground on St. Feriole Island."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Wisconsin seed catalog; no route or hunt activation from this page."
      }
     ]
    }
