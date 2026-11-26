@@ -2420,1254 +2420,6 @@
    "attempts": []
   },
   {
-   "id": "lq_0063a5906f462c2b",
-   "projectedSlug": "wv-john-henry-historical-park-and-great-bend-tunnel",
-   "targetSlug": null,
-   "name": "John Henry Historical Park & Great Bend Tunnel",
-   "town": "Talcott",
-   "county": "Summers",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Public park and museum at the tunnel mouth — the documented ground under the John Henry legend. Coal/labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 147,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_0c9d83c77f8a8d4a",
-   "projectedSlug": "wv-hawks-nest-tunnel-disaster-workers-memorial-and-grave-site",
-   "targetSlug": null,
-   "name": "Hawks Nest Tunnel Disaster — Workers Memorial & Grave Site",
-   "town": "Mt. Lookout",
-   "county": "Nicholas (+ Hawks Nest State Park)",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Public memorial and grave site; state park overlook above the tunnel — coal/labor ground (top priority): 1930–31 Union Carbide tunnel, hundreds of mostly Black migrant workers dead of silicosis; death toll still disputed in the record",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 143,
-     "dialect": "desk-sweep-4",
-     "role": "dead"
-    }
-   ],
-   "queueState": "checked-dead",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_155933e84b127c55",
-   "projectedSlug": "wv-bramwell-historic-district",
-   "targetSlug": null,
-   "name": "Bramwell Historic District",
-   "town": "Bramwell",
-   "county": "Mercer",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Public town — coal barons' mansion street; pairs with Pocahontas, VA exhibition mine",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 140,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_1b8e8d2342cd6ffd",
-   "projectedSlug": "wv-alderson-federal-prison-camp",
-   "targetSlug": null,
-   "name": "Alderson Federal Prison Camp",
-   "town": "Alderson",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "★ THEME: prison. First federal women's prison (1927), still active — no public tours or anchor. Flag",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 161,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_275070866834d19e",
-   "projectedSlug": "wv-blennerhassett-island-historical-state-park",
-   "targetSlug": null,
-   "name": "Blennerhassett Island Historical State Park",
-   "town": "Parkersburg",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "State park (sternwheeler access) — Blennerhassett mansion and Burr conspiracy ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 123,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_2dd778c735a0d6ee",
-   "projectedSlug": "wv-old-sweet-springs",
-   "targetSlug": null,
-   "name": "Old Sweet Springs",
-   "town": "Sweet Springs",
-   "county": "West Virginia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "hotel — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 297,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_2eda96694d823771",
-   "projectedSlug": "wv-harpers-ferry-national-historical-park",
-   "targetSlug": null,
-   "name": "Harpers Ferry National Historical Park",
-   "town": "Harpers Ferry",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "NPS unit — ★ THEME: military. John Brown's 1859 raid, federal armory, Civil War crossroads; Storer College layer (Niagara Movement 1906)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 110,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_2f1b9baea114d427",
-   "projectedSlug": "wv-silver-run-tunnel",
-   "targetSlug": null,
-   "name": "Silver Run Tunnel",
-   "town": "Cairo",
-   "county": "West Virginia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 299,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_3426497b27b5a196",
-   "projectedSlug": "wv-trans-allegheny-lunatic-asylum",
-   "targetSlug": null,
-   "name": "Trans-Allegheny Lunatic Asylum",
-   "town": "Weston",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Tour site (NHL) — ★ THEME: asylum (double weight). Largest hand-cut stone building in North America, Kirkbride plan, 1864–1994; haunted tours are a labeled-lore layer",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 130,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    },
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 290,
-     "dialect": "desk-sweep-4",
-     "role": "listed"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_381e83a8e88ad560",
-   "projectedSlug": "wv-old-stone-church",
-   "targetSlug": null,
-   "name": "Old Stone Church",
-   "town": "Lewisburg",
-   "county": "West Virginia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 296,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_38f45fa2f085acf0",
-   "projectedSlug": "wv-coal-house",
-   "targetSlug": null,
-   "name": "Coal House",
-   "town": "Williamson",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Chamber of commerce building built entirely of coal (1933) — ★ THEME: weird spot",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 139,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4b281c2267302165",
-   "projectedSlug": "wv-general-lewis-inn",
-   "targetSlug": null,
-   "name": "General Lewis Inn",
-   "town": "Lewisburg",
-   "county": "West Virginia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 301,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4c7f0aa09926ed16",
-   "projectedSlug": "wv-cass-scenic-railroad-state-park",
-   "targetSlug": null,
-   "name": "Cass Scenic Railroad State Park",
-   "town": "Cass",
-   "county": "Pocahontas",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "State park — intact company logging town and Shay-geared railroad. Labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 154,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4d0bc0af204b8443",
-   "projectedSlug": "wv-thurmond-historic-district",
-   "targetSlug": null,
-   "name": "Thurmond Historic District",
-   "town": "Thurmond",
-   "county": "Fayette",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "NPS district (New River Gorge) — near-ghost railroad town, bank and coaling tower standing. Weird-spot layer over rail/labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 146,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_4d978cbb4be3bd1c",
-   "projectedSlug": "wv-whipple-company-store",
-   "targetSlug": null,
-   "name": "Whipple Company Store",
-   "town": "Scarbro",
-   "county": "Fayette",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Museum — company store and scrip system of the New River coalfield. Coal/labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 142,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5014d616e6d581d8",
-   "projectedSlug": "wv-pricketts-fort-state-park",
-   "targetSlug": null,
-   "name": "Prickett's Fort State Park",
-   "town": "Fairmont",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "State park — reconstructed 1774 frontier refuge fort",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 125,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_5d832ed3f7d88bae",
-   "projectedSlug": "wv-the-greenbrier-and-the-congressional-bunker",
-   "targetSlug": null,
-   "name": "The Greenbrier & the Congressional Bunker",
-   "town": "White Sulphur Springs",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Resort bunker tours — ★ THEME: military. Cold War congressional relocation facility hidden under the hotel (1958–1992)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 160,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6cdd04e3d20b1eaa",
-   "projectedSlug": "wv-grave-creek-mound-archaeological-complex",
-   "targetSlug": null,
-   "name": "Grave Creek Mound Archaeological Complex",
-   "town": "Moundsville",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "State museum and mound — one of the largest Adena conical burial mounds. Indigenous ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 120,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_6f9ff9ecdef2c374",
-   "projectedSlug": "wv-hatfield-cemetery-devil-anse-hatfield-grave",
-   "targetSlug": null,
-   "name": "Hatfield Cemetery (Devil Anse Hatfield grave)",
-   "town": "Sarah Ann",
-   "county": "Logan",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Public cemetery — life-size marble statue over the feud patriarch's grave. Feud/weird layer",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 148,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_70d505a40bfde7b1",
-   "projectedSlug": "wv-camp-allegheny-battlefield",
-   "targetSlug": null,
-   "name": "Camp Allegheny Battlefield",
-   "town": "",
-   "county": "Pocahontas",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Remote high-elevation Confederate camp and December 1861 battlefield; public ground, verify access",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 158,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_722fbbbace54fa13",
-   "projectedSlug": "wv-mount-wood-cemetery",
-   "targetSlug": null,
-   "name": "Mount Wood Cemetery",
-   "town": "Wheeling",
-   "county": "West Virginia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "cemetery — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 304,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_76c85f933df3df47",
-   "projectedSlug": "wv-scotts-run-museum",
-   "targetSlug": null,
-   "name": "Scotts Run Museum",
-   "town": "Osage",
-   "county": "Monongalia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Community museum — Depression-era coal camp photographed into national fame; verify hours. Coal/labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 128,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_790087ab6f391a3c",
-   "projectedSlug": "wv-wheeling-suspension-bridge-and-centre-market-district",
-   "targetSlug": null,
-   "name": "Wheeling Suspension Bridge & Centre Market district",
-   "town": "Wheeling",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Public bridge and market district — 1849 bridge, then the world's longest span",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 122,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_7f6261b0e15e6e8c",
-   "projectedSlug": "wv-mothman-museum",
-   "targetSlug": null,
-   "name": "Mothman Museum",
-   "town": "Point Pleasant",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Museum — ★ THEME: weird spot. 1966–67 Mothman reports and the 1967 Silver Bridge collapse (46 dead) on the same riverfront",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 168,
-     "dialect": "desk-sweep-4",
-     "role": "dead"
-    }
-   ],
-   "queueState": "checked-dead",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_824825fee1d561ca",
-   "projectedSlug": "wv-exhibition-coal-mine",
-   "targetSlug": null,
-   "name": "Exhibition Coal Mine",
-   "town": "Beckley",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "City museum — guided tour through a vintage underground mine with veteran miners. Coal/labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 141,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_858e861b8c91abf7",
-   "projectedSlug": "wv-west-virginia-state-penitentiary",
-   "targetSlug": null,
-   "name": "West Virginia State Penitentiary",
-   "town": "Moundsville",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Tour museum — ★ THEME: prison (double weight). 1866–1995 Gothic state prison, 94 executions; haunted history is a major labeled-lore layer over the documented record",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 119,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_85f6e742fd627070",
-   "projectedSlug": "wv-carnifex-ferry-battlefield-state-park",
-   "targetSlug": null,
-   "name": "Carnifex Ferry Battlefield State Park",
-   "town": "",
-   "county": "Nicholas",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "State park — September 1861 battle above the Gauley River",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 156,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_86d56327bb7f1f22",
-   "projectedSlug": "wv-blennerhassett-hotel",
-   "targetSlug": null,
-   "name": "Blennerhassett Hotel",
-   "town": "Parkersburg",
-   "county": "West Virginia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 294,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_88d833da75b696ca",
-   "projectedSlug": "wv-monongah-mine-disaster-memorial-and-heroine-statue",
-   "targetSlug": null,
-   "name": "Monongah Mine Disaster memorial & Heroine Statue",
-   "town": "Monongah",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Public memorial — coal/labor ground: worst U.S. mining disaster (Dec. 6, 1907; 362 dead, many Italian immigrants)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 126,
-     "dialect": "desk-sweep-4",
-     "role": "dead"
-    }
-   ],
-   "queueState": "checked-dead",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9ae0cc7a1e33f77e",
-   "projectedSlug": "wv-lake-shawnee-abandoned-amusement-park",
-   "targetSlug": null,
-   "name": "Lake Shawnee Abandoned Amusement Park",
-   "town": "Rock",
-   "county": "West Virginia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "other — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 291,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9b9a322784047aa4",
-   "projectedSlug": "wv-blennerhassett-island",
-   "targetSlug": null,
-   "name": "Blennerhassett Island",
-   "town": "Parkersburg",
-   "county": "West Virginia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 300,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_9c74da489a4ecac2",
-   "projectedSlug": "wv-eccles-mine-disaster-memorial",
-   "targetSlug": null,
-   "name": "Eccles Mine Disaster Memorial",
-   "town": "Eccles",
-   "county": "Raleigh",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Public memorial — 1914 explosions, 180+ dead. Coal/labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 145,
-     "dialect": "desk-sweep-4",
-     "role": "dead"
-    }
-   ],
-   "queueState": "checked-dead",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a823dfb8e4871de9",
-   "projectedSlug": "wv-droop-mountain-battlefield-state-park",
-   "targetSlug": null,
-   "name": "Droop Mountain Battlefield State Park",
-   "town": "",
-   "county": "Pocahontas",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "State park — November 1863 battle, West Virginia's first state park",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 155,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_a8a5b259f0022120",
-   "projectedSlug": "wv-sistersville-historic-district-and-wells-inn",
-   "targetSlug": null,
-   "name": "Sistersville Historic District & Wells Inn",
-   "town": "Sistersville",
-   "county": "Tyler",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Public town — 1890s oil-boom district, still-running Ohio River ferry nearby",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 169,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_ae6563c96c07f19f",
-   "projectedSlug": "wv-tu-endie-wei-state-park-battle-of-point-pleasant",
-   "targetSlug": null,
-   "name": "Tu-Endie-Wei State Park (Battle of Point Pleasant)",
-   "town": "Point Pleasant",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "State park — October 10, 1774 battle at the Ohio–Kanawha confluence; Chief Cornstalk ground. Indigenous/colonial ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 167,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_afaf44a4a547eae7",
-   "projectedSlug": "wv-philippi-covered-bridges-and-barbour-county-historical-museum",
-   "targetSlug": null,
-   "name": "Philippi covered bridges & Barbour County Historical Museum",
-   "town": "Philippi",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Museum — ★ THEME: asylum + weird (double weight). The museum displays the Philippi Mummies: two women who died at the state asylum in Weston, preserved by an embalming experiment; town is also the first land battle of the Civil War (June 1861)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 127,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_b9f372eccabdc36b",
-   "projectedSlug": "wv-mcdowell-county-courthouse",
-   "targetSlug": null,
-   "name": "McDowell County Courthouse",
-   "town": "Welch",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Public courthouse — Sid Hatfield and Ed Chambers assassinated on its steps, Aug. 1, 1921, igniting the miners' march. Coal/labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 137,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_bafeb108881bab2b",
-   "projectedSlug": "wv-arthurdale",
-   "targetSlug": null,
-   "name": "Arthurdale",
-   "town": "",
-   "county": "Preston",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Museum village — first New Deal homestead community (1933), Eleanor Roosevelt's project. Labor/New Deal ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 129,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_bcc5502f66a0f2a6",
-   "projectedSlug": "wv-shepherdstown-historic-district-and-rumsey-monument",
-   "targetSlug": null,
-   "name": "Shepherdstown Historic District & Rumsey Monument",
-   "town": "Shepherdstown",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Public town and monument — oldest town in WV; steamboat inventor James Rumsey",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 112,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_bcd3575a1ca9e392",
-   "projectedSlug": "wv-droop-mountain-battlefield",
-   "targetSlug": null,
-   "name": "Droop Mountain Battlefield",
-   "town": "Hillsboro",
-   "county": "West Virginia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "battlefield — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 302,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_bf5fd449ccc2a115",
-   "projectedSlug": "wv-harpers-ferry",
-   "targetSlug": null,
-   "name": "Harpers Ferry",
-   "town": "Harpers Ferry",
-   "county": "West Virginia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 292,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c1d68f55ac5edaf8",
-   "projectedSlug": "wv-wells-inn",
-   "targetSlug": null,
-   "name": "Wells Inn",
-   "town": "Sistersville",
-   "county": "West Virginia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 303,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_c3ef8ec6b58ea3af",
-   "projectedSlug": "wv-the-greenbrier",
-   "targetSlug": null,
-   "name": "The Greenbrier",
-   "town": "White Sulphur Springs",
-   "county": "West Virginia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 298,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_d457e7d4454b17b5",
-   "projectedSlug": "wv-oil-and-gas-museum",
-   "targetSlug": null,
-   "name": "Oil and Gas Museum",
-   "town": "Parkersburg",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Museum — West Virginia's oil-boom industry",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 124,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_da9ea82dc20a1d76",
-   "projectedSlug": "wv-blair-mountain-battlefield",
-   "targetSlug": null,
-   "name": "Blair Mountain Battlefield",
-   "town": "",
-   "county": "Logan",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Coal/labor ground. Largest armed labor uprising in U.S. history (1921); battlefield largely private coal land, NRHP listing contested, roadside markers only — flag",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 138,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e1c3fa07c0cce07e",
-   "projectedSlug": "wv-old-hospital-on-college-hill",
-   "targetSlug": null,
-   "name": "Old Hospital on College Hill",
-   "town": "Williamson",
-   "county": "West Virginia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "hospital — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 293,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e2fae54aad661ac6",
-   "projectedSlug": "wv-west-virginia-independence-hall",
-   "targetSlug": null,
-   "name": "West Virginia Independence Hall",
-   "town": "Wheeling",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "State museum — birthplace of West Virginia statehood (1863)",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 121,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e546581cf9492607",
-   "projectedSlug": "wv-john-brown-trial-site-jefferson-county-courthouse",
-   "targetSlug": null,
-   "name": "John Brown trial site — Jefferson County Courthouse",
-   "town": "Charles Town",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Public courthouse — 1859 treason trial; execution-site marker nearby",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 111,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e7b126b420139519",
-   "projectedSlug": "wv-beverly-historic-district-and-rich-mountain-battlefield",
-   "targetSlug": null,
-   "name": "Beverly Historic District & Rich Mountain Battlefield",
-   "town": "Beverly",
-   "county": "Randolph",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Town preservation sites and battlefield — 1861 campaign ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 157,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_e9370e9038213823",
-   "projectedSlug": "wv-upper-big-branch-miners-memorial",
-   "targetSlug": null,
-   "name": "Upper Big Branch Miners Memorial",
-   "town": "Whitesville",
-   "county": "Boone",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Public memorial plaza — April 5, 2010 explosion, 29 dead. Coal/labor ground",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 144,
-     "dialect": "desk-sweep-4",
-     "role": "dead"
-    }
-   ],
-   "queueState": "checked-dead",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f10b1c1376095bb7",
-   "projectedSlug": "wv-green-bank-observatory-and-science-center",
-   "targetSlug": null,
-   "name": "Green Bank Observatory & Science Center",
-   "town": "Green Bank",
-   "county": "Pocahontas",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Public tours — ★ THEME: weird spot. Giant radio telescopes inside the National Radio Quiet Zone",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 159,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f1ddf671692b98de",
-   "projectedSlug": "wv-matewan-historic-district-and-west-virginia-mine-wars-museum",
-   "targetSlug": null,
-   "name": "Matewan Historic District & West Virginia Mine Wars Museum",
-   "town": "Matewan",
-   "county": "Mingo",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Museum in a bullet-marked building; NHL district — coal/labor ground (top priority): May 19, 1920 Battle of Matewan",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 136,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f201ffffb11822be",
-   "projectedSlug": "wv-hotel-morgan",
-   "targetSlug": null,
-   "name": "Hotel Morgan",
-   "town": "Morgantown",
-   "county": "West Virginia",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "haunted-leads-sweep.md",
-     "row": 305,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
-   "id": "lq_f4b9f4b896ea96ec",
-   "projectedSlug": "wv-b-and-o-roundhouse-complex",
-   "targetSlug": null,
-   "name": "B&O Roundhouse complex",
-   "town": "Martinsburg",
-   "county": "",
-   "state": "WV",
-   "tier": null,
-   "anchorPosture": "Public historic site — coal/labor ground: the Great Railroad Strike of 1877 began here",
-   "registerId": null,
-   "sources": [
-    {
-     "file": "VA-WV-MD-DE-first-sweep.md",
-     "row": 113,
-     "dialect": "desk-sweep-4",
-     "role": "lead"
-    }
-   ],
-   "queueState": "queued",
-   "reconcile": null,
-   "attempts": []
-  },
-  {
    "id": "lq_7c933f66c04a27ef",
    "projectedSlug": "al-national-memorial-for-peace-and-justice-and-the-legacy-museum",
    "targetSlug": "AL-legacy-museum-national-memorial-montgomery",
@@ -153102,6 +151854,1254 @@
    "attempts": []
   },
   {
+   "id": "lq_0063a5906f462c2b",
+   "projectedSlug": "wv-john-henry-historical-park-and-great-bend-tunnel",
+   "targetSlug": null,
+   "name": "John Henry Historical Park & Great Bend Tunnel",
+   "town": "Talcott",
+   "county": "Summers",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Public park and museum at the tunnel mouth — the documented ground under the John Henry legend. Coal/labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 147,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_0c9d83c77f8a8d4a",
+   "projectedSlug": "wv-hawks-nest-tunnel-disaster-workers-memorial-and-grave-site",
+   "targetSlug": null,
+   "name": "Hawks Nest Tunnel Disaster — Workers Memorial & Grave Site",
+   "town": "Mt. Lookout",
+   "county": "Nicholas (+ Hawks Nest State Park)",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Public memorial and grave site; state park overlook above the tunnel — coal/labor ground (top priority): 1930–31 Union Carbide tunnel, hundreds of mostly Black migrant workers dead of silicosis; death toll still disputed in the record",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 143,
+     "dialect": "desk-sweep-4",
+     "role": "dead"
+    }
+   ],
+   "queueState": "checked-dead",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_155933e84b127c55",
+   "projectedSlug": "wv-bramwell-historic-district",
+   "targetSlug": null,
+   "name": "Bramwell Historic District",
+   "town": "Bramwell",
+   "county": "Mercer",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Public town — coal barons' mansion street; pairs with Pocahontas, VA exhibition mine",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 140,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_1b8e8d2342cd6ffd",
+   "projectedSlug": "wv-alderson-federal-prison-camp",
+   "targetSlug": null,
+   "name": "Alderson Federal Prison Camp",
+   "town": "Alderson",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "★ THEME: prison. First federal women's prison (1927), still active — no public tours or anchor. Flag",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 161,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_275070866834d19e",
+   "projectedSlug": "wv-blennerhassett-island-historical-state-park",
+   "targetSlug": null,
+   "name": "Blennerhassett Island Historical State Park",
+   "town": "Parkersburg",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "State park (sternwheeler access) — Blennerhassett mansion and Burr conspiracy ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 123,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_2dd778c735a0d6ee",
+   "projectedSlug": "wv-old-sweet-springs",
+   "targetSlug": null,
+   "name": "Old Sweet Springs",
+   "town": "Sweet Springs",
+   "county": "West Virginia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "hotel — no lawful public anchor found; research reading only, not visitable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 297,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_2eda96694d823771",
+   "projectedSlug": "wv-harpers-ferry-national-historical-park",
+   "targetSlug": null,
+   "name": "Harpers Ferry National Historical Park",
+   "town": "Harpers Ferry",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "NPS unit — ★ THEME: military. John Brown's 1859 raid, federal armory, Civil War crossroads; Storer College layer (Niagara Movement 1906)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 110,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_2f1b9baea114d427",
+   "projectedSlug": "wv-silver-run-tunnel",
+   "targetSlug": null,
+   "name": "Silver Run Tunnel",
+   "town": "Cairo",
+   "county": "West Virginia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 299,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_3426497b27b5a196",
+   "projectedSlug": "wv-trans-allegheny-lunatic-asylum",
+   "targetSlug": null,
+   "name": "Trans-Allegheny Lunatic Asylum",
+   "town": "Weston",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Tour site (NHL) — ★ THEME: asylum (double weight). Largest hand-cut stone building in North America, Kirkbride plan, 1864–1994; haunted tours are a labeled-lore layer",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 130,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    },
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 290,
+     "dialect": "desk-sweep-4",
+     "role": "listed"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_381e83a8e88ad560",
+   "projectedSlug": "wv-old-stone-church",
+   "targetSlug": null,
+   "name": "Old Stone Church",
+   "town": "Lewisburg",
+   "county": "West Virginia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 296,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_38f45fa2f085acf0",
+   "projectedSlug": "wv-coal-house",
+   "targetSlug": null,
+   "name": "Coal House",
+   "town": "Williamson",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Chamber of commerce building built entirely of coal (1933) — ★ THEME: weird spot",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 139,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4b281c2267302165",
+   "projectedSlug": "wv-general-lewis-inn",
+   "targetSlug": null,
+   "name": "General Lewis Inn",
+   "town": "Lewisburg",
+   "county": "West Virginia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 301,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4c7f0aa09926ed16",
+   "projectedSlug": "wv-cass-scenic-railroad-state-park",
+   "targetSlug": null,
+   "name": "Cass Scenic Railroad State Park",
+   "town": "Cass",
+   "county": "Pocahontas",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "State park — intact company logging town and Shay-geared railroad. Labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 154,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4d0bc0af204b8443",
+   "projectedSlug": "wv-thurmond-historic-district",
+   "targetSlug": null,
+   "name": "Thurmond Historic District",
+   "town": "Thurmond",
+   "county": "Fayette",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "NPS district (New River Gorge) — near-ghost railroad town, bank and coaling tower standing. Weird-spot layer over rail/labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 146,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_4d978cbb4be3bd1c",
+   "projectedSlug": "wv-whipple-company-store",
+   "targetSlug": null,
+   "name": "Whipple Company Store",
+   "town": "Scarbro",
+   "county": "Fayette",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Museum — company store and scrip system of the New River coalfield. Coal/labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 142,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5014d616e6d581d8",
+   "projectedSlug": "wv-pricketts-fort-state-park",
+   "targetSlug": null,
+   "name": "Prickett's Fort State Park",
+   "town": "Fairmont",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "State park — reconstructed 1774 frontier refuge fort",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 125,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_5d832ed3f7d88bae",
+   "projectedSlug": "wv-the-greenbrier-and-the-congressional-bunker",
+   "targetSlug": null,
+   "name": "The Greenbrier & the Congressional Bunker",
+   "town": "White Sulphur Springs",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Resort bunker tours — ★ THEME: military. Cold War congressional relocation facility hidden under the hotel (1958–1992)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 160,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6cdd04e3d20b1eaa",
+   "projectedSlug": "wv-grave-creek-mound-archaeological-complex",
+   "targetSlug": null,
+   "name": "Grave Creek Mound Archaeological Complex",
+   "town": "Moundsville",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "State museum and mound — one of the largest Adena conical burial mounds. Indigenous ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 120,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_6f9ff9ecdef2c374",
+   "projectedSlug": "wv-hatfield-cemetery-devil-anse-hatfield-grave",
+   "targetSlug": null,
+   "name": "Hatfield Cemetery (Devil Anse Hatfield grave)",
+   "town": "Sarah Ann",
+   "county": "Logan",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Public cemetery — life-size marble statue over the feud patriarch's grave. Feud/weird layer",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 148,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_70d505a40bfde7b1",
+   "projectedSlug": "wv-camp-allegheny-battlefield",
+   "targetSlug": null,
+   "name": "Camp Allegheny Battlefield",
+   "town": "",
+   "county": "Pocahontas",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Remote high-elevation Confederate camp and December 1861 battlefield; public ground, verify access",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 158,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_722fbbbace54fa13",
+   "projectedSlug": "wv-mount-wood-cemetery",
+   "targetSlug": null,
+   "name": "Mount Wood Cemetery",
+   "town": "Wheeling",
+   "county": "West Virginia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "cemetery — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 304,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_76c85f933df3df47",
+   "projectedSlug": "wv-scotts-run-museum",
+   "targetSlug": null,
+   "name": "Scotts Run Museum",
+   "town": "Osage",
+   "county": "Monongalia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Community museum — Depression-era coal camp photographed into national fame; verify hours. Coal/labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 128,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_790087ab6f391a3c",
+   "projectedSlug": "wv-wheeling-suspension-bridge-and-centre-market-district",
+   "targetSlug": null,
+   "name": "Wheeling Suspension Bridge & Centre Market district",
+   "town": "Wheeling",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Public bridge and market district — 1849 bridge, then the world's longest span",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 122,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_7f6261b0e15e6e8c",
+   "projectedSlug": "wv-mothman-museum",
+   "targetSlug": null,
+   "name": "Mothman Museum",
+   "town": "Point Pleasant",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Museum — ★ THEME: weird spot. 1966–67 Mothman reports and the 1967 Silver Bridge collapse (46 dead) on the same riverfront",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 168,
+     "dialect": "desk-sweep-4",
+     "role": "dead"
+    }
+   ],
+   "queueState": "checked-dead",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_824825fee1d561ca",
+   "projectedSlug": "wv-exhibition-coal-mine",
+   "targetSlug": null,
+   "name": "Exhibition Coal Mine",
+   "town": "Beckley",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "City museum — guided tour through a vintage underground mine with veteran miners. Coal/labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 141,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_858e861b8c91abf7",
+   "projectedSlug": "wv-west-virginia-state-penitentiary",
+   "targetSlug": null,
+   "name": "West Virginia State Penitentiary",
+   "town": "Moundsville",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Tour museum — ★ THEME: prison (double weight). 1866–1995 Gothic state prison, 94 executions; haunted history is a major labeled-lore layer over the documented record",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 119,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_85f6e742fd627070",
+   "projectedSlug": "wv-carnifex-ferry-battlefield-state-park",
+   "targetSlug": null,
+   "name": "Carnifex Ferry Battlefield State Park",
+   "town": "",
+   "county": "Nicholas",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "State park — September 1861 battle above the Gauley River",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 156,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_86d56327bb7f1f22",
+   "projectedSlug": "wv-blennerhassett-hotel",
+   "targetSlug": null,
+   "name": "Blennerhassett Hotel",
+   "town": "Parkersburg",
+   "county": "West Virginia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 294,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_88d833da75b696ca",
+   "projectedSlug": "wv-monongah-mine-disaster-memorial-and-heroine-statue",
+   "targetSlug": null,
+   "name": "Monongah Mine Disaster memorial & Heroine Statue",
+   "town": "Monongah",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Public memorial — coal/labor ground: worst U.S. mining disaster (Dec. 6, 1907; 362 dead, many Italian immigrants)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 126,
+     "dialect": "desk-sweep-4",
+     "role": "dead"
+    }
+   ],
+   "queueState": "checked-dead",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_9ae0cc7a1e33f77e",
+   "projectedSlug": "wv-lake-shawnee-abandoned-amusement-park",
+   "targetSlug": null,
+   "name": "Lake Shawnee Abandoned Amusement Park",
+   "town": "Rock",
+   "county": "West Virginia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "other — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 291,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_9b9a322784047aa4",
+   "projectedSlug": "wv-blennerhassett-island",
+   "targetSlug": null,
+   "name": "Blennerhassett Island",
+   "town": "Parkersburg",
+   "county": "West Virginia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "house — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 300,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_9c74da489a4ecac2",
+   "projectedSlug": "wv-eccles-mine-disaster-memorial",
+   "targetSlug": null,
+   "name": "Eccles Mine Disaster Memorial",
+   "town": "Eccles",
+   "county": "Raleigh",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Public memorial — 1914 explosions, 180+ dead. Coal/labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 145,
+     "dialect": "desk-sweep-4",
+     "role": "dead"
+    }
+   ],
+   "queueState": "checked-dead",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a823dfb8e4871de9",
+   "projectedSlug": "wv-droop-mountain-battlefield-state-park",
+   "targetSlug": null,
+   "name": "Droop Mountain Battlefield State Park",
+   "town": "",
+   "county": "Pocahontas",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "State park — November 1863 battle, West Virginia's first state park",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 155,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_a8a5b259f0022120",
+   "projectedSlug": "wv-sistersville-historic-district-and-wells-inn",
+   "targetSlug": null,
+   "name": "Sistersville Historic District & Wells Inn",
+   "town": "Sistersville",
+   "county": "Tyler",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Public town — 1890s oil-boom district, still-running Ohio River ferry nearby",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 169,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_ae6563c96c07f19f",
+   "projectedSlug": "wv-tu-endie-wei-state-park-battle-of-point-pleasant",
+   "targetSlug": null,
+   "name": "Tu-Endie-Wei State Park (Battle of Point Pleasant)",
+   "town": "Point Pleasant",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "State park — October 10, 1774 battle at the Ohio–Kanawha confluence; Chief Cornstalk ground. Indigenous/colonial ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 167,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_afaf44a4a547eae7",
+   "projectedSlug": "wv-philippi-covered-bridges-and-barbour-county-historical-museum",
+   "targetSlug": null,
+   "name": "Philippi covered bridges & Barbour County Historical Museum",
+   "town": "Philippi",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Museum — ★ THEME: asylum + weird (double weight). The museum displays the Philippi Mummies: two women who died at the state asylum in Weston, preserved by an embalming experiment; town is also the first land battle of the Civil War (June 1861)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 127,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_b9f372eccabdc36b",
+   "projectedSlug": "wv-mcdowell-county-courthouse",
+   "targetSlug": null,
+   "name": "McDowell County Courthouse",
+   "town": "Welch",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Public courthouse — Sid Hatfield and Ed Chambers assassinated on its steps, Aug. 1, 1921, igniting the miners' march. Coal/labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 137,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_bafeb108881bab2b",
+   "projectedSlug": "wv-arthurdale",
+   "targetSlug": null,
+   "name": "Arthurdale",
+   "town": "",
+   "county": "Preston",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Museum village — first New Deal homestead community (1933), Eleanor Roosevelt's project. Labor/New Deal ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 129,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_bcc5502f66a0f2a6",
+   "projectedSlug": "wv-shepherdstown-historic-district-and-rumsey-monument",
+   "targetSlug": null,
+   "name": "Shepherdstown Historic District & Rumsey Monument",
+   "town": "Shepherdstown",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Public town and monument — oldest town in WV; steamboat inventor James Rumsey",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 112,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_bcd3575a1ca9e392",
+   "projectedSlug": "wv-droop-mountain-battlefield",
+   "targetSlug": null,
+   "name": "Droop Mountain Battlefield",
+   "town": "Hillsboro",
+   "county": "West Virginia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "battlefield — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 302,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_bf5fd449ccc2a115",
+   "projectedSlug": "wv-harpers-ferry",
+   "targetSlug": null,
+   "name": "Harpers Ferry",
+   "town": "Harpers Ferry",
+   "county": "West Virginia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "other — anchor: public grounds or building open to visitors. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 292,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c1d68f55ac5edaf8",
+   "projectedSlug": "wv-wells-inn",
+   "targetSlug": null,
+   "name": "Wells Inn",
+   "town": "Sistersville",
+   "county": "West Virginia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 303,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_c3ef8ec6b58ea3af",
+   "projectedSlug": "wv-the-greenbrier",
+   "targetSlug": null,
+   "name": "The Greenbrier",
+   "town": "White Sulphur Springs",
+   "county": "West Virginia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 298,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_d457e7d4454b17b5",
+   "projectedSlug": "wv-oil-and-gas-museum",
+   "targetSlug": null,
+   "name": "Oil and Gas Museum",
+   "town": "Parkersburg",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Museum — West Virginia's oil-boom industry",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 124,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_da9ea82dc20a1d76",
+   "projectedSlug": "wv-blair-mountain-battlefield",
+   "targetSlug": null,
+   "name": "Blair Mountain Battlefield",
+   "town": "",
+   "county": "Logan",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Coal/labor ground. Largest armed labor uprising in U.S. history (1921); battlefield largely private coal land, NRHP listing contested, roadside markers only — flag",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 138,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e1c3fa07c0cce07e",
+   "projectedSlug": "wv-old-hospital-on-college-hill",
+   "targetSlug": null,
+   "name": "Old Hospital on College Hill",
+   "town": "Williamson",
+   "county": "West Virginia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "hospital — anchor: ticketed tours / ghost tours run here. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 293,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e2fae54aad661ac6",
+   "projectedSlug": "wv-west-virginia-independence-hall",
+   "targetSlug": null,
+   "name": "West Virginia Independence Hall",
+   "town": "Wheeling",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "State museum — birthplace of West Virginia statehood (1863)",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 121,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e546581cf9492607",
+   "projectedSlug": "wv-john-brown-trial-site-jefferson-county-courthouse",
+   "targetSlug": null,
+   "name": "John Brown trial site — Jefferson County Courthouse",
+   "town": "Charles Town",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Public courthouse — 1859 treason trial; execution-site marker nearby",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 111,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e7b126b420139519",
+   "projectedSlug": "wv-beverly-historic-district-and-rich-mountain-battlefield",
+   "targetSlug": null,
+   "name": "Beverly Historic District & Rich Mountain Battlefield",
+   "town": "Beverly",
+   "county": "Randolph",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Town preservation sites and battlefield — 1861 campaign ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 157,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_e9370e9038213823",
+   "projectedSlug": "wv-upper-big-branch-miners-memorial",
+   "targetSlug": null,
+   "name": "Upper Big Branch Miners Memorial",
+   "town": "Whitesville",
+   "county": "Boone",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Public memorial plaza — April 5, 2010 explosion, 29 dead. Coal/labor ground",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 144,
+     "dialect": "desk-sweep-4",
+     "role": "dead"
+    }
+   ],
+   "queueState": "checked-dead",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f10b1c1376095bb7",
+   "projectedSlug": "wv-green-bank-observatory-and-science-center",
+   "targetSlug": null,
+   "name": "Green Bank Observatory & Science Center",
+   "town": "Green Bank",
+   "county": "Pocahontas",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Public tours — ★ THEME: weird spot. Giant radio telescopes inside the National Radio Quiet Zone",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 159,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f1ddf671692b98de",
+   "projectedSlug": "wv-matewan-historic-district-and-west-virginia-mine-wars-museum",
+   "targetSlug": null,
+   "name": "Matewan Historic District & West Virginia Mine Wars Museum",
+   "town": "Matewan",
+   "county": "Mingo",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Museum in a bullet-marked building; NHL district — coal/labor ground (top priority): May 19, 1920 Battle of Matewan",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 136,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f201ffffb11822be",
+   "projectedSlug": "wv-hotel-morgan",
+   "targetSlug": null,
+   "name": "Hotel Morgan",
+   "town": "Morgantown",
+   "county": "West Virginia",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "hotel — anchor: operating hotel/inn — bookable. Source: hauntedrooms.com",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "haunted-leads-sweep.md",
+     "row": 305,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
+   "id": "lq_f4b9f4b896ea96ec",
+   "projectedSlug": "wv-b-and-o-roundhouse-complex",
+   "targetSlug": null,
+   "name": "B&O Roundhouse complex",
+   "town": "Martinsburg",
+   "county": "",
+   "state": "WV",
+   "tier": null,
+   "anchorPosture": "Public historic site — coal/labor ground: the Great Railroad Strike of 1877 began here",
+   "registerId": null,
+   "sources": [
+    {
+     "file": "VA-WV-MD-DE-first-sweep.md",
+     "row": 113,
+     "dialect": "desk-sweep-4",
+     "role": "lead"
+    }
+   ],
+   "queueState": "queued",
+   "reconcile": null,
+   "attempts": []
+  },
+  {
    "id": "lq_109e52bfdc9c0984",
    "projectedSlug": "md-lord-baltimore-hotel",
    "targetSlug": null,
@@ -175082,7 +175082,7 @@
   {
    "id": "lq_a7a1a93d3862c86a",
    "projectedSlug": "mo-missouri-state-penitentiary",
-   "targetSlug": null,
+   "targetSlug": "MO-missouri-state-penitentiary",
    "name": "Missouri State Penitentiary",
    "town": "Jefferson City",
    "county": "Missouri",
@@ -175098,8 +175098,8 @@
      "role": "lead"
     }
    ],
-   "queueState": "queued",
-   "reconcile": null,
+   "queueState": "published",
+   "reconcile": "published",
    "attempts": []
   },
   {
@@ -179646,8 +179646,8 @@
   "byQueueState": {
    "checked-dead": 23,
    "held": 27,
-   "published": 55,
-   "queued": 6925
+   "published": 56,
+   "queued": 6924
   },
   "byState": {
    "AK": 121,
