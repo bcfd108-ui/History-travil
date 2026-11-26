@@ -173,6 +173,29 @@ const reviewedLoc = new Map([
     "https://www.loc.gov/item/va0436/",
     federal + " https://www.loc.gov/rr/print/res/114_habs.html",
   ]],
+  ["OH-serpent-mound", [
+    "https://www.loc.gov/pictures/item/oh2016/",
+    federal + " http://www.loc.gov/rr/print/res/114_habs.html",
+  ]],
+  ["OH-dayton-aviation-heritage", [
+    "https://www.loc.gov/item/2001696497/", "No known restrictions.",
+  ]],
+  ["OH-john-rankin-house", [
+    "https://www.loc.gov/item/oh0042/",
+    federal + " http://www.loc.gov/rr/print/res/114_habs.html",
+  ]],
+  ["OH-zoar-village", [
+    "https://www.loc.gov/item/oh0221/",
+    federal + " https://www.loc.gov/rr/print/res/114_habs.html",
+  ]],
+  ["OH-edison-birthplace", [
+    "https://www.loc.gov/item/oh0271/",
+    federal + " https://www.loc.gov/rr/print/res/114_habs.html",
+  ]],
+  ["OH-oberlin-abolition-ground", [
+    "https://www.loc.gov/item/oh0099/",
+    federal + " https://www.loc.gov/rr/print/res/114_habs.html",
+  ]],
 ]);
 const centraliaSource = "https://commons.wikimedia.org/wiki/File:A421,_Centralia,_Pennsylvania,_USA,_Route_61,_abandoned_section_above_coal_mine_fire,_2016.jpg";
 
