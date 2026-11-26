@@ -9353,6 +9353,18 @@
    "attempts": []
   },
   {
+   "id": "vq_CA-alcatraz-island",
+   "slug": "CA-alcatraz-island",
+   "name": "HT-RES-CA-alcatraz-island — A fortress, a military prison, and a federal penitentiary on one bay island",
+   "town": "San Francisco",
+   "state": "CA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-CA-alcatraz-island.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_IL-lincoln-home-national-historic-site",
    "slug": "IL-lincoln-home-national-historic-site",
    "name": "Lincoln Home National Historic Site, Springfield",
@@ -9373,6 +9385,42 @@
    "verifiedOn": "2026-11-22",
    "verifiedOnSource": "corpus-checked-line",
    "corpusFile": "HT-RES-IL-starved-rock-fort-st-louis.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_KY-waverly-hills-sanatorium",
+   "slug": "KY-waverly-hills-sanatorium",
+   "name": "HT-RES-KY-waverly-hills-sanatorium — A tuberculosis sanatorium on a Louisville hill, built in two campaigns against an epidemic",
+   "town": "Louisville",
+   "state": "KY",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-KY-waverly-hills-sanatorium.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MO-missouri-state-penitentiary",
+   "slug": "MO-missouri-state-penitentiary",
+   "name": "HT-RES-MO-missouri-state-penitentiary — The stone front on Lafayette Street",
+   "town": "Jefferson City",
+   "state": "MO",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MO-missouri-state-penitentiary.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MT-old-montana-prison",
+   "slug": "MT-old-montana-prison",
+   "name": "HT-RES-MT-old-montana-prison — A territorial prison opened in 1871 and emptied in 1979, its wall and cell house still standing on Main Street, Deer Lodge",
+   "town": "Deer Lodge",
+   "state": "MT",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MT-old-montana-prison.md",
    "queueState": "queued",
    "attempts": []
   },
@@ -9581,6 +9629,18 @@
    "attempts": []
   },
   {
+   "id": "vq_OH-ohio-state-reformatory",
+   "slug": "OH-ohio-state-reformatory",
+   "name": "HT-RES-OH-ohio-state-reformatory — A limestone front built to reform young men, closed by a federal court",
+   "town": "Mansfield",
+   "state": "OH",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-OH-ohio-state-reformatory.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_OH-perrys-victory",
    "slug": "OH-perrys-victory",
    "name": "HT-RES-OH-perrys-victory — Six officers from two fleets under one stone floor, and a column built for peace",
@@ -9649,6 +9709,18 @@
    "verifiedOn": "2026-11-22",
    "verifiedOnSource": "corpus-checked-line",
    "corpusFile": "HT-RES-PA-drake-well-titusville.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_PA-eastern-state-penitentiary",
+   "slug": "PA-eastern-state-penitentiary",
+   "name": "HT-RES-PA-eastern-state-penitentiary — Seven cellblocks radiating from a central hub inside 30-foot granite walls",
+   "town": "Philadelphia",
+   "state": "PA",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-PA-eastern-state-penitentiary.md",
    "queueState": "queued",
    "attempts": []
   },
@@ -9733,6 +9805,18 @@
    "verifiedOn": "2026-11-22",
    "verifiedOnSource": "corpus-checked-line",
    "corpusFile": "HT-RES-PA-valley-forge.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_TN-brushy-mountain-penitentiary",
+   "slug": "TN-brushy-mountain-penitentiary",
+   "name": "HT-RES-TN-brushy-mountain-penitentiary — The stone prison in the hollow below Frozen Head",
+   "town": "Petros",
+   "state": "TN",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-TN-brushy-mountain-penitentiary.md",
    "queueState": "queued",
    "attempts": []
   },
@@ -9853,6 +9937,42 @@
    "verifiedOn": "2026-11-22",
    "verifiedOnSource": "corpus-checked-line",
    "corpusFile": "HT-RES-VA-yorktown-battlefield.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_WV-trans-allegheny-lunatic-asylum",
+   "slug": "WV-trans-allegheny-lunatic-asylum",
+   "name": "HT-RES-WV-trans-allegheny-lunatic-asylum — A Kirkbride asylum in hand-cut blue sandstone, built for 250 patients and filled far beyond that",
+   "town": "Weston",
+   "state": "WV",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WV-trans-allegheny-lunatic-asylum.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_WV-west-virginia-penitentiary",
+   "slug": "WV-west-virginia-penitentiary",
+   "name": "HT-RES-WV-west-virginia-penitentiary — A stone Gothic fortress across from an ancient mound, closed by its own state supreme court",
+   "town": "Moundsville",
+   "state": "WV",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WV-west-virginia-penitentiary.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_WY-wyoming-frontier-prison",
+   "slug": "WY-wyoming-frontier-prison",
+   "name": "HT-RES-WY-wyoming-frontier-prison — Thirteen years from cornerstone to first prisoner, then eighty years of use behind a concrete wall in Rawlins",
+   "town": "Rawlins",
+   "state": "WY",
+   "verifiedOn": "2026-11-22",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-WY-wyoming-frontier-prison.md",
    "queueState": "queued",
    "attempts": []
   },
@@ -10194,8 +10314,8 @@
   }
  ],
  "counts": {
-  "items": 849,
-  "dated": 608,
+  "items": 859,
+  "dated": 618,
   "unrecorded": 241
  }
 }
