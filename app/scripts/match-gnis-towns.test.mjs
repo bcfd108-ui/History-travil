@@ -1,0 +1,17 @@
+import test from "node:test";
+import assert from "node:assert/strict";
+import {matchTowns} from "./match-gnis-towns.mjs";
+const f=(id,county="Alpha",state="ID",extra={})=>({id,name:"Example",state,county,featureClass:"Populated Place",lat:45,lon:-116,...extra});
+const s=(extra={})=>({slug:"example",town:"Example",stateCode:"ID",county:"Alpha",...extra});
+const run=(sites,features)=>matchTowns(sites,features,"20261102");
+test("unique exact match retains provenance",()=>{const r=run([s()],[f("1")]);assert.equal(r.references.example.gnisId,"1");assert.equal(r.references.example.precision,"G4");assert.equal(r.references.example.sourceVersion,"20261102");});
+test("county and state disambiguate",()=>assert.equal(run([s()],[f("1"),f("2","Beta"),f("3","Alpha","WA")]).references.example.gnisId,"1"));
+test("missing county unique statewide",()=>assert.equal(run([s({county:""})],[f("1")]).counts.assigned,1));
+test("missing county ambiguous statewide",()=>assert.equal(run([s({county:""})],[f("1"),f("2","Beta")]).decisions[0].status,"ambiguous"));
+test("same county ambiguity",()=>assert.equal(run([s()],[f("1"),f("2")]).counts.assigned,0));
+test("conflicting county stays blank",()=>assert.equal(run([s()],[f("1","Beta")]).decisions[0].status,"unmatched"));
+test("original points and provenance protected",()=>{const a=s({coordinates:{lat:1,lon:2},coordinateKind:"original"});const before=JSON.stringify(a);assert.equal(run([a],[f("1")]).counts.assigned,0);assert.equal(JSON.stringify(a),before);});
+test("invalid coordinate rejected",()=>assert.equal(run([s()],[f("1","Alpha","ID",{lat:91})]).counts.assigned,0));
+test("identical duplicate deduplicated",()=>assert.equal(run([s()],[f("1"),f("1")]).counts.assigned,1));
+test("conflicting duplicate rejected",()=>assert.throws(()=>run([s()],[f("1"),f("1","Alpha","ID",{lat:46})])));
+test("source version mandatory",()=>assert.throws(()=>matchTowns([s()],[f("1")],"")));
