@@ -4757,9 +4757,9 @@
  "CT-farmington-first-church": [
   {
    "src": "/photos/ct-farmington-first-church-97ff108219.webp",
-   "eraRole": "now",
-   "roleLabel": "now",
-   "year": null,
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 1976,
    "title": "First Church of Christ (Congregational), Farmington — the 1771 meetinghouse.",
    "caption": "First Church of Christ (Congregational), Farmington, Connecticut, exterior view of the 1771 meetinghouse. HABS CT-224.",
    "alt": "White clapboard meetinghouse with tall steeple and clock on the Farmington green.",
@@ -4772,7 +4772,7 @@
    "sha256": "97ff10821954030790c914370faa9031278f6d61c5138ebfe1ab4dc9f44f8374",
    "width": 740,
    "height": 1024,
-   "dateNote": "Date not established.",
+   "dateNote": "1976",
    "medium": "photograph",
    "representative": false,
    "groundReview": "Desk eye-check Nov 23, 2026: the white clapboard meetinghouse with tall steeple and clock, portico and green — the 1771 Farmington church, matching the item title.",
@@ -4786,9 +4786,9 @@
  "CT-hartford-mark-twain-house": [
   {
    "src": "/photos/ct-hartford-mark-twain-house-8267d525d7.webp",
-   "eraRole": "now",
-   "roleLabel": "now",
-   "year": null,
+   "eraRole": "then",
+   "roleLabel": "then",
+   "year": 1967,
    "title": "Mark Twain House, Hartford — the 1874 Clemens residence.",
    "caption": "Mark Twain House, Hartford, Connecticut, exterior view of the 1874 Clemens residence. HABS CT-359.",
    "alt": "Polychrome brick house with gabled porch and upper balcony among trees — the Mark Twain House, Hartford.",
@@ -4801,7 +4801,7 @@
    "sha256": "8267d525d7008bf19b8954c7bc33b8c668f3f522a26559cbc02df2d402439bc3",
    "width": 1024,
    "height": 817,
-   "dateNote": "Date not established.",
+   "dateNote": "1967",
    "medium": "photograph",
    "representative": false,
    "groundReview": "Desk eye-check Nov 23, 2026: the polychrome brick house with gabled porch, upper balcony and distinctive silhouette among trees — the Clemens house at 351 Farmington Avenue; edge marking ties the frame to the CT-359 survey.",

@@ -1696,9 +1696,9 @@
    "What was searched": "See approved assignment ledger and dossier.",
    "Why photo is needed": "Research the missing era using the exact subject.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "now-only",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "THEN NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -1711,9 +1711,9 @@
    "What was searched": "See approved assignment ledger and dossier.",
    "Why photo is needed": "Research the missing era using the exact subject.",
    "Next desk or field action": "Desk — verify missing era and rights",
-   "Coverage": "now-only",
+   "Coverage": "then-only",
    "Eligibility": "DESK REVIEW",
-   "Gap": "THEN NEEDED",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
