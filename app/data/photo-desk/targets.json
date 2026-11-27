@@ -1,6 +1,6 @@
 {
- "commit": "c26a3e77b3c174e94e51583a500b93716f1069cf",
- "catalogCount": 889,
+ "commit": "9e556fcac85fe84199d581dbd7112b13e5e6815d",
+ "catalogCount": 899,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -18112,6 +18112,321 @@
    }
   },
   {
+   "id": "HT-MI-fayette-historic-state-park",
+   "slug": "MI-fayette-historic-state-park",
+   "title": "HT-RES-MI-fayette-historic-state-park — Two limestone furnaces on a deep harbor, and the town that burned its forest",
+   "town": "Garden, Garden Peninsula (Delta County)",
+   "state": "Michigan",
+   "stateCode": "MI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MI-fayette-historic-state-park — Two limestone furnaces on a deep harbor, and the town that burned its forest",
+   "stableName": "Fayette — Fayette Historic State Park / Fayette Historic Townsite",
+   "address": "",
+   "locator": {
+    "stableName": "Fayette — Fayette Historic State Park / Fayette Historic Townsite",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates print. The Register nomination locates the property by legal description (parts of Sections 4, 5, and 9, T39N, R19W), not by a point, and no primary source checked carries a verified point for the townsite or its entrance. The camera position in the §7 photograph's file record is the photographer's, not the site's, and is not carried here.",
+    "nrhp": "70000269 (listed February 16, 1970)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "Michigan Department of Natural Resources — a Michigan state park since 1959; townsite interpretation carried with the Michigan History Center under the 1974 memorandum the management plan records.",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Garden, Garden Peninsula (Delta County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The historic townsite on Snail Shell Harbor, within Fayette Historic State Park, reached by M-183 south from U.S. 2 at Garden Corners (DNR centennial account)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Public state-park ground, entered under the statewide Recreation Passport rule for motor vehicles. The townsite is walked as the park lays it out; buildings are entered only as the park opens them, and the furnace masonry and closed structures are not climbed or entered. The harbor shore and dock remains are viewed from the park's own ground."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Michigan seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MI-fort-holmes",
+   "slug": "MI-fort-holmes",
+   "title": "HT-RES-MI-fort-holmes — A blockhouse on the island's highest point, built by one army and named by the other",
+   "town": "Mackinac Island (Mackinac County)",
+   "state": "Michigan",
+   "stateCode": "MI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MI-fort-holmes — A blockhouse on the island's highest point, built by one army and named by the other",
+   "stableName": "Fort Holmes (originally Fort George)",
+   "address": "Fort Holmes Road, Mackinac Island, MI (no street number is carried in the operator sources checked)",
+   "locator": {
+    "stableName": "Fort Holmes (originally Fort George)",
+    "address": "Fort Holmes Road, Mackinac Island, MI (no street number is carried in the operator sources checked)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates print. The National Register record checked for this entry (the Mackinac Island district record, 66000397) carries the district's location textually and no point verified as Fort Holmes's own, and no other primary source checked carries a verified point for the fort. Secondary catalogs publish coordinates for the site; under this entry's rule they are not carried.",
+    "nrhp": "Contributing property of the Mackinac Island National Historic Landmark District, NRIS 66000397 (designated October 15, 1966)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000397",
+    "operator": "Mackinac State Historic Parks (Mackinac Island State Park)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Mackinac Island (Mackinac County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The reconstructed fort on the island's highest point, above Fort Mackinac, in Mackinac Island State Park"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Public park ground, open at all hours as part of Mackinac Island State Park; the blockhouse interior is open only in season (May–October per the operator's sites page; the 2027 season is published as May 7–October 24, 10:00 a.m.–4:00 p.m.). The island is reached by ferry or airplane and the fort on foot or by bicycle. The reconstruction is a 2015 building on the 1812–1817 ground — visitors should be told plainly, as the site's own marker tells them, that the present blockhouse is not the original building. Nothing in this entry directs climbing on the walls; the park's own signage at the wall reads \"NO CLIMBING.\""
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Michigan seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MI-fort-michilimackinac",
+   "slug": "MI-fort-michilimackinac",
+   "title": "HT-RES-MI-fort-michilimackinac — The fort a ball game took, rebuilt from its own soil",
+   "town": "Mackinaw City",
+   "state": "Michigan",
+   "stateCode": "MI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MI-fort-michilimackinac — The fort a ball game took, rebuilt from its own soil",
+   "stableName": "Fort Michilimackinac — Colonial Michilimackinac",
+   "address": "102 W. Straits Ave., Mackinaw City, MI 49701 (operator)",
+   "locator": {
+    "stableName": "Fort Michilimackinac — Colonial Michilimackinac",
+    "address": "102 W. Straits Ave., Mackinaw City, MI 49701 (operator)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "The NHL nomination carries a rectangle of corner latitude/longitude coordinates for the property, but the figures are illegible in the digitized copy checked, and no other primary source checked carries a verified point scoped to the site; no point prints. Secondary catalogs publish coordinates for the fort; they are not used here.",
+    "nrhp": "66000395 (listed October 15, 1966); National Historic Landmark designated October 9, 1960; Michigan State Register of Historic Sites 1956; Michigan Historical Marker 1958 (SHPO). Nomination's approximate acreage of nominated property: 27 acres.",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://npgallery.nps.gov/GetAsset/c991e51a-347d-411c-98bb-28b713fb80a5/",
+    "operator": "Mackinac State Historic Parks (an agency within the Michigan Department of Natural Resources, governed by the Mackinac Island State Park Commission), presenting the site as Colonial Michilimackinac.",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Mackinaw City (Emmet County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Colonial Michilimackinac Visitor's Center, under the Mackinac Bridge, within Michilimackinac State Park (operator)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The reconstructed fort is a ticketed site entered through the Visitor's Center in season; the surrounding Michilimackinac State Park ground is open 24 hours a day year-round per the operator. The archaeological excavation is viewed as the operator presents it. The landmark is the site itself — the reconstructed buildings are the operator's interpretive plant, not the designated resource — and nothing in this entry directs a visitor off the operator's public ground."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Michigan seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MI-fort-wayne-detroit",
+   "slug": "MI-fort-wayne-detroit",
+   "title": "HT-RES-MI-fort-wayne-detroit — A star fort that never fired a shot, on ground a thousand years older",
+   "town": "Detroit",
+   "state": "Michigan",
+   "stateCode": "MI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MI-fort-wayne-detroit — A star fort that never fired a shot, on ground a thousand years older",
+   "stableName": "Fort Wayne — Historic Fort Wayne",
+   "address": "6325 West Jefferson Avenue, Detroit, MI 48209",
+   "locator": {
+    "stableName": "Fort Wayne — Historic Fort Wayne",
+    "address": "6325 West Jefferson Avenue, Detroit, MI 48209",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates are carried in the primary sources checked, and none print. The National Register record checked carries the street address and no point; secondary datasets publish points for the fort, but under this entry's rule a coordinate prints only when a primary source carries it, scoped as that source scopes it.",
+    "nrhp": "71000425 — listed 1971 (district; criteria EVENT, ARCHITECTURE/ENGINEERING; period of significance 1845–1965)",
+    "hmdb": "Indian Mound marker on the grounds, transcribed at https://www.hmdb.org/m.asp?m=252654; further markers on the grounds name officers' row, the post commander's residence, the headquarters building, and the 1889 post guard house",
+    "ark": "",
+    "archiveId": "HABS MI-27-4 (Library of Congress, Historic American Buildings Survey — barracks MI-27-4-B, powder house MI-27-4-A, sally ports MI-27-4-C)",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/AssetDetail/86854796-2bc8-4bc5-878e-862546a8231b",
+    "operator": "City of Detroit (site operated as a city park and heritage center; the Historic Fort Wayne Strategic Plan was produced by the City of Detroit General Services Department)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Detroit (Wayne County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The fort grounds at the West Jefferson Avenue address below, operated by the City of Detroit as a park and heritage center"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The city-operated grounds at 6325 West Jefferson Avenue, within the operator's stated daily hours (6 AM–8 PM per the operator's website as checked November 26, 2026; see §6 on the hours spread). Building interiors are program-, rental-, and season-dependent, principally summer weekends per the Detroit Historical Society. The Army Corps of Engineers boatyard parcel is federal, working, and not a visitor stop. The burial mound is a Native American burial site — paths only, nothing taken, nothing climbed."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Michigan seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MI-fort-wilkins",
+   "slug": "MI-fort-wilkins",
+   "title": "HT-RES-MI-fort-wilkins — An 1844 Army post at the top of the Keweenaw, garrisoned five years and kept for a hundred more",
+   "town": "Copper Harbor (Keweenaw County)",
+   "state": "Michigan",
+   "stateCode": "MI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MI-fort-wilkins — An 1844 Army post at the top of the Keweenaw, garrisoned five years and kept for a hundred more",
+   "stableName": "Fort Wilkins — Fort Wilkins Historic State Park",
+   "address": "15223 U.S. Highway 41, Copper Harbor, MI (National Park Service, The Keweenaw Guide 2021)",
+   "locator": {
+    "stableName": "Fort Wilkins — Fort Wilkins Historic State Park",
+    "address": "15223 U.S. Highway 41, Copper Harbor, MI (National Park Service, The Keweenaw Guide 2021)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates print. The DNR's facility records carry latitude/longitude pairs for individual park structures — barracks, quarters, the lighthouse — each scoped to that building; no primary source checked carries a single verified point for the fort or its public entrance, and a building's point is not carried here as the site's. The camera position in the §7 photograph's file record is the photographer's, not the site's.",
+    "nrhp": "70000279 (listed July 8, 1970)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "Michigan Department of Natural Resources — a Michigan state park since July 1923; a Keweenaw Heritage Site partner of Keweenaw National Historical Park (National Park Service place page).",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Copper Harbor (Keweenaw County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The fort complex on its strip between Copper Harbor and Lake Fanny Hooe, a mile east of the village of Copper Harbor (Michigan History Center; National Park Service lesson plan)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Public state-park ground, entered under the statewide Recreation Passport rule for motor vehicles. The fort's buildings are entered only as the park opens them; closed buildings and the stockade are viewed from the park's own ground and paths."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Michigan seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MI-hartwick-pines",
+   "slug": "MI-hartwick-pines",
+   "title": "HT-RES-MI-hartwick-pines — The stand the saws left standing",
+   "town": "Grayling",
+   "state": "Michigan",
+   "stateCode": "MI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MI-hartwick-pines — The stand the saws left standing",
+   "stableName": "Hartwick Pines State Park — Hartwick Pines Logging Museum; Michigan Forest Visitor Center",
+   "address": "2833 Monarch Drive, Grayling, MI 49738 (DNR visitor center page); the DNR park listing gives 3612 State Park Drive, Grayling — both print, unreconciled (§6)",
+   "locator": {
+    "stableName": "Hartwick Pines State Park — Hartwick Pines Logging Museum; Michigan Forest Visitor Center",
+    "address": "2833 Monarch Drive, Grayling, MI 49738 (DNR visitor center page); the DNR park listing gives 3612 State Park Drive, Grayling — both print, unreconciled (§6)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates print. The DNR's listing record carries a point, but the listing page itself could not be opened in this pass (access denied), so no point was verified at its primary source; a photograph's EXIF position in a secondary file record is not a primary-source point for the park and is not carried. Secondary catalogs publish coordinates for the park; under this entry's rule they are not carried.",
+    "nrhp": "",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "",
+    "operator": "Michigan Department of Natural Resources (park); the Logging Museum is jointly managed by the Michigan DNR and the Michigan Historical Center",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Grayling (Crawford County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The park entrance on M-93 (Hartwick Pines Road), northeast of Grayling; the visitor center and Logging Museum ground inside the park"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the park's public ground — the visitor center, the Old Growth Foot Trail and the standing grove, the Logging Museum buildings and mill ground, the Memorial Building, and the park trails — within the park's and museums' posted seasons and hours (§1), with a Recreation Passport required for vehicle entry. The museum is closed November through April; this entry describes no off-season museum access and no entry into any closed building."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Michigan seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MI-historic-mill-creek",
+   "slug": "MI-historic-mill-creek",
+   "title": "HT-RES-MI-historic-mill-creek — The sawmill that built an island, forgotten for a century, and dug back up",
+   "town": "Mackinaw City (Cheboygan County)",
+   "state": "Michigan",
+   "stateCode": "MI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MI-historic-mill-creek — The sawmill that built an island, forgotten for a century, and dug back up",
+   "stableName": "Historic Mill Creek — Dousman's Mill (Historic Mill Creek Discovery Park); archaeological site listed as Campbell Farm Site",
+   "address": "",
+   "locator": {
+    "stableName": "Historic Mill Creek — Dousman's Mill (Historic Mill Creek Discovery Park); archaeological site listed as Campbell Farm Site",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No point prints. The National Register record for the Campbell Farm Site restricts the site's address, and no primary source checked carries a verified public point scoped to the site; the operator's published road location (US-23, three miles east of Mackinaw City) is the anchor carried here. Coordinates for the restricted site published in secondary catalogs are not reproduced.",
+    "nrhp": "Listed as Campbell Farm Site (alternate names: Mill Creek Site; Filbert Site), ref. 78001496, January 31, 1978 — address restricted (NPS). Michigan State Historic Site designation reported for the site with the date March 20, 1984, as carried in published summaries of the state register (see §6).",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/6c6d0db8-e84c-49f1-bd89-ca10109419c8/",
+    "operator": "Mackinac State Historic Parks (an agency within the Michigan Department of Natural Resources, governed by the Mackinac Island State Park Commission), presenting the site as Dousman's Mill Historic Site since 2025.",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Mackinaw City (Cheboygan County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Dousman's Mill Historic Site entrance on US-23, three miles east of downtown Mackinaw City (operator)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The operator does not operate the site during the 2026 season; its published reopening is May 6, 2027, after which the site is visited on the operator's ticket and hours. The National Register archaeological site underlies the public park, and its Register address is restricted — this entry gives the operator's public entrance as the only anchor and directs no one to archaeological ground off the operator's paths."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Michigan seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-MI-mackinac-island-fort-mackinac",
    "slug": "MI-mackinac-island-fort-mackinac",
    "title": "HT-RES-MI-mackinac-island-fort-mackinac — Mackinac Island: the fort above the straits",
@@ -18176,6 +18491,141 @@
      {
       "key": "Photo Points",
       "value": "** None"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MI-port-oneida",
+   "slug": "MI-port-oneida",
+   "title": "HT-RES-MI-port-oneida — A whole farming neighborhood, kept",
+   "town": "Glen Arbor vicinity (Leelanau County) — the nomination's location line reads \"Rural Route Port Oneida,\" Maple City vicinity; see §6",
+   "state": "Michigan",
+   "stateCode": "MI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MI-port-oneida — A whole farming neighborhood, kept",
+   "stableName": "Port Oneida Rural Historic District (historic name: Pyramid Point, Port Oneida)",
+   "address": "",
+   "locator": {
+    "stableName": "Port Oneida Rural Historic District (historic name: Pyramid Point, Port Oneida)",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "The nomination carries no decimal point for the district. It carries UTM boundary reference points, printed verbatim below exactly as the nomination scopes them — as boundary references, not as a site point — and no decimal conversion is made. UTM Zone 16 — A: Easting 584850, Northing 4979850; B: Easting 586300, Northing 4974900; C: Easting 583400, Northing 4973850; D: Easting 581150, Northing 4973825; E: Easting 583550, Northing 4979350. Boundary as described: Lake Michigan to the north and west (including the Port Oneida dock ruins), the escarpment to the east, a wooded ridge to the south; the Sunset Haven subdivision is excluded.",
+    "nrhp": "Listed 1997 (district; Criterion A; areas Agriculture, Ethnic Heritage–European, Settlement; period of significance 1870–1945). The Register reference number was not carried in the records read in this pass and is not supplied from a secondary catalog.",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "HABS documentation of district farmsteads is held by the Library of Congress (among them Klett Farm HABS MI-352 and Miller Farm HABS MI-358-A, as credited in the Park Service's cultural landscape account)",
+    "registerUrl": "https://npgallery.nps.gov/GetAsset/6cfc4a72-37d2-41c9-aab2-4381e614cc1a",
+    "operator": "National Park Service, Sleeping Bear Dunes National Lakeshore (the district's ownership is mixed — private, public-local, and public-Federal, per the nomination; the Port Oneida Farms Heritage Center at the Olsen Farm is run by the nonprofit partner Preserve Historic Sleeping Bear)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Glen Arbor vicinity (Leelanau County) — the nomination's location line reads \"Rural Route Port Oneida,\" Maple City vicinity; see §6"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The Port Oneida driving tour on M-22 and Port Oneida Road, Sleeping Bear Dunes National Lakeshore — the district has no single street address"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "A Sleeping Bear Dunes entrance pass is required (Park Service fees page). The visit runs on the public roads — M-22 and Port Oneida Road — and on Park Service-owned farmstead grounds. Private farmsteads and private land inside the district boundary are not stops. The Kelderhouse (Port Oneida) Cemetery is privately owned and not park property; it is read from the road. The Park Service notes there are no restrooms on the Port Oneida tour. Building interiors open only under programs; no standing interior hours are stated in the records checked."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Michigan seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MI-quincy-mine",
+   "slug": "MI-quincy-mine",
+   "title": "HT-RES-MI-quincy-mine — Old Reliable's No. 2 ground",
+   "town": "Hancock",
+   "state": "Michigan",
+   "stateCode": "MI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MI-quincy-mine — Old Reliable's No. 2 ground",
+   "stableName": "Quincy Mine — Quincy Mining Company Historic District; No. 2 Shaft-Rockhouse and No. 2 Hoist House",
+   "address": "49750 US Highway 41, Hancock, MI 49930 (operator)",
+   "locator": {
+    "stableName": "Quincy Mine — Quincy Mining Company Historic District; No. 2 Shaft-Rockhouse and No. 2 Hoist House",
+    "address": "49750 US Highway 41, Hancock, MI 49930 (operator)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates print. The nomination carries only multi-point UTM boundary references for the 779-acre district, OCR-degraded in the scan, and no single verified point for the No. 2 ground; the HAER inventory cards carry per-building UTM references, but none for the No. 2 shaft-rockhouse was verified in this pass. A point carried in secondary harvests of the survey record is an intermediary's figure, not a primary source's verified point, and is not carried.",
+    "nrhp": "Quincy Mining Company Historic District, NRIS 89001095 (National Historic Landmark district; NHL documentation updated September 2, 2024, per the NPS Weekly List)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/89001095",
+    "operator": "Quincy Mine Hoist Association (tours and the No. 2 properties, held on a 99-year lease); the district stands within the Keweenaw National Historical Park's telling by the National Park Service; most district land remains with the Quincy Development Corporation (nomination)",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Hancock (Houghton County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The Quincy Mine Hoist Association tour ground on US-41 above Hancock, at the No. 2 shaft-rockhouse and hoist house"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The visit is the operator's ground and tours: the surface plant on the tour, the hoist house and Shaft House #2, and the underground only as the guided full tour runs it, in the operator's stated conditions (§1). The district beyond the tour ground is not visitor ground: the other shafts are fenced and grated, the smelter is separate district fabric not on the mine tour as the operator prints it, and the neighborhoods below the hill are private homes. This entry directs no one off the tour ground."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Michigan seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-MI-whitefish-point-light",
+   "slug": "MI-whitefish-point-light",
+   "title": "HT-RES-MI-whitefish-point-light — The oldest light on Superior, standing over the Shipwreck Coast",
+   "town": "Paradise",
+   "state": "Michigan",
+   "stateCode": "MI",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-MI-whitefish-point-light — The oldest light on Superior, standing over the Shipwreck Coast",
+   "stableName": "Whitefish Point Light Station — Whitefish Point Lighthouse; Great Lakes Shipwreck Museum",
+   "address": "18335 N. Whitefish Point Road, Paradise, MI 49768 (operator)",
+   "locator": {
+    "stableName": "Whitefish Point Light Station — Whitefish Point Lighthouse; Great Lakes Shipwreck Museum",
+    "address": "18335 N. Whitefish Point Road, Paradise, MI 49768 (operator)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates print. The National Register record checked carries the location textually (\"5 mi. NE of Shelldrake on Whitefish Rd.\") and no verified point, and no other primary source checked carries a point scoped as this station's own. Secondary catalogs publish coordinates for the light; under this entry's rule they are not carried.",
+    "nrhp": "Whitefish Point Lighthouse, 73000947 (listed February 28, 1973)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/73000947",
+    "operator": "Great Lakes Shipwreck Historical Society (museum campus and station ground); the light remains a U.S. Coast Guard aid to navigation",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Paradise (Chippewa County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The museum campus at the end of Whitefish Point Road, 11 miles north of Paradise (operator's directions)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The museum campus is the visit — its buildings, the tower base, and the boardwalk — within the operator's season (May 1–October 31) and hours (9 a.m.–5 p.m.). The tower is an active aid to navigation, not a climbable exhibit. Drones are prohibited over the point, including the adjoining Fish and Wildlife Service and Michigan Audubon ground. The *Edmund Fitzgerald* wreck lies 17 miles offshore and is not part of any visit this entry describes; the November 10 ceremony is a family memorial service, livestreamed — not visitor programming."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; Michigan seed catalog; no route or hunt activation from this page."
      }
     ]
    }
