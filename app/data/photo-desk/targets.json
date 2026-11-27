@@ -1,6 +1,6 @@
 {
- "commit": "9e556fcac85fe84199d581dbd7112b13e5e6815d",
- "catalogCount": 899,
+ "commit": "5ab22c13196e0df7697d144b2b8eee4def139bf7",
+ "catalogCount": 908,
  "entries": [
   {
    "id": "HT-AL-legacy-museum-national-memorial-montgomery",
@@ -31453,6 +31453,343 @@
    }
   },
   {
+   "id": "HT-NJ-allaire-village",
+   "slug": "NJ-allaire-village",
+   "title": "HT-RES-NJ-allaire-village — A steam engine maker's iron town, kept at its peak year",
+   "town": "Wall Township",
+   "state": "New Jersey",
+   "stateCode": "NJ",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NJ-allaire-village — A steam engine maker's iron town, kept at its peak year",
+   "stableName": "Allaire Village — Howell Iron Works / Deserted Village of Allaire Historic District, Allaire State Park",
+   "address": "The Historic Village at Allaire, 4263 Atlantic Avenue, Wall Township, NJ 07727",
+   "locator": {
+    "stableName": "Allaire Village — Howell Iron Works / Deserted Village of Allaire Historic District, Allaire State Park",
+    "address": "The Historic Village at Allaire, 4263 Atlantic Avenue, Wall Township, NJ 07727",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No point prints. The nomination's coordinate figures are not legible enough in the scanned form as checked to transcribe verbatim, and no other primary source checked carries a verified point. Coordinates published by secondary catalogs are not carried into this entry.",
+    "nrhp": "74001174 — Allaire Village, listed January 11, 1974 (National Park Service, NPGallery)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/74001174",
+    "operator": "New Jersey State Park Service (buildings) and Allaire Village, Inc. (collections, programming, events) — village contact (732) 919-3500",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Wall Township, Farmingdale vicinity (Monmouth County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The Historic Village at Allaire visitor center, 4263 Atlantic Avenue"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "A staffed museum village inside Allaire State Park, visited on its paths and through its programs under the operators' published terms (§1): village hours and program fees via Allaire Village, Inc., a state park entrance fee may apply, interior photography in the historic structures only by prior written permission for educational purposes, no collecting or removal of objects, and no climbing or sitting on historic structures and features — the ruined furnace stack and casting-house walls are read from the paths."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; New Jersey seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NJ-barnegat-lighthouse",
+   "slug": "NJ-barnegat-lighthouse",
+   "title": "HT-RES-NJ-barnegat-lighthouse — Old Barney Against the Sea",
+   "town": "Barnegat Light",
+   "state": "New Jersey",
+   "stateCode": "NJ",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NJ-barnegat-lighthouse — Old Barney Against the Sea",
+   "stableName": "",
+   "address": "Barnegat Light, NJ 08006 (park mailing: P.O. Box 167, Barnegat Light, NJ 08006) [2]",
+   "locator": {
+    "stableName": "",
+    "address": "Barnegat Light, NJ 08006 (park mailing: P.O. Box 167, Barnegat Light, NJ 08006) [2]",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "71000512 (Barnegat Lighthouse, listed January 25, 1971) [4]",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/146b9617-70ca-4044-a6a3-23275fcc5bce",
+    "operator": "New Jersey State Park Service (NJDEP)",
+    "extra": [
+     {
+      "key": "Slug",
+      "value": "NJ-barnegat-lighthouse"
+     },
+     {
+      "key": "Site type",
+      "value": "State Park / lighthouse (National Register listed)"
+     },
+     {
+      "key": "Town",
+      "value": "Barnegat Light, Ocean County, New Jersey — north end of Long Beach Island, off Broadway Ave. [4]"
+     },
+     {
+      "key": "Latitude / longitude",
+      "value": "blank. No primary source checked carries a verified point for the station; the Register record locates it by description only. Nothing geocoded, nothing converted."
+     },
+     {
+      "key": "Visitor boundary",
+      "value": ""
+     },
+     {
+      "key": "Status",
+      "value": "Open"
+     },
+     {
+      "key": "Lighthouse hours",
+      "value": "open daily 9:00 a.m. to 3:00 p.m., weather permitting; seasonal schedules vary — check the park page [1]"
+     },
+     {
+      "key": "Entrance fee",
+      "value": "none [1]"
+     },
+     {
+      "key": "Phone",
+      "value": "609-494-2016 [1]"
+     },
+     {
+      "key": "Access notes",
+      "value": "the tower climb is 217 steps and children must be accompanied by an adult; the same view is carried live to the Interpretive Center by camera for visitors who do not climb [1]. Swimming is not permitted at the park [2]. The original lens is at the Barnegat Light Historical Society's Schoolhouse Museum in the borough, a separate operator (museum phone 609-494-8578 [2])."
+     },
+     {
+      "key": "Checked",
+      "value": "November 26, 2026."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NJ-batsto-village",
+   "slug": "NJ-batsto-village",
+   "title": "HT-RES-NJ-batsto-village — Bog iron, window glass, and a mansion the pines kept",
+   "town": "Hammonton",
+   "state": "New Jersey",
+   "stateCode": "NJ",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NJ-batsto-village — Bog iron, window glass, and a mansion the pines kept",
+   "stableName": "Batsto Village — Batsto Iron Works / Batsto Village Historic Site, Wharton State Forest",
+   "address": "31 Batsto Road, Hammonton, NJ 08037",
+   "locator": {
+    "stableName": "Batsto Village — Batsto Iron Works / Batsto Village Historic Site, Wharton State Forest",
+    "address": "31 Batsto Road, Hammonton, NJ 08037",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No point prints. The nomination defines the property with a latitude/longitude rectangle, but its figures are not legible enough in the scanned form as checked to transcribe verbatim, and no other primary source checked carries a verified point. Coordinates published by secondary catalogs are not carried into this entry.",
+    "nrhp": "71000495 — Batsto Village, listed September 10, 1971 (National Park Service, NPGallery)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "NJ State Historic Sites Inventory #242.1 (nomination continuation sheet)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/512b5dea-e039-495c-8b38-37b0e53480ce/",
+    "operator": "New Jersey State Park Service (NJDEP Division of Parks and Forestry), Wharton State Forest — Visitor Center (609) 561-0024",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Batsto, Washington Township — mailing address Hammonton (Burlington County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Batsto Visitor Center, 31 Batsto Road"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "A staffed state historic site visited on its grounds and paths under the Park Service's published terms (§1): grounds daily dawn to dusk, mansion by guided tour ticket only, interior photography in the historic structures only by prior written permission for educational purposes, no collecting or removal of objects. The Batsto-Pleasant Mills Church is privately owned and is read from public ground only. Nothing here directs a visitor into the surrounding forest interior."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; New Jersey seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NJ-edison-nhp",
+   "slug": "NJ-edison-nhp",
+   "title": "HT-RES-NJ-edison-nhp — The invention factory: Edison's West Orange laboratory as a working plant",
+   "town": "West Orange (Essex County)",
+   "state": "New Jersey",
+   "stateCode": "NJ",
+   "coordinates": {
+    "lat": 40.7859992980957,
+    "lon": -74.2397994995117
+   },
+   "coordinateKind": "locator latitude/longitude fields",
+   "stopType": "view",
+   "subject": "HT-RES-NJ-edison-nhp — The invention factory: Edison's West Orange laboratory as a working plant",
+   "stableName": "Thomas Edison National Historical Park — Edison National Historic Site (Laboratory unit and Glenmont)",
+   "address": "Main Street at Lakeside Avenue, West Orange, NJ (nomination, Laboratory unit); Visitor Center at 211 Main Street",
+   "locator": {
+    "stableName": "Thomas Edison National Historical Park — Edison National Historic Site (Laboratory unit and Glenmont)",
+    "address": "Main Street at Lakeside Avenue, West Orange, NJ (nomination, Laboratory unit); Visitor Center at 211 Main Street",
+    "latitude": "40.7859992980957",
+    "longitude": "-74.2397994995117",
+    "coordinateSource": "The point is carried in the National Park Service's own NPGallery asset records for Thomas Edison National Historical Park, scoped in those records to the park; it prints here with exactly that scope. The nomination's own geographical-data section was not legibly reproduced in the copy checked, and no UTM from it prints (see §6).",
+    "nrhp": "Edison National Historic Site (nomination on the federal-properties form; the reference number is not stated in the copy of the nomination checked and is not printed rather than guessed)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://npgallery.nps.gov/GetAsset/c4e6cf53-41be-4546-9e82-76dcebe2f527",
+    "operator": "National Park Service",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "West Orange (Essex County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Laboratory Complex Visitor Center, 211 Main Street, West Orange — all visitors begin here"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "A national park unit open on the operator's terms (§1): every visitor begins at the Laboratory Complex Visitor Center; Glenmont, inside Llewellyn Park, is reached only on a Grounds pass issued there, and its house only on a separate guided-tour ticket. No clock schedule is printed in this entry — see the gap recorded in §6."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; New Jersey seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NJ-monmouth-battlefield",
+   "slug": "NJ-monmouth-battlefield",
+   "title": "HT-RES-NJ-monmouth-battlefield — Seven Farms Under Fire",
+   "town": "Manalapan",
+   "state": "New Jersey",
+   "stateCode": "NJ",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "reflection",
+   "subject": "HT-RES-NJ-monmouth-battlefield — Seven Farms Under Fire",
+   "stableName": "",
+   "address": "20 State Route 33, Manalapan, NJ 07726 [1]",
+   "locator": {
+    "stableName": "",
+    "address": "20 State Route 33, Manalapan, NJ 07726 [1]",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "",
+    "nrhp": "National Historic Landmark; the 1975 NHL nomination is at [2]. The NRIS reference number was not verified in this pass and is left blank rather than guessed.",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://npgallery.nps.gov/GetAsset/a05c0874-4533-4d7f-9d3c-36a6fd2c32a0/",
+    "operator": "New Jersey State Park Service (NJDEP)",
+    "extra": [
+     {
+      "key": "Slug",
+      "value": "NJ-monmouth-battlefield"
+     },
+     {
+      "key": "Site type",
+      "value": "State Park / National Historic Landmark battlefield"
+     },
+     {
+      "key": "Town",
+      "value": "Manalapan and Freehold Townships, Monmouth County, New Jersey"
+     },
+     {
+      "key": "Latitude / longitude",
+      "value": "blank. The NHL nomination carries UTM references, but they are not legible in the digitized copy and no point is transcribed from an illegible table; no other primary source checked carries a verified point. Nothing geocoded, nothing converted."
+     },
+     {
+      "key": "Visitor boundary",
+      "value": ""
+     },
+     {
+      "key": "Status",
+      "value": "Open"
+     },
+     {
+      "key": "Gate hours",
+      "value": "8:00 a.m. to 4:30 p.m. [1]"
+     },
+     {
+      "key": "Visitor Center",
+      "value": "open daily, 9:00 a.m. to 4:00 p.m. [1]"
+     },
+     {
+      "key": "Craig House",
+      "value": "open for tours Sundays 1:00 p.m. to 4:00 p.m. in season [1]"
+     },
+     {
+      "key": "Entrance fee",
+      "value": "none [1]"
+     },
+     {
+      "key": "Phone",
+      "value": "732-462-9616 [1]"
+     },
+     {
+      "key": "Access notes",
+      "value": "reflection ground — a battlefield where men died; the dossier carries no game or hunt framing for this entry, and the §8 items are readings only. Church ground at Old Tennent is the congregation's, not the park's."
+     },
+     {
+      "key": "Checked",
+      "value": "November 26, 2026."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NJ-morristown-nhp",
+   "slug": "NJ-morristown-nhp",
+   "title": "HT-RES-NJ-morristown-nhp — The Hard Winter: a headquarters house in town, ten thousand men in the hills",
+   "town": "Morristown",
+   "state": "New Jersey",
+   "stateCode": "NJ",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NJ-morristown-nhp — The Hard Winter: a headquarters house in town, ten thousand men in the hills",
+   "stableName": "Morristown National Historical Park — Washington's Headquarters (Ford Mansion) and Jockey Hollow",
+   "address": "30 Washington Place, Morristown, NJ 07960 (Headquarters unit); Jockey Hollow unit: 586 Tempe Wick Road, Morristown, NJ 07960 (approximate, per NPS)",
+   "locator": {
+    "stableName": "Morristown National Historical Park — Washington's Headquarters (Ford Mansion) and Jockey Hollow",
+    "address": "30 Washington Place, Morristown, NJ 07960 (Headquarters unit); Jockey Hollow unit: 586 Tempe Wick Road, Morristown, NJ 07960 (approximate, per NPS)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates print. No primary source checked in this pass carries a verified point for the park; the National Register record gives a location line only — \"At jct. of U.S. 202 and NJ 24,\" Morristown — printed here as the record's text, not converted to a point.",
+    "nrhp": "Reference 66000053; listed October 15, 1966 (NPGallery NRIS record)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "LC-DIG-det-4a24993 (Library of Congress, for the §7 photograph)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000053",
+    "operator": "National Park Service, U.S. Department of the Interior",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Morristown (Morris County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Washington's Headquarters Museum, 30 Washington Place, Morristown"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "Park grounds open year-round, daily, sunrise–5:00 PM. Buildings Thursday–Monday only (Headquarters Museum and Jockey Hollow Visitor Center 9:30 AM–4:30 PM; Wick House hours vary). The Ford Mansion is entered by guided tour only, on a free first-come pass from the Headquarters Museum desk; no phone or online reservations. All buildings closed January 4–February 12 in the current posting, and on Thanksgiving Day, December 25, and January 1. Fort Nonsense and the New Jersey Brigade / Cross Estate area have no restrooms. Everything in the park is free of charge per the Service's fees page."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; New Jersey seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
    "id": "HT-NJ-paterson-great-falls",
    "slug": "NJ-paterson-great-falls",
    "title": "HT-RES-NJ-paterson-great-falls — Paterson: the falls that powered a planned industrial city",
@@ -31481,6 +31818,141 @@
      {
       "key": "Town",
       "value": "Paterson"
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NJ-princeton-battlefield",
+   "slug": "NJ-princeton-battlefield",
+   "title": "HT-RES-NJ-princeton-battlefield — January 3, 1777: the field, the farmhouse, and the common grave",
+   "town": "Princeton",
+   "state": "New Jersey",
+   "stateCode": "NJ",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NJ-princeton-battlefield — January 3, 1777: the field, the farmhouse, and the common grave",
+   "stableName": "Princeton Battlefield State Park — Battle of Princeton, January 3, 1777",
+   "address": "500 Mercer Road, Princeton, NJ 08540 (State Park Service brochure: Princeton, NJ 08540-4810)",
+   "locator": {
+    "stableName": "Princeton Battlefield State Park — Battle of Princeton, January 3, 1777",
+    "address": "500 Mercer Road, Princeton, NJ 08540 (State Park Service brochure: Princeton, NJ 08540-4810)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No coordinates print. The National Historic Landmark nomination carries UTM boundary references on a continuation sheet (Zone 18), but the figures in the digitized copy are degraded past reliable transcription; they are not printed and were not converted. No primary source checked carries a legible verified point for the park. The nomination's own location line — \"Southern edge of Princeton on New Jersey Route 583,\" street and number marked NOT FOR PUBLICATION — prints here as the record's text, scoped as the record scopes it.",
+    "nrhp": "Reference 66000466; National Historic Landmark (NPGallery NRIS record)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/NRIS/66000466",
+    "operator": "New Jersey State Park Service, New Jersey Department of Environmental Protection",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Princeton (Mercer County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "The Thomas Clarke House, Princeton Battlefield State Park"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "The Clarke House is open Wednesday–Saturday 10 AM–12 PM and 1–4 PM, Sunday 1–4 PM; inside it: no smoking, food, or beverages, no handling of artifacts, no interior photography, videotaping, or audiotaping. In the park: no alcohol, no metal detecting, no smoking or vaping outside a personal vehicle; pets leashed at six feet or less; trash carried out — no trash cans are provided. Restrooms in the carriage barn. The park and house are partially accessible; call 609-921-0074 for access needs. The common grave and the colonnade are a burial place and are visited as one. The Stony Brook Friends Meeting House is adjacent and active; it is not park ground to wander."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; New Jersey seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NJ-twin-lights",
+   "slug": "NJ-twin-lights",
+   "title": "HT-RES-NJ-twin-lights — Two stone towers over the Navesink, and the hill where wireless began",
+   "town": "Highlands",
+   "state": "New Jersey",
+   "stateCode": "NJ",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NJ-twin-lights — Two stone towers over the Navesink, and the hill where wireless began",
+   "stableName": "Navesink Light Station — Twin Lights",
+   "address": "2 Light House Rd, Highlands, NJ 07732 (operator's address; the landmark nomination's address as filed is 100 Government/Lighthouse Road — see §6)",
+   "locator": {
+    "stableName": "Navesink Light Station — Twin Lights",
+    "address": "2 Light House Rd, Highlands, NJ 07732 (operator's address; the landmark nomination's address as filed is 100 Government/Lighthouse Road — see §6)",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "The National Historic Landmark nomination carries a UTM reference for the station — Zone 18, Easting 586044, Northing 4471995 — printed verbatim here and not converted. Latitude and longitude stay blank: no primary source checked carries them.",
+    "nrhp": "Twin Lights, listed December 2, 1970, reference 70000389; National Historic Landmark as Navesink Light Station, designated February 17, 2006, reference 06000237",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "National Archives Identifier 45693235 (§7 photograph)",
+    "registerUrl": "https://npgallery.nps.gov/AssetDetail/8faa42bb-5fd1-45ec-8e0c-57ff2613b3d5",
+    "operator": "New Jersey State Park Service",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Highlands (Monmouth County)"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Twin Lights State Historic Site, 2 Light House Rd, Highlands"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "A state historic site open on the operator's posted hours and terms (§1): grounds and visitor center accessible, towers not; tower climbs seasonal and ticketed as the operator states; interior photography only by prior written permission for educational purposes. Nothing in this entry directs a visitor outside the site's public ground or hours."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; New Jersey seed catalog; no route or hunt activation from this page."
+     }
+    ]
+   }
+  },
+  {
+   "id": "HT-NJ-waterloo-village",
+   "slug": "NJ-waterloo-village",
+   "title": "HT-RES-NJ-waterloo-village — A forge, a canal crossing, and the plane that lifted boats over a hill",
+   "town": "Byram Township (Sussex County) and Mt. Olive Township (Morris County); Stanhope postal address",
+   "state": "New Jersey",
+   "stateCode": "NJ",
+   "coordinates": null,
+   "coordinateKind": "",
+   "stopType": "view",
+   "subject": "HT-RES-NJ-waterloo-village — A forge, a canal crossing, and the plane that lifted boats over a hill",
+   "stableName": "Waterloo Village — Waterloo Historic District (historic name Waterloo; other name Andover Forge)",
+   "address": "",
+   "locator": {
+    "stableName": "Waterloo Village — Waterloo Historic District (historic name Waterloo; other name Andover Forge)",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "coordinateSource": "No single site point prints. The 2014 Register documentation's §10 carries eleven WGS84 latitude/longitude boundary vertices for the district, printed here verbatim and scoped as what they are — district boundary vertices, not a visitor point: A. 40.915878, −74.764907; B. 40.916958, −74.763278; C. 40.916243, −74.759796; D. 40.918496, −74.751189; E. 40.920336, −74.747514; F. 40.920886, −74.740099 (the source text's comma in this figure is read as a decimal point); G. 40.917018, −74.743582; H. 40.914957, −74.748391; I. 40.912529, −74.750219 (the source figure is OCR-garbled and read as shown); J. 40.912146, −74.756068; K. 40.913519, −74.760098.",
+    "nrhp": "District listed 1977; boundary increase and additional documentation 2014/2015 (see §6 for the sourcing of the reference numbers and increase dates, which are not printed as fact)",
+    "hmdb": "",
+    "ark": "",
+    "archiveId": "",
+    "registerUrl": "https://npgallery.nps.gov/NRHP/GetAsset/ce6d4c12-da44-49d1-87c9-a2f366c1820c",
+    "operator": "New Jersey Division of Parks and Forestry (NJDEP), as a historic site within Allamuchy Mountain State Park; Canal Society of New Jersey Museum on site on its own schedule",
+    "extra": [
+     {
+      "key": "Town",
+      "value": "Byram Township (Sussex County) and Mt. Olive Township (Morris County); Stanhope postal address"
+     },
+     {
+      "key": "Public anchor",
+      "value": "Waterloo Village Historic Site, Allamuchy Mountain State Park — Musconetcong River and County Route 604 (as the Register documentation locates the district)"
+     },
+     {
+      "key": "Visitor boundary",
+      "value": "State park ground on the schedule and restrictions in §1 — grounds dawn to dusk, no collecting or removal without written permission, no metal detecting or drones without a special use permit, no interior photography in the historic structures without prior written permission. The Waterloo United Methodist Church is a separate owner's active congregation ground. The Rutan Cabin is a moved building and is flagged as such wherever it appears."
+     },
+     {
+      "key": "Status",
+      "value": "research draft; New Jersey seed catalog; no route or hunt activation from this page."
      }
     ]
    }

@@ -10565,6 +10565,114 @@
    "attempts": []
   },
   {
+   "id": "vq_NJ-allaire-village",
+   "slug": "NJ-allaire-village",
+   "name": "HT-RES-NJ-allaire-village — A steam engine maker's iron town, kept at its peak year",
+   "town": "Wall Township",
+   "state": "NJ",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NJ-allaire-village.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NJ-barnegat-lighthouse",
+   "slug": "NJ-barnegat-lighthouse",
+   "name": "HT-RES-NJ-barnegat-lighthouse — Old Barney Against the Sea",
+   "town": "Barnegat Light",
+   "state": "NJ",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NJ-barnegat-lighthouse.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NJ-batsto-village",
+   "slug": "NJ-batsto-village",
+   "name": "HT-RES-NJ-batsto-village — Bog iron, window glass, and a mansion the pines kept",
+   "town": "Hammonton",
+   "state": "NJ",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NJ-batsto-village.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NJ-edison-nhp",
+   "slug": "NJ-edison-nhp",
+   "name": "HT-RES-NJ-edison-nhp — The invention factory: Edison's West Orange laboratory as a working plant",
+   "town": "West Orange (Essex County)",
+   "state": "NJ",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NJ-edison-nhp.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NJ-monmouth-battlefield",
+   "slug": "NJ-monmouth-battlefield",
+   "name": "HT-RES-NJ-monmouth-battlefield — Seven Farms Under Fire",
+   "town": "Manalapan",
+   "state": "NJ",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NJ-monmouth-battlefield.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NJ-morristown-nhp",
+   "slug": "NJ-morristown-nhp",
+   "name": "HT-RES-NJ-morristown-nhp — The Hard Winter: a headquarters house in town, ten thousand men in the hills",
+   "town": "Morristown",
+   "state": "NJ",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NJ-morristown-nhp.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NJ-princeton-battlefield",
+   "slug": "NJ-princeton-battlefield",
+   "name": "HT-RES-NJ-princeton-battlefield — January 3, 1777: the field, the farmhouse, and the common grave",
+   "town": "Princeton",
+   "state": "NJ",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NJ-princeton-battlefield.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NJ-twin-lights",
+   "slug": "NJ-twin-lights",
+   "name": "HT-RES-NJ-twin-lights — Two stone towers over the Navesink, and the hill where wireless began",
+   "town": "Highlands",
+   "state": "NJ",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NJ-twin-lights.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_NJ-waterloo-village",
+   "slug": "NJ-waterloo-village",
+   "name": "HT-RES-NJ-waterloo-village — A forge, a canal crossing, and the plane that lifted boats over a hill",
+   "town": "Byram Township (Sussex County) and Mt. Olive Township (Morris County); Stanhope postal address",
+   "state": "NJ",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-NJ-waterloo-village.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_RI-new-fort-adams",
    "slug": "RI-new-fort-adams",
    "name": "HT-RES-RI-new-fort-adams — Newport: America's largest coastal fortress, named for John Adams",
@@ -10794,8 +10902,8 @@
   }
  ],
  "counts": {
-  "items": 899,
-  "dated": 658,
+  "items": 908,
+  "dated": 667,
   "unrecorded": 241
  }
 }

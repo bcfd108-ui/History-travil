@@ -8992,6 +8992,96 @@
    "Access decision": ""
   },
   {
+   "Entry ID": "HT-NJ-allaire-village",
+   "Slug": "NJ-allaire-village",
+   "Entry": "HT-RES-NJ-allaire-village — A steam engine maker's iron town, kept at its peak year",
+   "Town": "Wall Township",
+   "State": "New Jersey",
+   "Entry URL": "https://onoldground.com/sites/NJ-allaire-village",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-NJ-barnegat-lighthouse",
+   "Slug": "NJ-barnegat-lighthouse",
+   "Entry": "HT-RES-NJ-barnegat-lighthouse — Old Barney Against the Sea",
+   "Town": "Barnegat Light",
+   "State": "New Jersey",
+   "Entry URL": "https://onoldground.com/sites/NJ-barnegat-lighthouse",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-NJ-batsto-village",
+   "Slug": "NJ-batsto-village",
+   "Entry": "HT-RES-NJ-batsto-village — Bog iron, window glass, and a mansion the pines kept",
+   "Town": "Hammonton",
+   "State": "New Jersey",
+   "Entry URL": "https://onoldground.com/sites/NJ-batsto-village",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-NJ-edison-nhp",
+   "Slug": "NJ-edison-nhp",
+   "Entry": "HT-RES-NJ-edison-nhp — The invention factory: Edison's West Orange laboratory as a working plant",
+   "Town": "West Orange (Essex County)",
+   "State": "New Jersey",
+   "Entry URL": "https://onoldground.com/sites/NJ-edison-nhp",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-NJ-monmouth-battlefield",
+   "Slug": "NJ-monmouth-battlefield",
+   "Entry": "HT-RES-NJ-monmouth-battlefield — Seven Farms Under Fire",
+   "Town": "Manalapan",
+   "State": "New Jersey",
+   "Entry URL": "https://onoldground.com/sites/NJ-monmouth-battlefield",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-NJ-morristown-nhp",
+   "Slug": "NJ-morristown-nhp",
+   "Entry": "HT-RES-NJ-morristown-nhp — The Hard Winter: a headquarters house in town, ten thousand men in the hills",
+   "Town": "Morristown",
+   "State": "New Jersey",
+   "Entry URL": "https://onoldground.com/sites/NJ-morristown-nhp",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
    "Entry ID": "HT-NJ-paterson-great-falls",
    "Slug": "NJ-paterson-great-falls",
    "Entry": "HT-RES-NJ-paterson-great-falls — Paterson: the falls that powered a planned industrial city",
@@ -9004,6 +9094,51 @@
    "Coverage": "now-only",
    "Eligibility": "DESK REVIEW",
    "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-NJ-princeton-battlefield",
+   "Slug": "NJ-princeton-battlefield",
+   "Entry": "HT-RES-NJ-princeton-battlefield — January 3, 1777: the field, the farmhouse, and the common grave",
+   "Town": "Princeton",
+   "State": "New Jersey",
+   "Entry URL": "https://onoldground.com/sites/NJ-princeton-battlefield",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "now-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "THEN NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-NJ-twin-lights",
+   "Slug": "NJ-twin-lights",
+   "Entry": "HT-RES-NJ-twin-lights — Two stone towers over the Navesink, and the hill where wireless began",
+   "Town": "Highlands",
+   "State": "New Jersey",
+   "Entry URL": "https://onoldground.com/sites/NJ-twin-lights",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
+   "Access decision": ""
+  },
+  {
+   "Entry ID": "HT-NJ-waterloo-village",
+   "Slug": "NJ-waterloo-village",
+   "Entry": "HT-RES-NJ-waterloo-village — A forge, a canal crossing, and the plane that lifted boats over a hill",
+   "Town": "Byram Township (Sussex County) and Mt. Olive Township (Morris County); Stanhope postal address",
+   "State": "New Jersey",
+   "Entry URL": "https://onoldground.com/sites/NJ-waterloo-village",
+   "What was searched": "Awaiting first desk search",
+   "Why photo is needed": "Photo research pending.",
+   "Next desk or field action": "Desk — verify missing era and rights",
+   "Coverage": "then-only",
+   "Eligibility": "DESK REVIEW",
+   "Gap": "NOW NEEDED",
    "Access decision": ""
   },
   {
@@ -13433,6 +13568,6 @@
   }
  ],
  "counts": {
-  "items": 895
+  "items": 904
  }
 }
