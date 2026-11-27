@@ -3,6 +3,9 @@
 const noKnown = "No known restrictions on publication";
 const federal = "No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.";
 const reviewedLoc = new Map([
+  ["NJ-waterloo-village", [
+    "https://www.loc.gov/item/2016801589/", noKnown,
+  ]],
   ["CT-woodstock-roseland-cottage", [
     "https://www.loc.gov/item/2011631587/", noKnown,
   ]],

@@ -1,0 +1,105 @@
+# HT-RES-NJ-waterloo-village — A forge, a canal crossing, and the plane that lifted boats over a hill
+Division NJ seed-catalog • Research draft • Checked November 26, 2026
+
+Waterloo began as an iron forge on the Musconetcong River around 1760, became a working crossing of the Morris Canal in 1831 — guard lock on one bank, inclined plane climbing the other — and grew into a canal-and-railroad village of stores, worker houses, a church, and a hotel. The canal is gone, the depot is gone, and what remains is a New Jersey state historic site inside Allamuchy Mountain State Park, its plane bed, lock, and mill buildings still readable in the ground.
+
+## 1. Trip gate
+Waterloo Village is a state historic site within Allamuchy Mountain State Park, administered by New Jersey State Parks (NJDEP). The State Parks page for the village, checked November 26, 2026, gives the operating frame a visitor plans around: the Visitor Interpretive Center is open Saturdays and Sundays, May to October, 10 a.m.–3:30 p.m.; interpretive programming and walking tours run Saturdays and Sundays, June to September, 10 a.m.–3:30 p.m.; and a New Jersey DEP activity listing gives the grounds hours as dawn to dusk. The Canal Society of New Jersey Museum at the village is open select Saturdays and Sundays (the Society's own site, canalsocietynj.org, carries its schedule), and group tours and reservations are handled at 973-347-1835. No fee is stated on any primary source read for this entry, and none is printed.
+
+The State Parks page also carries the site's standing restrictions, and they bind the visit: no trash receptacles (carry out what you carry in); no smoking; no alcohol at state historic sites; no collecting or removal without written permission; no metal detecting or drones without a special use permit; commercial photography requires a special use permit; and interior photography, videotaping, and audio recording are not permitted inside the historic structures, the visitor center, or the museum except by prior written permission. Two further boundaries belong in this gate. The Waterloo United Methodist Church is a separately owned, still-active congregation (the Register documentation lists its owner address as P.O. Box 416, Stanhope, NJ 07874), and its ground is the congregation's, not the park's. And the Rutan Cabin was moved to Waterloo in the late 1980s from Frankford Township — interpreted here, but a moved building, flagged as one rather than standing as an original village structure.
+
+## 2. The story
+The ground was iron ground first. Per the National Register documentation for the Waterloo district (the 2014/2015 boundary increase and additional documentation, prepared by Connolly & Hickey / Hunter Research, read in full for this entry), William Allen and Joseph Turner established the Andover Iron Works by 1760: a furnace was in operation by October 1760 and a forge by October 1761. The forge stood on the north — Sussex County — bank of the Musconetcong River at present-day Waterloo; an 1782 lease describes a 70-foot head race, four hearths, and two trip hammers, and the coal/charcoal house north of the forge is, in the documentation's judgment, more than likely the present-day gristmill building. Allen and Turner were Loyalists; the New Jersey State Parks history of the village records that they refused to produce iron for the American government and that the government took over operation of the works during the war (the nomination's own Revolutionary-era detail was not fully read in this pass — see §6).
+
+The village that visitors walk today is mostly John Smith's. Smith — "General" Smith — assembled land at Waterloo from about 1790 or 1802 (the sources differ; see §6) and was one of the district's largest landholders by about 1830. What made Waterloo a place was the Morris Canal. On January 7, 1831, Smith signed water-rights Agreement No. 24 with the Morris Canal and Banking Company; in July 1831 the canal company acquired 3.30 acres by condemnation. The 1831 construction at Waterloo was the canal's river crossing: Guard Lock 3 West on the Sussex side and Inclined Plane 4 West climbing the Morris County side, with the canal crossing the river between them. The millrace passes underneath Lock 3 West, making it a combined lock and aqueduct; the guard lock dammed the river's slack water for the crossing; and a canal dam west of the crossing raised the river so boats could cross, with a wood bridge carrying the mules and pedestrians. Smith's General Store was built in 1831, flush with the canal bank. The State Parks summary of the canal gives the working scale: boats 90 feet long carrying up to 70 tons, two-mule teams, two to three miles per hour under a "no wake" rule, five days for the full 102-mile run from Phillipsburg to Jersey City.
+
+The plane was the village's machine, and it could fail like one. The documentation records that in 1836 the waterwheel shaft of Plane 4 West broke — one boat rushed up the plane and one crashed down. The plane was initially double-tracked and was made single in the refurbishment of the 1850s; around 1850 its 30-foot timber waterwheel was replaced by a water-powered reaction turbine. The canal itself was rebuilt between 1845 and 1860, and the documentation puts the height of canal use at 1850–1870.
+
+Iron came back through Waterloo at mid-century. The Andover Mine reopened in July 1847 under Peter Cooper, Edward Cooper, and Abram Hewitt of the Trenton Iron Company, and its ore was wagoned to Waterloo for canal shipment. The Sussex Mine Railroad, chartered in 1848 and built in 1851 as a mule-drawn tramway running 6–8-ton cars called "Jimmies," tied the mines to the village; renamed the Sussex Railroad Company in 1853, it brought its first locomotive to Newton in November 1854. The Morris & Essex Railroad reached Hackettstown through Waterloo in January 1855, and a new Waterloo Station and ore docks rose on the south bank east of Plane 4 West, with a railroad bridge on stone embankments crossing over the plane. In 1857 the Morris & Essex carried 273,359 passengers system-wide, and 8,726 of them originated at Waterloo — second only to Morristown.
+
+The village filled in around the work: a post office in 1847 with Peter Smith as postmaster; Worker Houses 1 and 2 in the 1840s; a school in 1842; the Waterloo Hotel established in 1847. Peter Smith donated the land and $500 for the Waterloo Methodist Episcopal Church; its cornerstone was laid August 9, 1859, it cost $2,993.22 to build, and its first services were held February 9, 1860. The Peter D. Smith House followed in 1871. Somewhere between 1840 and 1860, per the State Parks history, the Smiths renamed Andover Forge Farm as Waterloo — the sources read do not say why (see §6). Late in the century the river itself was harvested: the Waterloo Ice Company operated from 1890 to 1917, and the documentation's archaeology covers its ice-house footings, ice ponds, and a terra-cotta manager's residence upstream.
+
+The end came in layers. In 1901 a railroad bypass (the Netcong–Sussex Branch) let trains skip Waterloo and the depot closed. The documentation states in one place that canal operations had ceased by 1903 and frames 1924 in another as the State's abandonment and dismantling of the canal, which it takes as the end of the district's period of significance — both forms print in §6, unreconciled. By the 1910 census the village held 14 inhabited buildings, every household renting except Peter D. Smith's. A pre-1932 scheme, Lake Waterloo Estates, proposed developing 2,300 acres with a country club, airport, and golf course; it failed in the Depression and only one model home was built. The 1939 WPA guide's description of the village is quoted in the documentation.
+
+The rescue was private before it was public. Percival Leach and Louis Gualandi of Colonial Home Interiors saw the village in 1947 and began buying in the early 1960s. The State made its first purchase from them in 1964, the year the village first opened to the public. The Waterloo Foundation for the Arts, created in 1969, operated the site for decades; State purchases continued through 2001, ending with the last private owners, the Schumanns. The village closed for museum use in 2007, after poor management and insolvency at the foundation; since then the Canal Society has run Canal Days and the State has made capital investments. The district's period of significance runs from about 1760 to about 1924, across 227 acres in Byram Township (Sussex County) and Mt. Olive Township (Morris County), on the Musconetcong River at County Route 604.
+
+## 3. Then / now
+**Then:** a forge and furnace on the Musconetcong by 1760–61, worked by Allen and Turner, with a 70-foot head race, four hearths, and two trip hammers (1782 lease, per the Register documentation). **Now:** the forge is gone; the building the documentation identifies as more than likely its coal/charcoal house stands as the village gristmill.
+
+**Then:** from 1831, canal boats crossing the Musconetcong between Guard Lock 3 West and Inclined Plane 4 West — the lock doubling as an aqueduct over the millrace, the plane hauling 90-foot, 70-ton boats up the hill on a double track. **Now:** the State Parks page records what survives of the plane on the Morris County side — sleeper stones, tar pots, iron cables, and foundations, on a plane bed 1,000 feet long, 34 feet wide, and 80 feet high — and Lock 3 West still stands as the combined guard lock and aqueduct.
+
+**Then:** 1857, a station where 8,726 passengers began Morris & Essex journeys in a year, second only to Morristown, with ore docks on the south bank. **Now:** no depot and no trains at Waterloo; the 1901 bypass ended the station era, and the railroad's stone-embanked bridge over the plane survives as documented landscape, not a working crossing.
+
+**Then:** 1910, fourteen inhabited buildings, all of them rentals but one. **Now:** a state historic site — the village the State bought parcel by parcel between 1964 and 2001, closed as a museum in 2007, and now opened on the seasonal schedule in §1, with the Canal Society's museum and Canal Days keeping the canal story told on the ground.
+
+## 4. What's still there
+Only what the sources checked establish, each with its basis attached:
+- Inclined Plane 4 West's remains on the Morris County side of the river — sleeper stones, tar pots, iron cables, and foundations on a 1,000-by-34-foot plane bed rising 80 feet (NJ State Parks, Waterloo Village page, checked November 26, 2026)
+- Guard Lock 3 West — the combined guard lock and aqueduct, its timber aqueduct having carried boats over the mill tailrace (NJ State Parks; Register documentation)
+- The General Store, built 1831 flush with the canal bank (Register documentation)
+- The gristmill — identified in the Register documentation as more than likely the Andover Forge's coal/charcoal house, the village's oldest industrial survivor on that reading
+- Worker Houses 1 and 2 (c.1840s), the Waterloo Hotel (established 1847), and the Peter D. Smith House (1871) (Register documentation)
+- The Waterloo Methodist Episcopal Church (cornerstone August 9, 1859; first services February 9, 1860) — separately owned by its active congregation, not by the park (Register documentation)
+- The Winakung Lenape woodland exhibit and the Rutan Cabin — the cabin moved here from Frankford Township in the late 1980s and flagged as moved (NJ State Parks)
+- The ice-era archaeology upstream: ice-house footings, ice ponds, and the terra-cotta manager's residence/office of the Waterloo Ice Company, 1890–1917 (Register documentation)
+- The Musconetcong River crossing itself — the slack-water reach, the canal dam site west of the crossing, and the millrace passing under Lock 3 West (Register documentation; NJ State Parks)
+
+## 5. Trip-shaped stop progression
+Conditional interpretation only, not an activated route — the conditions are the State's: grounds dawn to dusk, buildings and programs on the seasonal weekend schedule in §1, and the photography and collecting restrictions in §1 in force throughout:
+
+1. **At the river crossing:** Start where the canal crossed the Musconetcong. Read the geography first — Sussex bank, Morris bank, the river between — because everything built here answers to that crossing.
+2. **At Guard Lock 3 West:** The lock that is also an aqueduct: the millrace passes underneath it. Stand at the lock and work out which water went where — canal water over, mill water under.
+3. **Along the plane bed:** Follow Plane 4 West's remains — sleeper stones, tar pots, cables, foundations — up the 80-foot rise, holding the 1836 accident in mind: a broken shaft, one boat rushing up, one crashing down.
+4. **At the General Store and the mill:** The 1831 store flush with the canal bank, and the gristmill the documentation reads as the forge's charcoal house — the village's commerce and its first industry a short walk apart.
+5. **At the church and the Smith houses, from public ground:** The 1859 church (the congregation's ground — view, do not wander), the worker houses, and the 1871 Peter D. Smith House: the village that the canal payroll built.
+6. **At the Visitor Interpretive Center and Canal Society Museum, when open:** The interpreted layer, on the State's and the Society's schedules — what the ground alone doesn't say.
+
+## 6. Honest gaps and conflicting dates
+The canal's end prints two ways inside the Register documentation itself: it states that canal operations had ceased by 1903, and it frames 1924 — the State's abandonment and dismantling of the canal — as the close of the period of significance. Both are printed in §2 as the documentation gives them; this entry does not reconcile them.
+
+John Smith's land assembly also prints as a spread. The State Parks history dates his purchases from about 1802 and credits him with over 2,000 acres by the canal's completion in 1831; the Register documentation allows that he may have been resident as early as 1790 and among the largest landholders by 1830, and a figure of 2,000 acres by 1820 circulates in its cited local history (Jim Lee). The dates and acreage print with their sources rather than merged into one clean claim.
+
+The name "Waterloo" is unexplained in every source read: the State Parks history dates the Smiths' renaming of Andover Forge Farm to sometime between 1840 and 1860, and no source read states the reason or the namer. The forge's Revolutionary-era history is likewise partial — the State Parks account (Loyalist owners refusing iron to the American government; government operation during the war) prints as that account, and the nomination's fuller Revolutionary narrative was not read in this pass. The district's original 1977 listing details (a National Register reference number of 77000909 and a New Jersey Register number of 2593) reached this desk only through a lead-grade secondary source and are not printed as fact in §10. The boundary-increase dates — New Jersey Register February 5, 2015, National Register April 28, 2015 — rest on the preparer's own project page, a lead-grade source. Finally, no fee for the village appears on any primary source read; secondary listings variously describe admission and parking, and none of that prints here.
+
+## 7. Photo record
+**First photograph:** *Morris and Essex Canal at Waterloo, N.J., the plane* — Detroit Publishing Company, Library of Congress item 2016801589 (Prints & Photographs Division, Detroit Publishing Company Collection; Reproduction Number LC-DIG-det-4a07619; Call Number LC-D4-12036 [P&P]; Detroit Publishing Co. no. 012036). What the downloaded frame actually shows: the inclined plane's twin tracks climbing a wooded hillside on a stone retaining wall, a cradle car carrying a canal boat hull at the lower left, a second car on the parallel track, the powerhouse at the summit, a workman standing on the tracks mid-slope, telegraph poles along the right side, and at the lower right a horse-drawn wagon on a dirt road beside a small frame building and the canal prism. It is Inclined Plane 4 West itself, photographed as a working machine — not a replica and not a picture of a picture. One wording flag, carried rather than silently corrected: the LOC item title says "Morris and Essex Canal," but the waterway at Waterloo is the Morris Canal; the Morris and Essex was the railroad. The title is the catalog's own wording.
+
+- Source record: https://www.loc.gov/item/2016801589/
+- Credit: Detroit Publishing Co., Library of Congress, Prints & Photographs Division
+- Rights line, verbatim from the item record's Rights Advisory: "No known restrictions on publication."
+- Year ruling: **No year prints.** The record dates the item "[between 1890 and 1901]," with the note "Date based on Detroit, Catalogue J (1901)" — a catalog-inferred range, not a capture date documented in the record's own metadata, so under this entry's rule no year is printed on the photograph.
+- Package filename: NJ-waterloo-village-inclined-plane-detroit.jpg
+- SHA-256: f5c349bc5b48e94fc0cdd3048b0d997116399ddb761411b91ab2508487660bd5
+
+Modern project photo: **blank**. Photo point: **blank**. No photograph was field-matched for this entry.
+
+## 8. Candidate finds
+Dormant, non-scored ideas only:
+- Stand at Lock 3 West and trace the millrace passing underneath the lock — the one spot where the canal's water and the mill's water cross without mixing. Key: **blank**.
+- On the plane bed, find the tar pots among the sleeper stones and read them against the 1836 shaft failure — maintenance and accident on the same slope. Key: **blank**.
+- Compare the Detroit Publishing frame in §7 with the plane bed today: same hill, same line, the machine gone and the earthwork still legible. Key: **blank**.
+
+Nothing here is scored from the research text.
+
+## 9. Source list
+[1] National Register of Historic Places — Waterloo Historic District, Boundary Increase #1 and Additional Documentation (2014/2015; prepared by Connolly & Hickey / Hunter Research; district history, building descriptions, geographical data; NPS NPGallery asset): https://npgallery.nps.gov/NRHP/GetAsset/ce6d4c12-da44-49d1-87c9-a2f366c1820c
+[2] New Jersey State Parks (NJDEP) — Waterloo Village page (site status, hours, restrictions, plane and lock descriptions, village history summary; checked November 26, 2026): https://dep.nj.gov/parksandforests/state-park/waterloo-village/
+[3] New Jersey DEP — Industrial Revolution activity listing (Waterloo Village grounds hours, dawn to dusk; checked November 26, 2026): https://dep.nj.gov/parksandforests/activity/industrial-revolution/
+[4] Library of Congress — item 2016801589, "Morris and Essex Canal at Waterloo, N.J., the plane," Detroit Publishing Company Collection (the §7 photograph and its rights advisory): https://www.loc.gov/item/2016801589/
+
+## 10. Locator record
+- Stable name: Waterloo Village — Waterloo Historic District (historic name Waterloo; other name Andover Forge)
+- Town: Byram Township (Sussex County) and Mt. Olive Township (Morris County); Stanhope postal address
+- Public anchor: Waterloo Village Historic Site, Allamuchy Mountain State Park — Musconetcong River and County Route 604 (as the Register documentation locates the district)
+- Address:
+- Latitude:
+- Longitude:
+- Coordinate source/scope: No single site point prints. The 2014 Register documentation's §10 carries eleven WGS84 latitude/longitude boundary vertices for the district, printed here verbatim and scoped as what they are — district boundary vertices, not a visitor point: A. 40.915878, −74.764907; B. 40.916958, −74.763278; C. 40.916243, −74.759796; D. 40.918496, −74.751189; E. 40.920336, −74.747514; F. 40.920886, −74.740099 (the source text's comma in this figure is read as a decimal point); G. 40.917018, −74.743582; H. 40.914957, −74.748391; I. 40.912529, −74.750219 (the source figure is OCR-garbled and read as shown); J. 40.912146, −74.756068; K. 40.913519, −74.760098.
+- NRHP: District listed 1977; boundary increase and additional documentation 2014/2015 (see §6 for the sourcing of the reference numbers and increase dates, which are not printed as fact)
+- HMdb:
+- ARK:
+- Archive ID:
+- Register URL: https://npgallery.nps.gov/NRHP/GetAsset/ce6d4c12-da44-49d1-87c9-a2f366c1820c
+- Operator: New Jersey Division of Parks and Forestry (NJDEP), as a historic site within Allamuchy Mountain State Park; Canal Society of New Jersey Museum on site on its own schedule
+- Visitor boundary: State park ground on the schedule and restrictions in §1 — grounds dawn to dusk, no collecting or removal without written permission, no metal detecting or drones without a special use permit, no interior photography in the historic structures without prior written permission. The Waterloo United Methodist Church is a separate owner's active congregation ground. The Rutan Cabin is a moved building and is flagged as such wherever it appears.
+- Status: research draft; New Jersey seed catalog; no route or hunt activation from this page.
