@@ -10385,6 +10385,126 @@
    "attempts": []
   },
   {
+   "id": "vq_MI-fayette-historic-state-park",
+   "slug": "MI-fayette-historic-state-park",
+   "name": "HT-RES-MI-fayette-historic-state-park — Two limestone furnaces on a deep harbor, and the town that burned its forest",
+   "town": "Garden, Garden Peninsula (Delta County)",
+   "state": "MI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MI-fayette-historic-state-park.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MI-fort-holmes",
+   "slug": "MI-fort-holmes",
+   "name": "HT-RES-MI-fort-holmes — A blockhouse on the island's highest point, built by one army and named by the other",
+   "town": "Mackinac Island (Mackinac County)",
+   "state": "MI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MI-fort-holmes.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MI-fort-michilimackinac",
+   "slug": "MI-fort-michilimackinac",
+   "name": "HT-RES-MI-fort-michilimackinac — The fort a ball game took, rebuilt from its own soil",
+   "town": "Mackinaw City",
+   "state": "MI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MI-fort-michilimackinac.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MI-fort-wayne-detroit",
+   "slug": "MI-fort-wayne-detroit",
+   "name": "HT-RES-MI-fort-wayne-detroit — A star fort that never fired a shot, on ground a thousand years older",
+   "town": "Detroit",
+   "state": "MI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MI-fort-wayne-detroit.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MI-fort-wilkins",
+   "slug": "MI-fort-wilkins",
+   "name": "HT-RES-MI-fort-wilkins — An 1844 Army post at the top of the Keweenaw, garrisoned five years and kept for a hundred more",
+   "town": "Copper Harbor (Keweenaw County)",
+   "state": "MI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MI-fort-wilkins.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MI-hartwick-pines",
+   "slug": "MI-hartwick-pines",
+   "name": "HT-RES-MI-hartwick-pines — The stand the saws left standing",
+   "town": "Grayling",
+   "state": "MI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MI-hartwick-pines.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MI-historic-mill-creek",
+   "slug": "MI-historic-mill-creek",
+   "name": "HT-RES-MI-historic-mill-creek — The sawmill that built an island, forgotten for a century, and dug back up",
+   "town": "Mackinaw City (Cheboygan County)",
+   "state": "MI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MI-historic-mill-creek.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MI-port-oneida",
+   "slug": "MI-port-oneida",
+   "name": "HT-RES-MI-port-oneida — A whole farming neighborhood, kept",
+   "town": "Glen Arbor vicinity (Leelanau County) — the nomination's location line reads \"Rural Route Port Oneida,\" Maple City vicinity; see §6",
+   "state": "MI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MI-port-oneida.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MI-quincy-mine",
+   "slug": "MI-quincy-mine",
+   "name": "HT-RES-MI-quincy-mine — Old Reliable's No. 2 ground",
+   "town": "Hancock",
+   "state": "MI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MI-quincy-mine.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_MI-whitefish-point-light",
+   "slug": "MI-whitefish-point-light",
+   "name": "HT-RES-MI-whitefish-point-light — The oldest light on Superior, standing over the Shipwreck Coast",
+   "town": "Paradise",
+   "state": "MI",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-MI-whitefish-point-light.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_NH-canterbury-shaker-village",
    "slug": "NH-canterbury-shaker-village",
    "name": "HT-RES-NH-canterbury-shaker-village — Hands to Work, and Hearts to God",
@@ -10674,8 +10794,8 @@
   }
  ],
  "counts": {
-  "items": 889,
-  "dated": 648,
+  "items": 899,
+  "dated": 658,
   "unrecorded": 241
  }
 }
