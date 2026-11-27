@@ -10493,6 +10493,66 @@
    "attempts": []
   },
   {
+   "id": "vq_VT-billings-farm",
+   "slug": "VT-billings-farm",
+   "name": "HT-RES-VT-billings-farm — The Farm That Planted Its Hills Back",
+   "town": "Woodstock",
+   "state": "VT",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VT-billings-farm.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_VT-coolidge-homestead",
+   "slug": "VT-coolidge-homestead",
+   "name": "HT-RES-VT-coolidge-homestead — The Village That Swore In a President",
+   "town": "Plymouth",
+   "state": "VT",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VT-coolidge-homestead.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_VT-hildene",
+   "slug": "VT-hildene",
+   "name": "HT-RES-VT-hildene — The Ancestral Home Above the Battenkill",
+   "town": "Manchester",
+   "state": "VT",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VT-hildene.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_VT-old-constitution-house",
+   "slug": "VT-old-constitution-house",
+   "name": "HT-RES-VT-old-constitution-house — The Republic Written in a Tavern",
+   "town": "Windsor",
+   "state": "VT",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VT-old-constitution-house.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
+   "id": "vq_VT-rokeby-museum",
+   "slug": "VT-rokeby-museum",
+   "name": "HT-RES-VT-rokeby-museum — The Farm That Wrote It Down",
+   "town": "Ferrisburgh",
+   "state": "VT",
+   "verifiedOn": "2026-11-26",
+   "verifiedOnSource": "corpus-checked-line",
+   "corpusFile": "HT-RES-VT-rokeby-museum.md",
+   "queueState": "queued",
+   "attempts": []
+  },
+  {
    "id": "vq_WI-aztalan",
    "slug": "WI-aztalan",
    "name": "HT-RES-WI-aztalan — A walled Mississippian town on the Crawfish River, misnamed for the Aztecs",
@@ -10614,8 +10674,8 @@
   }
  ],
  "counts": {
-  "items": 884,
-  "dated": 643,
+  "items": 889,
+  "dated": 648,
   "unrecorded": 241
  }
 }
